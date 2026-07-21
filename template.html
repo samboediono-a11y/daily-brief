@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Daily Brief — {{DATE}}</title>
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#101B2D">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Daily Brief">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,500&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#FFF1E5;
+    --paper-dim:#F7E6D6;
+    --ink:#1A1A1A;
+    --navy:#101B2D;
+    --navy-soft:#2A3B54;
+    --gold:#C6952E;
+    --green:#1B7340;
+    --red:#B23B3B;
+    --rule:#D9C6B0;
+    --card:#FFFFFF;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:'Inter',system-ui,sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{color:inherit;}
+
+  .ticker-wrap{
+    background:var(--navy);
+    color:#EDEBE6;
+    overflow:hidden;
+    white-space:nowrap;
+    border-bottom:1px solid #000;
+  }
+  .ticker{
+    display:inline-block;
+    padding:9px 0;
+    font-family:'IBM Plex Mono',monospace;
+    font-size:12.5px;
+    letter-spacing:0.02em;
+    animation:scroll 22s linear infinite;
+  }
+  .ticker span{ padding:0 28px; }
+  @keyframes scroll{
+    0%{transform:translateX(0);}
+    100%{transform:translateX(-50%);}
+  }
+
+  header{
+    max-width:720px;
+    margin:0 auto;
+    padding:38px 24px 22px;
+    border-bottom:2px solid var(--navy);
+  }
+  .eyebrow{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:11.5px;
+    letter-spacing:0.14em;
+    text-transform:uppercase;
+    color:var(--navy-soft);
+    display:flex;
+    justify-content:space-between;
+    margin-bottom:14px;
+  }
+  h1.masthead{
+    font-family:'Newsreader',serif;
+    font-weight:700;
+    font-size:44px;
+    line-height:1.02;
+    margin:0 0 10px;
+    color:var(--navy);
+    letter-spacing:-0.01em;
+  }
+  .dateline{
+    font-size:14px;
+    color:#5B5B5B;
+    display:flex;
+    gap:14px;
+    flex-wrap:wrap;
+  }
+  .dateline b{color:var(--ink);}
+  .lede{
+    font-family:'Newsreader',serif;
+    font-style:italic;
+    font-size:17.5px;
+    line-height:1.55;
+    color:#333;
+    margin-top:16px;
+  }
+
+  main{max-width:720px; margin:0 auto; padding:0 24px 60px;}
+
+  .section-label{
+    display:flex;
+    align-items:center;
+    gap:12px;
+    margin:46px 0 20px;
+  }
+  .section-label .tag{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:12px;
+    font-weight:600;
+    letter-spacing:0.12em;
+    color:#fff;
+    background:var(--navy);
+    padding:5px 10px;
+  }
+  .section-label .line{ flex:1; height:1px; background:var(--rule); }
+  .section-label .count{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:11.5px;
+    color:var(--navy-soft);
+  }
+
+  article.story{
+    padding:22px 0;
+    border-bottom:1px solid var(--rule);
+  }
+  article.story:last-child{border-bottom:none;}
+
+  .headline{
+    font-family:'Newsreader',serif;
+    font-weight:600;
+    font-size:22px;
+    line-height:1.24;
+    margin:0 0 8px;
+    color:var(--navy);
+  }
+  .summary{
+    font-size:15.5px;
+    line-height:1.6;
+    color:#2B2B2B;
+    margin:0 0 14px;
+  }
+  .meaning{
+    background:var(--card);
+    border-left:3px solid var(--gold);
+    padding:12px 16px;
+    border-radius:0 4px 4px 0;
+  }
+  .meaning .label{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:10.5px;
+    font-weight:600;
+    letter-spacing:0.1em;
+    text-transform:uppercase;
+    color:var(--gold);
+    display:block;
+    margin-bottom:5px;
+  }
+  .meaning p{
+    margin:0;
+    font-size:14.5px;
+    line-height:1.55;
+    color:#1F1F1F;
+  }
+
+  footer{
+    max-width:720px;
+    margin:0 auto;
+    padding:30px 24px 60px;
+    border-top:2px solid var(--navy);
+  }
+  footer p{
+    font-size:13px;
+    line-height:1.6;
+    color:#4a4a4a;
+    margin:0;
+  }
+
+  @media (max-width:600px){
+    h1.masthead{font-size:32px;}
+    .headline{font-size:19px;}
+  }
+</style>
+</head>
+<body>
+
+<div class="ticker-wrap">
+  <div class="ticker">
+    <span>GENERATED AUTOMATICALLY</span>
+    <span>TECH · MARKETS · US NEWS · INDONESIA</span>
+    <span>THE DAILY BRIEF</span>
+    <span>GENERATED AUTOMATICALLY</span>
+    <span>TECH · MARKETS · US NEWS · INDONESIA</span>
+    <span>THE DAILY BRIEF</span>
+  </div>
+</div>
+
+<header>
+  <div class="eyebrow"><span>Daily Edition</span><span>Auto-generated</span></div>
+  <h1 class="masthead">The Daily Brief</h1>
+  <div class="dateline">
+    <span><b>{{DATE}}</b></span>
+    <span>Tech · Markets · US · Indonesia</span>
+  </div>
+  <p class="lede">{{THROUGHLINE}}</p>
+</header>
+
+<main>
+{{SECTIONS}}
+</main>
+
+<footer>
+  <p>Generated automatically by generate_brief.py using free Google News RSS feeds and the Gemini free API.</p>
+</footer>
+
+</body>
+</html>
