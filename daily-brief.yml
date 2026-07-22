@@ -1,0 +1,33 @@
+name: Daily Brief
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # 00:00 UTC = 7:00 AM Jakarta time
+  workflow_dispatch: {}   # lets you also run it manually from the Actions tab
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate today's brief
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python generate_brief.py
+
+      - name: Publish to the website (GitHub Pages)
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
+          keep_files: false
