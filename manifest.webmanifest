@@ -1,0 +1,10 @@
+{
+  "name": "The Daily Brief",
+  "short_name": "Daily Brief",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FFF1E5",
+  "theme_color": "#101B2D",
+  "description": "Daily tech, markets, US, and Indonesia news with plain-language explanations of what each story means.",
+  "icons": []
+}

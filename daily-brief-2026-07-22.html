@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Daily Brief — July 22, 2026</title>
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#101B2D">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Daily Brief">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,500&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#FFF1E5;
+    --paper-dim:#F7E6D6;
+    --ink:#1A1A1A;
+    --navy:#101B2D;
+    --navy-soft:#2A3B54;
+    --gold:#C6952E;
+    --green:#1B7340;
+    --red:#B23B3B;
+    --rule:#D9C6B0;
+    --card:#FFFFFF;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:'Inter',system-ui,sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{color:inherit;}
+
+  .ticker-wrap{
+    background:var(--navy);
+    color:#EDEBE6;
+    overflow:hidden;
+    white-space:nowrap;
+    border-bottom:1px solid #000;
+  }
+  .ticker{
+    display:inline-block;
+    padding:9px 0;
+    font-family:'IBM Plex Mono',monospace;
+    font-size:12.5px;
+    letter-spacing:0.02em;
+    animation:scroll 22s linear infinite;
+  }
+  .ticker span{ padding:0 28px; }
+  @keyframes scroll{
+    0%{transform:translateX(0);}
+    100%{transform:translateX(-50%);}
+  }
+
+  header{
+    max-width:720px;
+    margin:0 auto;
+    padding:38px 24px 22px;
+    border-bottom:2px solid var(--navy);
+  }
+  .eyebrow{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:11.5px;
+    letter-spacing:0.14em;
+    text-transform:uppercase;
+    color:var(--navy-soft);
+    display:flex;
+    justify-content:space-between;
+    margin-bottom:14px;
+  }
+  h1.masthead{
+    font-family:'Newsreader',serif;
+    font-weight:700;
+    font-size:44px;
+    line-height:1.02;
+    margin:0 0 10px;
+    color:var(--navy);
+    letter-spacing:-0.01em;
+  }
+  .dateline{
+    font-size:14px;
+    color:#5B5B5B;
+    display:flex;
+    gap:14px;
+    flex-wrap:wrap;
+  }
+  .dateline b{color:var(--ink);}
+  .lede{
+    font-family:'Newsreader',serif;
+    font-style:italic;
+    font-size:17.5px;
+    line-height:1.55;
+    color:#333;
+    margin-top:16px;
+  }
+
+  main{max-width:720px; margin:0 auto; padding:0 24px 60px;}
+
+  .section-label{
+    display:flex;
+    align-items:center;
+    gap:12px;
+    margin:46px 0 20px;
+  }
+  .section-label .tag{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:12px;
+    font-weight:600;
+    letter-spacing:0.12em;
+    color:#fff;
+    background:var(--navy);
+    padding:5px 10px;
+  }
+  .section-label .line{ flex:1; height:1px; background:var(--rule); }
+  .section-label .count{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:11.5px;
+    color:var(--navy-soft);
+  }
+
+  article.story{
+    padding:22px 0;
+    border-bottom:1px solid var(--rule);
+  }
+  article.story:last-child{border-bottom:none;}
+
+  .headline{
+    font-family:'Newsreader',serif;
+    font-weight:600;
+    font-size:22px;
+    line-height:1.24;
+    margin:0 0 8px;
+    color:var(--navy);
+  }
+  .summary{
+    font-size:15.5px;
+    line-height:1.6;
+    color:#2B2B2B;
+    margin:0 0 14px;
+  }
+  .meaning{
+    background:var(--card);
+    border-left:3px solid var(--gold);
+    padding:12px 16px;
+    border-radius:0 4px 4px 0;
+  }
+  .meaning .label{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:10.5px;
+    font-weight:600;
+    letter-spacing:0.1em;
+    text-transform:uppercase;
+    color:var(--gold);
+    display:block;
+    margin-bottom:5px;
+  }
+  .meaning p{
+    margin:0;
+    font-size:14.5px;
+    line-height:1.55;
+    color:#1F1F1F;
+  }
+
+  footer{
+    max-width:720px;
+    margin:0 auto;
+    padding:30px 24px 60px;
+    border-top:2px solid var(--navy);
+  }
+  footer p{
+    font-size:13px;
+    line-height:1.6;
+    color:#4a4a4a;
+    margin:0;
+  }
+
+  @media (max-width:600px){
+    h1.masthead{font-size:32px;}
+    .headline{font-size:19px;}
+  }
+</style>
+</head>
+<body>
+
+<div class="ticker-wrap">
+  <div class="ticker">
+    <span>GENERATED AUTOMATICALLY</span>
+    <span>TECH · MARKETS · US NEWS · INDONESIA</span>
+    <span>THE DAILY BRIEF</span>
+    <span>GENERATED AUTOMATICALLY</span>
+    <span>TECH · MARKETS · US NEWS · INDONESIA</span>
+    <span>THE DAILY BRIEF</span>
+  </div>
+</div>
+
+<header>
+  <div class="eyebrow"><span>Daily Edition</span><span>Auto-generated</span></div>
+  <h1 class="masthead">The Daily Brief</h1>
+  <div class="dateline">
+    <span><b>July 22, 2026</b></span>
+    <span>Tech · Markets · US · Indonesia</span>
+  </div>
+  <p class="lede">Escalating geopolitical tensions and the rapid evolution of AI are forcing governments and markets to rewrite their playbooks.</p>
+</header>
+
+<main>
+
+  <div class="section-label"><span class="tag">TECH</span><span class="line"></span><span class="count">4 stories</span></div>
+
+  <article class="story">
+    <h2 class="headline">China eyes strict controls on advanced AI and TSMC access</h2>
+    <p class="summary">Beijing is weighing new restrictions that would prevent local firms from using top-tier chips and would ban the export of advanced AI models.</p>
+    <div class="meaning">
+      <span class="label">What it means</span>
+      <p>This signals a deepening "tech curtain" between East and West, potentially slowing global AI development while forcing Chinese firms to innovate in total isolation.</p>
+    </div>
+  </article>
+
+  <article class="story">
+    <h2 class="headline">AI giants ramp up political lobbying as defense spending shifts</h2>
+    <p class="summary">OpenAI and Anthropic are significantly increasing their presence in Washington D.C. as traditional tech influence fluctuates.</p>
+    <div class="meaning">
+      <span class="label">What it means</span>
+      <p>As AI becomes central to national security, these companies are positioning themselves to dictate future regulations and secure lucrative government contracts.</p>
+    </div>
+  </article>
+
+  <article class="story">
+    <h2 class="headline">Chinese open-source AI models are challenging industry leaders</h2>
+    <p class="summary">Freely available AI models from China are quickly gaining ground, offering powerful alternatives to expensive, closed systems.</p>
+    <div class="meaning">
+      <span class="label">What it means</span>
+      <p>The rapid spread of these "open-weight" models makes it harder for Western regulators to control AI capabilities and lowers the cost of entry for developers worldwide.</p>
+    </div>
+  </article>
+
+  <article class="story">
+    <h2 class="headline">AI begins to disrupt physical labor jobs once thought safe</h2>
+    <p class="summary">A new OECD report suggests that robots powered by AI are starting to impact manual labor sectors, moving beyond traditional office work.</p>
+    <div class="meaning">
+      <span class="label">What it means</span>
+      <p>This shifts the conversation from "white-collar automation" to a broader economic restructuring that could require massive retraining across almost every industry.</p>
+    </div>
+  </article>
+
+  <div class="section-label"><span class="tag">MARKETS</span><span class="line"></span><span class="count">4 stories</span></div>
+
+  <article class="story">
+    <h2 class="headline">JPMorgan chief warns markets are underestimating global risks</h2>
+    <p class="summary">Jamie Dimon stated he is avoiding stocks and Treasurys at current prices, citing overlooked economic dangers and high valuations.</p>
+    <div class="meaning">
+      <span class="label">What it means</span>
+      <p>When the head of the world's largest bank sounds an alarm on "complacency," it often signals a coming period of high volatility or a correction in asset prices.</p>
+    </div>
+  </article>
+
+  <article class="story">
+    <h2 class="headline">Short bets against U.S. stocks hit record-breaking levels</h2>
+    <p class="summary">Investors have placed more bets than ever before that the stock market will soon decline.</p>
+    <div class="meaning">
+      <span class="label">What it means</span>
+      <p>This extreme "bearishness" suggests a lack of confidence in the current rally, though it can also lead to a "short squeeze" where prices spike if the news turns positive.</p>
+    </div>
+  </article>
+
+  <article class="story">
+    <h2 class="headline">China intervenes in stock market to shore up investor confidence</h2>
+    <p class="summary">The Chinese government has stepped in with support measures to stabilize falling share prices and prevent a broader financial panic.</p>
+    <div class="meaning">
+      <span class="label">What it means</span>
+      <p>While state intervention can stop a freefall, it often signals deeper underlying economic issues that may deter long-term foreign investment.</p>
+    </div>
+  </article>
+
+  <article class="story">
+    <h2 class="headline">Protectionist policies create new winners in the Indian market</h2>
+    <p class="summary">Prime Minister Modi’s "India first" trade stance is boosting domestic companies while creating hurdles for foreign competitors.</p>
+    <div class="meaning">
+      <span class="label">What it means</span>
+      <p>Investors are shifting capital to local manufacturing firms, betting that government support will outweigh the inefficiencies of trade barriers.</p>
+    </div>
+  </article>
+
+  <div class="section-label"><span class="tag">US NEWS</span><span class="line"></span><span class="count">4 stories</span></div>
+
+  <article class="story">
+    <h2 class="headline">Trump administration estimates Iran war costs at $37.5 billion</h2>
+    <p class="summary">Defense officials provided the first major financial update on the ongoing military conflict with Iran.</p>
+    <div class="meaning">
+      <span class="label">What it means</span>
+      <p>The high price tag is likely to spark intense domestic debate over defense spending and the long-term feasibility of a sustained regional war.</p>
+    </div>
+  </article>
+
+  <article class="story">
+    <h2 class="headline">Houthi attacks on tankers create new front in shipping war</h2>
+    <p class="summary">Commercial oil tankers are turning back from Saudi routes as regional militants expand their area of operations.</p>
+    <div class="meaning">
+      <span class="label">What it means</span>
+      <p>Continued disruption to these vital waterways threatens to spike global energy prices and force a more aggressive naval response from the U.S.</p>
+    </div>
+  </article>
+
+  <article class="story">
+    <h2 class="headline">New Jersey purges voter rolls after discovering software glitch</h2>
+    <p class="summary">Officials removed noncitizens from registration lists after a system error mistakenly added them to the rolls.</p>
+    <div class="meaning">
+      <span class="label">What it means</span>
+      <p>This incident will likely be used to fuel arguments over election security and the reliability of automated government databases.</p>
+    </div>
+  </article>
+
+  <article class="story">
+    <h2 class="headline">Proposed Canada tariffs cause friction within Republican ranks</h2>
+    <p class="summary">President Trump's plan to tax Canadian imports is facing pushback from border-state lawmakers worried about local economic fallout.</p>
+    <div class="meaning">
+      <span class="label">What it means</span>
+      <p>The internal party dispute highlights the tension between "America First" trade policies and the reality of integrated North American supply chains.</p>
+    </div>
+  </article>
+
+  <div class="section-label"><span class="tag">INDONESIA</span><span class="line"></span><span class="count">4 stories</span></div>
+
+  <article class="story">
+    <h2 class="headline">Moody's warns of investment risks amid policy uncertainty</h2>
+    <p class="summary">The credit rating agency flagged that shifting government priorities are making Indonesia a riskier place for foreign capital.</p>
+    <div class="meaning">
+      <span class="label">What it means</span>
+      <p>If the government doesn't clarify its fiscal path, it could face higher borrowing costs and a slowdown in the foreign investment needed for infrastructure.</p>
+    </div>
+  </article>
+
+  <article class="story">
+    <h2 class="headline">Proposed copyright laws target Google and AI platforms</h2>
+    <p class="summary">New legislation would force tech giants to pay local creators and limit how AI can use copyrighted data for training.</p>
+    <div class="meaning">
+      <span class="label">What it means</span>
+      <p>While this protects local artists, it could also cause major tech firms to scale back their services in the country or increase costs for users.</p>
+    </div>
+  </article>
+
+  <article class="story">
+    <h2 class="headline">Indonesia navigates US-China tensions in bid for AI leadership</h2>
+    <p class="summary">The country is attempting to secure tech partnerships with both superpowers while maintaining its own strategic independence.</p>
+    <div class="meaning">
+      <span class="label">What it means</span>
+      <p>Success could make Indonesia a major digital hub in Southeast Asia, but any misstep risks alienation from one of the two dominant global markets.</p>
+    </div>
+  </article>
+
+  <article class="story">
+    <h2 class="headline">Survey shows Indonesians are increasingly afraid to discuss politics</h2>
+    <p class="summary">A new report indicates a rising trend of self-censorship among citizens regarding sensitive political and government topics.</p>
+    <div class="meaning">
+      <span class="label">What it means</span>
+      <p>A decline in public discourse often precedes a tightening of social controls, which can impact long-term democratic stability and social cohesion.</p>
+    </div>
+  </article>
+
+</main>
+
+<footer>
+  <p>Generated automatically using free Google News RSS feeds and the Gemini free API.</p>
+</footer>
+
+</body>
+</html>
