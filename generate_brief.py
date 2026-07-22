@@ -31,7 +31,7 @@ import feedparser
 from google import genai
 
 STORIES_PER_SECTION = 4  # change to taste
-GEMINI_MODEL = "gemini-2.5-flash"  # free-tier model
+GEMINI_MODEL = "gemini-2.5-flash-lite"  # free-tier model, current as of July 2026
 
 
 def _google_news_url(query: str, hl: str, gl: str, ceid: str) -> str:
