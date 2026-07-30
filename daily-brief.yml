@@ -2,15 +2,29 @@ name: Daily Brief
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # 00:00 UTC = 7:00 AM Jakarta time
+    # 7:00 AM PDT = 14:00 UTC. Note: this is a fixed UTC time, so it will
+    # drift to 6:00 AM once Pacific time switches to PST in autumn (US
+    # "fall back"). If you want to keep it pinned to 7:00 AM local, update
+    # this line to "0 15 * * *" when that happens. crontab.guru can help
+    # translate any other time you'd prefer.
+    - cron: "0 14 * * *"
   workflow_dispatch: {}   # lets you also run it manually from the Actions tab
 
 jobs:
   build-and-publish:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
+
+      - name: Check out existing site (so the archive persists)
+        uses: actions/checkout@v4
+        continue-on-error: true  # first-ever run: gh-pages doesn't exist yet, that's fine
+        with:
+          ref: gh-pages
+          path: existing-site
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -26,8 +40,9 @@ jobs:
         run: python generate_brief.py
 
       - name: Publish to the website (GitHub Pages)
+        if: always()
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./output
-          keep_files: false
+          keep_files: true
