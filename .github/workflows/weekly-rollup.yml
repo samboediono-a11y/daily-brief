@@ -1,0 +1,45 @@
+name: Weekly Rewind
+
+on:
+  schedule:
+    # 8:00 AM PDT on Sundays = 15:00 UTC. Same DST caveat as daily-brief.yml -
+    # this will drift to 7:00 AM Pacific once PDT switches to PST in autumn.
+    - cron: "0 15 * * 0"
+  workflow_dispatch: {}   # lets you also run it manually from the Actions tab
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Check out existing site (so the archive persists)
+        uses: actions/checkout@v4
+        continue-on-error: true  # first-ever run: gh-pages doesn't exist yet, that's fine
+        with:
+          ref: gh-pages
+          path: existing-site
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate this week's rewind
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python generate_weekly.py
+
+      - name: Publish to the website (GitHub Pages)
+        if: always()
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
+          keep_files: true
