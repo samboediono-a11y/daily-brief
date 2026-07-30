@@ -3,8 +3,8 @@
   "short_name": "Daily Brief",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#FFF1E5",
-  "theme_color": "#101B2D",
-  "description": "Daily tech, markets, US, and Indonesia news with plain-language explanations of what each story means.",
+  "background_color": "#0B0E11",
+  "theme_color": "#0B0E11",
+  "description": "Daily tech, markets, US, and Indonesia news plus upcoming earnings, with analyst-style breakdowns of what each story means.",
   "icons": []
 }
