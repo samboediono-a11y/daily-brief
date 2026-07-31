@@ -57,7 +57,6 @@ EARNINGS_ACCENT = "#A78BFA"   # violet, distinct from the four news section colo
 MOVERS_ACCENT = "#F472B6"    # pink, distinct from earnings and the four news colors
 TRENDING_ACCENT = "#FDE047"   # bright yellow, signals "hot right now"
 TRENDING_MAX_ROWS = 5
-TRENDING_MAX_PER_SOURCE = 2   # cap per subreddit so one community can't dominate the list
 
 CALLS_ACCENT = "#34D399"      # emerald, distinct from the other sidebar widgets
 MAX_CALLS_TO_CHECK = 6         # how many of the previous edition's predictions to check
@@ -67,9 +66,6 @@ CRYPTO_ACCENT = "#818CF8"     # indigo, distinct from the other sidebar widgets
 CRYPTO_IDS = ["bitcoin", "ethereum", "solana"]  # CoinGecko ids; edit to add/remove coins
 CRYPTO_LABELS = {"bitcoin": "BTC", "ethereum": "ETH", "solana": "SOL"}
 
-# Real popularity signal (actual upvote counts), not an AI guess. These
-# subreddits were picked to match the same beat as the four news sections.
-TRENDING_SUBREDDITS = ["technology", "stocks", "business", "worldnews", "news"]
 MOVERS_PER_SIDE = 5           # how many gainers / losers to show
 
 # A curated watchlist of major tech names (not just AI-specific) used to
@@ -313,43 +309,55 @@ def fetch_upcoming_earnings(days_ahead: int = EARNINGS_LOOKAHEAD_DAYS, max_rows:
 
 
 def fetch_tech_stock_movers(watchlist: list[str] = TECH_WATCHLIST, per_side: int = MOVERS_PER_SIDE) -> dict:
-    """Pulls today's % change for a curated list of major tech stocks
-    from Yahoo Finance's public quote endpoint (no API key needed). Like
-    the earnings fetch, this fails SAFELY: any error just returns empty
-    gainers/losers lists rather than breaking the whole daily brief.
+    """Pulls the last two daily closes for a curated list of major tech
+    stocks from Stooq (free, no API key, no auth) and computes % change.
+
+    Note: this used to use Yahoo Finance's quote endpoint, but Yahoo now
+    requires a session "crumb" + cookie for that endpoint (a change rolled
+    out progressively since 2023), so unauthenticated requests get a 401
+    "Invalid Crumb" error. Stooq is a well-established free alternative
+    used widely for exactly this reason. Fails safely per-symbol: any
+    error for one ticker just skips it rather than breaking the run.
     """
-    try:
-        resp = requests.get(
-            "https://query1.finance.yahoo.com/v7/finance/quote",
-            params={"symbols": ",".join(watchlist)},
-            headers={
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                "Accept": "application/json",
-            },
-            timeout=10,
-        )
-        resp.raise_for_status()
-        rows = (resp.json().get("quoteResponse") or {}).get("result") or []
-    except Exception as e:
-        print(f"[movers] Skipping tech stock movers: {e}")
-        return {"gainers": [], "losers": []}
+    end = datetime.date.today()
+    start = end - datetime.timedelta(days=10)  # covers weekends/holidays
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 
     quotes = []
-    for r in rows:
+    for symbol in watchlist:
         try:
-            change_pct = r.get("regularMarketChangePercent")
-            if change_pct is None:
+            resp = requests.get(
+                "https://stooq.com/q/d/l/",
+                params={
+                    "s": f"{symbol.lower()}.us",
+                    "d1": start.strftime("%Y%m%d"),
+                    "d2": end.strftime("%Y%m%d"),
+                    "i": "d",
+                },
+                headers=headers,
+                timeout=10,
+            )
+            resp.raise_for_status()
+            lines = [l for l in resp.text.strip().splitlines() if l.strip()]
+            if len(lines) < 3:  # header + at least 2 data rows
                 continue
+            rows = [l.split(",") for l in lines[1:]]  # skip header row
+            # Columns: Date,Open,High,Low,Close,Volume
+            prev_close = float(rows[-2][4])
+            last_close = float(rows[-1][4])
+            if prev_close == 0:
+                continue
+            change_pct = (last_close - prev_close) / prev_close * 100
             quotes.append(
                 {
-                    "symbol": r.get("symbol", "") or "",
-                    "name": r.get("shortName") or r.get("longName") or r.get("symbol", "") or "",
-                    "change_pct": float(change_pct),
-                    "price": r.get("regularMarketPrice"),
+                    "symbol": symbol,
+                    "name": symbol,
+                    "change_pct": change_pct,
+                    "price": last_close,
                 }
             )
         except Exception as e:
-            print(f"[movers] Skipping a malformed quote: {e}")
+            print(f"[movers] Skipping {symbol}: {e}")
             continue
 
     gainers = sorted([q for q in quotes if q["change_pct"] > 0], key=lambda q: q["change_pct"], reverse=True)[:per_side]
@@ -365,69 +373,59 @@ def _format_score(n: int) -> str:
     return str(n)
 
 
-def fetch_trending(
-    subreddits: list[str] = TRENDING_SUBREDDITS,
-    max_rows: int = TRENDING_MAX_ROWS,
-    max_per_source: int = TRENDING_MAX_PER_SOURCE,
-    timeout: int = 8,
-) -> list[dict]:
-    """Real trending signal (actual Reddit upvotes today), not an AI guess.
-    Pulls the top posts of the day from a handful of relevant subreddits,
-    then picks the highest-scored ones overall, capping how many can come
-    from any single subreddit so one community can't dominate the list.
-    Fails safely per-subreddit: if one community's fetch errors (rate
-    limit, network hiccup), it's just skipped rather than breaking the run.
+def fetch_trending(max_rows: int = TRENDING_MAX_ROWS, pool_size: int = 15, timeout: int = 8) -> list[dict]:
+    """Real trending signal (actual Hacker News points today), not an AI
+    guess. Pulls the current top stories from Hacker News' official public
+    API (free, no key, no auth - it's a Firebase database built for exactly
+    this kind of open access) and returns the highest-scored ones.
+
+    Note: this used to pull from several subreddits, but Reddit permanently
+    closed unauthenticated .json access on May 28, 2026 (a platform policy
+    change, not something fixable with headers or rate-limiting). Hacker
+    News skews toward tech/startup/business news rather than Reddit's
+    broader mix - a real trade-off worth knowing about, not a bug.
     """
-    headers = {
-        "User-Agent": "DailyBriefBot/1.0 (personal daily news aggregator; non-commercial)"
-    }
+    headers = {"User-Agent": "DailyBriefBot/1.0 (personal daily news aggregator; non-commercial)"}
+    try:
+        resp = requests.get(
+            "https://hacker-news.firebaseio.com/v0/topstories.json",
+            headers=headers,
+            timeout=timeout,
+        )
+        resp.raise_for_status()
+        ids = (resp.json() or [])[:pool_size]
+    except Exception as e:
+        print(f"[trending] Skipping Hacker News top stories: {e}")
+        return []
+
     posts = []
-    for sub in subreddits:
+    for story_id in ids:
         try:
-            resp = requests.get(
-                f"https://www.reddit.com/r/{sub}/top.json",
-                params={"limit": 8, "t": "day", "raw_json": 1},
+            r = requests.get(
+                f"https://hacker-news.firebaseio.com/v0/item/{story_id}.json",
                 headers=headers,
                 timeout=timeout,
             )
-            resp.raise_for_status()
-            children = (resp.json().get("data") or {}).get("children") or []
-        except Exception as e:
-            print(f"[trending] Skipping r/{sub}: {e}")
-            continue
-
-        for c in children:
-            try:
-                d = c.get("data") or {}
-                title = (d.get("title") or "").strip()
-                if not title:
-                    continue
-                link = d.get("url") or f"https://www.reddit.com{d.get('permalink', '')}"
-                posts.append(
-                    {
-                        "title": title,
-                        "link": link,
-                        "source_sub": sub,
-                        "score": d.get("score", 0) or 0,
-                    }
-                )
-            except Exception as e:
-                print(f"[trending] Skipping a malformed post in r/{sub}: {e}")
+            r.raise_for_status()
+            item = r.json() or {}
+            title = (item.get("title") or "").strip()
+            if not title:
                 continue
+            link = item.get("url") or f"https://news.ycombinator.com/item?id={story_id}"
+            posts.append(
+                {
+                    "title": title,
+                    "link": link,
+                    "source_sub": "Hacker News",
+                    "score": item.get("score", 0) or 0,
+                }
+            )
+        except Exception as e:
+            print(f"[trending] Skipping a malformed HN item {story_id}: {e}")
+            continue
 
     posts.sort(key=lambda p: p["score"], reverse=True)
-
-    result = []
-    per_source_count = {}
-    for p in posts:
-        count = per_source_count.get(p["source_sub"], 0)
-        if count >= max_per_source:
-            continue
-        result.append(p)
-        per_source_count[p["source_sub"]] = count + 1
-        if len(result) >= max_rows:
-            break
-    return result
+    return posts[:max_rows]
 
 
 def _format_price(p: float | None) -> str:
@@ -807,7 +805,7 @@ def render_html(
       <span class="tr-rank">{i}</span>
       <a class="tr-headline" href="{t['link']}" target="_blank" rel="noopener">{t['title']}</a>
       <span class="tr-meta">
-        <span class="tr-source">r/{t['source_sub']}</span>
+        <span class="tr-source">{t['source_sub']}</span>
         <span class="tr-score">&#9650; {_format_score(t['score'])}</span>
       </span>
     </div>"""
