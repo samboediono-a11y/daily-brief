@@ -309,51 +309,46 @@ def fetch_upcoming_earnings(days_ahead: int = EARNINGS_LOOKAHEAD_DAYS, max_rows:
 
 
 def fetch_tech_stock_movers(watchlist: list[str] = TECH_WATCHLIST, per_side: int = MOVERS_PER_SIDE) -> dict:
-    """Pulls the last two daily closes for a curated list of major tech
-    stocks from Stooq (free, no API key, no auth) and computes % change.
+    """Pulls today's % change for a curated list of major tech stocks from
+    Finnhub's free-tier quote API (60 calls/minute, no credit card).
 
-    Note: this used to use Yahoo Finance's quote endpoint, but Yahoo now
-    requires a session "crumb" + cookie for that endpoint (a change rolled
-    out progressively since 2023), so unauthenticated requests get a 401
-    "Invalid Crumb" error. Stooq is a well-established free alternative
-    used widely for exactly this reason. Fails safely per-symbol: any
-    error for one ticker just skips it rather than breaking the run.
+    Note: this used to try Yahoo Finance, then Stooq - both broke. Yahoo
+    now requires a session "crumb"/cookie for its quote endpoint. Stooq has
+    a well-documented, very low per-IP daily quota ("Exceeded the daily
+    hits limit"), and GitHub Actions IPs are shared across huge numbers of
+    repos worldwide - very likely already exhausted before this job even
+    runs. Finnhub needs one extra free API key (FINNHUB_API_KEY, same setup
+    as GEMINI_API_KEY) but is a real, stable, documented API rather than an
+    unofficial endpoint - it won't have this whack-a-mole problem.
+
+    Fails safely: if the key isn't set yet, or any request errors, this
+    just returns empty gainers/losers rather than breaking the whole run.
     """
-    end = datetime.date.today()
-    start = end - datetime.timedelta(days=10)  # covers weekends/holidays
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+    api_key = os.environ.get("FINNHUB_API_KEY")
+    if not api_key:
+        print("[movers] FINNHUB_API_KEY not set - skipping tech stock movers.")
+        return {"gainers": [], "losers": []}
 
     quotes = []
     for symbol in watchlist:
         try:
             resp = requests.get(
-                "https://stooq.com/q/d/l/",
-                params={
-                    "s": f"{symbol.lower()}.us",
-                    "d1": start.strftime("%Y%m%d"),
-                    "d2": end.strftime("%Y%m%d"),
-                    "i": "d",
-                },
-                headers=headers,
+                "https://finnhub.io/api/v1/quote",
+                params={"symbol": symbol, "token": api_key},
                 timeout=10,
             )
             resp.raise_for_status()
-            lines = [l for l in resp.text.strip().splitlines() if l.strip()]
-            if len(lines) < 3:  # header + at least 2 data rows
+            data = resp.json() or {}
+            change_pct = data.get("dp")
+            price = data.get("c")
+            if change_pct is None or price in (None, 0):
                 continue
-            rows = [l.split(",") for l in lines[1:]]  # skip header row
-            # Columns: Date,Open,High,Low,Close,Volume
-            prev_close = float(rows[-2][4])
-            last_close = float(rows[-1][4])
-            if prev_close == 0:
-                continue
-            change_pct = (last_close - prev_close) / prev_close * 100
             quotes.append(
                 {
                     "symbol": symbol,
                     "name": symbol,
-                    "change_pct": change_pct,
-                    "price": last_close,
+                    "change_pct": float(change_pct),
+                    "price": float(price),
                 }
             )
         except Exception as e:
