@@ -6,42 +6,54 @@
       "headline": "Insiders warn AI speed is becoming a safety disaster",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUThQWXB6cUxrZzdRMVVWTjRLOFB4b1JvZTJNUmRLdHh1QWV4Szk3RDBfNHh1ZXdxb3pQejMzaEI5VVlrRVRvczloTTNicEY2RUhjY2l2cWhaOU5EdnF0SnhMWWNobDJvbjFGU0FiSnhiTHRxQzBWZDR4eWM2ZnFBcHFHS1o0SnE0QzVmeHBxZVA5OEIyRVJtX2RCbENNcDNMLURlUUNR?oc=5",
       "prediction": "At least one major AI lab employee will testify before a Senate committee regarding 'existential risk' before the end of Q3.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No fresh headlines were provided to confirm or deny that an AI lab employee has testified before the Senate."
     },
     {
       "section": "tech",
       "headline": "Marvell bets $250 million on India as the new AI hub",
       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQUG43eENDc0wybkFOdVkwTVVfbE45cVoyS3c3SHV0aDhuQ2tDVjg0MTJva0Z5NEdBWkV4Y3B6Z2ZMSVVrZ0dOM0JLWVo1dlVxRW5uSjRtblhEcWo0ZDR5NWN4Ny1KajZiNWdodzcwLS0wb0VsUkY5YkladGc2dGxGYmZMWXF6U05QOHhjd1Nhc3pPQnc1NnJ2YjJQUk1jdV92bU9tMGpiR1JBTU1mZVJuQVFvRE9OQjVhbV83VEtvMjFPU2N5Q0JYbm9NQkk4QVdMX2pHa2dKdEJsRzFIYWpYRWZySmZGeHN6aGVoWGg2ak5PdXVqNnpXSU11Nkg4d09aaTdEcmJkOFdBQkpUdnAtR3lUd18?oc=5",
       "prediction": "Marvell will announce a major co-design partnership with an Indian domestic tech conglomerate like Tata or Reliance within 12 months.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "There is no information in the fresh headlines regarding any new partnerships between Marvell and Indian tech conglomerates."
     },
     {
       "section": "tech",
       "headline": "The 'Move Fast and Break Things' era makes a comeback",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaDdrOF9rY3ZDdXdSRElROU11UkJ5SjExcmJLUGJFUDhZelhwUDdlR0Z2V2xUdVdxeGpmTUVQMnhMUnRLb0NhQkdRb3hVR3psUHYyRmUxbmJ5N1VEc19CaElCZlRUQVdRVVlZVGxCSXVKcnFXVTBhcDBkM01hZnZGc3NvSDdhR0ZLeDBuMkZhR0pNeEwt?oc=5",
       "prediction": "At least three S&P 500 tech companies will explicitly remove 'profitability' or 'efficiency' targets from their next annual guidance to focus on AI capital expenditures.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The available headlines discuss annual reports and general market outlooks but do not mention tech companies removing profitability targets."
     },
     {
       "section": "tech",
       "headline": "The U.S. government is quietly becoming a venture capitalist",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IcFFHQ0x2bDFFcHhDLVVudlhZd3phemNtMExMQUkzUWZNSXV5c09pck0xSkUyM09RR1c3VGoxMkdhbzhlaHdQNEtjTDNud1g3Y1NaQkZYdVBlZWlKX0JqaUhZQmtCNXdGTGVqV2VaN3Q0TVVMM1ViVGhXa9IBgAFBVV95cUxNWVNzY2J0Q0FvcXF5Q3I2VGd0UXdQb3djTHlXNHJfZmdvT3lidktmT0ljTXM5SjZmalB2SVhUbkxiTUgxT0cxaFp2bjYtdGkwalZNZWI5d0E3bE5YRFJFQXBtWXN1R1NaMDVZejZ5V1NsRHBlSUo3Zlk0ai1HQmNzWg?oc=5",
       "prediction": "A private company with a Commerce Department equity stake will be acquired by a major U.S. defense contractor within 18 months.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "While a headline describes the administration as an 'activist investor,' there is no mention of a specific acquisition by a defense contractor."
     },
     {
       "section": "markets",
       "headline": "Amazon surge carries the S&P 500 to Friday gains",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54R3JtcGRRMU1XOURNOWlmOHh2LUYzd1pweW1JTFRtR0RhYXEwT2QyUlVwZUtINk9wc2F3SWdtYnhmalJXZVZWV3FHV0Q1azg4UTlMeVlPSWxxZzZtUldoYWJJQXBLanRJZDQ4WXVfaHg0WlEtOUcw0gF8QVVfeXFMT1V5OHNxNHFkNjg3SkJXejByUnBsT1lGU1RVcTVuS2dUbGNBc1NkV2JQTERrcXgwWkE5YVVDczU1ak9rd0F2MktfSlpHT0QxMEpta082Q1hMdFJDYy1FMTFHaG5FZnBidTdmdjZBM3RtWl9DdU5ERGxIaWhvaw?oc=5",
       "prediction": "Amazon will trade at a new all-time high before the end of August.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The provided headlines do not confirm if Amazon has reached an all-time high, and the end-of-August deadline has not yet passed."
     },
     {
       "section": "markets",
       "headline": "The Texas Stock Exchange officially opens for business",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcG4yeFdXdl9WOGdVdFlBTTlyOE1PUHVwdmpWd1VPTEZWbGlTeEJGVHFjSnZBSlhnZGxFMlhBQVJwSjREYWtTVWdmYlpkb0lWN09fcC0xNVBXaGxkU2l3RjMzV0l4emVlS3JlZF9scTNYem96Y203dHJfMTlJdmpWaS1hdHM2UmFuMF9fbmFIVGpFaVkyS0JpRE1B0gGfAUFVX3lxTE9ZdWFNazY2eWJvcW5od05UTFUwT3AzQ3lOVkdmTFl3R01IWG5uM29QYUp1MEhpOUlLMXNSYkcxbHA0cHhhenlDNW5GYjBXMzhWd2JTSWN0cEdONFhjOW83a1p4SWhtd0p0OHZCMUg5enhsVnJoOFNkNW9tcUxmWTg5WE5kWFJZNV9SS2ZTTGFQbS1TQW5oZG80MmNjZ3hqaw?oc=5",
       "prediction": "At least one Fortune 500 energy company will announce a dual-listing on the TXSE by year-end.",
-      "grounded": true
+      "grounded": true,
+      "status": "held_up",
+      "note": "A headline confirms that Chevron is anchoring a shift to Texas as stock exchanges launch, supporting the prediction of a Fortune 500 energy company's involvement."
     },
     {
       "section": "markets",
