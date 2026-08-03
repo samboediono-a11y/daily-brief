@@ -6,42 +6,54 @@
       "headline": "China's high-tech leaps are rattling the global balance of power",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMm1teVpFOHI1eTA5NG51UWVZb3ZVaUtkQTJRM2R0cTFETzR6OTZsLW9TZWhfSWc5SU1xem9GREczSGI3Sk1wZDJBQTA2bTBINnNPdzd1ZG9tSzZaM1ZfQ1dsOW9NakEyc1JHbWFZRGtGekxleGpsMjVqNmIxMF9fMU9xNXFDMEp3UVZZ?oc=5",
       "prediction": "Watch for China to announce a major breakthrough in domestic GAA transistor production or a sub-5nm equivalent process within the next 12 months.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "Scammers are building professional corporate structures using AI tools",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObUtRZjNxYndmcUJKZzZzakdEVzBmdFJfNDh6X0gyeUpqN2EyUkV4Y1UyZ3MtckNRUTBQVTlkREc3cjlvYmdhYzR6Y3lHS3BGRHl1RHF4R3NySEROVS1veGpISjRaUWRid09FYlc5c0RQekxSV0wxMjR5anZuVmIxNHV3M2w0U1hHVkNfSC1OSDBWODJyemk4UURRWEpxekg0RTJJRjhZclVqOFQ4c0pyLWNWV3JtUGlK?oc=5",
       "prediction": "Expect at least one Fortune 500 company to report a nine-figure loss due to an AI-orchestrated 'deepfake CEO' wire fraud by the end of 2025.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "The U.S. government is quietly becoming a venture capitalist",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IcFFHQ0x2bDFFcHhDLVVudlhZd3phemNtMExMQUkzUWZNSXV5c09pck0xSkUyM09RR1c3VGoxMkdhbzhlaHdQNEtjTDNud1g3Y1NaQkZYdVBlZWlKX0JqaUhZQmtCNXdGTGVqV2VaN3Q0TVVMM1ViVGhXa9IBgAFBVV95cUxNWVNzY2J0Q0FvcXF5Q3I2VGd0UXdQb3djTHlXNHJfZmdvT3lidktmT0ljTXM5SjZmalB2SVhUbkxiTUgxT0cxaFp2bjYtdGkwalZNZWI5d0E3bE5YRFJFQXBtWXN1R1NaMDVZejZ5V1NsRHBlSUo3Zlk0ai1HQmNzWg?oc=5",
       "prediction": "The Commerce Department will double its equity portfolio to at least 15 private companies before the end of the current fiscal year.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "Tech insiders warn that AI development is moving too fast",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRGRoTHhEVnZUdG1yaUp1MnctcmlTdFlheTFQOWJDOUM4azBnWmlRQ2htTlpHMlNzZWxqMTVHVkhJVkI0TGJBSWtyY3dleERpVlloLUF1a0F6YmstNF9ONVlfZHl1bEQ1eTAzSlFOUUV0aXJzb1J4eDlyZ05STElmOXY0WjY0aVJ4OFFQTGVDSEMydERFWFFVRTRxLVNXc1E?oc=5",
       "prediction": "The first major federal 'AI Safety' bill will pass the House by mid-2025, heavily influenced by the lobbying arms of the largest AI labs.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
       "headline": "South Korea's sudden market crash sends tremors through global stocks",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUldRMFhxeFhIZkZLWDRVVk1WT3BCdTZ0UnA1dThlWTFvV2g0YzYtVDFpdUJvbTI2Tk1qNENsUWVQWVMwRlhDWDFTMFI4SXJlM2szTjd0ZXJEblFYQTlQNldyamlaSVRjVEF4TjJacGpmLU9NM3JYOTNSSkFFY1lhdmFkdkRidWttZUNRa1RDaEtJZDBTNkE?oc=5",
       "prediction": "The KOSPI will underperform the S&P 500 by at least 10% through the end of Q3 2025.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
       "headline": "Texas launches a new stock exchange to challenge New York",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcG4yeFdXdl9WOGdVdFlBTTlyOE1PUHVwdmpWd1VPTEZWbGlTeEJGVHFjSnZBSlhnZGxFMlhBQVJwSjREYWtTVWdmYlpkb0lWN09fcC0xNVBXaGxkU2l3RjMzV0l4emVlS3JlZF9scTNYem96Y203dHJfMTlJdmpWaS1hdHM2UmFuMF9fbmFIVGpFaVkyS0JpRE1B0gGfAUFVX3lxTE9ZdWFNazY2eWJvcW5od05UTFUwT3AzQ3lOVkdmTFl3R01IWG5uM29QYUp1MEhpOUlLMXNSYkcxbHA0cHhhenlDNW5GYjBXMzhWd2JTSWN0cEdONFhjOW83a1p4SWhtd0p0OHZCMUg5enhsVnJoOFNkNW9tcUxmWTg5WE5kWFJZNV9SS2ZTTGFQbS1TQW5oZG80MmNjZ3hqaw?oc=5",
       "prediction": "At least three S&P 500 companies currently headquartered in Texas will announce a secondary listing on the TXSE within its first year of operation.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
