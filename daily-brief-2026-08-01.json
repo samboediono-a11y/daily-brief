@@ -8,7 +8,7 @@
       "prediction": "At least one major AI lab employee will testify before a Senate committee regarding 'existential risk' before the end of Q3.",
       "grounded": false,
       "status": "too_early",
-      "note": "No fresh headlines were provided to confirm or deny that an AI lab employee has testified before the Senate."
+      "note": "No fresh headlines were found to confirm or deny that an AI lab employee has testified before a Senate committee."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "Marvell will announce a major co-design partnership with an Indian domestic tech conglomerate like Tata or Reliance within 12 months.",
       "grounded": false,
       "status": "too_early",
-      "note": "There is no information in the fresh headlines regarding any new partnerships between Marvell and Indian tech conglomerates."
+      "note": "No new information was found regarding Marvell's potential partnerships with Indian conglomerates like Tata or Reliance."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "At least three S&P 500 tech companies will explicitly remove 'profitability' or 'efficiency' targets from their next annual guidance to focus on AI capital expenditures.",
       "grounded": true,
       "status": "too_early",
-      "note": "The available headlines discuss annual reports and general market outlooks but do not mention tech companies removing profitability targets."
+      "note": "The provided headlines regarding annual reports for Microsoft and ExxonMobil do not mention the removal of profitability or efficiency targets."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "A private company with a Commerce Department equity stake will be acquired by a major U.S. defense contractor within 18 months.",
       "grounded": true,
       "status": "too_early",
-      "note": "While a headline describes the administration as an 'activist investor,' there is no mention of a specific acquisition by a defense contractor."
+      "note": "None of the fresh headlines indicate that a private company with a Commerce Department stake has been acquired by a defense contractor."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "Amazon will trade at a new all-time high before the end of August.",
       "grounded": true,
       "status": "too_early",
-      "note": "The provided headlines do not confirm if Amazon has reached an all-time high, and the end-of-August deadline has not yet passed."
+      "note": "Current headlines include price predictions and general market updates but do not confirm if Amazon reached a new all-time high by August 1st."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "At least one Fortune 500 energy company will announce a dual-listing on the TXSE by year-end.",
       "grounded": true,
       "status": "held_up",
-      "note": "A headline confirms that Chevron is anchoring a shift to Texas as stock exchanges launch, supporting the prediction of a Fortune 500 energy company's involvement."
+      "note": "Fresh headlines explicitly link Chevron, a major Fortune 500 energy company, to the launch of Texas stock exchanges."
     },
     {
       "section": "markets",
