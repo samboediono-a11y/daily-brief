@@ -24,10 +24,12 @@ import json
 import shutil
 import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 from google import genai
 
 GEMINI_MODEL = "gemini-3-flash-preview"
+LOCAL_TIMEZONE = "America/Los_Angeles"  # see generate_brief.py for why this matters
 LOOKBACK_DAYS = 7
 MAX_THEMES = 6
 
@@ -58,13 +60,23 @@ This week's material:
 """
 
 
+def get_today() -> datetime.date:
+    """Returns "today" in LOCAL_TIMEZONE, not the server's system timezone -
+    see generate_brief.py for the full explanation of why this matters."""
+    try:
+        return datetime.datetime.now(ZoneInfo(LOCAL_TIMEZONE)).date()
+    except Exception as e:
+        print(f"[weekly] Couldn't load timezone {LOCAL_TIMEZONE}, falling back to UTC date: {e}")
+        return datetime.datetime.now(datetime.timezone.utc).date()
+
+
 def load_week_stories(days: int = LOOKBACK_DAYS) -> list[dict]:
     """Reads every daily JSON sidecar within the lookback window. Missing or
     unreadable files are just skipped - a thin week still produces whatever
     themes the available material supports."""
     if not EXISTING_SITE_DIR.is_dir():
         return []
-    cutoff = datetime.date.today() - datetime.timedelta(days=days)
+    cutoff = get_today() - datetime.timedelta(days=days)
     stories = []
     for f in EXISTING_SITE_DIR.glob("daily-brief-*.json"):
         m = re.match(r"daily-brief-(\d{4}-\d{2}-\d{2})\.json$", f.name)
@@ -174,7 +186,7 @@ def render_weekly_html(result: dict | None, week_of: str, week_tabs_html: str) -
 
 
 def main():
-    today_str = datetime.date.today().isoformat()
+    today_str = get_today().isoformat()
 
     out_dir = Path(__file__).parent / "output"
     out_dir.mkdir(exist_ok=True)
