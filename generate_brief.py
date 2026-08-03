@@ -43,10 +43,18 @@ import shutil
 import datetime
 import urllib.parse
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import feedparser
 import requests
 from google import genai
+
+# "Today" is computed in this timezone explicitly, rather than trusting
+# whatever timezone the server happens to be in (GitHub Actions runners use
+# UTC). Without this, a run any time after ~5pm Pacific would compute
+# "today" as UTC's date, which is already tomorrow from Pacific's
+# perspective - change this if you're not in Pacific time.
+LOCAL_TIMEZONE = "America/Los_Angeles"
 
 STORIES_PER_SECTION = 4  # change to taste
 GEMINI_MODEL = "gemini-3-flash-preview"  # free-tier model, current as of July 2026
@@ -81,6 +89,18 @@ TECH_WATCHLIST = [
 # Where to look for an already-published site (so old editions aren't lost).
 # The workflow checks this branch out into this folder before running the script.
 EXISTING_SITE_DIR = Path(__file__).parent / "existing-site"
+
+
+def get_today() -> datetime.date:
+    """Returns "today" in LOCAL_TIMEZONE, not the server's system timezone.
+    Falls back to UTC's date if the timezone database is unavailable for
+    some reason (shouldn't happen with tzdata in requirements.txt, but
+    this way a missing timezone never crashes the whole run)."""
+    try:
+        return datetime.datetime.now(ZoneInfo(LOCAL_TIMEZONE)).date()
+    except Exception as e:
+        print(f"[main] Couldn't load timezone {LOCAL_TIMEZONE}, falling back to UTC date: {e}")
+        return datetime.datetime.now(datetime.timezone.utc).date()
 
 
 def _google_news_url(query: str, hl: str, gl: str, ceid: str) -> str:
@@ -262,7 +282,7 @@ def fetch_upcoming_earnings(days_ahead: int = EARNINGS_LOOKAHEAD_DAYS, max_rows:
     }
 
     rows = []
-    today = datetime.date.today()
+    today = get_today()
     for i in range(days_ahead):
         day = today + datetime.timedelta(days=i)
         # Nasdaq's calendar is empty on weekends anyway; skip them to save calls.
@@ -608,6 +628,24 @@ def call_gemini_meanings(stories_block: str, count: int) -> dict | None:
     except Exception as e:
         print(f"[research] Grounded-analysis pass failed, keeping original reasoning: {e}")
         return None
+
+
+def call_gemini_meanings_with_retries(stories_block: str, count: int, max_attempts: int = 3, delay_seconds: int = 10) -> dict | None:
+    """Retries the second Gemini pass a few times before giving up. Without
+    this, a single transient failure (a momentary rate limit right after the
+    first Gemini call, a truncated response on a big batch of stories, etc.)
+    silently drops Bear Case and Prediction for the ENTIRE day - leaving only
+    "The Angle" visible. Still returns None (never raises) if every attempt
+    fails, so this never blocks the main edition from publishing."""
+    for attempt in range(1, max_attempts + 1):
+        result = call_gemini_meanings(stories_block, count)
+        if result is not None:
+            return result
+        print(f"[research] Grounded-analysis attempt {attempt}/{max_attempts} failed.")
+        if attempt < max_attempts:
+            time.sleep(delay_seconds)
+    print("[research] All attempts failed - today's stories will show only The Angle, no Bear Case/Prediction.")
+    return None
 
 
 def apply_grounded_meanings(data: dict, result: dict | None) -> dict:
@@ -1161,7 +1199,7 @@ def compute_track_record(out_dir: Path, window_days: int = TRACK_RECORD_WINDOW_D
     verdicts. 'too_early' and never-checked predictions are excluded from
     the percentage since they're not resolved yet - this is a stat about
     calls that actually got confirmed or contradicted, not a raw average."""
-    cutoff = datetime.date.today() - datetime.timedelta(days=window_days)
+    cutoff = get_today() - datetime.timedelta(days=window_days)
     held_up = 0
     missed = 0
     for f in out_dir.glob("daily-brief-*.json"):
@@ -1244,8 +1282,9 @@ def write_failure_page(out_dir: Path, today_str: str, error_message: str) -> Non
 
 
 def main():
-    today = datetime.date.today().strftime("%B %d, %Y")
-    today_str = datetime.date.today().isoformat()
+    _today_date = get_today()
+    today = _today_date.strftime("%B %d, %Y")
+    today_str = _today_date.isoformat()
 
     out_dir = Path(__file__).parent / "output"
     out_dir.mkdir(exist_ok=True)
@@ -1291,7 +1330,8 @@ def main():
         # research vs. the model's own reasoning. Never blocks the run.
         snippets = gather_analyst_snippets(data)
         stories_block, story_count = build_meaning_prompt(data, snippets)
-        meanings_result = call_gemini_meanings(stories_block, story_count)
+        time.sleep(3)  # small buffer against back-to-back rate limiting right after the first Gemini call
+        meanings_result = call_gemini_meanings_with_retries(stories_block, story_count)
         data = apply_grounded_meanings(data, meanings_result)
 
         data = attach_images(data)
