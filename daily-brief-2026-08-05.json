@@ -1,0 +1,287 @@
+{
+  "date": "2026-08-05",
+  "predictions": [
+    {
+      "section": "tech",
+      "headline": "White House calls in AI giants for safety check",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMW5rV0FSWFJPMHJTa2s5YWJnRGgxQkY2aHhidkVJM3NxMWxSOTNPTFhaSElOZkpuV3lENHBoMm0wYnh5bW1GOGg3LXJwWDgzMXF1STFLN3lGZGFOVFdzOE9EYW1zbTUwU3p4WnFBSHlzdlRnNFJ1MFBXRmc1Y0VTTDdhdHVwN0pHRWhkX3VpNU5qcmfSAZgBQVVfeXFMUDEzVmFWTS1NWEpvZVdZZzdyQ1RKalk0cGVqYlY2dGZiU1Nhdm51ZmpZd0duUUJOM3A1M0w2Q0UzbUlVZ1VYYkQ0R0Q3RUR0THoyVGs5WTMwQ2ZNeVZYSkZhYklXRTBMaDNNNEFNd085ZTF4ZjY2QXRUWklUMWIycU5nbTNhRTQ1TkJpbER2VFpIczFJNHRjMmY?oc=5",
+      "prediction": "Expect a formal 'Safety Certification' program to be announced before the end of Q3 2024, requiring audits that cost six figures per model.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "Jamie Dimon leads industry-wide push to manage AI risk",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQ0c3VVB0M2tSWWVwaERKZU9FX3lrMjVGMnhoSU5zZl8zbm5wSlRlWThrTEpld1N1SVhFZlFTWng2TVlWb3VscElUZFAtT0hBakY0YTZqbm05R2hkVFh5ZHp0T3JKMXFlM1BtaFoyNXRqaHdpTmpkTWtyZkNFb3FuV3VFNW1yYlhjaXNpbjIxZ1A4elQ3X3UyN1NTbmhxc0N3OFBEZHNiUzcyZUxodFJ3eURmbzRCQm41bVBOSXhIbE1iWVdldzE1Y0ZYOHRqUG42SmJLcVRKalpTeUZKMjJxb0xlWTN3QdIB7AFBVV95cUxPWFhnNWVNVHY4eTE0UC1kSVJMQzhOdmtBTERreGk5WEIzMzhNbVR5a241TDByNHByeE9kSC1uX2tyeld6Z2lLT0tTWWJEbW44dGEwWkxBUW5iNVFBOEtxdC1hYUhrODFoc3l5NnRlakhHREZsdEZMWnUtVFUyU1Z1WE1NOWo3WEF2ZnhpMmRQMzRYNEt6Vmhqd2NBN01ISkNIXzBpTUxhNzRGbkRfNkduSTZHZ2RaMVV1QW1Hd0VaS3hIT0tGQkhxNzF5UWZoUHRUVFV2RkhRbkZHT2JWbklRSDRZUlYtMW1raG9FMg?oc=5",
+      "prediction": "JPMorgan will announce a major AI-related data-sharing partnership with at least three other global systemically important banks (G-SIBs) within six months.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "New flash memory breakthrough hits record data density",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWWdkbXQyd0tXQ2lkV00tc3gwUkNLU05IbDVPd1d6dW9IVzEweWoyVlVkOC03WGpwckhrMzh0cGpJZzBQT2dwV0l3eDVQaE8wVmZZMkZqa1hNVHpyOUQ4cmlFcHNzd3RQbHdLV2Fpd0RVWXZYdllkUkhQWmFJcWs3emtUY2NFNnd5amVmcFhhcjFqUG44RGgxT2RRQnpab0JWSk43NVh0LXNCeTdqM2lEMXhFNXdYeTdxYmtfNk45TmN0dkhhMFFjV0xPVllneUU1OGZ0LXl1ZGp6YkpZRlNwZklIVHJ6eU9iejI1UDItekRwOFh2QWc?oc=5",
+      "prediction": "Expect Western Digital to announce a major supply contract for these high-density chips with a top-three global smartphone OEM by early 2025.",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "China's tech giants shift focus to practical AI use",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNcGlBTW0xLVRsdEJONFhocHNmRmxxeWlBR3VmYWlkY2dRakRnN1BQUTZ2cndDTzdMeGtPMjYzQXRnUk4tLWtlZlBBSmJCdHBpdFFQTzJwNXFJeS10YnRNOUF3?oc=5",
+      "prediction": "A Chinese-developed AI productivity app will hit the top 10 most downloaded list in at least five Western European markets before the end of the year.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Stocks hit records as Middle East tensions show signs of easing",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdnNodFRlOXZtOTlIUnRSTlFmbTVsUF82dFRfeXlKYVAwUHZidGt1eU5GcmpYMHRSYmVMa2pHY0I4d2dtTThnLWJGdWF6NTk2a0ZXNlNhTDk5Z2R0VE5BRjllOWJENWFGOXR0QWNreWVSbjVWQVFXQ0pJQlFvaUpDeGI4VnRUYW8wOXZ5SFkxVWxfeENoYVcxQ1FtRjNLaHVKd290V0ZLRWpJTDcyTElDbmNKTDJCVDZp0gG-AUFVX3lxTE9BLU5sYmQzSWNsVUdkeXFmSXhPbUZ1eU51cFdtbEo3d3FCU1VlMUVINGZKOXZXaWVDanpJT2JSS3ZKZXhic2MwYzVNQTRSd0ZMSGswODVsemh0a3drY0JqNkx4MHBueWdmamtjU3N6amJQemh1cUthOGowdzJ2VmxaUU93WjlSZmlRMnQ4NEpZa3MxdWdRZmxOLWU1Z1dCTk5haGpkOWlFNUlxUFdtbGJIeE5VakM0VzFSMUY5S0E?oc=5",
+      "prediction": "The S&P 500 will sustain levels above 5,500 through the next FOMC meeting if the Hormuz deal is formally signed.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Private equity firms swarm UK-based Bodycote",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ2JvbEZmd0hNd2IyYUpfbjdTdTFaUzB4SEw2RjE5cHgzWGFxWktTOUNwaXhGVlNXWU5CRjI4SjhqN1QtdGRqVXhTYWxMcWFDelE3NE9fV09ObEFDVXB1b0NhdGpNeWRNV0NUVWNQRVNSS1NhWWJPZ0RPcU5RUTdKc1VmeG4?oc=5",
+      "prediction": "A bidding war will push the final acquisition price to at least a 40% premium over Bodycote's 30-day volume-weighted average price.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Small investors jump on SpaceX stock before new supply hits",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaldIU01TclRqSWNWRzI5Vkc5Y3V1Q01GZmlTWGg3WXl3cjgwYzl0TGNnQjc1aHY4amZURll2TE5rd1cxRG1fblJlRno4dS1wUlo5dTQxd3J2emZ3cXpVVWdBUzktR1dCUi10YTZYVlhLR2syWTdzZEVXeG1tZVhpcVp4V3lncEZSYW42UXZXZFBZUWNVZTNaV0Y4blRjVTJ3ZEUxekxNczJkU0VrNW1EcExmQlY1amxuOVNxVS1Db2FwcU5uNXlZaHZiTQ?oc=5",
+      "prediction": "Secondary market prices for SpaceX will trade at a premium of at least 15% over the eventual IPO list price due to retail over-subscription.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Younger generations build a $3 trillion stock market cushion",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2MWQ0TEtmbm81RmpoMWR3a2phcGFnR2NCa0lqazBWVTJodDJyeFVOTlh4MllwV3ZhVHRoUkFPLWFndE5BUVB6b2dleGJEel9sd3FnTTlCNVRsQ2dEZ0hOYnFYYUVoUGpHNXF2T2xrOWFIQQ?oc=5",
+      "prediction": "Equity ownership rates among the under-35 demographic will hit an all-time high of over 60% by the end of 2025.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "Demis Hassabis departs as head of Google DeepMind",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1OaExwUzJFX0xDWmVYTWJ0ZlBxcHB0Nm96cUZfcTY2dFNqZi13aF84QXh3c3VFLTdvRTNwLW1RVU9jZ0Y0ZjdWSlRXZnRoaUJiLU9udl9fQTBkX2JMemN4ZURpbEo3RXJndW10X3hsWWtydFB0?oc=5",
+      "prediction": "Alphabet will lose at least two more VP-level AI researchers to competitors within 60 days of Hassabis's formal exit date.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Kyiv reports North Korean troops entering Ukraine conflict",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTk16aUxEZk14Y0k5NlN6RDlTeDcxemp5NmMtY0NnNjNFTGdjMVkzM0dDbEhkQ0I2MWE0RkVUeUs3bllQdjJ5MXpmMGtFaXVwd3d1N3BaMWdtbW1xVG1ieFNrWGdKQklHdzdMd29PMEQwUG8xZXpLTHVzMHhlREI0SU1oSlFGT05UOC1yRndobVNZb04zR3gySHln?oc=5",
+      "prediction": "South Korea will announce its first direct shipment of 155mm artillery shells to Ukraine before the end of the year.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Disney beats expectations on theme parks and sequels",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYnBwZ0Rjc2ZNTWJWcXlzLW9GT0sxTFJscmhPZmRpQWpWX0JINTctRERlZS1YNFQwaFRDVUk3Smh2aDhYUmwzWWVxWlp3eXVESTlxRlpKeVMtS2tiOFVWOGMwNW9uem1IaERRbERNTGs0NUxjT2M4dkpyUS1zYlBSTjRVaVlXNnM?oc=5",
+      "prediction": "Disney will announce three more sequels or 're-imaginings' of legacy franchises during their next earnings call to appease investors.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "New Mexico sues DOJ over stalled Epstein investigation",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT21jOVRvVVY1RFRlbDVWSWdwTEg4bkRHZldxRjNDVnprU2xoMlFKZG42X2NXMVZBYk54eUYyblRIM1hDeE5MNGN6VlZfQnNJVzBEbkZ1a3lXQURnT2dsdEZCa21EaFk5azlBMGNsNExoa3NyOWtXbGVBWXQ3anJiZDljS3lSejQ0SENXOE13cUIxQnZERmRfX3h1N1hhWG9CWFpMTnZRY3dEaEc0ZlM4bTlsYzlPaXZicGc?oc=5",
+      "prediction": "A federal judge will grant a limited discovery motion for New Mexico by Q1 2025, forcing the DOJ to release at least one previously redacted set of flight logs.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia offers dual citizenship to stop 'brain drain'",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdlduOHVtbXJrSmdUU2M1RllvWVBsU1ZqUnhhY0EyV2Z0R0tfbUFqWUlhY0tpNEFsd3I1cVgtanVfWmRUU01LbmJlTFVucXV6NTFId0lsb0VfWjRBdlZkVmdCOVpZbzI5bTVSc0J2TTktaE5XTDdVZjdqSTgwWGM5bWtCcURPb2ZCa3kxbGdEdW1LYlNNS2I1WnRHd0dydw?oc=5",
+      "prediction": "The number of tech-related FDI projects in Jakarta will increase by 20% in the year following the bill's passage.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "New copyright law targets Google and AI developers",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ3dUZEU3QUhQc25HUlh0TXVWaDl1YlIwdVFNUm9vLWZ3QjgtVjV4RWZaemdSeFFiYUZjbEg4Mmt2WUhCa2hLNS11QzVaVXlHQkNEWnJKN2tUVThNeTRtTS1MN0hKeWlJOUFaVXFUS3hqZ0JWbDBsZVRlMk1nT0QxM2ZHRkRVVHhMbi00d1hVQnhOdjMxZ0pFSTludWtzU0RXN3I1WVpleWlTSkk3Zk9Kb19CbjhFVG1nOFR3?oc=5",
+      "prediction": "Google will pause the rollout of at least one major AI feature in Indonesia specifically citing this legislative hurdle before year-end.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Concerns grow over government's heavy hand in the economy",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZkpJZUQyb2dua2JwYzlUOGtmVXN1cjRGZUkxYlNkOVRPT0VOWG5PbE1vcGl1OXAwZE9GU3prRHB2WFFacVBVcGNPWkItQkhYV2ZLTDloWURFWGMtaWlxemhQeFNic0RTdDJMR2NaNi1UZnlIVDczRXExel84dFhXbDVSSVB5TUdIQjZNdzZPbUNXMGtYRG5HdkJDQU9JTHQxTWY0a0xldFRwdmY3T3pnbU5R?oc=5",
+      "prediction": "Indonesian sovereign bond yields will widen relative to Malaysian and Thai peers by at least 25 basis points over the next two quarters.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia and Thailand target massive trade expansion",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR3gtSVFRaUlHaWdVMWRrU0ZGa2NsT3pnU3hudjFmZ2daT2liNUVNQ0EzREc4XzBXU2VtN0gyd0FHOUNPUVlHazlKMk9DSUhILW5lNlNoODhzVWNRZnBaejl1dHA1b0hiRlRReXVRcGJrOGh6R19TS2NUZU5sZkdlWC12U2xvNGpKVHBuLW1PZDZDMlZpVXhnVERteGxKblIydjd1aGs1MA?oc=5",
+      "prediction": "Indonesia and Thailand will announce a joint 'Special Economic Zone' focused on EV parts and batteries by mid-2025.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin hitches a ride on the Japanese Yen",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5",
+      "prediction": "Bitcoin will see a 5%+ intraday drop every time the USD/JPY exchange rate falls by more than 1% in the next three months.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Traders bet big on Bitcoin hitting $72,000 this month",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQUVjWVNuQlFWUUQ4cF9oQkl0VTdndHp4ZU53dDIycDVmVkVDMmlvRDVvcFhhY2VzZGFTYzdRYnFIeXRBNWJiZW5OZWdBbW5FZ2pyanVHTlQwQlNqOElOX2JSQVRUb0RSb3BVMWFZa0hvQXJOd2xkaTkwSWVBNUdqRmZTWTFuRVhuUUdUVU91R0hER2ZKb3A3R1FtRkV0MWZZenVEcE9GbTR0LThnSTJHZTBwNWV5M3l4aVNjSjJjT0hrcVc3bHc?oc=5",
+      "prediction": "Bitcoin will test the $72,000 level within 48 hours of the next FOMC rate announcement.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "The 'inflation hedge' argument for Bitcoin is failing",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd0NzNjF6ell3SGlCRXM5MXFUVGoyaURaRThHXy1oazN3UDcwRXFIeW1ab1BYbVdzUjhnQzVyZGZNSzVjNlhiZUtiM3EwUUdaMXFlaEpPZm1hSGZ6TlJxVHhZTExPYWZpSU8yUnhsT3JsOGxlNUdNTnM2ZS1mZ3NRZDdlVExPMU0?oc=5",
+      "prediction": "MicroStrategy shares (MSTR) will underperform Bitcoin spot by at least 10% this quarter as investors realize the 'infinite leverage' trade is hitting its ceiling.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Crypto markets go quiet as geopolitical risks rise",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMndtc2Z4NkNHVVNIa3NTbGV5YnlLN29HY3hNYk5sLVM0N180eFBRWHQxMG1zQTQyc0RkNzJCSWV6OExCNUl2SXBrVHd2cUxOSng1NWE4ZlhpbUNqRm9MdkdkbWVLdnVxMUlKWUZXRzlmRWV4WVhDbDd2ZDdVRlBZQzBnd2cwdmZsRzZaM25ZWVJxVkh0cXVyelVGTmlTWm5k?oc=5",
+      "prediction": "Defense-sector ETFs (like ITA) will outperform Bitcoin by at least 5% over the next 30 days if US strikes in the Middle East continue.",
+      "grounded": true
+    }
+  ],
+  "stories": [
+    {
+      "section": "tech",
+      "headline": "White House calls in AI giants for safety check",
+      "summary": "The Biden administration is meeting with top tech firms to review a new framework for testing the safety and reliability of AI models.",
+      "view": "This meeting is less about safety and more about regulatory capture. The AI giants are incentivized to bake their own safety frameworks into federal law, creating a massive compliance moat that effectively kills smaller, open-source competitors before they can scale. Google and Meta win by becoming the state-sanctioned 'safe' providers.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMW5rV0FSWFJPMHJTa2s5YWJnRGgxQkY2aHhidkVJM3NxMWxSOTNPTFhaSElOZkpuV3lENHBoMm0wYnh5bW1GOGg3LXJwWDgzMXF1STFLN3lGZGFOVFdzOE9EYW1zbTUwU3p4WnFBSHlzdlRnNFJ1MFBXRmc1Y0VTTDdhdHVwN0pHRWhkX3VpNU5qcmfSAZgBQVVfeXFMUDEzVmFWTS1NWEpvZVdZZzdyQ1RKalk0cGVqYlY2dGZiU1Nhdm51ZmpZd0duUUJOM3A1M0w2Q0UzbUlVZ1VYYkQ0R0Q3RUR0THoyVGs5WTMwQ2ZNeVZYSkZhYklXRTBMaDNNNEFNd085ZTF4ZjY2QXRUWklUMWIycU5nbTNhRTQ1TkJpbER2VFpIczFJNHRjMmY?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Jamie Dimon leads industry-wide push to manage AI risk",
+      "summary": "JPMorgan's CEO is spearheading a cross-industry group to tackle systemic risks and security threats posed by artificial intelligence.",
+      "view": "Jamie Dimon is making a defensive play to keep the SEC and CFPB at arm's length by demonstrating the industry can police its own AI adoption. By leading this group, JPMorgan ensures that 'standardized risk' is defined by their own existing infrastructure, forcing smaller fintechs and regional banks to adopt JPM-aligned tools or face regulatory scrutiny.",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQ0c3VVB0M2tSWWVwaERKZU9FX3lrMjVGMnhoSU5zZl8zbm5wSlRlWThrTEpld1N1SVhFZlFTWng2TVlWb3VscElUZFAtT0hBakY0YTZqbm05R2hkVFh5ZHp0T3JKMXFlM1BtaFoyNXRqaHdpTmpkTWtyZkNFb3FuV3VFNW1yYlhjaXNpbjIxZ1A4elQ3X3UyN1NTbmhxc0N3OFBEZHNiUzcyZUxodFJ3eURmbzRCQm41bVBOSXhIbE1iWVdldzE1Y0ZYOHRqUG42SmJLcVRKalpTeUZKMjJxb0xlWTN3QdIB7AFBVV95cUxPWFhnNWVNVHY4eTE0UC1kSVJMQzhOdmtBTERreGk5WEIzMzhNbVR5a241TDByNHByeE9kSC1uX2tyeld6Z2lLT0tTWWJEbW44dGEwWkxBUW5iNVFBOEtxdC1hYUhrODFoc3l5NnRlakhHREZsdEZMWnUtVFUyU1Z1WE1NOWo3WEF2ZnhpMmRQMzRYNEt6Vmhqd2NBN01ISkNIXzBpTUxhNzRGbkRfNkduSTZHZ2RaMVV1QW1Hd0VaS3hIT0tGQkhxNzF5UWZoUHRUVFV2RkhRbkZHT2JWbklRSDRZUlYtMW1raG9FMg?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "New flash memory breakthrough hits record data density",
+      "summary": "Kioxia and Western Digital's SanDisk have developed a new 3D flash memory technology that stores significantly more data in less space.",
+      "view": "This is a direct strike at Samsung's dominance in the mobile and edge AI space. Higher density in a smaller 3D footprint is the 'holy grail' for local LLM execution on devices; SanDisk and Kioxia are positioning themselves as the primary suppliers for the next generation of 'AI Smartphones' that require massive local storage for model weights.",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWWdkbXQyd0tXQ2lkV00tc3gwUkNLU05IbDVPd1d6dW9IVzEweWoyVlVkOC03WGpwckhrMzh0cGpJZzBQT2dwV0l3eDVQaE8wVmZZMkZqa1hNVHpyOUQ4cmlFcHNzd3RQbHdLV2Fpd0RVWXZYdllkUkhQWmFJcWs3emtUY2NFNnd5amVmcFhhcjFqUG44RGgxT2RRQnpab0JWSk43NVh0LXNCeTdqM2lEMXhFNXdYeTdxYmtfNk45TmN0dkhhMFFjV0xPVllneUU1OGZ0LXl1ZGp6YkpZRlNwZklIVHJ6eU9iejI1UDItekRwOFh2QWc?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "China's tech giants shift focus to practical AI use",
+      "summary": "Major Chinese companies are moving away from building massive new models and are instead hunting for talent to build real-world applications.",
+      "view": "China is pragmatically pivoting away from the 'Compute Arms Race' with the US because they know they cannot win on hardware. By focusing on low-cost, hyper-efficient models like DeepSeek, they are aiming to dominate the 'Utility Layer' of AI\u2014SaaS and productivity tools\u2014where the winner is determined by integration and price, not just raw parameter count.",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNcGlBTW0xLVRsdEJONFhocHNmRmxxeWlBR3VmYWlkY2dRakRnN1BQUTZ2cndDTzdMeGtPMjYzQXRnUk4tLWtlZlBBSmJCdHBpdFFQTzJwNXFJeS10YnRNOUF3?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Stocks hit records as Middle East tensions show signs of easing",
+      "summary": "The S&P 500 and Dow reached new highs following reports that a deal to keep the Strait of Hormuz open is near.",
+      "view": "The market is aggressively pricing in a 'Goldilocks' outcome where geopolitical de-escalation meets a dovish Fed pivot under Warsh. Energy stocks are the immediate losers as 'conflict premiums' are sucked out of crude oil, but consumer discretionary and transport will catch a massive tailwind from lower fuel costs and stabilized trade routes.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdnNodFRlOXZtOTlIUnRSTlFmbTVsUF82dFRfeXlKYVAwUHZidGt1eU5GcmpYMHRSYmVMa2pHY0I4d2dtTThnLWJGdWF6NTk2a0ZXNlNhTDk5Z2R0VE5BRjllOWJENWFGOXR0QWNreWVSbjVWQVFXQ0pJQlFvaUpDeGI4VnRUYW8wOXZ5SFkxVWxfeENoYVcxQ1FtRjNLaHVKd290V0ZLRWpJTDcyTElDbmNKTDJCVDZp0gG-AUFVX3lxTE9BLU5sYmQzSWNsVUdkeXFmSXhPbUZ1eU51cFdtbEo3d3FCU1VlMUVINGZKOXZXaWVDanpJT2JSS3ZKZXhic2MwYzVNQTRSd0ZMSGswODVsemh0a3drY0JqNkx4MHBueWdmamtjU3N6amJQemh1cUthOGowdzJ2VmxaUU93WjlSZmlRMnQ4NEpZa3MxdWdRZmxOLWU1Z1dCTk5haGpkOWlFNUlxUFdtbGJIeE5VakM0VzFSMUY5S0E?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Private equity firms swarm UK-based Bodycote",
+      "summary": "Industrial engineering firm Bodycote has received two separate buyout offers as private equity players hunt for value in London's market.",
+      "view": "Bodycote is a classic 'undervalued UK gem' play where PE firms are exploiting the massive valuation gap between London-listed industrials and their US peers. Its specialized thermal processing services are an essential bottleneck in the aerospace and defense supply chains, making it a high-moat asset that can support significant leverage once taken private.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ2JvbEZmd0hNd2IyYUpfbjdTdTFaUzB4SEw2RjE5cHgzWGFxWktTOUNwaXhGVlNXWU5CRjI4SjhqN1QtdGRqVXhTYWxMcWFDelE3NE9fV09ObEFDVXB1b0NhdGpNeWRNV0NUVWNQRVNSS1NhWWJPZ0RPcU5RUTdKc1VmeG4?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Small investors jump on SpaceX stock before new supply hits",
+      "summary": "Retail traders are aggressively buying SpaceX shares in secondary markets before the company issues more equity.",
+      "view": "Retail investors are acting as exit liquidity for VCs and early employees who are eager to lock in gains before the IPO window potentially cools. The $1.75T valuation is entirely disconnected from current launch revenue and relies on the 'Starlink-to-everything' narrative, creating a massive downside risk for late-coming retail traders if the IPO is delayed further.",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaldIU01TclRqSWNWRzI5Vkc5Y3V1Q01GZmlTWGg3WXl3cjgwYzl0TGNnQjc1aHY4amZURll2TE5rd1cxRG1fblJlRno4dS1wUlo5dTQxd3J2emZ3cXpVVWdBUzktR1dCUi10YTZYVlhLR2syWTdzZEVXeG1tZVhpcVp4V3lncEZSYW42UXZXZFBZUWNVZTNaV0Y4blRjVTJ3ZEUxekxNczJkU0VrNW1EcExmQlY1amxuOVNxVS1Db2FwcU5uNXlZaHZiTQ?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Younger generations build a $3 trillion stock market cushion",
+      "summary": "Blocked from the housing market by high prices, Gen Z and Millennials have diverted their savings into a massive $3.1 trillion stock portfolio.",
+      "view": "This isn't a 'savings cushion'; it's a structural pivot where the stock market has replaced housing as the primary engine of generational wealth building. By locking $3 trillion into equities because they can't afford homes, Gen Z and Millennials have created a permanent, price-insensitive bid for the S&P 500 that the Fed will be forced to protect to avoid a 'wealth effect' collapse.",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2MWQ0TEtmbm81RmpoMWR3a2phcGFnR2NCa0lqazBWVTJodDJyeFVOTlh4MllwV3ZhVHRoUkFPLWFndE5BUVB6b2dleGJEel9sd3FnTTlCNVRsQ2dEZ0hOYnFYYUVoUGpHNXF2T2xrOWFIQQ?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Demis Hassabis departs as head of Google DeepMind",
+      "summary": "The co-founder and CEO of Google's premier AI lab, Demis Hassabis, is stepping down from his leadership role.",
+      "view": "Hassabis's departure marks the final death of the 'research-first' era at Alphabet. Google is ruthlessly centralizing its AI labs to prioritize shipping products like Gemini over long-term scientific breakthroughs, which will trigger a massive brain drain of top researchers to nimble startups like Anthropic and Perplexity.",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1OaExwUzJFX0xDWmVYTWJ0ZlBxcHB0Nm96cUZfcTY2dFNqZi13aF84QXh3c3VFLTdvRTNwLW1RVU9jZ0Y0ZjdWSlRXZnRoaUJiLU9udl9fQTBkX2JMemN4ZURpbEo3RXJndW10X3hsWWtydFB0?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Kyiv reports North Korean troops entering Ukraine conflict",
+      "summary": "A North Korean missile unit has reportedly deployed to Russia to support its ongoing war efforts in Ukraine.",
+      "view": "This is the crystallization of a 'New Axis' where North Korea provides the 'dumb' mass\u2014artillery and infantry\u2014allowing Russia to conserve its high-tech assets and domestic manpower. The geopolitical winner is Kim Jong Un, who is receiving real-world ballistic data and Russian nuclear/satellite technology in exchange for what is essentially disposable labor.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTk16aUxEZk14Y0k5NlN6RDlTeDcxemp5NmMtY0NnNjNFTGdjMVkzM0dDbEhkQ0I2MWE0RkVUeUs3bllQdjJ5MXpmMGtFaXVwd3d1N3BaMWdtbW1xVG1ieFNrWGdKQklHdzdMd29PMEQwUG8xZXpLTHVzMHhlREI0SU1oSlFGT05UOC1yRndobVNZb04zR3gySHln?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Disney beats expectations on theme parks and sequels",
+      "summary": "Strong attendance at theme parks and the success of 'Toy Story 5' helped Disney post better-than-expected quarterly results.",
+      "view": "Disney is retreating into a 'Nostalgia Fortress' because they have failed to create a new, culturally dominant franchise in the last five years. While sequels like 'Toy Story 5' provide safe EPS beats, the company's long-term growth is capped by the inevitable diminishing returns of milking decades-old IP to cover for linear TV's terminal decline.",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYnBwZ0Rjc2ZNTWJWcXlzLW9GT0sxTFJscmhPZmRpQWpWX0JINTctRERlZS1YNFQwaFRDVUk3Smh2aDhYUmwzWWVxWlp3eXVESTlxRlpKeVMtS2tiOFVWOGMwNW9uem1IaERRbERNTGs0NUxjT2M4dkpyUS1zYlBSTjRVaVlXNnM?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "New Mexico sues DOJ over stalled Epstein investigation",
+      "summary": "State officials in New Mexico claim the Department of Justice is blocking their probe into Jeffrey Epstein\u2019s activities in the state.",
+      "view": "This lawsuit is a tactical move by New Mexico to bypass the DOJ's 'gatekeeping' of the Epstein investigation. If the state secures discovery, they will likely release documents and names that the federal government has kept under seal, creating massive reputational and legal liability for high-net-worth individuals previously thought to be 'safe'.",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT21jOVRvVVY1RFRlbDVWSWdwTEg4bkRHZldxRjNDVnprU2xoMlFKZG42X2NXMVZBYk54eUYyblRIM1hDeE5MNGN6VlZfQnNJVzBEbkZ1a3lXQURnT2dsdEZCa21EaFk5azlBMGNsNExoa3NyOWtXbGVBWXQ3anJiZDljS3lSejQ0SENXOE13cUIxQnZERmRfX3h1N1hhWG9CWFpMTnZRY3dEaEc0ZlM4bTlsYzlPaXZicGc?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia offers dual citizenship to stop 'brain drain'",
+      "summary": "The government is proposing a limited dual citizenship program to attract and retain global talent and the Indonesian diaspora.",
+      "view": "Indonesia is finally admitting that its strict 'one citizenship' rule is an economic handicap. This dual citizenship program is a masterstroke to claw back the 'wealthy diaspora' in Singapore; it will trigger a surge in direct investment into Indonesian tech startups as overseas citizens no longer fear losing their property rights or legal status.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdlduOHVtbXJrSmdUU2M1RllvWVBsU1ZqUnhhY0EyV2Z0R0tfbUFqWUlhY0tpNEFsd3I1cVgtanVfWmRUU01LbmJlTFVucXV6NTFId0lsb0VfWjRBdlZkVmdCOVpZbzI5bTVSc0J2TTktaE5XTDdVZjdqSTgwWGM5bWtCcURPb2ZCa3kxbGdEdW1LYlNNS2I1WnRHd0dydw?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "New copyright law targets Google and AI developers",
+      "summary": "Indonesia is drafting legislation that would force AI platforms and search engines to pay for the content they use.",
+      "view": "This law is a protectionist levy disguised as copyright reform, designed to transfer wealth from Silicon Valley to Indonesian media conglomerates. By forcing AI platforms to pay for scraping, Indonesia is effectively setting a 'tax' that Google and OpenAI will either pay (setting a global precedent) or avoid by geofencing their most advanced tools away from Indonesian users.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ3dUZEU3QUhQc25HUlh0TXVWaDl1YlIwdVFNUm9vLWZ3QjgtVjV4RWZaemdSeFFiYUZjbEg4Mmt2WUhCa2hLNS11QzVaVXlHQkNEWnJKN2tUVThNeTRtTS1MN0hKeWlJOUFaVXFUS3hqZ0JWbDBsZVRlMk1nT0QxM2ZHRkRVVHhMbi00d1hVQnhOdjMxZ0pFSTludWtzU0RXN3I1WVpleWlTSkk3Zk9Kb19CbjhFVG1nOFR3?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Concerns grow over government's heavy hand in the economy",
+      "summary": "Analysts warn that President Prabowo\u2019s interventionist policies are beginning to dent investor confidence.",
+      "view": "Prabowo's 'Command Economy' approach is creating a 'sovereign risk' premium that will drive away Western institutional capital. While his interventionist policies might shore up domestic industries in the short term, the lack of transparency and the tendency to favor state-linked firms will force private equity to look toward Vietnam or India instead.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZkpJZUQyb2dua2JwYzlUOGtmVXN1cjRGZUkxYlNkOVRPT0VOWG5PbE1vcGl1OXAwZE9GU3prRHB2WFFacVBVcGNPWkItQkhYV2ZLTDloWURFWGMtaWlxemhQeFNic0RTdDJMR2NaNi1UZnlIVDczRXExel84dFhXbDVSSVB5TUdIQjZNdzZPbUNXMGtYRG5HdkJDQU9JTHQxTWY0a0xldFRwdmY3T3pnbU5R?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia and Thailand target massive trade expansion",
+      "summary": "The two Southeast Asian neighbors aim to grow their bilateral trade to $20 billion annually by the year 2030.",
+      "view": "This $20B target is a strategic move to create a 'Mini-Bloc' within ASEAN that can weather the storm of US-China trade decoupling. By integrating their supply chains, Indonesia and Thailand are positioning themselves as the primary alternative for manufacturers fleeing China who want to avoid the risks of being caught in a bilateral tariff war.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR3gtSVFRaUlHaWdVMWRrU0ZGa2NsT3pnU3hudjFmZ2daT2liNUVNQ0EzREc4XzBXU2VtN0gyd0FHOUNPUVlHazlKMk9DSUhILW5lNlNoODhzVWNRZnBaejl1dHA1b0hiRlRReXVRcGJrOGh6R19TS2NUZU5sZkdlWC12U2xvNGpKVHBuLW1PZDZDMlZpVXhnVERteGxKblIydjd1aGs1MA?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin hitches a ride on the Japanese Yen",
+      "summary": "The correlation between Bitcoin and the USD/JPY exchange rate has hit an extreme level of -0.90.",
+      "view": "Bitcoin has become a pure 'Yen-Carry Trade' proxy. When the Yen strengthens (USD/JPY drops), it signals a global 'risk-off' deleveraging event that forces traders to sell their most liquid crypto assets to cover Yen-denominated loans, rendering the 'digital gold' narrative irrelevant in a liquidity crisis.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Traders bet big on Bitcoin hitting $72,000 this month",
+      "summary": "A surge in 'call spread' options indicates that professional traders are positioning for a major rally before the next Fed meeting.",
+      "view": "The $72,000 call spread concentration is creating a massive 'Gamma Magnet' that will likely pull the market toward that level as market makers are forced to buy spot BTC to hedge their short call positions. This is a technical setup for a 'short squeeze' that could blow past $72k if the Fed doesn't deliver a hawkish surprise.",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQUVjWVNuQlFWUUQ4cF9oQkl0VTdndHp4ZU53dDIycDVmVkVDMmlvRDVvcFhhY2VzZGFTYzdRYnFIeXRBNWJiZW5OZWdBbW5FZ2pyanVHTlQwQlNqOElOX2JSQVRUb0RSb3BVMWFZa0hvQXJOd2xkaTkwSWVBNUdqRmZTWTFuRVhuUUdUVU91R0hER2ZKb3A3R1FtRkV0MWZZenVEcE9GbTR0LThnSTJHZTBwNWV5M3l4aVNjSjJjT0hrcVc3bHc?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "The 'inflation hedge' argument for Bitcoin is failing",
+      "summary": "As the U.S. dollar stabilizes and the 'debasement trade' fades, Bitcoin's price is under sustained pressure.",
+      "view": "The 'Inflation Hedge' narrative is dead; Bitcoin is now a 'Liquidity Sponge.' As the US dollar stabilizes and the Fed proves it can control CPI without a total meltdown, the opportunity cost of holding non-yielding crypto assets rises, making Bitcoin a loser in a 'higher-for-longer' real yield environment.",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd0NzNjF6ell3SGlCRXM5MXFUVGoyaURaRThHXy1oazN3UDcwRXFIeW1ab1BYbVdzUjhnQzVyZGZNSzVjNlhiZUtiM3EwUUdaMXFlaEpPZm1hSGZ6TlJxVHhZTExPYWZpSU8yUnhsT3JsOGxlNUdNTnM2ZS1mZ3NRZDdlVExPMU0?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Crypto markets go quiet as geopolitical risks rise",
+      "summary": "Bitcoin and major altcoins remained mostly flat or dipped slightly as news broke of U.S. strikes in the Middle East.",
+      "view": "In a kinetic conflict, 'Safe Haven' status belongs to things you can burn (oil) or use for defense (Lockheed shares), not digital entries. Crypto's flat performance during Middle East strikes proves that in a true 'hot war' scenario, institutional capital flees to the most liquid, government-backed assets, leaving crypto as an afterthought.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMndtc2Z4NkNHVVNIa3NTbGV5YnlLN29HY3hNYk5sLVM0N180eFBRWHQxMG1zQTQyc0RkNzJCSWV6OExCNUl2SXBrVHd2cUxOSng1NWE4ZlhpbUNqRm9MdkdkbWVLdnVxMUlKWUZXRzlmRWV4WVhDbDd2ZDdVRlBZQzBnd2cwdmZsRzZaM25ZWVJxVkh0cXVyelVGTmlTWm5k?oc=5"
+    }
+  ]
+}

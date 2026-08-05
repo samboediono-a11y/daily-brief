@@ -6,42 +6,54 @@
       "headline": "White House and AI giants to set new model testing rules",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMW5rV0FSWFJPMHJTa2s5YWJnRGgxQkY2aHhidkVJM3NxMWxSOTNPTFhaSElOZkpuV3lENHBoMm0wYnh5bW1GOGg3LXJwWDgzMXF1STFLN3lGZGFOVFdzOE9EYW1zbTUwU3p4WnFBSHlzdlRnNFJ1MFBXRmc1Y0VTTDdhdHVwN0pHRWhkX3VpNU5qcmfSAZgBQVVfeXFMUDEzVmFWTS1NWEpvZVdZZzdyQ1RKalk0cGVqYlY2dGZiU1Nhdm51ZmpZd0duUUJOM3A1M0w2Q0UzbUlVZ1VYYkQ0R0Q3RUR0THoyVGs5WTMwQ2ZNeVZYSkZhYklXRTBMaDNNNEFNd085ZTF4ZjY2QXRUWklUMWIycU5nbTNhRTQ1TkJpbER2VFpIczFJNHRjMmY?oc=5",
       "prediction": "Expect the final framework to mandate a minimum 30-day 'red team' window for any model exceeding a specific compute threshold before public release, starting in Q4.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new information has been provided regarding the implementation of the 30-day red team framework for AI models."
     },
     {
       "section": "tech",
       "headline": "New warnings suggest China has neutralized the U.S. AI lead",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EVTd0dkY4M2ZFa0NkaHhDdzFibUc1OUhwc1lTaTQ2bG5BeGZHbUxXRnZOT3RPNTZNVzlEMVBveHA2V1pwTnVLOG5MNXpXdjVtX1BPMXZlbk53TjFRZWgwWFVCRWRqVE8wZ0NtSWdsXzZhcDZf0gF6QVVfeXFMUGdycGp6MllJMGVuZWJLeHBweV82Ym1meERmMkhkbk54S3RZbGNpMkVidzdTVk5tRGYwZnAzY21YUmc1ZG9oR0Jwb1FRSW1qWURYb0k2Z1VjMlF1ZmpDYk1wN1NGM2hCbjJ1SXYwN1NHUFJkaGV6UUpELXc?oc=5",
       "prediction": "The U.S. Commerce Department will announce a new, more restrictive tier of cloud-computing export controls specifically targeting GPU clusters by the end of the year.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "While export controls and Nvidia sales caps are mentioned, there is no specific confirmation of a new Commerce Department tier targeting GPU clusters in cloud computing."
     },
     {
       "section": "tech",
       "headline": "Defense startups thrive as traditional software companies face AI headwinds",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRajA5SzJCclZOOXI5dUtJZUNyMnhPRmR2b19PRnFXeDhKMXE5NWlDV05mcVNFX25DSnVaZWZaallmam9iSFNHdGhtUV9qLW9pcndKSDBOVDlLbE9Zc2NyZnY2MA?oc=5",
       "prediction": "At least two defense-tech 'unicorns' will announce IPO filings or major multi-billion-dollar series rounds before the end of 2026.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Headlines confirm record venture capital and momentum for IPOs in 2026, but do not yet confirm specific multi-billion-dollar rounds or filings for defense-tech unicorns."
     },
     {
       "section": "tech",
       "headline": "Kioxia and SanDisk reveal breakthrough high-density memory chips",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWWdkbXQyd0tXQ2lkV00tc3gwUkNLU05IbDVPd1d6dW9IVzEweWoyVlVkOC03WGpwckhrMzh0cGpJZzBQT2dwV0l3eDVQaE8wVmZZMkZqa1hNVHpyOUQ4cmlFcHNzd3RQbHdLV2Fpd0RVWXZYdllkUkhQWmFJcWs3emtUY2NFNnd5amVmcFhhcjFqUG44RGgxT2RRQnpab0JWSk43NVh0LXNCeTdqM2lEMXhFNXdYeTdxYmtfNk45TmN0dkhhMFFjV0xPVllneUU1OGZ0LXl1ZGp6YkpZRlNwZklIVHJ6eU9iejI1UDItekRwOFh2QWc?oc=5",
       "prediction": "Kioxia will use this technology milestone to finally trigger its long-delayed IPO within the next two quarters.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "There are no fresh headlines confirming Kioxia's IPO progress following its memory technology milestone."
     },
     {
       "section": "markets",
       "headline": "Oil prices slide as Strait of Hormuz peace deal nears",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeGpjT2Ewbk5ORUMyQmlmV1ZxSWlESGRqRndrNk9xeVByUUNwZ3FHcHVnZjI0UXA3MnY0NlMwaUFTRW9icTNld0FVVlhUUlUyVUMwOUd0R296ZHlBdTQwT3Vya3NwQy00LWNSRDA2TzlITWN0bWh5eEVWOTFENWsyNkxDRC1jNTRrS3JmWjVrYUhxNTVwYnNHbnBfT1U3SmZZb2p3NEFibjJZSGRtbDVvXzduZmxuTkhmanBTbGcyMTNOblJycTZHd0NwVEFXYkFWSm5oT3c5MA?oc=5",
       "prediction": "Brent crude will trade below $75 per barrel within two weeks of a formal 'safe passage' deal announcement.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Talks to reopen the Strait of Hormuz have been announced and oil prices are declining, but a formal deal has not yet been finalized to trigger the $75 price target evaluation."
     },
     {
       "section": "markets",
       "headline": "Dow jumps 1,000 points as S&P 500 hits new highs",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOczYtd01fVXJ6b1c2MDJ4OTkzWE9JSHd5QkhjMW1KckJSM0xremNiMXR4cWIyUnBESFN1YWlRM09pV21CSTVZTVZJNTVCVzRoNHF1bUF0bFVhWjllWWJ4TnVQTzloYnlzc0I2Y1dZS0h2anQ5QWFEclMyUTJJRFo4bzhLa0l0WnF1c2w4Y3JvR19Pc25SNkJJUkFGRlE2MldRcnNlSTFhMGpzNnF5OF8yQWVxU081N2xZTjV3NkhGV3hQYW1zVUp6ZA?oc=5",
       "prediction": "The S&P 500 will test the 6,000 level before the end of the next earnings cycle.",
-      "grounded": true
+      "grounded": true,
+      "status": "held_up",
+      "note": "Fresh headlines indicate that major Wall Street analysts are now forecasting the S&P 500 to reach the 6,000 level by year-end, supporting the prediction."
     },
     {
       "section": "markets",
