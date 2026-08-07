@@ -2,9 +2,12 @@ name: Weekly Rewind
 
 on:
   schedule:
-    # 8:00 AM PDT on Sundays = 15:00 UTC. Same DST caveat as daily-brief.yml -
-    # this will drift to 7:00 AM Pacific once PDT switches to PST in autumn.
-    - cron: "0 15 * * 0"
+    # Runs Sunday mornings. The `timezone:` field (added by GitHub in
+    # March 2026) pins this to Pacific time directly and handles daylight
+    # saving automatically - see daily-brief.yml for more on why this
+    # matters and why GitHub Actions schedules are best-effort.
+    - cron: "0 8 * * 0"
+      timezone: "America/Los_Angeles"
   workflow_dispatch: {}   # lets you also run it manually from the Actions tab
 
 jobs:
