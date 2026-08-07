@@ -6,42 +6,54 @@
       "headline": "White House calls in AI giants for safety check",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMW5rV0FSWFJPMHJTa2s5YWJnRGgxQkY2aHhidkVJM3NxMWxSOTNPTFhaSElOZkpuV3lENHBoMm0wYnh5bW1GOGg3LXJwWDgzMXF1STFLN3lGZGFOVFdzOE9EYW1zbTUwU3p4WnFBSHlzdlRnNFJ1MFBXRmc1Y0VTTDdhdHVwN0pHRWhkX3VpNU5qcmfSAZgBQVVfeXFMUDEzVmFWTS1NWEpvZVdZZzdyQ1RKalk0cGVqYlY2dGZiU1Nhdm51ZmpZd0duUUJOM3A1M0w2Q0UzbUlVZ1VYYkQ0R0Q3RUR0THoyVGs5WTMwQ2ZNeVZYSkZhYklXRTBMaDNNNEFNd085ZTF4ZjY2QXRUWklUMWIycU5nbTNhRTQ1TkJpbER2VFpIczFJNHRjMmY?oc=5",
       "prediction": "Expect a formal 'Safety Certification' program to be announced before the end of Q3 2024, requiring audits that cost six figures per model.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "Jamie Dimon leads industry-wide push to manage AI risk",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQ0c3VVB0M2tSWWVwaERKZU9FX3lrMjVGMnhoSU5zZl8zbm5wSlRlWThrTEpld1N1SVhFZlFTWng2TVlWb3VscElUZFAtT0hBakY0YTZqbm05R2hkVFh5ZHp0T3JKMXFlM1BtaFoyNXRqaHdpTmpkTWtyZkNFb3FuV3VFNW1yYlhjaXNpbjIxZ1A4elQ3X3UyN1NTbmhxc0N3OFBEZHNiUzcyZUxodFJ3eURmbzRCQm41bVBOSXhIbE1iWVdldzE1Y0ZYOHRqUG42SmJLcVRKalpTeUZKMjJxb0xlWTN3QdIB7AFBVV95cUxPWFhnNWVNVHY4eTE0UC1kSVJMQzhOdmtBTERreGk5WEIzMzhNbVR5a241TDByNHByeE9kSC1uX2tyeld6Z2lLT0tTWWJEbW44dGEwWkxBUW5iNVFBOEtxdC1hYUhrODFoc3l5NnRlakhHREZsdEZMWnUtVFUyU1Z1WE1NOWo3WEF2ZnhpMmRQMzRYNEt6Vmhqd2NBN01ISkNIXzBpTUxhNzRGbkRfNkduSTZHZ2RaMVV1QW1Hd0VaS3hIT0tGQkhxNzF5UWZoUHRUVFV2RkhRbkZHT2JWbklRSDRZUlYtMW1raG9FMg?oc=5",
       "prediction": "JPMorgan will announce a major AI-related data-sharing partnership with at least three other global systemically important banks (G-SIBs) within six months.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "New flash memory breakthrough hits record data density",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWWdkbXQyd0tXQ2lkV00tc3gwUkNLU05IbDVPd1d6dW9IVzEweWoyVlVkOC03WGpwckhrMzh0cGpJZzBQT2dwV0l3eDVQaE8wVmZZMkZqa1hNVHpyOUQ4cmlFcHNzd3RQbHdLV2Fpd0RVWXZYdllkUkhQWmFJcWs3emtUY2NFNnd5amVmcFhhcjFqUG44RGgxT2RRQnpab0JWSk43NVh0LXNCeTdqM2lEMXhFNXdYeTdxYmtfNk45TmN0dkhhMFFjV0xPVllneUU1OGZ0LXl1ZGp6YkpZRlNwZklIVHJ6eU9iejI1UDItekRwOFh2QWc?oc=5",
       "prediction": "Expect Western Digital to announce a major supply contract for these high-density chips with a top-three global smartphone OEM by early 2025.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "China's tech giants shift focus to practical AI use",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNcGlBTW0xLVRsdEJONFhocHNmRmxxeWlBR3VmYWlkY2dRakRnN1BQUTZ2cndDTzdMeGtPMjYzQXRnUk4tLWtlZlBBSmJCdHBpdFFQTzJwNXFJeS10YnRNOUF3?oc=5",
       "prediction": "A Chinese-developed AI productivity app will hit the top 10 most downloaded list in at least five Western European markets before the end of the year.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
       "headline": "Stocks hit records as Middle East tensions show signs of easing",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdnNodFRlOXZtOTlIUnRSTlFmbTVsUF82dFRfeXlKYVAwUHZidGt1eU5GcmpYMHRSYmVMa2pHY0I4d2dtTThnLWJGdWF6NTk2a0ZXNlNhTDk5Z2R0VE5BRjllOWJENWFGOXR0QWNreWVSbjVWQVFXQ0pJQlFvaUpDeGI4VnRUYW8wOXZ5SFkxVWxfeENoYVcxQ1FtRjNLaHVKd290V0ZLRWpJTDcyTElDbmNKTDJCVDZp0gG-AUFVX3lxTE9BLU5sYmQzSWNsVUdkeXFmSXhPbUZ1eU51cFdtbEo3d3FCU1VlMUVINGZKOXZXaWVDanpJT2JSS3ZKZXhic2MwYzVNQTRSd0ZMSGswODVsemh0a3drY0JqNkx4MHBueWdmamtjU3N6amJQemh1cUthOGowdzJ2VmxaUU93WjlSZmlRMnQ4NEpZa3MxdWdRZmxOLWU1Z1dCTk5haGpkOWlFNUlxUFdtbGJIeE5VakM0VzFSMUY5S0E?oc=5",
       "prediction": "The S&P 500 will sustain levels above 5,500 through the next FOMC meeting if the Hormuz deal is formally signed.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
       "headline": "Private equity firms swarm UK-based Bodycote",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ2JvbEZmd0hNd2IyYUpfbjdTdTFaUzB4SEw2RjE5cHgzWGFxWktTOUNwaXhGVlNXWU5CRjI4SjhqN1QtdGRqVXhTYWxMcWFDelE3NE9fV09ObEFDVXB1b0NhdGpNeWRNV0NUVWNQRVNSS1NhWWJPZ0RPcU5RUTdKc1VmeG4?oc=5",
       "prediction": "A bidding war will push the final acquisition price to at least a 40% premium over Bodycote's 30-day volume-weighted average price.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
