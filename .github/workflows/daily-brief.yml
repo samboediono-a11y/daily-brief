@@ -2,12 +2,19 @@ name: Daily Brief
 
 on:
   schedule:
-    # 7:00 AM PDT = 14:00 UTC. Note: this is a fixed UTC time, so it will
-    # drift to 6:00 AM once Pacific time switches to PST in autumn (US
-    # "fall back"). If you want to keep it pinned to 7:00 AM local, update
-    # this line to "0 15 * * *" when that happens. crontab.guru can help
-    # translate any other time you'd prefer.
-    - cron: "0 14 * * *"
+    # GitHub Actions schedules are "best-effort" - they can be delayed or,
+    # occasionally, silently skipped entirely (especially during periods of
+    # high platform load). This is a documented GitHub limitation, not
+    # something fixable in this repo's code. Two mitigations here:
+    #   1. A backup run 30 minutes later, so a skipped first attempt still
+    #      has a second chance the same morning.
+    #   2. The `timezone:` field (added by GitHub in March 2026) pins this
+    #      to Pacific time directly and handles daylight saving
+    #      automatically - no more manual UTC-offset math or DST drift.
+    - cron: "0 7 * * *"
+      timezone: "America/Los_Angeles"
+    - cron: "30 7 * * *"
+      timezone: "America/Los_Angeles"
   workflow_dispatch: {}   # lets you also run it manually from the Actions tab
 
 jobs:
