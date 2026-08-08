@@ -6,42 +6,54 @@
       "headline": "Big Tech job cuts continue as AI takes center stage",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWmFQc1ZaZEJGVExrMEkteFpwTXhvZko1Y3hPWU5Pd0dqaEJJeFF4T2VidEhIS0MwTDVnbExnUXU0OElQM0lVOHYyWS01QWtUVW0xQ215NEFHLUNKamcxYXZFNjNUdzVLbWRDRGg1ZjhpQnhsVnlVa0xndkwzNnZrUncyRVFITVRvYU1PcXBBbWk3bzEyOUd3VEdIaWo3OE16YVpLOGdzOWZURVZtUjUzaVVyYmpCaEYxeTB4T201OEZ0TmRrNmg4THRyUVpPaC1IQThBa1RhSG1NS2R2Y1lMSGdVbFgyVEcwODFLU2p3?oc=5",
       "prediction": "At least two of the 'Magnificent Seven' will report record-high revenue-per-employee metrics in their next full fiscal year results as AI automation takes over back-office functions.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The fresh headlines mention Nvidia but do not provide the specific revenue-per-employee metrics or fiscal year results needed to confirm the prediction."
     },
     {
       "section": "tech",
       "headline": "India\u2019s IT giants prove they can survive the AI surge",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdUJVM1FGT2Z0VmVvdF82NUhHYl9INllVUDJqb0U1X0ZQVDUwTGxPXzRNclc2azVVTUNfeDB2ZFY3aXVZTHlrZXpoUWluWUpLcEpCRm1kQjkyZ0RoODdWeVhuaVVKWmt2VkRPd3VQV05Odmc3bm5vNER0emFnaDVUdW1nbVQ1RHJQaEZYWXdGWGxpYzdKeWx3Y2h6M25qak00R2lkRmR0MGdYNXhqc2NtWTJB?oc=5",
       "prediction": "The Nifty IT index will outperform the broader Nifty 50 by at least 5% over the next six months as more global AI transformation contracts are signed.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "The headlines report IT indices falling by 4% in a weekly wrap, which does not cover the six-month performance period specified in the prediction."
     },
     {
       "section": "tech",
       "headline": "Industry titans unite to secure the next wave of AI",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeWJHSUgxRUVaVHJmR1JudW1wMHB0bjd5cXB4OEFPaUlwUEFjQ1dWS1duTS1abU5uSE50dG16MFFtbDlwNzA2X3dnMDZnYUFQTlVvQjV1TE94cXJBbGdYdl9XZ19oUGxKcEhMU1RTTkhuV0pyTzR0eDVFb01RcktJTi1iUmtCaXVzdmxXb29fa3lyYXh5WE1iTzNhZ0lUVUJxS3NCemUtd09vQms?oc=5",
       "prediction": "The alliance will release a 'hardened' framework for enterprise agent deployment by Q3 2026, which will quickly become a mandatory requirement for government AI contracts.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No information was found regarding the release of an enterprise agent deployment framework or government contract requirements."
     },
     {
       "section": "tech",
       "headline": "Regulators go behind closed doors to debate AI in medicine",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPemk1NjZBYWpVaElUT3Q0LWE3UG5qMEhQdElYOWptLUlVOU1Cc3VFVWtpb0VUTlhhSjV5SWRSSWl1LWktRmlrZU05ZktnRzAxSkhGRlFLQkswMktXMS1uaUV2aXJNUjJ2UzdhLUs5dnFDdXhKZFlKNkR0VUJzR01tLVhmVklEQlhvWXVjemlGQi1zREQ5bTNSRVo4X0lzSm9qRV9oQzlTUQ?oc=5",
       "prediction": "The first formal FDA-approved 'AI-driven clinical pathway' guidelines will be released within 12 months, specifically favoring players with proprietary patient datasets.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No new headlines were found to confirm the release of FDA-approved AI-driven clinical pathway guidelines."
     },
     {
       "section": "markets",
       "headline": "Stocks rally as weak jobs data fuels rate cut hopes",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWUtSUk9IQ0xYMmZFNzN1ZWRyeVZwNWR1aXdpc3AzTGRYUERaTXdETDNCOVZZQV9OZEtsWU1qa3FQamFUVGNuejFVMUh3ZUhMT0E2aDJqemZjdmFISTB0Q2ZkYVNDYU5ScFFjckZlcnAyYnByaFRQckgtU1l6bVJzTDRYc2VWRUs2WGtEMlE0aks3c1ZOS0lZOEtVOFNzR1kxOXZNN05ZV1dVeE1URVBBbXRlRlhfUjdFYndwME5TVnUyUGxnTVkyQVlwM3FPZw?oc=5",
       "prediction": "The S&P 500 will see a 3% or greater single-day correction the moment a major consumer discretionary retailer cites 'declining spending' alongside soft jobs data.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "There is no evidence in the provided headlines of a 3% S&P 500 correction or specific retailer reports of declining spending."
     },
     {
       "section": "markets",
       "headline": "The bond market is flashing a major warning sign",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlhBejhhZWNUdDRiX05LWHFRaGJhX0ltazRRWTFPZWdvazNWX0U1WDg4NmpIb0swb1dsR21KTzg2MUc5Z21ORnJXdWFxX2xybjdsOG1lUnV4aWs3TWw3QmR5TUFfMDZ5Qkc5WVhxSWVXT2dUZDVneUxqRms3V1dBeDJvUzJtT1R4Z01NYlZNbXBBNnVBWWdF?oc=5",
       "prediction": "The 10-year Treasury yield will touch 5.0% by year-end as the 'term premium' returns to reflect growing fiscal deficit risks.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "While headlines suggest a high-rate environment, they do not provide specific confirmation that the 10-year Treasury yield has reached 5.0%."
     },
     {
       "section": "markets",

@@ -1,0 +1,287 @@
+{
+  "date": "2026-08-08",
+  "predictions": [
+    {
+      "section": "tech",
+      "headline": "India's tech giants prove AI isn't an existential threat yet",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdUJVM1FGT2Z0VmVvdF82NUhHYl9INllVUDJqb0U1X0ZQVDUwTGxPXzRNclc2azVVTUNfeDB2ZFY3aXVZTHlrZXpoUWluWUpLcEpCRm1kQjkyZ0RoODdWeVhuaVVKWmt2VkRPd3VQV05Odmc3bm5vNER0emFnaDVUdW1nbVQ1RHJQaEZYWXdGWGxpYzdKeWx3Y2h6M25qak00R2lkRmR0MGdYNXhqc2NtWTJB?oc=5",
+      "prediction": "Expect major Indian IT firms like Infosys or TCS to report a 15-20% increase in 'AI-specific' contract values in the next two quarterly earnings cycles.",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "Battery industry predicted to hit $300 billion by 2035",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQlBJOW1kcG1NRzFLZDRKclZyWUliZklvS1cwOW1Wc1NFTENSRGpxWG5lRkxrSUJVZ25qSndYVHV5ekFydzhtSFdia1ZRNVBqdnFOWnRTdmNDR2tIYllpOG1vSzBvZkdOSjlRUzF1VXNWV1RoVkdmemRDUkdvb2RqeTlPODRSa1dxWFBUZ1BLaHJCNkZBbWR0cnJDS3RjT0JocTV1Zjk4MVJFUEdzTUhlOFhjTTJyeXhDQWtXMGdFeGx0eHpuVVhSOTZIVmM1MTdFU05zQw?oc=5",
+      "prediction": "Grid-scale storage deployments will surpass residential battery sales by at least 3x in total megawatt-hours by the end of 2026.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "New memory chip breakthrough targets the AI bottleneck",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc29mblM0MVdwYWxVR3ZlWnVuanZobE1mSDdXREFKRnBhUXE5ZFJkMXpObXd2QlZSdU9ldXJPc0E2SVR3X2ctbkFBWjljSkR1el9SbzIxd3ZpWk9RODRuYUY5VUZ4bzI5ZFprQWZ3cnJYbXR5M0RhTHMtRFlSMnQzV0ZUdXlhWXhNNVhNcnJWdkFFZE85Tm1UUUw2dDc4emFCajhfWVZHMWVwTTREaFZNdWNuRHBtOUVMcUtINXFoaGxMZVNhOUx5T3MwZ2RzTEgx?oc=5",
+      "prediction": "Montage Technology will announce a major supply agreement with at least one US-based hyperscaler (Google, Meta, or AWS) by Q4 2025.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "Tech giants propose new safety rules for autonomous AI agents",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbEdNVTRqTTFFTHVIdXVEWk9XXzFOWFNqel85OHJnWk5zajF2NTl6UGNTcEIxNXJSdndibnMzUFFOUDVtNWlJY0toM0Q3cUpycXNpZkFJZEJiSDJtX0FJMmVyaTVnamctX2U4NnBaYldDUVo5NTdfMlhSTDFoeHRDakh6X3ByN2JBVVRFag?oc=5",
+      "prediction": "The first formal 'Agentic AI' certification standard will be adopted by the majority of the 'Magnificent Seven' tech firms before July 2025.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "S&P 500 hits all-time high as tech stocks lead rally",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrSXJEV1RNNXNyTWg1cnp6d1FnOVdGZGh5WHJfMnd6TDhTU3FhRkZpWGhrY3hiaWhFcFhYSEc4TFRZZnBnZjZic24tX2RiS1MwemZOSW80azYxQ1BVaVZIWFRRT2I3UlN4eUNIRldVWWdxZGpzWUcw0gF8QVVfeXFMTmhIa3ZqTzNWWmlYWktzSUZnNVlMR0FpUG93YUtZUjBpRkRnX2ZBemdzaGNaZlh1cXdsaXNNM2VFUUN4Zm93eUFaZ0ZrbS1ETmxqdnViMFhfd05LeUY4eWNjOXpBTkFOZnFHZDlPZTZsdENQaDFnd2hlUVozVg?oc=5",
+      "prediction": "The S&P 500 will test the 5,600 level before the end of the current quarter, driven specifically by outsized gains in the semiconductor sub-sector.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Bond market signals caution despite the stock market party",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlhBejhhZWNUdDRiX05LWHFRaGJhX0ltazRRWTFPZWdvazNWX0U1WDg4NmpIb0swb1dsR21KTzg2MUc5Z21ORnJXdWFxX2xybjdsOG1lUnV4aWs3TWw3QmR5TUFfMDZ5Qkc5WVhxSWVXT2dUZDVneUxqRms3V1dBeDJvUzJtT1R4Z01NYlZNbXBBNnVBWWdF?oc=5",
+      "prediction": "The yield on the 10-year Treasury will drop below 4% before the stock market sees its next 10% correction.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Buffett\u2019s Berkshire builds a massive $360 billion cash fortress",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLTVCWGg0dmRiWUg4SXA3TzJQU1lwWjE1eTEyTkV3R1hyS0taUXl3UXhsNE5RSzRJR3ZBV1JhaGo4RUpuUDI3WXhOMlBiNXJtSzgxSmxuY3VGUHRIU3JEOXF4NXV5TUMtVnZ3eVEybUFVd3l0eTloR2VCUWF6YUJfdEhqM2w5aXhXLXBtUEV6X0xtaGxPQWJtbERGellRenE4c2c3Y001Y1NwQWJGa0VfS0NxbGpGc2ZEa1M5aHlsRGVoNU00ZzhuSEtn?oc=5",
+      "prediction": "Berkshire Hathaway will not make a 'mega-acquisition' (over $50B) until the S&P 500 experiences at least a 20% drawdown from its peak.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "The US stock rally is surprisingly tied to the Yen",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1V0ZsTWlIOWFIaWtZXzVQODBRZTI4aTlFYUVGQ05JQUM3V2U2eHd1Z254bWl5M3ZDblJnRkR4QlUxLXpYZ0lDNDI0QzducnRXVDdBWm5aRG5qSmRXZEl5bnhiQ21GbC1ubkhOWWUyYU0yME51WURj?oc=5",
+      "prediction": "A 5% appreciation in the Yen against the USD will cause a minimum 3% single-day drop in the Nasdaq 100 within the next six months.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "Todd Blanche confirmed as US Attorney General",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYVFp1enFwWWNaVnNtQi1PYlRBalNPYVhkN3NERDhCTHRiRnpoS19fTWpxZjBWVEQ1eU1MYlFmZjdUSFUzX2dmVmp5SDlxVlhJVDEzbVJJN2JpZw?oc=5",
+      "prediction": "The DOJ will announce a major new 'Leak Task Force' focused on intelligence and executive branch communications within Blanche\u2019s first 100 days.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "White House moves to oust Fed Governor Lisa Cook",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPUVdCY251bngwRGRSNU1vWnZUSkJBYWNQQm56YnVaLUg1UVN4d3dLbUpWUU9CM05FX0pvQlQxcDlWUmNYRHJ5SG52N3pXRmQ5MXdTYUFiVlNQU0swOFE4SFZ0b01zSnhFN0x3?oc=5",
+      "prediction": "The administration will fail to legally remove Cook before her term expires, but will use the controversy to justify appointing a more 'political' candidate to the next vacant Fed seat.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Senate passes temporary bill to keep government open",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPenBTdmd1U2FCOXlVWXJ6SS1ObEc1aGZodV9HMGFjakgtWDdWX2owTjRzT3E4MTVmVmxuWjRReGYzalZhcGVUbUZKSVo2OTRiTV8wVW1XVUliUlpPNFJLbk9FQ2pQUjRTbDNqMTdoYmJIMHFiZ1pQaFNySkZrSjNKeDZPVm1RcExEc1BKdHJ1dUU?oc=5",
+      "prediction": "A government shutdown will occur in early January 2025 immediately following the expiration of this temporary extension.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Weak jobs data complicates the economic outlook",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU3lxSW1keHdObWRLc2hNQmF6Sk9pUUNjQ3lGc1EyVE1ab0lublA1VkpRbFpIT2h6OFp2U0lpV1V4Mkh4YTBlRWxIaVc3cGU3cGh6Wi14QU9xUVROVlZ6SGlCempINXVjYnZXbmtndzdNN1dyWkQ2bkxoRUNzem1XeVc4R1Y2QnIycWpnWk04UTA0Z9IBlwFBVV95cUxPOWRFSnFRMWtvNjhPRFVyVGMwckNWcW9PS2JodEdsUXpEdUJJdF9zQmh2a1hiajFHZTlkTGVMeU5pMUJEN2JyVTVsZ1o0b2lGam5nSmhsTDZ1WEhqQnY1dTFFV3lZMldVd0dqWnhzSTkzcEpueUtBUWNDYllUU0FGcEpmM0FQMnhnRU4wQjJjaTR3S1ZRdUZV?oc=5",
+      "prediction": "The next two jobs reports will show a continued trend of downward revisions to previous months, forcing a 50-basis-point Fed cut before year-end.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "Markets demand independence in Bank Indonesia leadership race",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaGRiNHVFTW9PdTY2cENsU1ZLSVlSXzc0X2ExUWtiWUZHWkwyTERNN2gyRWFoVVRQV181dWNBU1g4ZUJVTGN4azNET2lxMEdIWTdDOGVEYUNVU3o0bEpPajBlTE8yQUZOR3F1R0J6ZGRQYlRsYnQ0dHNxQmJlbkh4Tko2aExIaURjc1EyX3NjZzc2RFVoX0Q5ZlJEWFRUTDM2YklR?oc=5",
+      "prediction": "The Rupiah will trade at 16,500 per USD within 30 days if a non-career economist is nominated for the BI governorship.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia attempts to transform Bali into a financial hub",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ0xMSFhYbXJqVWZ5b1N6ald1azN4c2N2ZG1BQjFpejRjaXZlejVIVXp0cnBOV0l5UTdRMDRQQ2YydE9Xb1JnUERlTTVUS3dlS2F3X0xfTDg1dHY0c291eUc4dUJYNkxCYTlxcWQ3Y0VrUF9JN2hCeWFuMGhTeGVHTVdHel9NU29Ec3NHTlU3V3QzNHJSa3lXOUlOM2VkOTVZZ0VENG1SenpMQ3VNS2lFLVFTWDNCVmvSAbcBQVVfeXFMT1UtUGkxb040cUZ3RjhZcGJrUG5RS3Q1SXU2Zm51RUdTMlNYS0prSDFZdEU4N3VLMkNCM2VCSUlveVFfdzRVcE15OGRWSTI1OUdLaWNwMFVRbGxadlZpN2R5M1ZfNGE0aTBxbDVyNkZCYUgwTG02X003cmxfVWVVM05SMThCSkp3em91cFgwNHRyR1NLaVEwT3NXelE2eF83MHoxN2R5WHRQWDRKNi1hT2pQTDI0TXYw?oc=5",
+      "prediction": "The Bali Financial SEZ will fail to attract a top-tier global bank (e.g., Goldman, HSBC) as a primary tenant within its first two years of operation.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "New copyright law puts Google and AI on notice",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ3dUZEU3QUhQc25HUlh0TXVWaDl1YlIwdVFNUm9vLWZ3QjgtVjV4RWZaemdSeFFiYUZjbEg4Mmt2WUhCa2hLNS11QzVaVXlHQkNEWnJKN2tUVThNeTRtTS1MN0hKeWlJOUFaVXFUS3hqZ0JWbDBsZVRlMk1nT0QxM2ZHRkRVVHhMbi00d1hVQnhOdjMxZ0pFSTludWtzU0RXN3I1WVpleWlTSkk3Zk9Kb19CbjhFVG1nOFR3?oc=5",
+      "prediction": "Google News will temporarily disable its 'News' tab in Indonesia within 6 months of the law\u2019s passage.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Economists warn of 'out-of-sync' policies in Jakarta",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRTIwZU5HaFBlNkUtNXF6c04zTmFsT1BWT0lVbmN2UkJhOFZUTXBVSlFma2FQZ0hBaWFCVFNETkpoRno2dHVOeXBrVVotREJLOFJDOXMycGVkdzNOV1pCTDhueFl3M2lWTGlZUjlMOUVEcmJINFkwaGlCUTlKV0VEQlkzZkxHdkFwUVppZTRVdUQ2RHhmWHpwaE1iRXNTWDgzc2c?oc=5",
+      "prediction": "Indonesia's GDP growth will miss the government's target by at least 100 basis points in the next fiscal year due to high borrowing costs.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin slides below $67,000 as election hype fades",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNEtqckFZRzZHclBKMzh2MEc2WnNIN1RsRVY1c1poeVY5d1lMcmVsQUk0aTMzdGYtOUpnbWs4X2JiZ1otZFd5a2h6bjhzUEI0Y1RWLVd0NEtPcEZYWV8wTW1pTVhPN1FRaTdiMDM1T2pyTFVYSl8zZThfZENpQ3I5LWpMdVNkNzQxdHd2QWpINmtQRnAtVDFpcV9FYnJnOWZSbnBVcDNEYl81aFZKZWhjVjU5c093SEnSAbwBQVVfeXFMTlZLOHN2NEJGdWIwcm5WeXRhaTZMbVJ1N2Y0VjhGMkhkb2JCNmpYZ2VJSmhyVjdqMDVuYUZUbGdtU1ZWY3FMWWxhdU1FRmNXcEhZNTBrNDFBWFIzR20wZUZHdDJqWGxrZG1TYXFHV0paSDl6Qk0wX2ZjUE5xQjN5Qk8yTDdQOUpiZWR1dVNhOUlscVF3c3FZTXFQR2ZyaC1ubnNDeDBCQ25PNDlaYmhSQlJmQks4LUYyZFdxQmY?oc=5",
+      "prediction": "Bitcoin will touch $58,000 before it sees $75,000 again.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin and the Japanese Yen are now tightly linked",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5",
+      "prediction": "A breakout of the Yen below 145 per USD will trigger a $5,000 flash-crash in Bitcoin within 24 hours.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Investors ditch Bitcoin for 'digital dollars' as volatility rises",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc0FjUTVZN3JBM2t6c1NLWkxJR1VvSFd5VmZDN1Z2dXhZU3p4S2tBRndYdzlxZ1JHVmhjLU5jN1pYZ0xwOU9WdTNQNHJJazlIcUM0T2NqaFNBd2x4cUlRTE5HR0xBM3Zuc2ZIT3lFRncyaUZYTTBlQUlmQjJJcWpibjdhbXR0MTVVVFZDR3kzWWJET3YzU1hsbXYwcV9MN2JWb21RSUxaR19rYmYxU0NSZVIyU2toRTg5?oc=5",
+      "prediction": "Stablecoin dominance (as a % of total crypto market cap) will reach a 12-month high by the end of Q3 2024.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "The 'dollar debasement' trade is ending, hurting Bitcoin",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd0NzNjF6ell3SGlCRXM5MXFUVGoyaURaRThHXy1oazN3UDcwRXFIeW1ab1BYbVdzUjhnQzVyZGZNSzVjNlhiZUtiM3EwUUdaMXFlaEpPZm1hSGZ6TlJxVHhZTExPYWZpSU8yUnhsT3JsOGxlNUdNTnM2ZS1mZ3NRZDdlVExPMU0?oc=5",
+      "prediction": "Gold and Bitcoin will continue to trade in a tight positive correlation for the next six months, both trending downward as real yields remain positive.",
+      "grounded": true
+    }
+  ],
+  "stories": [
+    {
+      "section": "tech",
+      "headline": "India's tech giants prove AI isn't an existential threat yet",
+      "summary": "India's massive IT services industry is successfully integrating artificial intelligence into its workflow rather than being replaced by it. Firms are reporting steady growth as global clients pay them to manage their own AI transitions.",
+      "view": "The narrative that AI is a 'service-killer' for Indian IT is fundamentally flawed; these firms are the necessary plumbers for enterprise AI adoption. Large-scale clients lack the internal data architecture to use LLMs effectively, creating a massive multi-year tailwind for Indian firms to clean, tag, and migrate legacy data.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdUJVM1FGT2Z0VmVvdF82NUhHYl9INllVUDJqb0U1X0ZQVDUwTGxPXzRNclc2azVVTUNfeDB2ZFY3aXVZTHlrZXpoUWluWUpLcEpCRm1kQjkyZ0RoODdWeVhuaVVKWmt2VkRPd3VQV05Odmc3bm5vNER0emFnaDVUdW1nbVQ1RHJQaEZYWXdGWGxpYzdKeWx3Y2h6M25qak00R2lkRmR0MGdYNXhqc2NtWTJB?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Battery industry predicted to hit $300 billion by 2035",
+      "summary": "A new industry forecast suggests the global battery market will see massive growth over the next decade. This surge is driven by a combination of electric vehicle demand and large-scale grid storage needs.",
+      "view": "The battery boom is shifting from a passenger vehicle story to a grid-scale infrastructure story. J.P. Morgan's focus on grid resilience highlights that the real volume growth will come from utility-scale storage projects required to stabilize renewable energy, rather than just consumer EVs.",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQlBJOW1kcG1NRzFLZDRKclZyWUliZklvS1cwOW1Wc1NFTENSRGpxWG5lRkxrSUJVZ25qSndYVHV5ekFydzhtSFdia1ZRNVBqdnFOWnRTdmNDR2tIYllpOG1vSzBvZkdOSjlRUzF1VXNWV1RoVkdmemRDUkdvb2RqeTlPODRSa1dxWFBUZ1BLaHJCNkZBbWR0cnJDS3RjT0JocTV1Zjk4MVJFUEdzTUhlOFhjTTJyeXhDQWtXMGdFeGx0eHpuVVhSOTZIVmM1MTdFU05zQw?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "New memory chip breakthrough targets the AI bottleneck",
+      "summary": "Montage Technology has started trial production of a new chip designed to speed up how memory communicates with processors. This hardware is specifically built to handle the massive data loads required by modern AI models.",
+      "view": "Montage Technology is solving the 'memory wall' which is currently the single biggest constraint on AI performance. As highlighted by the market reaction to Google's TurboQuant, the industry is pivoting focus from raw GPU power to the throughput efficiency of the memory interface.",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc29mblM0MVdwYWxVR3ZlWnVuanZobE1mSDdXREFKRnBhUXE5ZFJkMXpObXd2QlZSdU9ldXJPc0E2SVR3X2ctbkFBWjljSkR1el9SbzIxd3ZpWk9RODRuYUY5VUZ4bzI5ZFprQWZ3cnJYbXR5M0RhTHMtRFlSMnQzV0ZUdXlhWXhNNVhNcnJWdkFFZE85Tm1UUUw2dDc4emFCajhfWVZHMWVwTTREaFZNdWNuRHBtOUVMcUtINXFoaGxMZVNhOUx5T3MwZ2RzTEgx?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Tech giants propose new safety rules for autonomous AI agents",
+      "summary": "An industry alliance has put forward a plan for reporting the safety and reliability of AI agents that can take actions on behalf of users. The goal is to create a standard before government regulators step in with harsher rules.",
+      "view": "Tech giants are rushing to set safety standards as a defensive moat against the EU AI Act and potential US regulation. By defining 'reliability' themselves, they hope to prevent a Meta-style security crisis from triggering heavy-handed government intervention that would kill the 'agentic' AI advantage McKinsey identifies.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbEdNVTRqTTFFTHVIdXVEWk9XXzFOWFNqel85OHJnWk5zajF2NTl6UGNTcEIxNXJSdndibnMzUFFOUDVtNWlJY0toM0Q3cUpycXNpZkFJZEJiSDJtX0FJMmVyaTVnamctX2U4NnBaYldDUVo5NTdfMlhSTDFoeHRDakh6X3ByN2JBVVRFag?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "S&P 500 hits all-time high as tech stocks lead rally",
+      "summary": "The S&P 500 closed at a record high on Friday, capping its best weekly performance since April. The surge was primarily driven by strong earnings from big tech and growing optimism about the economy.",
+      "view": "The S&P 500's record high is a concentrated bet on AI infrastructure and a Tesla turnaround rather than a broad economic endorsement. The semiconductor sector is the only thing keeping the index from a correction, as investors view these stocks as a safe-haven for growth in an uncertain rate environment.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrSXJEV1RNNXNyTWg1cnp6d1FnOVdGZGh5WHJfMnd6TDhTU3FhRkZpWGhrY3hiaWhFcFhYSEc4TFRZZnBnZjZic24tX2RiS1MwemZOSW80azYxQ1BVaVZIWFRRT2I3UlN4eUNIRldVWWdxZGpzWUcw0gF8QVVfeXFMTmhIa3ZqTzNWWmlYWktzSUZnNVlMR0FpUG93YUtZUjBpRkRnX2ZBemdzaGNaZlh1cXdsaXNNM2VFUUN4Zm93eUFaZ0ZrbS1ETmxqdnViMFhfd05LeUY4eWNjOXpBTkFOZnFHZDlPZTZsdENQaDFnd2hlUVozVg?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Bond market signals caution despite the stock market party",
+      "summary": "While stocks are hitting records, the bond market is showing signs of rising stress and risk aversion. Investors are increasingly buying long-term government debt as a hedge against potential volatility.",
+      "view": "The bond market is sounding a loud alarm that equity investors are ignoring: a credit recession is a real tailwind risk. Jamie Dimon\u2019s caution is well-placed, as the divergence between record stock highs and the flight to long-dated Treasuries suggests a 'hard landing' is being priced in by the smart money.",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlhBejhhZWNUdDRiX05LWHFRaGJhX0ltazRRWTFPZWdvazNWX0U1WDg4NmpIb0swb1dsR21KTzg2MUc5Z21ORnJXdWFxX2xybjdsOG1lUnV4aWs3TWw3QmR5TUFfMDZ5Qkc5WVhxSWVXT2dUZDVneUxqRms3V1dBeDJvUzJtT1R4Z01NYlZNbXBBNnVBWWdF?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Buffett\u2019s Berkshire builds a massive $360 billion cash fortress",
+      "summary": "Warren Buffett\u2019s company saw profits double last quarter, but more importantly, its cash pile has reached a staggering $360 billion. The firm is largely sitting on its hands rather than buying expensive stocks.",
+      "view": "Buffett\u2019s $360 billion cash pile is a structural short on the entire US market. He is signaling that there is zero 'margin of safety' left in current valuations, and he is positioned to be the sole provider of liquidity when the bubble eventually bursts.",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLTVCWGg0dmRiWUg4SXA3TzJQU1lwWjE1eTEyTkV3R1hyS0taUXl3UXhsNE5RSzRJR3ZBV1JhaGo4RUpuUDI3WXhOMlBiNXJtSzgxSmxuY3VGUHRIU3JEOXF4NXV5TUMtVnZ3eVEybUFVd3l0eTloR2VCUWF6YUJfdEhqM2w5aXhXLXBtUEV6X0xtaGxPQWJtbERGellRenE4c2c3Y001Y1NwQWJGa0VfS0NxbGpGc2ZEa1M5aHlsRGVoNU00ZzhuSEtn?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "The US stock rally is surprisingly tied to the Yen",
+      "summary": "Global markets are seeing a strong link between record US stock prices and efforts to stabilize the Japanese Yen. A weak Yen has allowed investors to borrow cheaply in Japan to bet on US tech stocks.",
+      "view": "The US stock rally is a leveraged play on the Japanese Yen. The 'carry trade'\u2014borrowing in cheap Yen to buy US tech\u2014is the primary liquidity driver; any move by the Bank of Japan to strengthen the Yen will trigger an immediate and violent liquidation in Nasdaq names.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1V0ZsTWlIOWFIaWtZXzVQODBRZTI4aTlFYUVGQ05JQUM3V2U2eHd1Z254bWl5M3ZDblJnRkR4QlUxLXpYZ0lDNDI0QzducnRXVDdBWm5aRG5qSmRXZEl5bnhiQ21GbC1ubkhOWWUyYU0yME51WURj?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Todd Blanche confirmed as US Attorney General",
+      "summary": "The Senate narrowly confirmed Todd Blanche, a former lawyer for Donald Trump, to lead the Department of Justice. The vote fell almost entirely along party lines.",
+      "view": "Todd Blanche\u2019s confirmation marks the end of the DOJ\u2019s era of institutional independence. His appointment is designed to turn the department into a tool for executive-led leak investigations and the dismantling of administrative barriers that previously checked presidential power.",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYVFp1enFwWWNaVnNtQi1PYlRBalNPYVhkN3NERDhCTHRiRnpoS19fTWpxZjBWVEQ1eU1MYlFmZjdUSFUzX2dmVmp5SDlxVlhJVDEzbVJJN2JpZw?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "White House moves to oust Fed Governor Lisa Cook",
+      "summary": "The administration has revived an unprecedented effort to remove Lisa Cook from the Federal Reserve Board of Governors. This move challenges the traditional independence of the central bank.",
+      "view": "The attempt to oust Lisa Cook is a tactical maneuver to create a 'loyalty litmus test' for the Federal Reserve. By using mortgage fraud allegations as a pretext, the administration is attempting to erode the Fed's autonomy and signal that central bankers serve at the pleasure of the President.",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPUVdCY251bngwRGRSNU1vWnZUSkJBYWNQQm56YnVaLUg1UVN4d3dLbUpWUU9CM05FX0pvQlQxcDlWUmNYRHJ5SG52N3pXRmQ5MXdTYUFiVlNQU0swOFE4SFZ0b01zSnhFN0x3?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Senate passes temporary bill to keep government open",
+      "summary": "Lawmakers approved a stopgap funding bill to prevent a government shutdown just before the upcoming midterm elections. The deal keeps the lights on through the end of the year.",
+      "view": "The stopgap funding bill is a purely political ceasefire intended to shield incumbents from shutdown-related blame before the midterms. It settles nothing and sets the stage for a massive fiscal showdown in December when the leverage for spending cuts will be at its maximum.",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPenBTdmd1U2FCOXlVWXJ6SS1ObEc1aGZodV9HMGFjakgtWDdWX2owTjRzT3E4MTVmVmxuWjRReGYzalZhcGVUbUZKSVo2OTRiTV8wVW1XVUliUlpPNFJLbk9FQ2pQUjRTbDNqMTdoYmJIMHFiZ1pQaFNySkZrSjNKeDZPVm1RcExEc1BKdHJ1dUU?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Weak jobs data complicates the economic outlook",
+      "summary": "A disappointing jobs report has raised questions about the strength of the US economy as the election nears. Employment growth slowed significantly more than analysts expected.",
+      "view": "Disappointing jobs data is the 'smoking gun' that the Fed stayed high for too long. While it revives rate-cut hopes and fuels a Bitcoin/Gold rally, it fundamentally signals that the consumer-led growth engine is sputtering, making the 'soft landing' narrative increasingly unlikely.",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU3lxSW1keHdObWRLc2hNQmF6Sk9pUUNjQ3lGc1EyVE1ab0lublA1VkpRbFpIT2h6OFp2U0lpV1V4Mkh4YTBlRWxIaVc3cGU3cGh6Wi14QU9xUVROVlZ6SGlCempINXVjYnZXbmtndzdNN1dyWkQ2bkxoRUNzem1XeVc4R1Y2QnIycWpnWk04UTA0Z9IBlwFBVV95cUxPOWRFSnFRMWtvNjhPRFVyVGMwckNWcW9PS2JodEdsUXpEdUJJdF9zQmh2a1hiajFHZTlkTGVMeU5pMUJEN2JyVTVsZ1o0b2lGam5nSmhsTDZ1WEhqQnY1dTFFV3lZMldVd0dqWnhzSTkzcEpueUtBUWNDYllUU0FGcEpmM0FQMnhnRU4wQjJjaTR3S1ZRdUZV?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Markets demand independence in Bank Indonesia leadership race",
+      "summary": "As the search for a new central bank governor begins, international investors are signaling that political independence is more important than specific policy stances. There is concern that the new administration may try to influence rate decisions.",
+      "view": "The Bank Indonesia leadership race is the most critical macro event for Indonesia this year. Investors are right to be nervous; any sign of a 'political' governor will lead to an immediate de-rating of Indonesian sovereign debt and a sharp depreciation of the Rupiah.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaGRiNHVFTW9PdTY2cENsU1ZLSVlSXzc0X2ExUWtiWUZHWkwyTERNN2gyRWFoVVRQV181dWNBU1g4ZUJVTGN4azNET2lxMEdIWTdDOGVEYUNVU3o0bEpPajBlTE8yQUZOR3F1R0J6ZGRQYlRsYnQ0dHNxQmJlbkh4Tko2aExIaURjc1EyX3NjZzc2RFVoX0Q5ZlJEWFRUTDM2YklR?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia attempts to transform Bali into a financial hub",
+      "summary": "The government is pushing a new plan to create a 'special economic zone' in Bali focused on financial services. The move is designed to diversify the island's economy away from its total reliance on tourism.",
+      "view": "Turning Bali into a financial hub is an ambitious but likely failing 'ego project.' Without a massive overhaul of Indonesia\u2019s legal framework and tax code, Bali will remain a haven for digital nomads rather than a serious competitor to Singapore or Hong Kong.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ0xMSFhYbXJqVWZ5b1N6ald1azN4c2N2ZG1BQjFpejRjaXZlejVIVXp0cnBOV0l5UTdRMDRQQ2YydE9Xb1JnUERlTTVUS3dlS2F3X0xfTDg1dHY0c291eUc4dUJYNkxCYTlxcWQ3Y0VrUF9JN2hCeWFuMGhTeGVHTVdHel9NU29Ec3NHTlU3V3QzNHJSa3lXOUlOM2VkOTVZZ0VENG1SenpMQ3VNS2lFLVFTWDNCVmvSAbcBQVVfeXFMT1UtUGkxb040cUZ3RjhZcGJrUG5RS3Q1SXU2Zm51RUdTMlNYS0prSDFZdEU4N3VLMkNCM2VCSUlveVFfdzRVcE15OGRWSTI1OUdLaWNwMFVRbGxadlZpN2R5M1ZfNGE0aTBxbDVyNkZCYUgwTG02X003cmxfVWVVM05SMThCSkp3em91cFgwNHRyR1NLaVEwT3NXelE2eF83MHoxN2R5WHRQWDRKNi1hT2pQTDI0TXYw?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "New copyright law puts Google and AI on notice",
+      "summary": "Indonesia is drafting new copyright legislation that would force tech platforms like Google and AI developers to pay local news outlets for their content. This follows similar moves by Australia and Canada.",
+      "view": "Indonesia is following the 'Australian model' of media protectionism, which is a dangerous game. Forcing AI developers and Google to pay for content will likely result in those platforms limiting their services in Indonesia, ultimately hurting the very local publishers the law aims to protect.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ3dUZEU3QUhQc25HUlh0TXVWaDl1YlIwdVFNUm9vLWZ3QjgtVjV4RWZaemdSeFFiYUZjbEg4Mmt2WUhCa2hLNS11QzVaVXlHQkNEWnJKN2tUVThNeTRtTS1MN0hKeWlJOUFaVXFUS3hqZ0JWbDBsZVRlMk1nT0QxM2ZHRkRVVHhMbi00d1hVQnhOdjMxZ0pFSTludWtzU0RXN3I1WVpleWlTSkk3Zk9Kb19CbjhFVG1nOFR3?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Economists warn of 'out-of-sync' policies in Jakarta",
+      "summary": "A new report suggests that Indonesia's fiscal and monetary policies are working against each other, creating unnecessary economic friction. High interest rates are clashing with aggressive government spending plans.",
+      "view": "Jakarta\u2019s fiscal and monetary policy mismatch is a recipe for stagflation. The government is trying to spend its way to 7% growth while the central bank is forced to keep rates high to defend the currency, effectively 'burning the candle at both ends' and squeezing the private sector.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRTIwZU5HaFBlNkUtNXF6c04zTmFsT1BWT0lVbmN2UkJhOFZUTXBVSlFma2FQZ0hBaWFCVFNETkpoRno2dHVOeXBrVVotREJLOFJDOXMycGVkdzNOV1pCTDhueFl3M2lWTGlZUjlMOUVEcmJINFkwaGlCUTlKV0VEQlkzZkxHdkFwUVppZTRVdUQ2RHhmWHpwaE1iRXNTWDgzc2c?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin slides below $67,000 as election hype fades",
+      "summary": "The price of Bitcoin has dropped below key support levels, erasing gains made during recent political rallies. It is now trading lower than it was before the current administration's second-term push.",
+      "view": "Bitcoin's slide below $67,000 is a classic 'buy the rumor, sell the news' event regarding election hype. The market has realized that political promises are a poor substitute for actual liquidity, and without a fresh influx of institutional cash, $60,000 is the next logical floor.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNEtqckFZRzZHclBKMzh2MEc2WnNIN1RsRVY1c1poeVY5d1lMcmVsQUk0aTMzdGYtOUpnbWs4X2JiZ1otZFd5a2h6bjhzUEI0Y1RWLVd0NEtPcEZYWV8wTW1pTVhPN1FRaTdiMDM1T2pyTFVYSl8zZThfZENpQ3I5LWpMdVNkNzQxdHd2QWpINmtQRnAtVDFpcV9FYnJnOWZSbnBVcDNEYl81aFZKZWhjVjU5c093SEnSAbwBQVVfeXFMTlZLOHN2NEJGdWIwcm5WeXRhaTZMbVJ1N2Y0VjhGMkhkb2JCNmpYZ2VJSmhyVjdqMDVuYUZUbGdtU1ZWY3FMWWxhdU1FRmNXcEhZNTBrNDFBWFIzR20wZUZHdDJqWGxrZG1TYXFHV0paSDl6Qk0wX2ZjUE5xQjN5Qk8yTDdQOUpiZWR1dVNhOUlscVF3c3FZTXFQR2ZyaC1ubnNDeDBCQ25PNDlaYmhSQlJmQks4LUYyZFdxQmY?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin and the Japanese Yen are now tightly linked",
+      "summary": "Analyst data shows a near-perfect negative correlation between Bitcoin and the USD/JPY exchange rate. As the Yen gets stronger, Bitcoin prices are consistently falling.",
+      "view": "Bitcoin has become a 'carry trade' asset, meaning it is now a casualty of Japanese monetary policy. When the Yen strengthens, the cheap leverage used to fund crypto positions is unwound, making BTC a 'sell' whenever the BoJ hints at intervention.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Investors ditch Bitcoin for 'digital dollars' as volatility rises",
+      "summary": "A significant amount of capital is moving out of Bitcoin and into stablecoins (cryptocurrencies pegged to the US dollar). This suggests a flight to safety within the digital asset ecosystem.",
+      "view": "The shift to stablecoins is the ultimate signal of a 'risk-off' crypto environment. Investors aren't exiting the blockchain ecosystem, but they are hiding in 'digital dollars' because they no longer believe Bitcoin can hedge against macro volatility in the short term.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc0FjUTVZN3JBM2t6c1NLWkxJR1VvSFd5VmZDN1Z2dXhZU3p4S2tBRndYdzlxZ1JHVmhjLU5jN1pYZ0xwOU9WdTNQNHJJazlIcUM0T2NqaFNBd2x4cUlRTE5HR0xBM3Zuc2ZIT3lFRncyaUZYTTBlQUlmQjJJcWpibjdhbXR0MTVVVFZDR3kzWWJET3YzU1hsbXYwcV9MN2JWb21RSUxaR19rYmYxU0NSZVIyU2toRTg5?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "The 'dollar debasement' trade is ending, hurting Bitcoin",
+      "summary": "A shift in global macro strategy is hurting Bitcoin as the narrative that the US dollar will collapse under debt loses momentum. A resilient dollar is making the 'digital gold' argument less attractive.",
+      "view": "The 'digital gold' argument for Bitcoin is failing as gold itself tumbles. The end of the 'dollar debasement' trade, driven by a resilient US economy and Trump's hawkish Fed picks, removes the primary existential reason for holding non-yielding assets like Bitcoin and Gold.",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd0NzNjF6ell3SGlCRXM5MXFUVGoyaURaRThHXy1oazN3UDcwRXFIeW1ab1BYbVdzUjhnQzVyZGZNSzVjNlhiZUtiM3EwUUdaMXFlaEpPZm1hSGZ6TlJxVHhZTExPYWZpSU8yUnhsT3JsOGxlNUdNTnM2ZS1mZ3NRZDdlVExPMU0?oc=5"
+    }
+  ]
+}
