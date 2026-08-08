@@ -8,7 +8,7 @@
       "prediction": "At least two of the 'Magnificent Seven' will report record-high revenue-per-employee metrics in their next full fiscal year results as AI automation takes over back-office functions.",
       "grounded": true,
       "status": "too_early",
-      "note": "The fresh headlines mention Nvidia but do not provide the specific revenue-per-employee metrics or fiscal year results needed to confirm the prediction."
+      "note": "The provided headline mentions Nvidia but contains no data regarding revenue-per-employee metrics or fiscal year results for the Magnificent Seven."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "The Nifty IT index will outperform the broader Nifty 50 by at least 5% over the next six months as more global AI transformation contracts are signed.",
       "grounded": false,
       "status": "too_early",
-      "note": "The headlines report IT indices falling by 4% in a weekly wrap, which does not cover the six-month performance period specified in the prediction."
+      "note": "Recent headlines show the IT index falling 4% and leading losses, providing no evidence yet of the predicted 5% outperformance over the Nifty 50."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "The alliance will release a 'hardened' framework for enterprise agent deployment by Q3 2026, which will quickly become a mandatory requirement for government AI contracts.",
       "grounded": false,
       "status": "too_early",
-      "note": "No information was found regarding the release of an enterprise agent deployment framework or government contract requirements."
+      "note": "No fresh headlines were found to confirm or deny the release of a hardened framework for enterprise agent deployment."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "The first formal FDA-approved 'AI-driven clinical pathway' guidelines will be released within 12 months, specifically favoring players with proprietary patient datasets.",
       "grounded": false,
       "status": "too_early",
-      "note": "No new headlines were found to confirm the release of FDA-approved AI-driven clinical pathway guidelines."
+      "note": "There is no new information available regarding the release of FDA-approved AI-driven clinical pathway guidelines."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The S&P 500 will see a 3% or greater single-day correction the moment a major consumer discretionary retailer cites 'declining spending' alongside soft jobs data.",
       "grounded": true,
       "status": "too_early",
-      "note": "There is no evidence in the provided headlines of a 3% S&P 500 correction or specific retailer reports of declining spending."
+      "note": "No headlines were found indicating a major retailer citing declining spending or a resulting 3% correction in the S&P 500."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "The 10-year Treasury yield will touch 5.0% by year-end as the 'term premium' returns to reflect growing fiscal deficit risks.",
       "grounded": true,
       "status": "too_early",
-      "note": "While headlines suggest a high-rate environment, they do not provide specific confirmation that the 10-year Treasury yield has reached 5.0%."
+      "note": "While headlines mention interest rate headwinds and bond market outlooks, they do not provide specific data on the 10-year Treasury yield reaching 5.0%."
     },
     {
       "section": "markets",
