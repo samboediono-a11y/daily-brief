@@ -6,42 +6,54 @@
       "headline": "India\u2019s tech workers are holding their own against AI",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdUJVM1FGT2Z0VmVvdF82NUhHYl9INllVUDJqb0U1X0ZQVDUwTGxPXzRNclc2azVVTUNfeDB2ZFY3aXVZTHlrZXpoUWluWUpLcEpCRm1kQjkyZ0RoODdWeVhuaVVKWmt2VkRPd3VQV05Odmc3bm5vNER0emFnaDVUdW1nbVQ1RHJQaEZYWXdGWGxpYzdKeWx3Y2h6M25qak00R2lkRmR0MGdYNXhqc2NtWTJB?oc=5",
       "prediction": "Expect major Indian IT firms to report a minimum 15% increase in AI-specific revenue share by the end of the 2026 fiscal year.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The current headlines focus on general trade and real estate trends, providing no specific data on the AI revenue metrics for Indian IT firms."
     },
     {
       "section": "tech",
       "headline": "Global battery industry expected to hit $300 billion by 2035",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQlBJOW1kcG1NRzFLZDRKclZyWUliZklvS1cwOW1Wc1NFTENSRGpxWG5lRkxrSUJVZ25qSndYVHV5ekFydzhtSFdia1ZRNVBqdnFOWnRTdmNDR2tIYllpOG1vSzBvZkdOSjlRUzF1VXNWV1RoVkdmemRDUkdvb2RqeTlPODRSa1dxWFBUZ1BLaHJCNkZBbWR0cnJDS3RjT0JocTV1Zjk4MVJFUEdzTUhlOFhjTTJyeXhDQWtXMGdFeGx0eHpuVVhSOTZIVmM1MTdFU05zQw?oc=5",
       "prediction": "Global grid-scale storage capacity will exceed 100 GWh of new installations annually by the close of 2026.",
-      "grounded": true
+      "grounded": true,
+      "status": "held_up",
+      "note": "According to Wood Mackenzie, the global energy storage market already surpassed the 100 GW annual installation milestone in 2025."
     },
     {
       "section": "tech",
       "headline": "New high-speed chips ready to supercharge data center efficiency",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc29mblM0MVdwYWxVR3ZlWnVuanZobE1mSDdXREFKRnBhUXE5ZFJkMXpObXd2QlZSdU9ldXJPc0E2SVR3X2ctbkFBWjljSkR1el9SbzIxd3ZpWk9RODRuYUY5VUZ4bzI5ZFprQWZ3cnJYbXR5M0RhTHMtRFlSMnQzV0ZUdXlhWXhNNVhNcnJWdkFFZE85Tm1UUUw2dDc4emFCajhfWVZHMWVwTTREaFZNdWNuRHBtOUVMcUtINXFoaGxMZVNhOUx5T3MwZ2RzTEgx?oc=5",
       "prediction": "Montage will announce its first major design win with a top-tier Chinese or European data center provider before the end of Q3 2025.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No news is available regarding Montage's design wins or partnerships with European or Chinese data center providers."
     },
     {
       "section": "tech",
       "headline": "Tech giants team up to set safety rules for AI",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbEdNVTRqTTFFTHVIdXVEWk9XXzFOWFNqel85OHJnWk5zajF2NTl6UGNTcEIxNXJSdndibnMzUFFOUDVtNWlJY0toM0Q3cUpycXNpZkFJZEJiSDJtX0FJMmVyaTVnamctX2U4NnBaYldDUVo5NTdfMlhSTDFoeHRDakh6X3ByN2JBVVRFag?oc=5",
       "prediction": "At least three G7 countries will formally adopt the alliance's reporting standards as mandatory for all AI companies by mid-2026.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "While Canada has updated its national AI strategy, the provided headlines do not confirm that three G7 nations have mandated the specific alliance's reporting standards."
     },
     {
       "section": "markets",
       "headline": "Stocks climb despite a surprisingly weak July jobs report",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWUtSUk9IQ0xYMmZFNzN1ZWRyeVZwNWR1aXdpc3AzTGRYUERaTXdETDNCOVZZQV9OZEtsWU1qa3FQamFUVGNuejFVMUh3ZUhMT0E2aDJqemZjdmFISTB0Q2ZkYVNDYU5ScFFjckZlcnAyYnByaFRQckgtU1l6bVJzTDRYc2VWRUs2WGtEMlE0aks3c1ZOS0lZOEtVOFNzR1kxOXZNN05ZV1dVeE1URVBBbXRlRlhfUjdFYndwME5TVnUyUGxnTVkyQVlwM3FPZw?oc=5",
       "prediction": "The S&P 500 will test its all-time high before the September FOMC meeting as rate-cut expectations become fully priced in.",
-      "grounded": true
+      "grounded": true,
+      "status": "held_up",
+      "note": "Reuters confirms that the S&P 500 hit a new closing high as the market processed interest rate cuts and FOMC-related expectations."
     },
     {
       "section": "markets",
       "headline": "Berkshire Hathaway finally starts spending its massive cash pile",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHbnpLdVRpazZRcmRWLXY2OEZSUHlIbldHLVhNWENqc2tvWmZoUFUtYmxSZFRkTjBlb2hRLVM2ZHdPMUpFcFFfVmFJd3VNcjUwdXZZQnJkMERLakFsSEYzdlZtdTVXZzloMlkzT3pGeUlqMXI3NUZZRDEyMFnSAYIBQVVfeXFMTm9vV2RzSWRXVHg5ZG9QazVCTnZPWTRuX2JZekppM0J3aFNyM1B1WGZOek4telh1d0Y4MFN1TjJsWENsOURNaDE2TGgzTklOeHhaeUx0OExZM0JYSTYtRWtUUkJmc00tR1pYSlVTT1RuNG9aVEl4Z1poVEU1LXcwclpTQQ?oc=5",
       "prediction": "Berkshire Hathaway will deploy at least another $20 billion into real estate or infrastructure acquisitions by the end of Q4 2025.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The provided headline is a generic investment recommendation and contains no information about specific multi-billion dollar acquisitions by Berkshire Hathaway."
     },
     {
       "section": "markets",

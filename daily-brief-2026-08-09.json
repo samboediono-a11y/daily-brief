@@ -1,0 +1,287 @@
+{
+  "date": "2026-08-09",
+  "predictions": [
+    {
+      "section": "tech",
+      "headline": "Regulators go behind closed doors to set AI medical rules",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPemk1NjZBYWpVaElUT3Q0LWE3UG5qMEhQdElYOWptLUlVOU1Cc3VFVWtpb0VUTlhhSjV5SWRSSWl1LWktRmlrZU05ZktnRzAxSkhGRlFLQkswMktXMS1uaUV2aXJNUjJ2UzdhLUs5dnFDdXhKZFlKNkR0VUJzR01tLVhmVklEQlhvWXVjemlGQi1zREQ5bTNSRVo4X0lzSm9qRV9oQzlTUQ?oc=5",
+      "prediction": "The first draft of AI clinical guidelines will be released by HHS before the end of Q3, heavily mirroring the technical standards proposed by Microsoft and Google.",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "India's software giants are successfully folding AI into their business",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdUJVM1FGT2Z0VmVvdF82NUhHYl9INllVUDJqb0U1X0ZQVDUwTGxPXzRNclc2azVVTUNfeDB2ZFY3aXVZTHlrZXpoUWluWUpLcEpCRm1kQjkyZ0RoODdWeVhuaVVKWmt2VkRPd3VQV05Odmc3bm5vNER0emFnaDVUdW1nbVQ1RHJQaEZYWXdGWGxpYzdKeWx3Y2h6M25qak00R2lkRmR0MGdYNXhqc2NtWTJB?oc=5",
+      "prediction": "Expect at least two of India's top-four IT firms to report record-high operating margins in their mid-2026 earnings reports.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "Tech leaders back AI-driven layoffs as a necessary evolution",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5EeUJUa0Y3U3FjaThMSm1ZbndxZ18zUktqcWI3NzZJVU5KNFpzZHk0Ql9zVmh0Uzk1M0xob3dCU2hPcnNMZ2FMamZVbG1nMVBiRWgzNE0ydHc4bjcyNVJwX3RQdlhwZnpq?oc=5",
+      "prediction": "A major SaaS company will report a 20% increase in revenue per employee within three quarters of announcing an AI-driven restructuring.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "The battery industry is on track for a $300 billion explosion",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQlBJOW1kcG1NRzFLZDRKclZyWUliZklvS1cwOW1Wc1NFTENSRGpxWG5lRkxrSUJVZ25qSndYVHV5ekFydzhtSFdia1ZRNVBqdnFOWnRTdmNDR2tIYllpOG1vSzBvZkdOSjlRUzF1VXNWV1RoVkdmemRDUkdvb2RqeTlPODRSa1dxWFBUZ1BLaHJCNkZBbWR0cnJDS3RjT0JocTV1Zjk4MVJFUEdzTUhlOFhjTTJyeXhDQWtXMGdFeGx0eHpuVVhSOTZIVmM1MTdFU05zQw?oc=5",
+      "prediction": "Global sodium-ion battery manufacturing capacity will more than double by the end of 2026, outpacing the growth rate of lithium-ion.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "S&P 500 hits record high after weak jobs data",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrSXJEV1RNNXNyTWg1cnp6d1FnOVdGZGh5WHJfMnd6TDhTU3FhRkZpWGhrY3hiaWhFcFhYSEc4TFRZZnBnZjZic24tX2RiS1MwemZOSW80azYxQ1BVaVZIWFRRT2I3UlN4eUNIRldVWWdxZGpzWUcw0gF8QVVfeXFMTmhIa3ZqTzNWWmlYWktzSUZnNVlMR0FpUG93YUtZUjBpRkRnX2ZBemdzaGNaZlh1cXdsaXNNM2VFUUN4Zm93eUFaZ0ZrbS1ETmxqdnViMFhfd05LeUY4eWNjOXpBTkFOZnFHZDlPZTZsdENQaDFnd2hlUVozVg?oc=5",
+      "prediction": "The S&P 500 will hit 8,000 before the first formal Fed rate cut is actually implemented.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Market rally finally spreads beyond a few tech giants",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQekZqaU9GcklaQ29YeHdHNWxpbElkM3FwYmFUZHlId1dNQmpsb05BajJWT2o2aWMtbzNFaDIzd0w3V2dVbEc1MEpYSU14RW1aQ2s5bUZSdHZEZTF4bG9oUDdGOHFySEVHem52Z0Y1RmNWSkp0S0NkWHRTbzZ0V0MwU18xWXJHeDN6Rjc2eGtCN1FQM2o2YTRhZjdENUdDZlZVWnVVNG5sdExBMzMxMUtneDFHTGctazZmVy1PeXlaMDNjU09RR2NmdUdfRVNGUWpab3U4?oc=5",
+      "prediction": "The equal-weight S&P 500 (RSP) will outperform the market-cap-weighted index for the next two consecutive quarters.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "The bond market is flashing warning signs despite stock records",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlhBejhhZWNUdDRiX05LWHFRaGJhX0ltazRRWTFPZWdvazNWX0U1WDg4NmpIb0swb1dsR21KTzg2MUc5Z21ORnJXdWFxX2xybjdsOG1lUnV4aWs3TWw3QmR5TUFfMDZ5Qkc5WVhxSWVXT2dUZDVneUxqRms3V1dBeDJvUzJtT1R4Z01NYlZNbXBBNnVBWWdF?oc=5",
+      "prediction": "The 10-year Treasury yield will breach 5.25% by year-end as the market demands a higher premium for US fiscal instability.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Buffett\u2019s favorite indicator warns of a dot-com style bubble",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWHByOVJnSGozLWVfcE8zT0RYNlBtUUZaZzhaYjducDRWWjhPcTBCQkllZzFRZ0pka3ZMQUxzUURvMjFJSUZIQmdNTEVla1E5eThHMU1zMTJIQU8tQmsxNnltSm9vajJicWg0Zm93UTBsejJkMVh2S3lOWTZaYXVpWVdURUUyZ0hiaEZRcDNRQWlWODZQNEIxcHlR?oc=5",
+      "prediction": "A market correction of at least 15% will occur before the end of 2026 as earnings catch up to the reality of the GDP growth ceiling.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "Health concerns for the President spark new political uncertainty",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMFl6T1hKeGw2SVFxa1pkZl94cjVJbUZwQko5OC1pM2N0T1dVaHNPTmNuM0M5LVJJVmh5eUNtc1NzbEpFRFJmLXlqZkFTTFVTVXNWUFN6YkVQUERRLU5uU19tU2hpeFp0RmFyb2hnWDlhQVNyVm9ueUltUmFzOG9uYg?oc=5",
+      "prediction": "PredictIt and other betting markets will move to 80%+ odds of a Republican presidential victory within 30 days of this news becoming the primary media focus.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "Israel dismisses Trump\u2019s proposed framework for Gaza peace",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM2lnLVJPaGlDY01adEU5elJCOFpkREpaaGNpbTFjYXBmeFA5RDRSOGJINVpkN2dhZ0tjLTgxc1MtakkyNjhBLUNCcWxFbk90NWxyYmh6eklKWTJOTFZEQ3NueFd6bFNfRHZ5WmJSVXJqeHZHQTdPSVF3cThIcnpzUHZFODVnMmJTNU9HUkg0TWwzZXNoV0lDNFVzandWNzdIQ3FzcTViUUZPd3lOTFNWRjZ6cFZFdw?oc=5",
+      "prediction": "The US will be forced to revise the 15-point plan into a 'phased implementation' roadmap by mid-2025 to keep the negotiation from collapsing entirely.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Apple tests Chinese chips to bypass supply chain bottlenecks",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMlR2QW5JZE9sLXYta285NU5Oa3kwdHhXQUk0WE5nT3lPbGxhSEJXQzlOUndnYnp3VzE3UmZJNzUya2NFS3pGUU1LWEFFbEZIaTVzajRrX09CYnBqRnBTSU1aXzgwSXlDTEVKMXNOc1BpcVA0M3BBSUVaQU1UWGc3NlZTempuTlZ0WDluUjdCZ0xtSm1D?oc=5",
+      "prediction": "Apple will announce its first hardware product featuring a significant portion of Chinese-made chips for the 'Mainland only' market within 18 months.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "Berkshire Hathaway finally starts spending its massive cash pile",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNUs1bUp5RGRRZ0N2dHpkQklja25FRGhoQVVyTVV6SU5IVHZFU1pacHFwODZRNWhrdy1UYXVwNllBaFI4R0t6S1U5c25BTnJWRmc0WHlsc2J0NnNYU0s5NGxXelJ1YWFZcHNiMS1ZbVB6V1NhSXJ3ZkY3SlBLNkVWejFjYkV2LTZYMm50bHRB0gGTAUFVX3lxTE9tcTN5M0Fza2FmWmRQM01HSWN0aXgyRXgyZ0Z6bGQzSXhCSXBVZVcwWS1odkpCbVdMeTVUdHN6VkZlcW1RS0Nsc2IxVDc0Vms0bnRFYnU3VFpGUk1ERGZNR3djM2JyYUgzMzI0SlY4cXJTX3VyYldNX1BuS1poakk4TUFJTGtScGM0NDBPUmVNRXBkSQ?oc=5",
+      "prediction": "Berkshire Hathaway will announce at least one more acquisition exceeding $10 billion in the industrial or energy sector before the next annual shareholder meeting.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "Markets demand an independent hand at Bank Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaGRiNHVFTW9PdTY2cENsU1ZLSVlSXzc0X2ExUWtiWUZHWkwyTERNN2gyRWFoVVRQV181dWNBU1g4ZUJVTGN4azNET2lxMEdIWTdDOGVEYUNVU3o0bEpPajBlTE8yQUZOR3F1R0J6ZGRQYlRsYnQ0dHNxQmJlbkh4Tko2aExIaURjc1EyX3NjZzc2RFVoX0Q5ZlJEWFRUTDM2YklR?oc=5",
+      "prediction": "The USD/IDR exchange rate will breach 16,500 if a non-career central banker or a current cabinet member is nominated for the governorship.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia eyes dual citizenship to end the brain drain",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdlduOHVtbXJrSmdUU2M1RllvWVBsU1ZqUnhhY0EyV2Z0R0tfbUFqWUlhY0tpNEFsd3I1cVgtanVfWmRUU01LbmJlTFVucXV6NTFId0lsb0VfWjRBdlZkVmdCOVpZbzI5bTVSc0J2TTktaE5XTDdVZjdqSTgwWGM5bWtCcURPb2ZCa3kxbGdEdW1LYlNNS2I1WnRHd0dydw?oc=5",
+      "prediction": "The dual citizenship law will pass by the end of 2025, but will include 'economic contribution' clauses requiring a minimum investment or employment status.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "New copyright law takes aim at Google and AI",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ3dUZEU3QUhQc25HUlh0TXVWaDl1YlIwdVFNUm9vLWZ3QjgtVjV4RWZaemdSeFFiYUZjbEg4Mmt2WUhCa2hLNS11QzVaVXlHQkNEWnJKN2tUVThNeTRtTS1MN0hKeWlJOUFaVXFUS3hqZ0JWbDBsZVRlMk1nT0QxM2ZHRkRVVHhMbi00d1hVQnhOdjMxZ0pFSTludWtzU0RXN3I1WVpleWlTSkk3Zk9Kb19CbjhFVG1nOFR3?oc=5",
+      "prediction": "Google will threaten to disable its News and AI services in Indonesia within six months of the law being signed into effect.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Economists warn of a looming crisis in investor confidence",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZkpJZUQyb2dua2JwYzlUOGtmVXN1cjRGZUkxYlNkOVRPT0VOWG5PbE1vcGl1OXAwZE9GU3prRHB2WFFacVBVcGNPWkItQkhYV2ZLTDloWURFWGMtaWlxemhQeFNic0RTdDJMR2NaNi1UZnlIVDczRXExel84dFhXbDVSSVB5TUdIQjZNdzZPbUNXMGtYRG5HdkJDQU9JTHQxTWY0a0xldFRwdmY3T3pnbU5R?oc=5",
+      "prediction": "Net Foreign Direct Investment (FDI) into Indonesia's non-mining manufacturing sector will drop for two consecutive quarters following the next major policy intervention.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin slips below $67,000 as political hype cools",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNEtqckFZRzZHclBKMzh2MEc2WnNIN1RsRVY1c1poeVY5d1lMcmVsQUk0aTMzdGYtOUpnbWs4X2JiZ1otZFd5a2h6bjhzUEI0Y1RWLVd0NEtPcEZYWV8wTW1pTVhPN1FRaTdiMDM1T2pyTFVYSl8zZThfZENpQ3I5LWpMdVNkNzQxdHd2QWpINmtQRnAtVDFpcV9FYnJnOWZSbnBVcDNEYl81aFZKZWhjVjU5c093SEnSAbwBQVVfeXFMTlZLOHN2NEJGdWIwcm5WeXRhaTZMbVJ1N2Y0VjhGMkhkb2JCNmpYZ2VJSmhyVjdqMDVuYUZUbGdtU1ZWY3FMWWxhdU1FRmNXcEhZNTBrNDFBWFIzR20wZUZHdDJqWGxrZG1TYXFHV0paSDl6Qk0wX2ZjUE5xQjN5Qk8yTDdQOUpiZWR1dVNhOUlscVF3c3FZTXFQR2ZyaC1ubnNDeDBCQ25PNDlaYmhSQlJmQks4LUYyZFdxQmY?oc=5",
+      "prediction": "Bitcoin will test and likely break the $60,000 support level before finding a new technical floor.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin and the Japanese Yen are now mirror images",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5",
+      "prediction": "The next 25-basis-point hike by the Bank of Japan will cause a double-digit percentage drop in Bitcoin's price within 48 hours.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Investors are ditching volatile tokens for digital dollars",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc0FjUTVZN3JBM2t6c1NLWkxJR1VvSFd5VmZDN1Z2dXhZU3p4S2tBRndYdzlxZ1JHVmhjLU5jN1pYZ0xwOU9WdTNQNHJJazlIcUM0T2NqaFNBd2x4cUlRTE5HR0xBM3Zuc2ZIT3lFRncyaUZYTTBlQUlmQjJJcWpibjdhbXR0MTVVVFZDR3kzWWJET3YzU1hsbXYwcV9MN2JWb21RSUxaR19rYmYxU0NSZVIyU2toRTg5?oc=5",
+      "prediction": "Stablecoin dominance as a percentage of total crypto market cap will reach a two-year high by the end of the current quarter.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "The 'Dollar is Dead' trade is officially losing steam",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd0NzNjF6ell3SGlCRXM5MXFUVGoyaURaRThHXy1oazN3UDcwRXFIeW1ab1BYbVdzUjhnQzVyZGZNSzVjNlhiZUtiM3EwUUdaMXFlaEpPZm1hSGZ6TlJxVHhZTExPYWZpSU8yUnhsT3JsOGxlNUdNTnM2ZS1mZ3NRZDdlVExPMU0?oc=5",
+      "prediction": "The DXY (Dollar Index) will remain above the 104 level for the remainder of 2025 as capital continues to flee global instability.",
+      "grounded": false
+    }
+  ],
+  "stories": [
+    {
+      "section": "tech",
+      "headline": "Regulators go behind closed doors to set AI medical rules",
+      "summary": "Federal officials are holding private meetings with tech lobbyists and researchers to determine how AI should be used in clinical settings.",
+      "view": "Regulatory capture is the real play here as Big Tech lobbyists use 'safety' to build a moat around medical AI. High compliance barriers will squeeze out lean med-tech startups, leaving the massive healthcare data market to the giants who can afford the legal overhead.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPemk1NjZBYWpVaElUT3Q0LWE3UG5qMEhQdElYOWptLUlVOU1Cc3VFVWtpb0VUTlhhSjV5SWRSSWl1LWktRmlrZU05ZktnRzAxSkhGRlFLQkswMktXMS1uaUV2aXJNUjJ2UzdhLUs5dnFDdXhKZFlKNkR0VUJzR01tLVhmVklEQlhvWXVjemlGQi1zREQ5bTNSRVo4X0lzSm9qRV9oQzlTUQ?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "India's software giants are successfully folding AI into their business",
+      "summary": "The Economist reports that India\u2019s massive IT services sector is thriving by adopting AI rather than being replaced by it.",
+      "view": "The narrative that AI would kill the Indian IT services model was fundamentally wrong; companies like TCS and Infosys are leveraging AI to automate their own low-margin coding while charging clients premium rates for 'AI transformation' consulting. By folding AI into the stack, these firms are shifting from a pure labor-arbitrage model to a higher-margin value-add model.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdUJVM1FGT2Z0VmVvdF82NUhHYl9INllVUDJqb0U1X0ZQVDUwTGxPXzRNclc2azVVTUNfeDB2ZFY3aXVZTHlrZXpoUWluWUpLcEpCRm1kQjkyZ0RoODdWeVhuaVVKWmt2VkRPd3VQV05Odmc3bm5vNER0emFnaDVUdW1nbVQ1RHJQaEZYWXdGWGxpYzdKeWx3Y2h6M25qak00R2lkRmR0MGdYNXhqc2NtWTJB?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Tech leaders back AI-driven layoffs as a necessary evolution",
+      "summary": "Venture capitalists are defending companies like Monday.com for using AI to justify significant workforce restructurings.",
+      "view": "CEOs are using 'AI efficiency' as a convenient political shield to conduct necessary cyclical layoffs and correct for pandemic-era over-hiring. While Gartner's survey shows support leaders are expanding human roles, the C-suite is prioritizing the margin expansion that comes from a leaner, AI-augmented workforce.",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5EeUJUa0Y3U3FjaThMSm1ZbndxZ18zUktqcWI3NzZJVU5KNFpzZHk0Ql9zVmh0Uzk1M0xob3dCU2hPcnNMZ2FMamZVbG1nMVBiRWgzNE0ydHc4bjcyNVJwX3RQdlhwZnpq?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "The battery industry is on track for a $300 billion explosion",
+      "summary": "A new industry forecast suggests the global battery market will grow massively through 2035 as energy storage demand peaks.",
+      "view": "The $300 billion forecast is actually conservative because it ignores the massive pivot toward Long Duration Energy Storage (LDES) needed for grid stability. The winners won't be lithium-ion giants but rather sodium-ion and flow battery manufacturers who can scale without the geopolitical baggage of lithium supply chains.",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQlBJOW1kcG1NRzFLZDRKclZyWUliZklvS1cwOW1Wc1NFTENSRGpxWG5lRkxrSUJVZ25qSndYVHV5ekFydzhtSFdia1ZRNVBqdnFOWnRTdmNDR2tIYllpOG1vSzBvZkdOSjlRUzF1VXNWV1RoVkdmemRDUkdvb2RqeTlPODRSa1dxWFBUZ1BLaHJCNkZBbWR0cnJDS3RjT0JocTV1Zjk4MVJFUEdzTUhlOFhjTTJyeXhDQWtXMGdFeGx0eHpuVVhSOTZIVmM1MTdFU05zQw?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "S&P 500 hits record high after weak jobs data",
+      "summary": "The stock market reached a new peak because a 'bad' jobs report suggests the Fed will have to cut interest rates.",
+      "view": "The market is currently operating in a 'bad news is good news' vacuum where deteriorating jobs data is viewed solely through the lens of Fed rate cuts. This is a dangerous front-running of liquidity that ignores the reality that if the job market breaks too hard, the resulting recession will destroy the earnings growth needed to justify these valuations.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrSXJEV1RNNXNyTWg1cnp6d1FnOVdGZGh5WHJfMnd6TDhTU3FhRkZpWGhrY3hiaWhFcFhYSEc4TFRZZnBnZjZic24tX2RiS1MwemZOSW80azYxQ1BVaVZIWFRRT2I3UlN4eUNIRldVWWdxZGpzWUcw0gF8QVVfeXFMTmhIa3ZqTzNWWmlYWktzSUZnNVlMR0FpUG93YUtZUjBpRkRnX2ZBemdzaGNaZlh1cXdsaXNNM2VFUUN4Zm93eUFaZ0ZrbS1ETmxqdnViMFhfd05LeUY4eWNjOXpBTkFOZnFHZDlPZTZsdENQaDFnd2hlUVozVg?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Market rally finally spreads beyond a few tech giants",
+      "summary": "The number of individual stocks beating the S&P 500 is at its highest level in four years, indicating a broader recovery.",
+      "view": "The Mag-7 dominance is finally fracturing as the valuation delta between 'AI hype' and 'Real Cash Flow' industrials has become an unsustainable rubber band. This rotation into the 'other 493' stocks signals a healthier, more durable bull market that isn't dependent on a single sector's perfection.",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQekZqaU9GcklaQ29YeHdHNWxpbElkM3FwYmFUZHlId1dNQmpsb05BajJWT2o2aWMtbzNFaDIzd0w3V2dVbEc1MEpYSU14RW1aQ2s5bUZSdHZEZTF4bG9oUDdGOHFySEVHem52Z0Y1RmNWSkp0S0NkWHRTbzZ0V0MwU18xWXJHeDN6Rjc2eGtCN1FQM2o2YTRhZjdENUdDZlZVWnVVNG5sdExBMzMxMUtneDFHTGctazZmVy1PeXlaMDNjU09RR2NmdUdfRVNGUWpab3U4?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "The bond market is flashing warning signs despite stock records",
+      "summary": "While stock investors are celebrating, bond yields are signaling deep-seated risks and potential economic instability.",
+      "view": "The bond market is pricing in a 'fiscal-tariff spiral' where higher duties cause structural inflation while the deficit continues to explode under populist spending. While equity investors celebrate, the expanding term premium in the bond market suggests that the 'risk-free rate' is about to get much more expensive.",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlhBejhhZWNUdDRiX05LWHFRaGJhX0ltazRRWTFPZWdvazNWX0U1WDg4NmpIb0swb1dsR21KTzg2MUc5Z21ORnJXdWFxX2xybjdsOG1lUnV4aWs3TWw3QmR5TUFfMDZ5Qkc5WVhxSWVXT2dUZDVneUxqRms3V1dBeDJvUzJtT1R4Z01NYlZNbXBBNnVBWWdF?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Buffett\u2019s favorite indicator warns of a dot-com style bubble",
+      "summary": "Market analysts note that a valuation signal famously used by Warren Buffett is hitting levels seen before the 2000 crash.",
+      "view": "The Buffett indicator is screaming because the US economy is increasingly financialized; the disconnect between a stagnant GDP and record asset prices is being funded by an unsustainable expansion of the money supply. We are in a classic 'liquidity bubble' where the exit doors are far too small for the amount of capital involved.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWHByOVJnSGozLWVfcE8zT0RYNlBtUUZaZzhaYjducDRWWjhPcTBCQkllZzFRZ0pka3ZMQUxzUURvMjFJSUZIQmdNTEVla1E5eThHMU1zMTJIQU8tQmsxNnltSm9vajJicWg0Zm93UTBsejJkMVh2S3lOWTZaYXVpWVdURUUyZ0hiaEZRcDNRQWlWODZQNEIxcHlR?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Health concerns for the President spark new political uncertainty",
+      "summary": "Hunter Biden publicly stated that his father\u2019s cancer has spread and is becoming 'very debilitating.'",
+      "view": "Political uncertainty surrounding the President's health is creating a 'Debilitation Premium' in the markets, freezing the DNC's legislative agenda and making a GOP victory in November look like a near-certainty. The loser here is any policy continuity, as the market begins to price in a total regime shift.",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMFl6T1hKeGw2SVFxa1pkZl94cjVJbUZwQko5OC1pM2N0T1dVaHNPTmNuM0M5LVJJVmh5eUNtc1NzbEpFRFJmLXlqZkFTTFVTVXNWUFN6YkVQUERRLU5uU19tU2hpeFp0RmFyb2hnWDlhQVNyVm9ueUltUmFzOG9uYg?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Israel dismisses Trump\u2019s proposed framework for Gaza peace",
+      "summary": "Prime Minister Netanyahu has rejected a 15-point peace plan put forward by Donald Trump.",
+      "view": "Netanyahu's dismissal of the Trump plan is a calculated bet that he can stall until after the US election to negotiate from a position of total military control. Trump's 'complete disarmament' demand is currently a rhetorical flourish that lacks any realistic enforcement mechanism on the ground in Gaza.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM2lnLVJPaGlDY01adEU5elJCOFpkREpaaGNpbTFjYXBmeFA5RDRSOGJINVpkN2dhZ0tjLTgxc1MtakkyNjhBLUNCcWxFbk90NWxyYmh6eklKWTJOTFZEQ3NueFd6bFNfRHZ5WmJSVXJqeHZHQTdPSVF3cThIcnpzUHZFODVnMmJTNU9HUkg0TWwzZXNoV0lDNFVzandWNzdIQ3FzcTViUUZPd3lOTFNWRjZ6cFZFdw?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Apple tests Chinese chips to bypass supply chain bottlenecks",
+      "summary": "Apple is reportedly testing memory chips from Chinese suppliers as global shortages continue to bite.",
+      "view": "Apple is effectively building a 'Chinese sovereign supply chain' to insulate itself from the escalating US-China trade war. By testing Chinese memory chips, Apple is signaling that it is willing to prioritize its 20% China revenue share over the potential wrath of Washington regulators.",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMlR2QW5JZE9sLXYta285NU5Oa3kwdHhXQUk0WE5nT3lPbGxhSEJXQzlOUndnYnp3VzE3UmZJNzUya2NFS3pGUU1LWEFFbEZIaTVzajRrX09CYnBqRnBTSU1aXzgwSXlDTEVKMXNOc1BpcVA0M3BBSUVaQU1UWGc3NlZTempuTlZ0WDluUjdCZ0xtSm1D?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Berkshire Hathaway finally starts spending its massive cash pile",
+      "summary": "Greg Abel, Buffett's successor, has begun deploying Berkshire's record cash reserves into new investments.",
+      "view": "Greg Abel's $8.5 billion housing bet signals that the 'Buffett Discount' era of hoarding cash is over; Berkshire is shifting into an aggressive deployment phase to capitalize on high-interest-rate distress. This move into housing is a massive bet that the US supply shortage is a permanent structural feature of the economy.",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNUs1bUp5RGRRZ0N2dHpkQklja25FRGhoQVVyTVV6SU5IVHZFU1pacHFwODZRNWhrdy1UYXVwNllBaFI4R0t6S1U5c25BTnJWRmc0WHlsc2J0NnNYU0s5NGxXelJ1YWFZcHNiMS1ZbVB6V1NhSXJ3ZkY3SlBLNkVWejFjYkV2LTZYMm50bHRB0gGTAUFVX3lxTE9tcTN5M0Fza2FmWmRQM01HSWN0aXgyRXgyZ0Z6bGQzSXhCSXBVZVcwWS1odkpCbVdMeTVUdHN6VkZlcW1RS0Nsc2IxVDc0Vms0bnRFYnU3VFpGUk1ERGZNR3djM2JyYUgzMzI0SlY4cXJTX3VyYldNX1BuS1poakk4TUFJTGtScGM0NDBPUmVNRXBkSQ?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Markets demand an independent hand at Bank Indonesia",
+      "summary": "Investors are signaling that the next central bank governor must be free from political influence to maintain economic stability.",
+      "view": "The market's demand for an independent central bank governor is a direct reaction to fears of 'fiscal dominance,' where the bank is forced to print money to fund populist infrastructure projects. If the next governor is a political insider, expect an immediate and sharp devaluation of the Rupiah.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaGRiNHVFTW9PdTY2cENsU1ZLSVlSXzc0X2ExUWtiWUZHWkwyTERNN2gyRWFoVVRQV181dWNBU1g4ZUJVTGN4azNET2lxMEdIWTdDOGVEYUNVU3o0bEpPajBlTE8yQUZOR3F1R0J6ZGRQYlRsYnQ0dHNxQmJlbkh4Tko2aExIaURjc1EyX3NjZzc2RFVoX0Q5ZlJEWFRUTDM2YklR?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia eyes dual citizenship to end the brain drain",
+      "summary": "The government is proposing a limited dual citizenship policy to attract skilled Indonesians back from overseas.",
+      "view": "The dual citizenship proposal is a desperate but necessary fix for Indonesia's 'brain drain' that has left the local tech sector starving for senior engineering talent. This is less about sentiment and more about trying to import the human capital required to escape the middle-income trap.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdlduOHVtbXJrSmdUU2M1RllvWVBsU1ZqUnhhY0EyV2Z0R0tfbUFqWUlhY0tpNEFsd3I1cVgtanVfWmRUU01LbmJlTFVucXV6NTFId0lsb0VfWjRBdlZkVmdCOVpZbzI5bTVSc0J2TTktaE5XTDdVZjdqSTgwWGM5bWtCcURPb2ZCa3kxbGdEdW1LYlNNS2I1WnRHd0dydw?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "New copyright law takes aim at Google and AI",
+      "summary": "A planned update to copyright rules would require AI platforms to pay local creators for using their content.",
+      "view": "This copyright law is a 'Digital Sovereignty Tax' intended to extract rents from Big Tech to subsidize the local media industry. It\u2019s a protectionist play that risks backfiring if AI firms decide the Indonesian market is too small to justify the licensing headache.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ3dUZEU3QUhQc25HUlh0TXVWaDl1YlIwdVFNUm9vLWZ3QjgtVjV4RWZaemdSeFFiYUZjbEg4Mmt2WUhCa2hLNS11QzVaVXlHQkNEWnJKN2tUVThNeTRtTS1MN0hKeWlJOUFaVXFUS3hqZ0JWbDBsZVRlMk1nT0QxM2ZHRkRVVHhMbi00d1hVQnhOdjMxZ0pFSTludWtzU0RXN3I1WVpleWlTSkk3Zk9Kb19CbjhFVG1nOFR3?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Economists warn of a looming crisis in investor confidence",
+      "summary": "New analysis suggests that increasing government intervention in the economy is making foreign investors wary.",
+      "view": "The return of 'Dirigisme'\u2014state-led intervention\u2014is the primary threat to Indonesian investor confidence as it effectively crowds out private equity and foreign direct investment. Investors are seeing a transition from a market-driven economy to one where the state picks winners, which always leads to inefficient capital allocation.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZkpJZUQyb2dua2JwYzlUOGtmVXN1cjRGZUkxYlNkOVRPT0VOWG5PbE1vcGl1OXAwZE9GU3prRHB2WFFacVBVcGNPWkItQkhYV2ZLTDloWURFWGMtaWlxemhQeFNic0RTdDJMR2NaNi1UZnlIVDczRXExel84dFhXbDVSSVB5TUdIQjZNdzZPbUNXMGtYRG5HdkJDQU9JTHQxTWY0a0xldFRwdmY3T3pnbU5R?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin slips below $67,000 as political hype cools",
+      "summary": "Bitcoin has lost its recent momentum, falling back below key support levels as the initial excitement over a second Trump term fades.",
+      "view": "The 'Trump Trade' for Bitcoin was a classic 'buy the rumor, sell the news' event that has now exhausted its speculative fuel. Without a specific legislative catalyst like a Strategic Bitcoin Reserve bill, Bitcoin is losing its political premium and returning to its baseline as a high-beta liquidity play.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNEtqckFZRzZHclBKMzh2MEc2WnNIN1RsRVY1c1poeVY5d1lMcmVsQUk0aTMzdGYtOUpnbWs4X2JiZ1otZFd5a2h6bjhzUEI0Y1RWLVd0NEtPcEZYWV8wTW1pTVhPN1FRaTdiMDM1T2pyTFVYSl8zZThfZENpQ3I5LWpMdVNkNzQxdHd2QWpINmtQRnAtVDFpcV9FYnJnOWZSbnBVcDNEYl81aFZKZWhjVjU5c093SEnSAbwBQVVfeXFMTlZLOHN2NEJGdWIwcm5WeXRhaTZMbVJ1N2Y0VjhGMkhkb2JCNmpYZ2VJSmhyVjdqMDVuYUZUbGdtU1ZWY3FMWWxhdU1FRmNXcEhZNTBrNDFBWFIzR20wZUZHdDJqWGxrZG1TYXFHV0paSDl6Qk0wX2ZjUE5xQjN5Qk8yTDdQOUpiZWR1dVNhOUlscVF3c3FZTXFQR2ZyaC1ubnNDeDBCQ25PNDlaYmhSQlJmQks4LUYyZFdxQmY?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin and the Japanese Yen are now mirror images",
+      "summary": "Data shows a nearly perfect negative correlation between Bitcoin prices and the USD/JPY exchange rate.",
+      "view": "Bitcoin is currently acting as a 'Global Liquidity Sponge' rather than digital gold; the negative correlation with USD/JPY proves it is the first asset sold when the Yen-denominated carry trade unwinds. When Japan tightens, the world's most speculative asset\u2014Bitcoin\u2014feels the liquidity pinch first.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Investors are ditching volatile tokens for digital dollars",
+      "summary": "A significant amount of capital is moving out of Bitcoin and into stablecoins as the broader market slides.",
+      "view": "Capital isn't leaving the crypto ecosystem; it is rotating into 'Digital Cash' (stablecoins) to wait for a macro-driven entry point. This hoarding in USDC and USDT suggests that the market is 'dry powder' heavy and ready for a violent upside move the moment the Fed confirms a cut.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc0FjUTVZN3JBM2t6c1NLWkxJR1VvSFd5VmZDN1Z2dXhZU3p4S2tBRndYdzlxZ1JHVmhjLU5jN1pYZ0xwOU9WdTNQNHJJazlIcUM0T2NqaFNBd2x4cUlRTE5HR0xBM3Zuc2ZIT3lFRncyaUZYTTBlQUlmQjJJcWpibjdhbXR0MTVVVFZDR3kzWWJET3YzU1hsbXYwcV9MN2JWb21RSUxaR19rYmYxU0NSZVIyU2toRTg5?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "The 'Dollar is Dead' trade is officially losing steam",
+      "summary": "Bitcoin is suffering as the narrative that the US Dollar is being debased starts to weaken among major investors.",
+      "view": "The 'De-dollarization' trade is dying because the US Dollar's yield and institutional stability remain unrivaled despite the debasement narrative. High-net-worth investors have realized that while the dollar has problems, its competitors (Euro, Yuan, Bitcoin) have significantly higher systemic risks.",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd0NzNjF6ell3SGlCRXM5MXFUVGoyaURaRThHXy1oazN3UDcwRXFIeW1ab1BYbVdzUjhnQzVyZGZNSzVjNlhiZUtiM3EwUUdaMXFlaEpPZm1hSGZ6TlJxVHhZTExPYWZpSU8yUnhsT3JsOGxlNUdNTnM2ZS1mZ3NRZDdlVExPMU0?oc=5"
+    }
+  ]
+}
