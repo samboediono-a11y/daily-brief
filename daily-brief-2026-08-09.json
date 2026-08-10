@@ -6,42 +6,54 @@
       "headline": "Indian tech firms are actually winning the war against AI",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdUJVM1FGT2Z0VmVvdF82NUhHYl9INllVUDJqb0U1X0ZQVDUwTGxPXzRNclc2azVVTUNfeDB2ZFY3aXVZTHlrZXpoUWluWUpLcEpCRm1kQjkyZ0RoODdWeVhuaVVKWmt2VkRPd3VQV05Odmc3bm5vNER0emFnaDVUdW1nbVQ1RHJQaEZYWXdGWGxpYzdKeWx3Y2h6M25qak00R2lkRmR0MGdYNXhqc2NtWTJB?oc=5",
       "prediction": "Expect Tata Consultancy Services (TCS) to report a record-breaking pipeline of AI-integrated contract wins in its next quarterly earnings report.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The fresh headlines mention strong growth for TCS in Q4 2026, but do not specifically reference a record-breaking pipeline of AI-integrated contract wins."
     },
     {
       "section": "tech",
       "headline": "Big Tech's diet continues with another wave of job cuts",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWmFQc1ZaZEJGVExrMEkteFpwTXhvZko1Y3hPWU5Pd0dqaEJJeFF4T2VidEhIS0MwTDVnbExnUXU0OElQM0lVOHYyWS01QWtUVW0xQ215NEFHLUNKamcxYXZFNjNUdzVLbWRDRGg1ZjhpQnhsVnlVa0xndkwzNnZrUncyRVFITVRvYU1PcXBBbWk3bzEyOUd3VEdIaWo3OE16YVpLOGdzOWZURVZtUjUzaVVyYmpCaEYxeTB4T201OEZ0TmRrNmg4THRyUVpPaC1IQThBa1RhSG1NS2R2Y1lMSGdVbFgyVEcwODFLU2p3?oc=5",
       "prediction": "Amazon\u2019s SG&A expenses as a percentage of revenue will drop by at least 150 basis points by the end of the 2025 fiscal year.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "None of the provided headlines contain information regarding Amazon's SG&A expenses or fiscal performance."
     },
     {
       "section": "tech",
       "headline": "Regulators are quietly meeting to decide the future of medical AI",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPemk1NjZBYWpVaElUT3Q0LWE3UG5qMEhQdElYOWptLUlVOU1Cc3VFVWtpb0VUTlhhSjV5SWRSSWl1LWktRmlrZU05ZktnRzAxSkhGRlFLQkswMktXMS1uaUV2aXJNUjJ2UzdhLUs5dnFDdXhKZFlKNkR0VUJzR01tLVhmVklEQlhvWXVjemlGQi1zREQ5bTNSRVo4X0lzSm9qRV9oQzlTUQ?oc=5",
       "prediction": "The first public draft of these medical AI frameworks will be released by Q4 2024, explicitly requiring 'human-in-the-loop' verification for all AI-generated clinical decisions.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Headlines provide general information on AI in healthcare and future scenarios but do not mention a Q4 2024 regulatory draft or verification requirements."
     },
     {
       "section": "tech",
       "headline": "Micron\u2019s memory chip dominance is becoming a double-edged sword",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMFFKN1ppSUdfX2VpYjZIenVWOUxBRjRsSGM5c1p2SE03c01mNkRzMXRMY2pWaS1GUXJoVFpHam1KbTlJZXFmbWlrWU9YZFVOVVZHS0FHUExoZEloS1RpUmFod3ZKVld0YVB4TVRFV3AzVzJKNzlzeExXTkItdXNYUE5qUnc5WUpCaUFJQXlvUWxaSzNTY24tZHFfdkdtSVVxTnBCRlVEYTFDSndxNDdzWmJvTzB1RDJGck1YdVJVYmhKaTB0TFRHSmlxWG9NOVpJdEJ0SXFBTGNWR0lfU3c?oc=5",
       "prediction": "Micron will announce a significant upward revision to its CAPEX guidance in its next earnings call to fund aggressive HBM capacity expansion.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "While Micron exceeded Q3 2026 estimates, the provided headlines do not mention an upward revision to its CAPEX guidance for HBM capacity."
     },
     {
       "section": "markets",
       "headline": "The S&P 500 just had its best week in months",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrSXJEV1RNNXNyTWg1cnp6d1FnOVdGZGh5WHJfMnd6TDhTU3FhRkZpWGhrY3hiaWhFcFhYSEc4TFRZZnBnZjZic24tX2RiS1MwemZOSW80azYxQ1BVaVZIWFRRT2I3UlN4eUNIRldVWWdxZGpzWUcw0gF8QVVfeXFMTmhIa3ZqTzNWWmlYWktzSUZnNVlMR0FpUG93YUtZUjBpRkRnX2ZBemdzaGNaZlh1cXdsaXNNM2VFUUN4Zm93eUFaZ0ZrbS1ETmxqdnViMFhfd05LeUY4eWNjOXpBTkFOZnFHZDlPZTZsdENQaDFnd2hlUVozVg?oc=5",
       "prediction": "The S&P 500 will touch 5,650 before seeing a technical pullback of at least 3% driven by an oil-related inflation scare.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No fresh headlines were provided to confirm the S&P 500's price action or a technical pullback driven by inflation concerns."
     },
     {
       "section": "markets",
       "headline": "A weak jobs report is the secret fuel for stocks",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN29tUTN4WXpkU2VBVGFreXR6ZjJnRW5EZUNraWthVmtXRGVKS3dhb0o0eGZnLXdtLU1WQUZnTXBlaUtZV044QVVCdTROYVh6VF9mWDhZY3Y1QlUyZl9SUXJBbTVxN3hIb3NWZXl2LUNObUYtRUpiMVItWHk2bkRZcGlQeXR6Q1E3VUZhN2dnWDNuc1ZraTl0ZkswaGhkUDBaTWhGWTFoZ2ZNa1l4M3NfRC1Ma1BhaGxMZEVlbVhOemNIbEhBZTktVGFqc1pGaUpNYkFMMA?oc=5",
       "prediction": "The 10-year Treasury yield will drop below 3.85% if the next jobs report also misses expectations, further detaching stock valuations from economic reality.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The headline attributes falling Treasury yields to geopolitical events rather than a jobs report and does not specify a yield percentage."
     },
     {
       "section": "markets",
