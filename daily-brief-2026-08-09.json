@@ -8,7 +8,7 @@
       "prediction": "Expect Tata Consultancy Services (TCS) to report a record-breaking pipeline of AI-integrated contract wins in its next quarterly earnings report.",
       "grounded": true,
       "status": "too_early",
-      "note": "The fresh headlines mention strong growth for TCS in Q4 2026, but do not specifically reference a record-breaking pipeline of AI-integrated contract wins."
+      "note": "While TCS reported strong growth in Q4 2026, the provided headlines do not mention a record-breaking pipeline for AI-integrated contracts in the subsequent report."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "Amazon\u2019s SG&A expenses as a percentage of revenue will drop by at least 150 basis points by the end of the 2025 fiscal year.",
       "grounded": true,
       "status": "too_early",
-      "note": "None of the provided headlines contain information regarding Amazon's SG&A expenses or fiscal performance."
+      "note": "None of the fresh headlines provide information regarding Amazon's SG&A expenses or fiscal performance."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "The first public draft of these medical AI frameworks will be released by Q4 2024, explicitly requiring 'human-in-the-loop' verification for all AI-generated clinical decisions.",
       "grounded": false,
       "status": "too_early",
-      "note": "Headlines provide general information on AI in healthcare and future scenarios but do not mention a Q4 2024 regulatory draft or verification requirements."
+      "note": "The provided headlines discuss general AI scenarios and medical AI benefits but do not reference a 2024 regulatory framework or human-in-the-loop requirements."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Micron will announce a significant upward revision to its CAPEX guidance in its next earnings call to fund aggressive HBM capacity expansion.",
       "grounded": false,
       "status": "too_early",
-      "note": "While Micron exceeded Q3 2026 estimates, the provided headlines do not mention an upward revision to its CAPEX guidance for HBM capacity."
+      "note": "Micron shares jumped following Q3 2026 results, but there is no specific mention of an upward revision to CAPEX guidance in the provided text."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The S&P 500 will touch 5,650 before seeing a technical pullback of at least 3% driven by an oil-related inflation scare.",
       "grounded": true,
       "status": "too_early",
-      "note": "No fresh headlines were provided to confirm the S&P 500's price action or a technical pullback driven by inflation concerns."
+      "note": "No fresh headlines were provided to confirm the S&P 500's price levels or the occurrence of an oil-related technical pullback."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "The 10-year Treasury yield will drop below 3.85% if the next jobs report also misses expectations, further detaching stock valuations from economic reality.",
       "grounded": true,
       "status": "too_early",
-      "note": "The headline attributes falling Treasury yields to geopolitical events rather than a jobs report and does not specify a yield percentage."
+      "note": "Treasury yields are reported to be falling due to geopolitical events, but the headlines do not mention a jobs report miss or a specific yield below 3.85%."
     },
     {
       "section": "markets",
