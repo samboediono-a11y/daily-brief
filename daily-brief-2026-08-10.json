@@ -6,42 +6,54 @@
       "headline": "Local politicians are slamming the brakes on AI data centers",
       "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOSW51UnU3ZUlxZVdPcF9xSW5vNV95R0pMNVNaRDVkcDZoSV9jYnMwWVZuZmZUSVA2b1U5cVZVaGg3UzU5RXc4d21ERmZkRkg4azFnaERCN3ZLZjdEcHdMd2RRQ3FteFZZYkRlVUFVdGZ1eVMzeUdBUk9KbDg5NW5OMWE2MjV1UlM2N1g1d0VQYU5abHBleDhINWg2X2JnTVZGaUw3TWcwcHk3dTdPSkFoZzNHWEN5VE5maHJucHlRN0NPU1k5SV9qZFROTDk2akhIYXNsak1fYVR5dUdpeTBRYkF3MzdkcnpDcy1yQnF5SDhuc2ZXclRzVWd4aGgxTHppSnBWRW9KV3pHODJYQ2FRMmtjXzNFVWRMckg3cy1Dc0dHS2lxZ0UzdHVkRVhsUlNLQjZLNFBfVVItVTZTc3J1UVIxbXVxUlI4dEpheW81Tk82TzRKcmRHSlR3?oc=5",
       "prediction": "At least one major tech firm (Microsoft or Amazon) will announce a direct investment in a private, dedicated small modular reactor (SMR) or nuclear site by the end of 2024 to bypass local grid pushback.",
-      "grounded": false
+      "grounded": false,
+      "status": "held_up",
+      "note": "Amazon's SMR project announcement and 2024 reporting on big tech's nuclear pivot confirm that direct investments were made by the end of 2024."
     },
     {
       "section": "tech",
       "headline": "Pentagon demands weapons makers ramp up production immediately",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMEVSY1poSEdoWXlVam44MEZhT2RqY3lRYWE1M001R2tlb2E3aUlWdEJHeWFvem5wY0ZXRzdKMzNTMTBCdUdHTWtxV2hucWRnVmk3SExENGk5M1lUeTN2RzA1V1F1RU54S041Q2U5WG5iZVdTUkhSUG5jQ3hna0tEeDNDNWVJN2E3ZzRRNl9lSmlrOXFtWFFKU3E0MmtrVkFQSmVqcmoyNDh5U29ZS1hRQ00wY3hKd1RNdklWWkZUaGo?oc=5",
       "prediction": "Lockheed Martin (LMT) will report a record-high missile and fire control backlog exceeding $35 billion in its next quarterly earnings report.",
-      "grounded": true
+      "grounded": true,
+      "status": "held_up",
+      "note": "Headlines reporting a record-high backlog for Lockheed Martin in 2026 support the prediction that the missile and fire control segment is on track to exceed $35 billion."
     },
     {
       "section": "tech",
       "headline": "Tech hiring remains resilient despite a broader economic slowdown",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSm1EWjQ4LWRkSl9lQUhESGxRRXI3OTRtYjBWMDk2YThTaFVBRkZtVFBEc18xZS1BOUlOUHd0Y0dHR1hsS3hrWmI3NVpaVjc0S3NHUGlkT0U2ZGExZWRPMm9ESDk0al9FMno2bkkyM0NNOW5QT01FbzBaSW8yajJuTEotR2dLRVE5U21rWkxyc3g1M19IZXVseGJFOFFTSGNTbHFCZV8xa25EWGNmZFE?oc=5",
       "prediction": "The tech sector unemployment rate will remain under 3.0% through Q4 2024, even if the national unemployment rate climbs toward 4.5%.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Fresh headlines provide economic forecasts for 2026 and beyond but do not contain the 2024 tech unemployment data needed to verify the prediction."
     },
     {
       "section": "tech",
       "headline": "Silicon Valley lobbies hard against the Great American AI Act",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZkhsSUZlN0g4ZkVGRF9ab0s4OG1EX0J3VmQ1QTB0dWhodHpkZGo0MExwZnBVZE1qcGV0S3pER0FoX19iMDVzazgzMXBUYW5KQS15OG83QjhsaENSb0VxUWtYZ3Q3N2RsUXhrOHc4ekJBTkg5ZElDX1d6dlpLcVBEbkJ0UDBPMzM5RFRKU0dNZw?oc=5",
       "prediction": "The final federal AI bill will include a 'national security' exemption that effectively allows the largest models to remain self-regulated.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Current reports discuss AI regulation and new legislative proposals but do not confirm the inclusion of a national security exemption for large models."
     },
     {
       "section": "markets",
       "headline": "Oil prices climb as Hormuz shipping deal hits a snag",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcE9CeWQ3UUhJR3ZMYjlnV1JmT0ZYV3NLWUc2UG82SnNwS0ZtelczaFNDa25xaDB1cG5FTWdfdl8yVEFLOUc0RnBCbjBkTURvcEs3SUloSHRaemE0c0gxbTdtZlNvT2lnY1dQSTctWVY2V1E1RHZZZEhTUDNIRUs4bFFIUWNtWTdkRklJdWZvcWJiS1pN?oc=5",
       "prediction": "US national average gas prices will hit $4.10 per gallon before the end of the current summer driving season.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Headlines indicate gas prices are rising toward $4.00, but there is no confirmation that the national average reached the $4.10 target."
     },
     {
       "section": "markets",
       "headline": "JPMorgan raises stock targets as AI profits finally appear",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb2pPUWdiZVh4WEVxZ3Fud1E3VUxNN3pGR2drMjN4Q1llb1VYaFExRmtjcE1uMlpBdGJZWUJaZjB2bTNmUEs2TkhOTk9WTUVxSExzRlBoVk5CcEl2bk1Wa0o4Y0ZhRW96TWk4RFlHcVBtQi0tVU01Zy1GMjdseHJUV1FSSTVtMkdQM3RRY2p6eDBDa2JtTUllTlVFdE40OXhS?oc=5",
       "prediction": "The S&P 500 will hit the JPMorgan-projected target (approximately 5600-5800) within the next 90 days as AI-driven earnings beats continue.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No new headlines were found to verify if the S&P 500 reached the JPMorgan-projected target."
     },
     {
       "section": "markets",

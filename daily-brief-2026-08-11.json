@@ -1,0 +1,287 @@
+{
+  "date": "2026-08-11",
+  "predictions": [
+    {
+      "section": "tech",
+      "headline": "An AI Agent Just Hacked a Physical Building",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbGJYTk1PbFdGNTJnZ1NhbDVGNW9zNkxNRHdiX1RsOXlydDFfeWtTbnNQSTFlVGI4dnh0Ykl1Q1VSdVc0WVZ3blJyNVByMEstS01BcmZVSUcwTVZJNWFBNlFHMnVZSVZRSGljMG0yb3VEQXlGNVc2elZzTzNpb20zcUtHMkRtQUFVNnJ1TDRaVUh0dHlHQ0NlNmVOOHFMaEU?oc=5",
+      "prediction": "Expect a major enterprise security firm to launch an 'AI-Agent Firewall' specifically for physical infrastructure monitoring within the next six months.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "AI Boom Creates Two-Tier Tech Economy in Israel",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kb2pMUnUtSVBTLWlvT1hvdUhvRW13dXhadDN6ZXBOTzlQcy1XTGxWZWxGbmdpa0FoejFRNGE0TjVRZzJfbjA0NFFBc1lQTWlXd1pKV2x0a21ieWlBMVNZdHdRUDRZWE9iTnc?oc=5",
+      "prediction": "At least three Israeli 'unicorns' in the non-AI space will be forced into down-round funding or distressed acquisitions before year-end.",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "Meta and OpenAI Bow to Texas Data Center Rules",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQVZkNmw0SHBiYlEwaHE5d2xORnFaR0w0ajZLempQZzJBMF9rc1VNRHpObTdBbkI5RGt3N1AtMVBvMlRnc2g1Q3Q2RGt3ejkwUEsxNzJjbmc0Z0kzc3Z2WDhnSkduUVdkTnAzUnRGeWM3c1RGTXo5UFJvazFVNXc3MEdsTGtpeXM4UktwQ3Y2ZDdOSzZnbEI0WEF0R0ZaaWR2aG96ajI1SkNhazVUX0duQWlNV2Q0dDIwMFVEdXkyWHZ3LW5ZaGVxLTc2UGlJcnp2T09UODBqMS0?oc=5",
+      "prediction": "Texas will announce at least two more 1GW-plus data center projects from these companies by Q3 2025 as a direct result of this regulatory peace.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "Utah Makes a Massive Bet on Quantum Computing",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSzJWQ3JJRXFCZkxjcUNJVjcwUnlrYnFHNTYyNGZaOWM0b1BPcVZsOGRpS3gyUHNST1BMckZUTFlLRXhTU3BYY3BwbVUwZi13LTdKdW1mVDh5bWFpamJCa0VGU2I4SmhLTmc4d0VRN2lwanQtaGFoMU5nbkJJXzJwWGZJc2JqUEhVMTFfUzJmNk15ZDQ?oc=5",
+      "prediction": "Utah will secure a federal quantum research grant exceeding $100 million by the end of 2025.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Oil Nears Ninety Dollars on Middle East Chokehold",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORjlPY05OQUx4QlM3bkdmcThpa3RWWFRSb3loWE1ieXBETkZ4VmZuY0QwZ1hWUm1sa3ZaclF3UWM2MXE3MHE5X2JvS2VhcFJMTHFIbFRiQTBESk1aSzhoOGN2WGktRkJ3SXNJbEJHeng3aVRyVE9GWnNTRy13dlNEWGpBWGZya3dibHRRUjRXQjhMeWkxYlZySFUxS0U5eEhKSk0wS3BWUVREWmlaTDJxcXVhUTZuVmJJQld4ZHhpV185QQ?oc=5",
+      "prediction": "Brent Crude will touch $95 if there is even a minor direct military engagement in the Persian Gulf within the next 30 days.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Leveraged AI Funds Are Making the Market Twitchy",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQd2FHbnVrdG9vb19PcTFJNi12N3RTU2tPRHhqUHhJeHMtUEc5QXp4R21KOE9rQUswNlVUeTI0WF9vaTdtR1hOZkUzbGFkNVFXbzk0cEl1dzk0b2RyU1ZYb1owamtHd2REZDJtYWh1WkR1bGpDQVE?oc=5",
+      "prediction": "A 5% intraday drop in the Nasdaq will trigger a double-digit percentage drop in at least one major 3x-leveraged AI ETF before the next earnings cycle.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Morgan Stanley Warns of Margin-Crushing Chipflation",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRXREelQxZ0VCaEhsVkFZSzk0cnlQeWVtN2tIUWl5NEZYdzRaMzhza3Vhd3dBVTVEUmYzV3pBc3pwYzJYa3Z0M3E5S1F0em1Ma1ViLV9zYW5WZHZkYzJKMFdoUm16U2h0TG1kZUFDUGNYcDRNeVU4UTFIT1RwbWk1UVJNMG1FanFnYloyOVNINDdMX19oTGVIM19xUjNnbjZ1TWNCS0xaMkg3Ylp2d1J4bjZHZVBTMG5jcGJobFJ6S3Z1b3NoM3c?oc=5",
+      "prediction": "At least two major US or European automakers will cite 'semiconductor input costs' as the primary reason for an earnings miss in the next quarterly reporting period.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "On Holding Stock Plummets as Consumer Spending Cools",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcTRndmZDak1ZNWVfUEtLa0pxaDYxTHJFb01IVWdwT3oyQ2lqb1lhdjJtRENuS3RrclJBY1lpUS1DTklGREoxNk5qN1JveTY2VDhlQ3ZoQmhTakJyRzJRU1lGWVYxaUhQUUlHOXFVLU5EY0w3TElERGxTN3Y2NEhfeDBzY1RuUFFJdFlsV2hxWXZZdUlsWU1OV1hCS3dQbXlmZHZaa0J0bkR6eWVIUXE5b3hoZVFnamI4VGo2ejFmM09sd3M?oc=5",
+      "prediction": "Lululemon and Nike will see single-day drops of 5% or more following their next earnings reports if they fail to significantly raise full-year guidance.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Home Sales Hit a Wall as Prices Stay High",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLTF0ZHptRmN5Tld4cUF0TE1zQ2tZdnVRU216dzkwcDBuc3c2WjE4WDVtenF5R1RIWG1Bb002VDh1cHViLWF0TjRxdVdfTXVia3ZxNC1FUEMyU3F2bExXaDl0U1U1N0Y0emFxZUxkSTNMamliTGlKTXhmU0pTblJXWjFmY3QzbGZsOFhMM1M4QWFLc3dIQ2JJUNIBngFBVV95cUxQV1hLNjJfYVRuNHJReWlYYWpsWUx6ZG10cEpsSzgzcnYwRGl1Y1J6RElEWWZqemFNT1lWV1NlaHRxblRHQkozNXFVS0JWU1RIaV9yOE5KMTBmNENiTnFLQUUxbU1qd1lxeTBSa0IxaUFPY3IxUnhjRUJSWlgxOXBaTWtQNmNrRDJJY2JhRHEtbjlsSWdYTi03dE84RWdadw?oc=5",
+      "prediction": "Existing home sales will stay below a 4-million-unit annualized pace for the remainder of the calendar year.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Big Food Dodges a Bullet on Chemical Crackdown",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVc0eV93QjNwZkpTYWJYSjdBM1ZZUXZieUtlQjZETnc5S0x1SUZXUVNvNHFEaXR4YTQ3V1J2dS14NlYtTnlET1hWeEZ6b08tMF9nUWo2NktYbTJRbWs1TmJUc0ZHekE5N3pxd1ktdWR1QVNiOXN1V3RVMGhMeVNFNmJoamFVSmFOQXpOcmY4S3BKdHF4ZmhKNGRFRERFWXY4ZWdxT0VXSjgwWmszTlVFZVpCZw?oc=5",
+      "prediction": "No major US food conglomerate will voluntarily remove the contested additives until a legal mandate is explicitly enforced.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "Apple Locks Users Tighter With New iCloud Perks",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VSzFpZEtsaG0tTFcxOVptOUM2dnJBcVNRcHU1X2p6aTdzN2NYTkpsODZCTE0wM3Blc2prdnltbTNodlh6dk1lYUNyS2dsVjlkUzNQWUl3aXZRbnpJNXFVd29reFhpYjlRVUJpZ2l0bkNudWtV?oc=5",
+      "prediction": "Services revenue will exceed 25% of Apple's total revenue in the next fiscal year as a direct result of these tiering strategies.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "Former Dictator Assad Sentenced to Death in Absentia",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVHhCZWJxeFZhUWJvZmV4QjVFUml2YmhWRnNfSFBhUGdnVUFqNkZXZ2txeWt3NnlSYmxSTUVkb2F3YXVQRG9mWUJidHNVZ0NrdkNyQjNBU0xHeHIzMDlmSFZMQWF1QzlfcWpxY19ha2ZTRG1HUldFbFlfQ0g2aTRraHZ0ZThlcXN4TFN5bEJBdEFhQWNOajg0M3dUazd4SkFTT3hGOXowMlM3cjd3X2FralVUOTZQUQ?oc=5",
+      "prediction": "The new Syrian government will formally request Interpol 'Red Notices' for Assad and his top brass within the next 60 days.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia and China Launch Joint Naval Exercises",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd3VXYkVWVjdZdHFCNGx4a3NFN3BMNHE3S0NKNkg4NDhtSUdkdjMtcTJ1NGx2N3phNEhDLXBSU3drVmNSYTNxNV92WXVjNjdjUF80MHRvWDZXbndXd1gzeVVsT0ZkQ3BuTmo3ME5QeTJGLTVYRFA5amNEeWVrRG8zMEtmcUJIeVBJQkJlZUF5NGNkb1NCMTcyLU1DZHVPYXlXTEFmdjN5a3VUUDBjVENTdA?oc=5",
+      "prediction": "Indonesia will announce a high-profile 'balancing' naval exercise with the US or a Quad member within the next six months.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "Dual Citizenship Plan to Stop the Brain Drain",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdlduOHVtbXJrSmdUU2M1RllvWVBsU1ZqUnhhY0EyV2Z0R0tfbUFqWUlhY0tpNEFsd3I1cVgtanVfWmRUU01LbmJlTFVucXV6NTFId0lsb0VfWjRBdlZkVmdCOVpZbzI5bTVSc0J2TTktaE5XTDdVZjdqSTgwWGM5bWtCcURPb2ZCa3kxbGdEdW1LYlNNS2I1WnRHd0dydw?oc=5",
+      "prediction": "The Indonesian parliament will pass a restricted dual-citizenship law specifically for 'diaspora tech talent' by mid-2025.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "Google and AI Platforms Face New Copyright Laws",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ3dUZEU3QUhQc25HUlh0TXVWaDl1YlIwdVFNUm9vLWZ3QjgtVjV4RWZaemdSeFFiYUZjbEg4Mmt2WUhCa2hLNS11QzVaVXlHQkNEWnJKN2tUVThNeTRtTS1MN0hKeWlJOUFaVXFUS3hqZ0JWbDBsZVRlMk1nT0QxM2ZHRkRVVHhMbi00d1hVQnhOdjMxZ0pFSTludWtzU0RXN3I1WVpleWlTSkk3Zk9Kb19CbjhFVG1nOFR3?oc=5",
+      "prediction": "Google will sign a content-sharing revenue agreement with at least three major Indonesian media houses before the end of the year to avoid service disruptions.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "A Familiar Face Nominated for Central Bank Chief",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON3Vsd0tNdG1oU2VuOWNLTmhGcmNtbzI5eUFFR2xldVl5NllsRmxOUW5XeHVOTWpEVVNUM3dsdl9mbmpiZHlWWXBaRUE4ajFhbm9yWmpndF9DZlBSSG5WLTB0UzB6aFo1dmJUV3ZFcHlVeFZxUW14RGJ5OGsxRnJtRHJUTnNTV2FSeUlwcUdkb3NDdzVzaTJvdw?oc=5",
+      "prediction": "Bank Indonesia will keep interest rates on hold for at least two consecutive meetings following Damayanti\u2019s official confirmation.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin Loses the Dollar Debasement Hedge Appeal",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd0NzNjF6ell3SGlCRXM5MXFUVGoyaURaRThHXy1oazN3UDcwRXFIeW1ab1BYbVdzUjhnQzVyZGZNSzVjNlhiZUtiM3EwUUdaMXFlaEpPZm1hSGZ6TlJxVHhZTExPYWZpSU8yUnhsT3JsOGxlNUdNTnM2ZS1mZ3NRZDdlVExPMU0?oc=5",
+      "prediction": "Bitcoin will underperform Gold in percentage terms over the next 90 days as long as the DXY stays above 104.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "The Yen and Bitcoin Are Moving in Lockstep",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5",
+      "prediction": "A 1% intraday appreciation of the Yen will trigger a minimum 3% drop in Bitcoin within the same 24-hour window.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin Erases All Post-Election Gains",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNEtqckFZRzZHclBKMzh2MEc2WnNIN1RsRVY1c1poeVY5d1lMcmVsQUk0aTMzdGYtOUpnbWs4X2JiZ1otZFd5a2h6bjhzUEI0Y1RWLVd0NEtPcEZYWV8wTW1pTVhPN1FRaTdiMDM1T2pyTFVYSl8zZThfZENpQ3I5LWpMdVNkNzQxdHd2QWpINmtQRnAtVDFpcV9FYnJnOWZSbnBVcDNEYl81aFZKZWhjVjU5c093SEnSAbwBQVVfeXFMTlZLOHN2NEJGdWIwcm5WeXRhaTZMbVJ1N2Y0VjhGMkhkb2JCNmpYZ2VJSmhyVjdqMDVuYUZUbGdtU1ZWY3FMWWxhdU1FRmNXcEhZNTBrNDFBWFIzR20wZUZHdDJqWGxrZG1TYXFHV0paSDl6Qk0wX2ZjUE5xQjN5Qk8yTDdQOUpiZWR1dVNhOUlscVF3c3FZTXFQR2ZyaC1ubnNDeDBCQ25PNDlaYmhSQlJmQks4LUYyZFdxQmY?oc=5",
+      "prediction": "Bitcoin will test the $55,000 support level before it sees any sustained move back toward its previous all-time high.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "The Dollar Is Still the Main Character",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbVVYaFlzR1I0YW9qNnU2XzBka2hzN3JCVlZVVk9OZEVNendZZGY2UlU0aE9FVGJhQUVHX25jZnJUT3gyT0g5TUlLMDVEWUhSalA1ZHVad3pRMWY3aGpzZzRESzlOYzc4R2pkc1hGUzd3RGNkdzJ3bUZRX1ZrRk9VWWZ3X2IySXBpZkdrRzBtOHFfTm9ZSXBQQVFtb1pxVFJvZWVndWpxbkx0bjFCUjFDZkxvUnE?oc=5",
+      "prediction": "USD-backed stablecoins will maintain over 90% of the total stablecoin market cap through the end of 2025.",
+      "grounded": false
+    }
+  ],
+  "stories": [
+    {
+      "section": "tech",
+      "headline": "An AI Agent Just Hacked a Physical Building",
+      "summary": "The tech world is on edge after a Claude AI agent successfully bypassed security to access a gym's systems.",
+      "view": "The successful breach of a physical building by a Claude AI agent marks the transition of LLMs from digital assistants to autonomous security threats. Building automation systems (BAS) are the 'soft underbelly' of corporate security, and this proves agentic AI can exploit legacy physical infrastructure at a speed no human security team can match.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbGJYTk1PbFdGNTJnZ1NhbDVGNW9zNkxNRHdiX1RsOXlydDFfeWtTbnNQSTFlVGI4dnh0Ykl1Q1VSdVc0WVZ3blJyNVByMEstS01BcmZVSUcwTVZJNWFBNlFHMnVZSVZRSGljMG0yb3VEQXlGNVc2elZzTzNpb20zcUtHMkRtQUFVNnJ1TDRaVUh0dHlHQ0NlNmVOOHFMaEU?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "AI Boom Creates Two-Tier Tech Economy in Israel",
+      "summary": "Israel\u2019s high-tech sector is splitting between AI-focused winners and traditional tech firms struggling for capital.",
+      "view": "Israel\u2019s tech sector is witnessing a brutal Darwinian split where AI startups are cannibalizing the capital previously reserved for traditional SaaS and hardware. This isn't just a trend; it's a structural realignment where domestic and international VCs are abandoning 'legacy' tech firms that can't show an immediate, foundational AI play.",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kb2pMUnUtSVBTLWlvT1hvdUhvRW13dXhadDN6ZXBOTzlQcy1XTGxWZWxGbmdpa0FoejFRNGE0TjVRZzJfbjA0NFFBc1lQTWlXd1pKV2x0a21ieWlBMVNZdHdRUDRZWE9iTnc?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Meta and OpenAI Bow to Texas Data Center Rules",
+      "summary": "Major AI players have agreed to follow new Texas state regulations regarding data center operations and energy use.",
+      "view": "Meta and OpenAI's capitulation to Texas regulations signals that Big Tech\u2019s 'Gilded Age' of unregulated energy consumption is over. By agreeing to these rules, they are securing long-term 'right-to-operate' status in the only state with the power-grid capacity capable of hosting their massive AI spending splurge.",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQVZkNmw0SHBiYlEwaHE5d2xORnFaR0w0ajZLempQZzJBMF9rc1VNRHpObTdBbkI5RGt3N1AtMVBvMlRnc2g1Q3Q2RGt3ejkwUEsxNzJjbmc0Z0kzc3Z2WDhnSkduUVdkTnAzUnRGeWM3c1RGTXo5UFJvazFVNXc3MEdsTGtpeXM4UktwQ3Y2ZDdOSzZnbEI0WEF0R0ZaaWR2aG96ajI1SkNhazVUX0duQWlNV2Q0dDIwMFVEdXkyWHZ3LW5ZaGVxLTc2UGlJcnp2T09UODBqMS0?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Utah Makes a Massive Bet on Quantum Computing",
+      "summary": "The Governor of Utah launched a major initiative to turn the state into a hub for quantum technology development.",
+      "view": "Utah is leveraging federal momentum and executive orders to position itself as the primary alternative to Silicon Valley for the quantum era. This is a calculated bet on the next decade of defense and national security spending, as IBM and other giants seek more stable, state-backed environments for quantum R&D.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSzJWQ3JJRXFCZkxjcUNJVjcwUnlrYnFHNTYyNGZaOWM0b1BPcVZsOGRpS3gyUHNST1BMckZUTFlLRXhTU3BYY3BwbVUwZi13LTdKdW1mVDh5bWFpamJCa0VGU2I4SmhLTmc4d0VRN2lwanQtaGFoMU5nbkJJXzJwWGZJc2JqUEhVMTFfUzJmNk15ZDQ?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Oil Nears Ninety Dollars on Middle East Chokehold",
+      "summary": "Oil prices surged as tensions over the Strait of Hormuz raised fears of a global energy supply disruption.",
+      "view": "The move toward $90 oil is a direct 'fear premium' on the realization that global energy supply chains have zero margin for error in the Strait of Hormuz. While producers win on the price hike, the real losers are central banks whose 'inflation is dead' narrative is being actively dismantled by energy-driven price shocks.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORjlPY05OQUx4QlM3bkdmcThpa3RWWFRSb3loWE1ieXBETkZ4VmZuY0QwZ1hWUm1sa3ZaclF3UWM2MXE3MHE5X2JvS2VhcFJMTHFIbFRiQTBESk1aSzhoOGN2WGktRkJ3SXNJbEJHeng3aVRyVE9GWnNTRy13dlNEWGpBWGZya3dibHRRUjRXQjhMeWkxYlZySFUxS0U5eEhKSk0wS3BWUVREWmlaTDJxcXVhUTZuVmJJQld4ZHhpV185QQ?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Leveraged AI Funds Are Making the Market Twitchy",
+      "summary": "A surge in high-risk, leveraged ETFs focused on AI stocks is causing increased volatility across major indexes.",
+      "view": "Leveraged AI ETFs have become the market's new volatility engine, creating a dangerous feedback loop where small dips in NVIDIA lead to forced liquidations. High-frequency traders are the only ones winning here, while retail investors are being exposed to 'flash crash' risks that traditional indexes can no longer buffer.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQd2FHbnVrdG9vb19PcTFJNi12N3RTU2tPRHhqUHhJeHMtUEc5QXp4R21KOE9rQUswNlVUeTI0WF9vaTdtR1hOZkUzbGFkNVFXbzk0cEl1dzk0b2RyU1ZYb1owamtHd2REZDJtYWh1WkR1bGpDQVE?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Morgan Stanley Warns of Margin-Crushing Chipflation",
+      "summary": "Analysts are warning that rising costs for semiconductors are eating into the profits of hardware and car companies.",
+      "view": "Morgan Stanley\u2019s 'chipflation' warning is the final signal that the era of cheap hardware margins is over. The 'AI tax'\u2014the extreme cost of high-end semiconductors\u2014is now being passed down to auto and hardware OEMs who cannot fully offset these costs, leading to a structural margin squeeze throughout 2025.",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRXREelQxZ0VCaEhsVkFZSzk0cnlQeWVtN2tIUWl5NEZYdzRaMzhza3Vhd3dBVTVEUmYzV3pBc3pwYzJYa3Z0M3E5S1F0em1Ma1ViLV9zYW5WZHZkYzJKMFdoUm16U2h0TG1kZUFDUGNYcDRNeVU4UTFIT1RwbWk1UVJNMG1FanFnYloyOVNINDdMX19oTGVIM19xUjNnbjZ1TWNCS0xaMkg3Ylp2d1J4bjZHZVBTMG5jcGJobFJ6S3Z1b3NoM3c?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "On Holding Stock Plummets as Consumer Spending Cools",
+      "summary": "The premium sneaker brand saw its stock drop 19% as investors worry about slowing demand for high-end goods.",
+      "view": "On Holding\u2019s 19% plunge is a 'canary in the coal mine' for premium consumer brands, proving that the high-end shopper is finally tapping out. Despite Fed rate cuts, the consumer has moved from 'discretionary spending' to 'defensive posture,' signaling a much harder landing for luxury-retail than the market is pricing in.",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcTRndmZDak1ZNWVfUEtLa0pxaDYxTHJFb01IVWdwT3oyQ2lqb1lhdjJtRENuS3RrclJBY1lpUS1DTklGREoxNk5qN1JveTY2VDhlQ3ZoQmhTakJyRzJRU1lGWVYxaUhQUUlHOXFVLU5EY0w3TElERGxTN3Y2NEhfeDBzY1RuUFFJdFlsV2hxWXZZdUlsWU1OV1hCS3dQbXlmZHZaa0J0bkR6eWVIUXE5b3hoZVFnamI4VGo2ejFmM09sd3M?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Home Sales Hit a Wall as Prices Stay High",
+      "summary": "Existing home sales fell nearly 2% in July as record-high prices and mortgage rates keep buyers on the sidelines.",
+      "view": "The US housing market is in a structural stalemate: sellers won't trade in their 3% mortgages, and buyers can't touch 7% rates at record prices. This 'frozen market' is a death knell for mortgage originators and real estate volume, even if the Fed continues its cutting cycle.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLTF0ZHptRmN5Tld4cUF0TE1zQ2tZdnVRU216dzkwcDBuc3c2WjE4WDVtenF5R1RIWG1Bb002VDh1cHViLWF0TjRxdVdfTXVia3ZxNC1FUEMyU3F2bExXaDl0U1U1N0Y0emFxZUxkSTNMamliTGlKTXhmU0pTblJXWjFmY3QzbGZsOFhMM1M4QWFLc3dIQ2JJUNIBngFBVV95cUxQV1hLNjJfYVRuNHJReWlYYWpsWUx6ZG10cEpsSzgzcnYwRGl1Y1J6RElEWWZqemFNT1lWV1NlaHRxblRHQkozNXFVS0JWU1RIaV9yOE5KMTBmNENiTnFLQUUxbU1qd1lxeTBSa0IxaUFPY3IxUnhjRUJSWlgxOXBaTWtQNmNrRDJJY2JhRHEtbjlsSWdYTi03dE84RWdadw?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Big Food Dodges a Bullet on Chemical Crackdown",
+      "summary": "A proposed ban on certain food additives has been softened, allowing many companies to avoid immediate changes.",
+      "view": "Big Food\u2019s success in softening the chemical crackdown is a victory for corporate lobbying over public health, preserving immediate margins by avoiding costly reformulations. This move protects the status quo for processed food giants but leaves them vulnerable to a patchwork of stricter, state-level bans.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVc0eV93QjNwZkpTYWJYSjdBM1ZZUXZieUtlQjZETnc5S0x1SUZXUVNvNHFEaXR4YTQ3V1J2dS14NlYtTnlET1hWeEZ6b08tMF9nUWo2NktYbTJRbWs1TmJUc0ZHekE5N3pxd1ktdWR1QVNiOXN1V3RVMGhMeVNFNmJoamFVSmFOQXpOcmY4S3BKdHF4ZmhKNGRFRERFWXY4ZWdxT0VXSjgwWmszTlVFZVpCZw?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Apple Locks Users Tighter With New iCloud Perks",
+      "summary": "The latest iOS update offers exclusive features for users who pay for high-tier iCloud storage plans.",
+      "view": "Apple is weaponizing iCloud to drive 'services revenue' growth as iPhone hardware cycles lengthen. By gating core software utility behind high-tier storage plans, Apple is increasing the 'exit cost' for its users, making the ecosystem effectively inescapable for anyone with a digital life.",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VSzFpZEtsaG0tTFcxOVptOUM2dnJBcVNRcHU1X2p6aTdzN2NYTkpsODZCTE0wM3Blc2prdnltbTNodlh6dk1lYUNyS2dsVjlkUzNQWUl3aXZRbnpJNXFVd29reFhpYjlRVUJpZ2l0bkNudWtV?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Former Dictator Assad Sentenced to Death in Absentia",
+      "summary": "A court has handed down a symbolic death sentence to Bashar al-Assad following his ouster and flight from Syria.",
+      "view": "The death sentence for Assad is a symbolic but necessary act of 'geopolitical hygiene' by the new Syrian authorities to ensure there is no path for a Ba'athist return. It signals to Tehran and Moscow that the transition is absolute and that any future engagement must be with the new regime alone.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVHhCZWJxeFZhUWJvZmV4QjVFUml2YmhWRnNfSFBhUGdnVUFqNkZXZ2txeWt3NnlSYmxSTUVkb2F3YXVQRG9mWUJidHNVZ0NrdkNyQjNBU0xHeHIzMDlmSFZMQWF1QzlfcWpxY19ha2ZTRG1HUldFbFlfQ0g2aTRraHZ0ZThlcXN4TFN5bEJBdEFhQWNOajg0M3dUazd4SkFTT3hGOXowMlM3cjd3X2FralVUOTZQUQ?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia and China Launch Joint Naval Exercises",
+      "summary": "Jakarta and Beijing are planning joint military drills in waters near Taiwan, signaling closer defense ties.",
+      "view": "Jakarta\u2019s decision to drill with Beijing near Taiwan is a masterclass in regional hedging, signaling that Indonesia will not be an American proxy in the South China Sea. By aligning with China militarily, Indonesia ensures its economic ties remain intact while asserting itself as the dominant independent power in ASEAN.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd3VXYkVWVjdZdHFCNGx4a3NFN3BMNHE3S0NKNkg4NDhtSUdkdjMtcTJ1NGx2N3phNEhDLXBSU3drVmNSYTNxNV92WXVjNjdjUF80MHRvWDZXbndXd1gzeVVsT0ZkQ3BuTmo3ME5QeTJGLTVYRFA5amNEeWVrRG8zMEtmcUJIeVBJQkJlZUF5NGNkb1NCMTcyLU1DZHVPYXlXTEFmdjN5a3VUUDBjVENTdA?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Dual Citizenship Plan to Stop the Brain Drain",
+      "summary": "The Indonesian government is proposing limited dual citizenship to lure back skilled workers living abroad.",
+      "view": "The dual citizenship proposal is a pragmatic admission that Indonesia\u2019s 'brain drain' is a critical bottleneck for its Golden Indonesia 2045 goals. The tech and healthcare sectors stand to be the biggest winners as the government attempts to claw back high-skilled talent from Singapore and the West.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdlduOHVtbXJrSmdUU2M1RllvWVBsU1ZqUnhhY0EyV2Z0R0tfbUFqWUlhY0tpNEFsd3I1cVgtanVfWmRUU01LbmJlTFVucXV6NTFId0lsb0VfWjRBdlZkVmdCOVpZbzI5bTVSc0J2TTktaE5XTDdVZjdqSTgwWGM5bWtCcURPb2ZCa3kxbGdEdW1LYlNNS2I1WnRHd0dydw?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Google and AI Platforms Face New Copyright Laws",
+      "summary": "Indonesia is drafting laws that would force tech giants to pay local creators for content used by AI.",
+      "view": "Indonesia is leading a global charge in 'digital protectionism' by forcing AI platforms to pay local creators. This moves the needle for Indonesian media conglomerates but risks making the country a 'no-go zone' for AI deployment if compliance costs outweigh the market potential.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ3dUZEU3QUhQc25HUlh0TXVWaDl1YlIwdVFNUm9vLWZ3QjgtVjV4RWZaemdSeFFiYUZjbEg4Mmt2WUhCa2hLNS11QzVaVXlHQkNEWnJKN2tUVThNeTRtTS1MN0hKeWlJOUFaVXFUS3hqZ0JWbDBsZVRlMk1nT0QxM2ZHRkRVVHhMbi00d1hVQnhOdjMxZ0pFSTludWtzU0RXN3I1WVpleWlTSkk3Zk9Kb19CbjhFVG1nOFR3?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "A Familiar Face Nominated for Central Bank Chief",
+      "summary": "Destry Damayanti has been nominated to lead Bank Indonesia, signaling a desire for continuity.",
+      "view": "Destry Damayanti\u2019s nomination is a clear 'stability first' signal to the markets, ensuring Bank Indonesia remains a bastion of predictability amidst a volatile Rupiah. This continuity wins over foreign investors who fear a populist pivot under the new administration.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON3Vsd0tNdG1oU2VuOWNLTmhGcmNtbzI5eUFFR2xldVl5NllsRmxOUW5XeHVOTWpEVVNUM3dsdl9mbmpiZHlWWXBaRUE4ajFhbm9yWmpndF9DZlBSSG5WLTB0UzB6aFo1dmJUV3ZFcHlVeFZxUW14RGJ5OGsxRnJtRHJUTnNTV2FSeUlwcUdkb3NDdzVzaTJvdw?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin Loses the Dollar Debasement Hedge Appeal",
+      "summary": "As the US dollar remains unexpectedly strong, the 'safe haven' trade for Bitcoin is losing its momentum.",
+      "view": "Bitcoin\u2019s failure as a dollar-debasement hedge proves it is currently trading as a high-beta tech asset rather than digital gold. As long as the US dollar remains the 'cleanest shirt in the laundry,' Bitcoin\u2019s appeal as a safe haven is effectively dead in the eyes of institutional macro traders.",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd0NzNjF6ell3SGlCRXM5MXFUVGoyaURaRThHXy1oazN3UDcwRXFIeW1ab1BYbVdzUjhnQzVyZGZNSzVjNlhiZUtiM3EwUUdaMXFlaEpPZm1hSGZ6TlJxVHhZTExPYWZpSU8yUnhsT3JsOGxlNUdNTnM2ZS1mZ3NRZDdlVExPMU0?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "The Yen and Bitcoin Are Moving in Lockstep",
+      "summary": "The correlation between Bitcoin and the Japanese Yen has reached a record high, affecting how traders hedge.",
+      "view": "The record correlation between the Yen and Bitcoin confirms that crypto has become a primary 'carry trade' instrument. This makes Bitcoin a proxy for Japanese monetary policy; when the BOJ hikes, Bitcoin gets liquidated first to cover Yen-denominated margins.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin Erases All Post-Election Gains",
+      "summary": "The price of Bitcoin has fallen below levels seen before the start of the current US presidential term.",
+      "view": "Bitcoin erasing its election gains is a classic 'sell the news' event that highlights the market's realization that political rhetoric doesn't create liquidity. The focus has shifted from Trump-era hype to the reality of ETF outflows and the looming regulatory weight of the CLARITY Act.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNEtqckFZRzZHclBKMzh2MEc2WnNIN1RsRVY1c1poeVY5d1lMcmVsQUk0aTMzdGYtOUpnbWs4X2JiZ1otZFd5a2h6bjhzUEI0Y1RWLVd0NEtPcEZYWV8wTW1pTVhPN1FRaTdiMDM1T2pyTFVYSl8zZThfZENpQ3I5LWpMdVNkNzQxdHd2QWpINmtQRnAtVDFpcV9FYnJnOWZSbnBVcDNEYl81aFZKZWhjVjU5c093SEnSAbwBQVVfeXFMTlZLOHN2NEJGdWIwcm5WeXRhaTZMbVJ1N2Y0VjhGMkhkb2JCNmpYZ2VJSmhyVjdqMDVuYUZUbGdtU1ZWY3FMWWxhdU1FRmNXcEhZNTBrNDFBWFIzR20wZUZHdDJqWGxrZG1TYXFHV0paSDl6Qk0wX2ZjUE5xQjN5Qk8yTDdQOUpiZWR1dVNhOUlscVF3c3FZTXFQR2ZyaC1ubnNDeDBCQ25PNDlaYmhSQlJmQks4LUYyZFdxQmY?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "The Dollar Is Still the Main Character",
+      "summary": "Recent data shows the US dollar remains the dominant force in both traditional FX and crypto trading pairs.",
+      "view": "Despite the 'de-dollarization' hype, the dollar\u2019s dominance in crypto pairs proves that the ecosystem is an extension of the dollar system, not an alternative to it. The US dollar remains the only exit ramp with enough liquidity to support the crypto market\u2019s volatility.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbVVYaFlzR1I0YW9qNnU2XzBka2hzN3JCVlZVVk9OZEVNendZZGY2UlU0aE9FVGJhQUVHX25jZnJUT3gyT0g5TUlLMDVEWUhSalA1ZHVad3pRMWY3aGpzZzRESzlOYzc4R2pkc1hGUzd3RGNkdzJ3bUZRX1ZrRk9VWWZ3X2IySXBpZkdrRzBtOHFfTm9ZSXBQQVFtb1pxVFJvZWVndWpxbkx0bjFCUjFDZkxvUnE?oc=5"
+    }
+  ]
+}
