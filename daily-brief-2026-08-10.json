@@ -8,7 +8,7 @@
       "prediction": "At least one major tech firm (Microsoft or Amazon) will announce a direct investment in a private, dedicated small modular reactor (SMR) or nuclear site by the end of 2024 to bypass local grid pushback.",
       "grounded": false,
       "status": "held_up",
-      "note": "Amazon's SMR project announcement and 2024 reporting on big tech's nuclear pivot confirm that direct investments were made by the end of 2024."
+      "note": "Fresh headlines from the New York Times and POWER Magazine confirm that Amazon and other tech giants invested in nuclear power and specific SMR projects like 'Cascade' starting in 2024."
     },
     {
       "section": "tech",
@@ -16,8 +16,8 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMEVSY1poSEdoWXlVam44MEZhT2RqY3lRYWE1M001R2tlb2E3aUlWdEJHeWFvem5wY0ZXRzdKMzNTMTBCdUdHTWtxV2hucWRnVmk3SExENGk5M1lUeTN2RzA1V1F1RU54S041Q2U5WG5iZVdTUkhSUG5jQ3hna0tEeDNDNWVJN2E3ZzRRNl9lSmlrOXFtWFFKU3E0MmtrVkFQSmVqcmoyNDh5U29ZS1hRQ00wY3hKd1RNdklWWkZUaGo?oc=5",
       "prediction": "Lockheed Martin (LMT) will report a record-high missile and fire control backlog exceeding $35 billion in its next quarterly earnings report.",
       "grounded": true,
-      "status": "held_up",
-      "note": "Headlines reporting a record-high backlog for Lockheed Martin in 2026 support the prediction that the missile and fire control segment is on track to exceed $35 billion."
+      "status": "too_early",
+      "note": "While headlines report a massive $230B total backlog for Lockheed Martin in Q2 2026, there is no specific data provided for the Missile and Fire Control segment's backlog in the upcoming Q3 report."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "The tech sector unemployment rate will remain under 3.0% through Q4 2024, even if the national unemployment rate climbs toward 4.5%.",
       "grounded": true,
       "status": "too_early",
-      "note": "Fresh headlines provide economic forecasts for 2026 and beyond but do not contain the 2024 tech unemployment data needed to verify the prediction."
+      "note": "The provided headlines focus on 2026 economic forecasts and do not contain the specific tech sector unemployment data for Q4 2024 needed to verify the prediction."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "The final federal AI bill will include a 'national security' exemption that effectively allows the largest models to remain self-regulated.",
       "grounded": true,
       "status": "too_early",
-      "note": "Current reports discuss AI regulation and new legislative proposals but do not confirm the inclusion of a national security exemption for large models."
+      "note": "The headlines discuss general regulatory trackers and future predictions for AI law but do not confirm the passage or specific 'national security' exemption details of a federal AI bill."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "US national average gas prices will hit $4.10 per gallon before the end of the current summer driving season.",
       "grounded": true,
       "status": "too_early",
-      "note": "Headlines indicate gas prices are rising toward $4.00, but there is no confirmation that the national average reached the $4.10 target."
+      "note": "Headlines indicate that gas prices are rising and 'headed toward $4 a gallon,' but they do not confirm that the national average has reached the predicted $4.10 mark."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "The S&P 500 will hit the JPMorgan-projected target (approximately 5600-5800) within the next 90 days as AI-driven earnings beats continue.",
       "grounded": false,
       "status": "too_early",
-      "note": "No new headlines were found to verify if the S&P 500 reached the JPMorgan-projected target."
+      "note": "No new headlines were provided to assess the S&P 500's performance relative to the JPMorgan target."
     },
     {
       "section": "markets",
