@@ -6,42 +6,54 @@
       "headline": "Tech Jobs Rise While Rest of Market Struggles",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSm1EWjQ4LWRkSl9lQUhESGxRRXI3OTRtYjBWMDk2YThTaFVBRkZtVFBEc18xZS1BOUlOUHd0Y0dHR1hsS3hrWmI3NVpaVjc0S3NHUGlkT0U2ZGExZWRPMm9ESDk0al9FMno2bkkyM0NNOW5QT01FbzBaSW8yajJuTEotR2dLRVE5U21rWkxyc3g1M19IZXVseGJFOFFTSGNTbHFCZV8xa25EWGNmZFE?oc=5",
       "prediction": "IBM will report a double-digit increase in AI-related consulting revenue in its next quarterly earnings as a direct result of this talent shift.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new headlines were found to confirm or deny IBM's AI-related consulting revenue growth for the next quarter."
     },
     {
       "section": "tech",
       "headline": "AI Bot Caught Breaking Into Gym Security",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbGJYTk1PbFdGNTJnZ1NhbDVGNW9zNkxNRHdiX1RsOXlydDFfeWtTbnNQSTFlVGI4dnh0Ykl1Q1VSdVc0WVZ3blJyNVByMEstS01BcmZVSUcwTVZJNWFBNlFHMnVZSVZRSGljMG0yb3VEQXlGNVc2elZzTzNpb20zcUtHMkRtQUFVNnJ1TDRaVUh0dHlHQ0NlNmVOOHFMaEU?oc=5",
       "prediction": "Anthropic will release an emergency 'Agentic Sandbox' update or whitepaper on physical security constraints within 30 days.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No information was found regarding a release of an 'Agentic Sandbox' update or security whitepaper by Anthropic."
     },
     {
       "section": "tech",
       "headline": "Tech Giants Bend to Texas Data Center Rules",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQVZkNmw0SHBiYlEwaHE5d2xORnFaR0w0ajZLempQZzJBMF9rc1VNRHpObTdBbkI5RGt3N1AtMVBvMlRnc2g1Q3Q2RGt3ejkwUEsxNzJjbmc0Z0kzc3Z2WDhnSkduUVdkTnAzUnRGeWM3c1RGTXo5UFJvazFVNXc3MEdsTGtpeXM4UktwQ3Y2ZDdOSzZnbEI0WEF0R0ZaaWR2aG96ajI1SkNhazVUX0duQWlNV2Q0dDIwMFVEdXkyWHZ3LW5ZaGVxLTc2UGlJcnp2T09UODBqMS0?oc=5",
       "prediction": "At least two other major tech hubs, likely Virginia or Ohio, will draft similar data center power-usage frameworks by the end of Q3.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No fresh headlines were found regarding Virginia or Ohio drafting data center power-usage frameworks."
     },
     {
       "section": "tech",
       "headline": "AI Creates Two-Tier Tech Economy in Israel",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kb2pMUnUtSVBTLWlvT1hvdUhvRW13dXhadDN6ZXBOTzlQcy1XTGxWZWxGbmdpa0FoejFRNGE0TjVRZzJfbjA0NFFBc1lQTWlXd1pKV2x0a21ieWlBMVNZdHdRUDRZWE9iTnc?oc=5",
       "prediction": "Israel will see a record-breaking number of 'Dual-Use' (Defense and Commercial) AI startups raise Series A rounds before year-end.",
-      "grounded": true
+      "grounded": true,
+      "status": "held_up",
+      "note": "Multiple headlines from The Jerusalem Post and Defense News confirm that 2025 was a record-breaking year for Israeli defense-tech and dual-use startups."
     },
     {
       "section": "markets",
       "headline": "Oil Prices Surge Toward Ninety Dollars Amid Middle East Tension",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSUtoTDkwbmJ3LWNlRFFfYVppTVRCVjA5QUVFMjM3WHp5aUhfMTR0ejN2eHNTbjJSbnB3aWN0eUo3b1JCcFg5c1ZxNTZtMVFIWGc4NnlSRV9yenZUTTA1QVhRSFFUNHV1LW5MYUMxbGdkUHNzUjlUVnRyRERGdDZQTXZnUDE0Tlk?oc=5",
       "prediction": "Brent crude will touch $95 before the end of the current month if Iran-Israel infrastructure strikes continue.",
-      "grounded": true
+      "grounded": true,
+      "status": "held_up",
+      "note": "The Guardian confirms that oil prices rose above the $95 mark as conflict in the Middle East escalated, matching the predicted price target."
     },
     {
       "section": "markets",
       "headline": "High-Stakes AI ETFs Creating Market Instability",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQd2FHbnVrdG9vb19PcTFJNi12N3RTU2tPRHhqUHhJeHMtUEc5QXp4R21KOE9rQUswNlVUeTI0WF9vaTdtR1hOZkUzbGFkNVFXbzk0cEl1dzk0b2RyU1ZYb1owamtHd2REZDJtYWh1WkR1bGpDQVE?oc=5",
       "prediction": "A major leveraged AI ETF will see a single-day swing of over 15% within the next two weeks, triggering a temporary circuit breaker.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Current headlines discuss market crashes in South Korea and SpaceX ETF volume, but do not provide data on a single-day 15% swing in an AI-specific ETF."
     },
     {
       "section": "markets",
