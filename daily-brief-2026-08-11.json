@@ -8,7 +8,7 @@
       "prediction": "IBM will report a double-digit increase in AI-related consulting revenue in its next quarterly earnings as a direct result of this talent shift.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new headlines were found to confirm or deny IBM's AI-related consulting revenue growth for the next quarter."
+      "note": "The provided headline discusses general AI adoption metrics but does not mention IBM's quarterly earnings or specific consulting revenue."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "Anthropic will release an emergency 'Agentic Sandbox' update or whitepaper on physical security constraints within 30 days.",
       "grounded": false,
       "status": "too_early",
-      "note": "No information was found regarding a release of an 'Agentic Sandbox' update or security whitepaper by Anthropic."
+      "note": "No new headlines were found to verify if Anthropic released an 'Agentic Sandbox' update or whitepaper within the specified timeframe."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "At least two other major tech hubs, likely Virginia or Ohio, will draft similar data center power-usage frameworks by the end of Q3.",
       "grounded": false,
       "status": "too_early",
-      "note": "No fresh headlines were found regarding Virginia or Ohio drafting data center power-usage frameworks."
+      "note": "No information was found regarding the drafting of data center power-usage frameworks in Virginia or Ohio."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Israel will see a record-breaking number of 'Dual-Use' (Defense and Commercial) AI startups raise Series A rounds before year-end.",
       "grounded": true,
       "status": "held_up",
-      "note": "Multiple headlines from The Jerusalem Post and Defense News confirm that 2025 was a record-breaking year for Israeli defense-tech and dual-use startups."
+      "note": "Headlines confirm that 2025 was a record funding year for Israeli defense-tech startups with a significant surge in the sector."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "Brent crude will touch $95 before the end of the current month if Iran-Israel infrastructure strikes continue.",
       "grounded": true,
       "status": "held_up",
-      "note": "The Guardian confirms that oil prices rose above the $95 mark as conflict in the Middle East escalated, matching the predicted price target."
+      "note": "Fresh headlines from The Guardian and Reuters confirm that Brent crude rose above the $95 mark as predicted."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "A major leveraged AI ETF will see a single-day swing of over 15% within the next two weeks, triggering a temporary circuit breaker.",
       "grounded": false,
       "status": "too_early",
-      "note": "Current headlines discuss market crashes in South Korea and SpaceX ETF volume, but do not provide data on a single-day 15% swing in an AI-specific ETF."
+      "note": "The headlines focus on South Korean market volatility and SpaceX ETFs rather than the specific 15% swing or circuit breaker of a leveraged AI ETF."
     },
     {
       "section": "markets",
