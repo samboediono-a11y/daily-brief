@@ -8,7 +8,7 @@
       "prediction": "Expect major tech firms (Alphabet, Meta) to report record-high revenue-per-employee figures in their next two quarterly filings.",
       "grounded": true,
       "status": "too_early",
-      "note": "Fresh headlines discuss upcoming earnings calls and high AI infrastructure spending, but do not provide specific revenue-per-employee figures."
+      "note": "Fresh headlines discuss upcoming earnings and recent layoffs at Meta and Amazon, but do not provide specific revenue-per-employee figures to confirm if record highs were achieved."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "A formal industry consortium for AI incident reporting will be established by at least five Tier-1 tech firms before year-end.",
       "grounded": true,
       "status": "too_early",
-      "note": "While a 'Compute Coalition' and AI Index report are mentioned, there is no evidence of a formal incident-reporting consortium among five Tier-1 firms."
+      "note": "While headlines mention a 'Compute Coalition' and an AI Index report, they do not confirm the establishment of a formal incident reporting consortium by five Tier-1 firms."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "At least two mid-sized commercial satellite firms will announce major multi-year contracts with NATO-member defense ministries by Q1 2025.",
       "grounded": false,
       "status": "too_early",
-      "note": "No fresh headlines were provided to confirm or deny any satellite contracts with NATO-member defense ministries."
+      "note": "No fresh headlines were provided to confirm or deny the announcement of satellite contracts with NATO-member defense ministries."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Texas will see at least three new hyper-scale data center announcements exceeding $1B in investment before the end of 2024.",
       "grounded": false,
       "status": "too_early",
-      "note": "Headlines mention billion-dollar data center investments by Google and others, but they do not confirm three distinct announcements before the end of 2024."
+      "note": "The headlines mention a $1B data center project in Archer County and a $14B bet by Poolside AI, but they do not confirm a total of three distinct $1B+ announcements."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The Russell 2000 index will outperform the Nasdaq 100 on a percentage basis over the next 30 days.",
       "grounded": true,
       "status": "too_early",
-      "note": "Today's headlines mention Nasdaq 100 gains but lack comparative percentage-based performance data for the Russell 2000 index."
+      "note": "Headlines report on the Nasdaq 100 rising due to AI earnings, but they provide no comparative percentage performance data for the Russell 2000."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "Brent crude will spike above $90 per barrel if Iran conducts any live-fire exercises in the Strait within the next 30 days.",
       "grounded": true,
       "status": "too_early",
-      "note": "Headlines confirm an intensifying war with Iran and general economic costs, but do not state the specific price of Brent crude or confirm the triggering incident."
+      "note": "Headlines confirm an intensifying war with Iran and significant rising costs for consumers, but they do not explicitly state the price of Brent crude."
     },
     {
       "section": "markets",
