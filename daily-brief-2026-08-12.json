@@ -6,42 +6,54 @@
       "headline": "Tech hiring defies the broader cooling of the American labor market",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSm1EWjQ4LWRkSl9lQUhESGxRRXI3OTRtYjBWMDk2YThTaFVBRkZtVFBEc18xZS1BOUlOUHd0Y0dHR1hsS3hrWmI3NVpaVjc0S3NHUGlkT0U2ZGExZWRPMm9ESDk0al9FMno2bkkyM0NNOW5QT01FbzBaSW8yajJuTEotR2dLRVE5U21rWkxyc3g1M19IZXVseGJFOFFTSGNTbHFCZV8xa25EWGNmZFE?oc=5",
       "prediction": "Expect major tech firms (Alphabet, Meta) to report record-high revenue-per-employee figures in their next two quarterly filings.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Fresh headlines discuss upcoming earnings calls and high AI infrastructure spending, but do not provide specific revenue-per-employee figures."
     },
     {
       "section": "tech",
       "headline": "Big Tech firms propose a 'black box' for AI agent failures",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uT2ZYRHdaSXB3X2JDYlA2OUhuWG0teC1HV095b1VxazJTWWtZS2pUakI2UW1pZGpGdmFuRXdMY2ZGOG05TXBSakltVEk0WHZkSnFfRXNVSGZzWEpoN0VCZGIxY0d1cjBEREViT0dxSFdoTDgyellMTHJQRU0?oc=5",
       "prediction": "A formal industry consortium for AI incident reporting will be established by at least five Tier-1 tech firms before year-end.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "While a 'Compute Coalition' and AI Index report are mentioned, there is no evidence of a formal incident-reporting consortium among five Tier-1 firms."
     },
     {
       "section": "tech",
       "headline": "The war in Ukraine triggers a private spy satellite boom",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGYTU1R1NteFFzUExYbGEwdFV4STZESzJIOGxlb2tGTkIzaW9oVDhYd2dWeHEtcDZQZUVVVHk4RmhremxqeDRQdHlYY1V5ZzljQ0hPczUtSW1TZUVhX1JqNnRfTE5ZUFBQRDRqY051MGFBNjVWZDN4WnZRaDMtaEHSAYQBQVVfeXFMUGRyQ3IwX09nMlgwYWU4WVhDeWxKNGJaTHBxUXZTamc3UXJWN0lFRmVFUlhKWHJDMlhRM2lDRTlqbTFXUUl2SXNIbEEzV1Rqb09UUC1tOEJTUTE2UG1jUnpidU5Zb0pOMUVnRU1FckI3QVNQYU1leDhJTXFRWDFGRVBJekZY?oc=5",
       "prediction": "At least two mid-sized commercial satellite firms will announce major multi-year contracts with NATO-member defense ministries by Q1 2025.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No fresh headlines were provided to confirm or deny any satellite contracts with NATO-member defense ministries."
     },
     {
       "section": "tech",
       "headline": "Texas Governor defends data centers despite criticism of power strain",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOVV4WjI1c3hBNkRwS3RtZDRvc21mclRTV0xHWEdyT3ZYQk1lcnJzWC1USUpDcGhESlUtMEhwRkdMaXRmV05ndnFVM3VpdnhiLVJBX19kR2FkbnZXWGkzMzMtLU5FdVpoNzQzQVl2ckpSR25mdUh6bU1zRlc3aVJhZVZ5M0c4Q0wzMG9ENTJpOWtJQjBrX0xIb21HZEFVMHh6bFhiY3p3WE4zQjdmQ2d6akFfak5tdjVLaFl3cEE2cEVicm9QRmI4WHhn0gHSAUFVX3lxTFBGVTlwNHo1UWNRMDNIQjFhTlZDNkpoRFVHVkM4bV83TFhyenpRQ1dXU1lQcFZ2a0dBUzh1dk5DaFJZczZaQnRQY2pDYnpOM0ljN3Q2c2piNUZ3VHZ5RTZJT185TjFlU2w1TEhqU1pPT0c2Rm03bnJkaldvWFlRU1Z2RnhZT1pZZUhHeERHM2F3N3hsTFRMa3J4NG5wVXh0SGgyZENSWDRrMHN2bzZfRjZEa0I5RzF6QVpXZklYSGNBZnRZWVVHVnZVZmM3bWY3UDhVdw?oc=5",
       "prediction": "Texas will see at least three new hyper-scale data center announcements exceeding $1B in investment before the end of 2024.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Headlines mention billion-dollar data center investments by Google and others, but they do not confirm three distinct announcements before the end of 2024."
     },
     {
       "section": "markets",
       "headline": "S&P 500 climbs as inflation data finally behaves",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9CSHNyNUIweUU5SmU5MmxjdEg3SXpaNGRpNE9EakxRVmVVRTBfLVBZb2txZ1NKa1pySEtGWUVUemVRaGRKdWdrNUpTWXRFM3ZOb2V6NUNIcXN5U1ppYzU4OUhmUDVydXcyclJLcndQZVJ5aVNCbW5R0gF8QVVfeXFMTmhFcWg1MDU1aEFqcHFBZUlUdnJqT1pHVy1mbWl1MU5TMGlfSFhOMmxDMmJ2QXlTZTF4bGtJSFdzMVR4VURwUDdLUmtBbHJEQ2Y2OFpKNlpKZkx6cTN6LW5PeDR2MjZrWHctVWZaSy1SdE1ndE5KaWdzS2hzXw?oc=5",
       "prediction": "The Russell 2000 index will outperform the Nasdaq 100 on a percentage basis over the next 30 days.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Today's headlines mention Nasdaq 100 gains but lack comparative percentage-based performance data for the Russell 2000 index."
     },
     {
       "section": "markets",
       "headline": "Dow slips as Iran tensions threaten a major shipping lane",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT3FnNThkeUNTbExQbFBtcExxUGFGZm10SjBMb0pkS01WNGtSNHJGdnBnMUlnbUpGMUxzOHdSUktkYzF1TnhRVmFPajNhcElramxRWkVLZ2ZDMDA4TlhINkpNWmxMcm05aElxSDRDeV9DS3pzcjc2Zm1FNWNZNkVvcEJ3MF9UZkVtUEZ0R3FSMWJaOWNhN21NTjdXVGpZYmNqR0tRSGw4SXZxenFtWVJzVUJwNVp6YTdEVmc?oc=5",
       "prediction": "Brent crude will spike above $90 per barrel if Iran conducts any live-fire exercises in the Strait within the next 30 days.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Headlines confirm an intensifying war with Iran and general economic costs, but do not state the specific price of Brent crude or confirm the triggering incident."
     },
     {
       "section": "markets",
