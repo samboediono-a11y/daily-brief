@@ -1,0 +1,287 @@
+{
+  "date": "2026-08-14",
+  "predictions": [
+    {
+      "section": "tech",
+      "headline": "Pentagon opens the doors for startups to build missile defense",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxONkdIeFdfWTNFR1VFVncxWmpSanFvLW0zRmFwN0VVb1ZvVUFlOGsyMVc2a05QZ21JZE8zUjg3c2t3RnBUeVM1YkZ3RkVqWkVaS1ZOdnY2aE5Da0VRWWhKOVdWVFIyd05CaTNGVlJfSUI5UW5EWjEtV2NrSUdneFlqaDRWVDkxckhEak9xdFdrOF8wVEo1eDQ3U3dNOWhhWnRfZDh6a0ctZll4UVo3TTBCa2FQUmd1djB6REFSenkzVjZNbDVKbXZoU2NVNGpqZFNReFczNXRHQzh2V1RLR2R1cEpuTXBCNmRNd2s1VXAxNGowUEZIeUFqTjNVcDB5dw?oc=5",
+      "prediction": "Expect at least two $100M+ prototype contracts to be awarded to non-traditional defense firms like Anduril or Palantir by Q4 2025.",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "Global giants find it impossible to quit Chinese tech",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUkJWX1oyZklMNlRwbTRFZDZ3TDhTX09IQ0tQa0Rzb0I2WUQ0YmhsUHkzUnlvTmZxLUl4RlI0YVZ1SzlpNHN6Wml1Y0I4aHM3VWItdjlYbHJQVXBVOHpiTnJwcnc4d3Ywd0lLTlhiNk95Z1h2ZDNib3RwdHlJdllrR1N2Wlp1aERENXhka1VCc9IBlAFBVV95cUxOQWFYWWxTQWR1Ml9rNXU2cDYwdi1ScVhxVjZmYW9Pb3M3ckVjYkN6b215a0FKX003ZWV6d3FydWNOamhoVGJVZkFOR3VjZndxWWc2Vm43NVI0ZnY3OXJSSWZhNFVPN3E3WFE3dXJJQlNuOWk5SVpIcnJldUh0UTdRa3VBd29abk5LWXQ4V0theTd2Nnpn?oc=5",
+      "prediction": "Apple will announce a new, exclusive partnership with a Chinese domestic component supplier for its 2025 product line to offset rising production costs.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "Data center space has almost completely vanished",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTU0xcDNkSGVrX1pJZlBoWHlTajBVdEprb3BzMF9yd3Ytb3U1YmUzZUNOdkE3UDZ6NGZ0M3BVM0w4ZHQ4SkZfazExbVJ3amkxMTF6dVFpMThmcFp3RWR6WlhKc04ybkpFemJaMkdUY2tBQ1YyaFF6U2dhMWFpdHFYeHRlZEh0TFg3TGNnM0d4UGttRHFYUHc0NWdTSmZvVl9KbFE?oc=5",
+      "prediction": "Data center rental rates in primary hubs like Northern Virginia will increase by at least 15% year-over-year in the 2025 reporting cycle.",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "New York bets $60 million on the quantum computing race",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR21mY0Y4dDVnbXY4eDEtVjBDTzlqbmx0SktYUmoyYlF0RjZYTjZhNkNVR3NlUjJjSFdqTzQwV2x1RnJjaTkwTTd5bU5md3ozRVhRR215UTFvNUNpbHpEbG1wZ0NUSTNqTE9JdW9jTlFNcnZ0X3Q3ZDZURFhKX2J0V19JZnRybE1wNlpWUm55bXJGMUZwaGxORzl3NWFJQ0ty?oc=5",
+      "prediction": "At least one major New York-based quantum startup will be acquired by a hyperscaler (Google, AWS, or Microsoft) before the end of 2025.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Reddit officially joins the big leagues in the S&P 500",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04czdEMWRtMVJ5VGZSY3VEWXpGc01sSUZpdGhXRVE2dUlCN3JVSjFSTEdQRjc3Z1NTR2lTWUFiakVRVnBsN0xyWGs3WVhYdW9oMlc1ZFdsdGwtLXNXSjZzTWhxQXZNbmR6cllTUQ?oc=5",
+      "prediction": "Reddit will report its first full year of GAAP profitability in 2025, driven largely by AI training data contracts.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Big Tech's AI profits look like a circular economy",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTYjQyMEtqZ3drOEFXbFo0TS1hTFRUOEowR2w5Q29PTmJzbzduTkZ4a1VKNzkyRmR0RGN4a2M4NmdKT2huM0pVVXktTDVEZFJSLWVXV3FHdENjSFpTSkhkSnIyN3lMS204YTc5N29WQzVfUQ?oc=5",
+      "prediction": "At least one Big Tech firm will face an activist investor challenge regarding the transparency of its AI-related revenue 'recycling' by Q1 2026.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Big Short investor warns that leverage is the enemy",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNzdSTEtscjVEaFZJcmt5eTMtRmE0bkI5cmNaTGw4Ylg5MVJwdlVjOUhoTDQ0ZWNZTEo3Q0QwMzZsc2JQMHQ4REdPMV8zcmdUYzhPc1F3R05IZGVMRTlxRjJDWnk4SHFNWUZ2R1dwckdlRDhsczAyMUlyLVBoS3ZHNUZDN2FYdWZxSi1Hc0xBM3gwb2dSREpjaVhWckEtQQ?oc=5",
+      "prediction": "The VIX will spike and stay above 30 for at least three consecutive trading days before the end of 2024 as leverage starts to unwind.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Stocks stumble as shoppers finally start pulling back",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONWlLY3hPQzBqTmlOcEtxQ1RXN25yVTNQTy1ucTNXOUZFNDA0Q2tXZHVBakRzeEJxdVh6QWNXc205LVM1dmQ0RGVyRGRXcFYzQ0xpYlhLbEZKOEowelowNHVibGYwdjVzSW5DcXpSWUZVWUJsd3RTWXctaV9ncGtmajVMbjVhUDhaZy1pQzFJNjhzTWNCZ3V5b2NNSUIzMWl3cjhLTER1aHozRkFYcXVYeXVVXzFQMEdiQWpzWmVqbHU?oc=5",
+      "prediction": "Technology and semiconductor stocks will underperform the broader S&P 500 over the next 90 days as CapeX expectations are reset.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "American shoppers pull back in biggest sales drop in a year",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORk16TW44WWs3VlZRdGE5Zy1ZeUs5NVNnX2tRanhTSmdnZ0tHbGtMM2tJamJHdlNNdkROdWo4WmZwMkx1STFmdUpEX3ZvRzdXVTlJUmxpako5dDNyS3p2QzB4a3ROa2R6RWtDcXBNMlNJU2RHMGFjeHJrWG1EaUQ3aElIOTVyaWk0WUZoM2g1ZGJqVnJKUmY4cVZrWHA3XzFrbFFNUXNB?oc=5",
+      "prediction": "Major luxury groups like LVMH or Kering will report negative organic sales growth in North America in their next quarterly update.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "US considers blocking Iran's trade indefinitely",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOEsxSHRoSmJRakx6eFJyeHRhd3R6dDBYTkx5UWFvUExSYmtmMUs0SmZXZVhrOGZ5UGxsZjUzd0FqVmRjV2NDdVZxaDg0QjduZmN2RHd1UFVEcFdKLXN0bDRuZ1RQdENzZTBnQ284V2c3eXNOM1dUalV1Z3lZS0FmQk9QNmVEeWp6b0gyWkd3djh6ZDR6VUJaYmhUTDdwV2dMOG9YaURfUVphaWfSAbABQVVfeXFMUFMxZUlxNVdiQVhkWDVxVTR3N3RCU0JGdGw3NzV6dHlub1pWVEY4WnlrZ3gwNjNRYVVHZ05nRDd6Y1QyZ0lzOGd1Y1VGY3VPXzJ0MmdIQUVYeXhqT2FjaGVtNmRMbzgydU5Td3UyY1lrSi0yZWNEZlRWRUhtU3NWM0o2SlFZbksya1BRVVhuV1BUQVRGZXJGZVYySlNJX2hJR3hNMUVZNHMzRmxKTU1iQW0?oc=5",
+      "prediction": "Brent Crude will trade above $85 per barrel within 30 days of the first official U.S. Navy tanker escort mission.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Anthropic's massive valuation faces a reality check",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTjVOdW9zemhxOWQyYWV6V1NHMFpjUzY3WHBVVl83a3lNYnRaOHE4ZUpLYjd2ZFhTRWJpUmZEd3M2cFczVDZxb2ZNUURmRE9scnY2SDJSdFROdzVSdVpzNkRKYklfQS0xMko2M3A1RV94Y3RZRHpZYkdHYVVtNEhnMTRXTTY4Y3YyVGFGdVp0TnFpX3cwXzFncE1jNnhpUGs0dE83OThTVmdmOTh1UmYtdlpOZEs5X3cwSGd6dUg4a2IxYnNvSUdn?oc=5",
+      "prediction": "Anthropic's next funding round will be a 'down round' or feature significantly more aggressive investor protections (liquidation preferences).",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "Hurricane Lala triggers warnings for Hawaii\u2019s Big Island",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUkVuUkY5OF9PNVM4OTcwRnVWOHJVSFp3c1Z2T0dFbjE0dzR6OTREN0pjNzVqcFNUMENXR2RQbHo1SGtPb2VLdmZZaXRabXRhaFF0bTlWVEpBREs4X0x5NGFvSWU1WndPSDZmUjE2MmVXd0dQcDBWcVlWR2xSbGJKOHdZOWVmd2ZVUlltSC1vZ0tkczBiQlJxbzg1akJmZ0xMSW5zOUpYZW1XeXNwd3MyTzJ4enY?oc=5",
+      "prediction": "At least one major property insurer will announce a withdrawal from the Hawaii market or a significant rate hike following the storm's passage.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "Prabowo\u2019s influence over the central bank sparks concern",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY2NXZ1RiNUoydVkwa2hnbzlDbFRoTTgyVFVTcFZHenpIT2lmaXNkRGxHOC1ZSVNyalN6ZXYyYnFGc3ZIb3ViWG41M1h0Vkh5RnV5UHRxLTZEU2V5QmhFT0QwZm5DcUN2X1NBYmxiWU8tY0Q1ZV9QaU5ZZHR5d05NYUgxZFVWN2w0Rm9fLXlsN0tjMGM0eFJEaUhwbjY0TUh4UzRTeE9DRQ?oc=5",
+      "prediction": "The IDR/USD exchange rate will break 16,500 if there is any formal change to the Bank Indonesia Governor's tenure or mandate.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia moves to tax Google and AI for content",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ3dUZEU3QUhQc25HUlh0TXVWaDl1YlIwdVFNUm9vLWZ3QjgtVjV4RWZaemdSeFFiYUZjbEg4Mmt2WUhCa2hLNS11QzVaVXlHQkNEWnJKN2tUVThNeTRtTS1MN0hKeWlJOUFaVXFUS3hqZ0JWbDBsZVRlMk1nT0QxM2ZHRkRVVHhMbi00d1hVQnhOdjMxZ0pFSTludWtzU0RXN3I1WVpleWlTSkk3Zk9Kb19CbjhFVG1nOFR3?oc=5",
+      "prediction": "Google will issue a formal statement pausing the rollout of specific Gemini or Search AI features in Indonesia before the copyright law is enacted.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Prabowo promises massive growth and a tight budget",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSktWZE1XZjJqcGxFdFotd1ZZTFRIOU9UUlFJQ2cyWnN3WEpQUXpZbHBMUjViMHNCVy1SbEZxbE1CTWIzeVBIenRFZHB1S3dFMTJYM2xHUUpHV3l5djVmZGR3c3JYRHlhSS1aY2I4WjV1clUtVU1saWpUNDZ6aC1sZk5BWGMzSnBsSVNoZF9YSG9OTUxzbnQ5NThOTW1XQ19QeWlTZjJ1c0RuZzhFV1E?oc=5",
+      "prediction": "The 2026 Indonesian budget proposal will include a deficit target revised upward to at least 2.7%.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "The new capital Nusantara finds tourists but not investors",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTU54eDVBTWxVckw0NHNLOERuTGt2ME5SSHRwQVNyOUZ6eGdCSTF2X2drdmFRcmx5TUNPT0RDQ0RmaXBSZGlVdE9qX1BvSm9sODBNV20xYVI3WVJScThRMm53NFFwRmtmQlZTZ1hxSDc2b1NDUE42UTkzN0NtaEJ1Tzd6QUpLUWJ1ZHRYYmpwNHJyRFFKeTd1UzZ0elpFX1M1aGdLYnZaT0lDOWM?oc=5",
+      "prediction": "Realized foreign private investment in Nusantara will fall short of the government's target by at least 50% through the end of 2025.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Crypto markets tumble as Middle East conflict escalates",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMndtc2Z4NkNHVVNIa3NTbGV5YnlLN29HY3hNYk5sLVM0N180eFBRWHQxMG1zQTQyc0RkNzJCSWV6OExCNUl2SXBrVHd2cUxOSng1NWE4ZlhpbUNqRm9MdkdkbWVLdnVxMUlKWUZXRzlmRWV4WVhDbDd2ZDdVRlBZQzBnd2cwdmZsRzZaM25ZWVJxVkh0cXVyelVGTmlTWm5k?oc=5",
+      "prediction": "Bitcoin will underperform Gold by at least 10% in the month following any escalation of direct U.S. kinetic strikes in the Middle East.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin is now moving in lockstep with the Yen",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5",
+      "prediction": "Every 1% appreciation of the Yen against the USD will result in a 3% or greater drop in Bitcoin until the carry-trade unwind is complete.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin wipes out its entire post-election rally",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNEtqckFZRzZHclBKMzh2MEc2WnNIN1RsRVY1c1poeVY5d1lMcmVsQUk0aTMzdGYtOUpnbWs4X2JiZ1otZFd5a2h6bjhzUEI0Y1RWLVd0NEtPcEZYWV8wTW1pTVhPN1FRaTdiMDM1T2pyTFVYSl8zZThfZENpQ3I5LWpMdVNkNzQxdHd2QWpINmtQRnAtVDFpcV9FYnJnOWZSbnBVcDNEYl81aFZKZWhjVjU5c093SEk?oc=5",
+      "prediction": "Bitcoin will remain trapped in a sideways range between $55,000 and $62,000 for the remainder of the current quarter.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Macro data becomes the steering wheel for Bitcoin",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ1lya1lkRlFlcEJYeHNVUHNQbGtaQ2FIMEJIWFN5UEVPWklnMnNfRDIyeUFiRElnejliX0I5QnhJdTZ3VEhtNUxURjRVOEN2LVlpVVpMM0IzYnZQTjg5UmtYU21tNnJET1Jid0JfUVZucUNlbjNrOUIwTmE2THZ1V1RZeWN1V2xQM0hhcGxRZGJkSjVGZGFmMXhwWGZGSi0zeGVVVEJHckFjMXJVVUFua0xBOXEtbk1yUDBuaDlxVkI2cFFhN2huOEs0Y1haWGVrTlZoX0lmc0hFa2o3SjRkSVNWWVRfam5qVW9r?oc=5",
+      "prediction": "In 2026, Bitcoin volatility on FOMC meeting days will be at least 2x higher than on non-macro news days.",
+      "grounded": false
+    }
+  ],
+  "stories": [
+    {
+      "section": "tech",
+      "headline": "Pentagon opens the doors for startups to build missile defense",
+      "summary": "The Department of Defense launched a new hub called 'Golden Dome' to bring commercial tech into its $185 billion missile defense program.",
+      "view": "The 'Golden Dome' initiative is a structural pivot away from traditional prime contractors like Lockheed and Raytheon toward agile, software-first startups. By opening the $185B missile defense budget to commercial tech, the Pentagon is admitting that legacy hardware cannot scale to meet the high-volume, low-cost drone threats currently defining modern warfare.",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxONkdIeFdfWTNFR1VFVncxWmpSanFvLW0zRmFwN0VVb1ZvVUFlOGsyMVc2a05QZ21JZE8zUjg3c2t3RnBUeVM1YkZ3RkVqWkVaS1ZOdnY2aE5Da0VRWWhKOVdWVFIyd05CaTNGVlJfSUI5UW5EWjEtV2NrSUdneFlqaDRWVDkxckhEak9xdFdrOF8wVEo1eDQ3U3dNOWhhWnRfZDh6a0ctZll4UVo3TTBCa2FQUmd1djB6REFSenkzVjZNbDVKbXZoU2NVNGpqZFNReFczNXRHQzh2V1RLR2R1cEpuTXBCNmRNd2s1VXAxNGowUEZIeUFqTjNVcDB5dw?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Global giants find it impossible to quit Chinese tech",
+      "summary": "Companies like Apple and Ford are finding that Chinese technology is becoming too advanced and integrated to bypass in their supply chains.",
+      "view": "China's 'Manhattan Project' for chips has achieved a level of vertical integration that makes decoupling a fantasy for giants like Apple and Ford. These companies are now 'trapped' by a Chinese tech stack that is moving faster and cheaper than Western alternatives, forcing them to deepen their presence in China just to remain globally competitive.",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUkJWX1oyZklMNlRwbTRFZDZ3TDhTX09IQ0tQa0Rzb0I2WUQ0YmhsUHkzUnlvTmZxLUl4RlI0YVZ1SzlpNHN6Wml1Y0I4aHM3VWItdjlYbHJQVXBVOHpiTnJwcnc4d3Ywd0lLTlhiNk95Z1h2ZDNib3RwdHlJdllrR1N2Wlp1aERENXhka1VCc9IBlAFBVV95cUxOQWFYWWxTQWR1Ml9rNXU2cDYwdi1ScVhxVjZmYW9Pb3M3ckVjYkN6b215a0FKX003ZWV6d3FydWNOamhoVGJVZkFOR3VjZndxWWc2Vm43NVI0ZnY3OXJSSWZhNFVPN3E3WFE3dXJJQlNuOWk5SVpIcnJldUh0UTdRa3VBd29abk5LWXQ4V0theTd2Nnpn?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Data center space has almost completely vanished",
+      "summary": "The vacancy rate for North American data centers has dropped to just 1% as the AI boom devours capacity.",
+      "view": "The 1% vacancy rate in North American data centers gives REITs like Equinix and Digital Realty absolute pricing power for the next 24 months. The bottleneck in the AI boom has officially moved from GPU availability to physical power and transformer access, making existing permitted land more valuable than the hardware it houses.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTU0xcDNkSGVrX1pJZlBoWHlTajBVdEprb3BzMF9yd3Ytb3U1YmUzZUNOdkE3UDZ6NGZ0M3BVM0w4ZHQ4SkZfazExbVJ3amkxMTF6dVFpMThmcFp3RWR6WlhKc04ybkpFemJaMkdUY2tBQ1YyaFF6U2dhMWFpdHFYeHRlZEh0TFg3TGNnM0d4UGttRHFYUHc0NWdTSmZvVl9KbFE?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "New York bets $60 million on the quantum computing race",
+      "summary": "New York State is offering millions in grants to establish hubs for quantum technology development.",
+      "view": "New York's $60 million is a drop in the bucket compared to the billions being deployed by Nvidia and BlackRock, but it serves as a strategic talent magnet. The real winners will be local academic institutions like Columbia and Cornell, which will use the funds to secure researchers who will eventually be poached by the very private titans funding the multi-billion dollar bets.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR21mY0Y4dDVnbXY4eDEtVjBDTzlqbmx0SktYUmoyYlF0RjZYTjZhNkNVR3NlUjJjSFdqTzQwV2x1RnJjaTkwTTd5bU5md3ozRVhRR215UTFvNUNpbHpEbG1wZ0NUSTNqTE9JdW9jTlFNcnZ0X3Q3ZDZURFhKX2J0V19JZnRybE1wNlpWUm55bXJGMUZwaGxORzl3NWFJQ0ty?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Reddit officially joins the big leagues in the S&P 500",
+      "summary": "The social media platform has been added to the S&P 500, a major milestone for the former 'meme stock.'",
+      "view": "Reddit\u2019s S&P 500 inclusion is the ultimate validation of its pivot from a chaotic social hub to a high-margin data-licensing business. This move forces massive passive inflows from ETFs, effectively creating a structural price floor and ending its era as a volatile 'meme stock.'",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04czdEMWRtMVJ5VGZSY3VEWXpGc01sSUZpdGhXRVE2dUlCN3JVSjFSTEdQRjc3Z1NTR2lTWUFiakVRVnBsN0xyWGs3WVhYdW9oMlc1ZFdsdGwtLXNXSjZzTWhxQXZNbmR6cllTUQ?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Big Tech's AI profits look like a circular economy",
+      "summary": "New earnings reports show Amazon and Alphabet are essentially making money by selling AI services to each other.",
+      "view": "The AI 'circular economy' among Big Tech is a dangerous feedback loop where companies are essentially subsidizing their own growth by selling services to one another. Concerns over market manipulation and the use of retirement funds to prop up this bubble are legitimate; if the end-user ROI doesn't materialize soon, the debt loads will become unsustainable.",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTYjQyMEtqZ3drOEFXbFo0TS1hTFRUOEowR2w5Q29PTmJzbzduTkZ4a1VKNzkyRmR0RGN4a2M4NmdKT2huM0pVVXktTDVEZFJSLWVXV3FHdENjSFpTSkhkSnIyN3lMS204YTc5N29WQzVfUQ?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Big Short investor warns that leverage is the enemy",
+      "summary": "Michael Burry is warning investors to avoid using borrowed money as the market goes too long without a correction.",
+      "view": "Michael Burry is correctly identifying that the lack of a market correction has encouraged a dangerous build-up of 'invisible' leverage in private credit and margin accounts. When the turn comes, the forced liquidations will be far more violent than the catalysts themselves, leading to a liquidity vacuum.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNzdSTEtscjVEaFZJcmt5eTMtRmE0bkI5cmNaTGw4Ylg5MVJwdlVjOUhoTDQ0ZWNZTEo3Q0QwMzZsc2JQMHQ4REdPMV8zcmdUYzhPc1F3R05IZGVMRTlxRjJDWnk4SHFNWUZ2R1dwckdlRDhsczAyMUlyLVBoS3ZHNUZDN2FYdWZxSi1Hc0xBM3gwb2dSREpjaVhWckEtQQ?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Stocks stumble as shoppers finally start pulling back",
+      "summary": "The Dow remained steady, but retail sales figures came in surprisingly weak while chip equipment maker Applied Materials saw shares dive.",
+      "view": "The divergence between steady Dow industrials and a dive in Applied Materials shows that while the 'old economy' is stable, the AI and tech growth engine is hitting a wall. This is a classic late-cycle signal: when the equipment makers (the 'shovels') start to fall, it means the gold miners (the tech giants) are seeing their margins squeezed by a cooling consumer.",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONWlLY3hPQzBqTmlOcEtxQ1RXN25yVTNQTy1ucTNXOUZFNDA0Q2tXZHVBakRzeEJxdVh6QWNXc205LVM1dmQ0RGVyRGRXcFYzQ0xpYlhLbEZKOEowelowNHVibGYwdjVzSW5DcXpSWUZVWUJsd3RTWXctaV9ncGtmajVMbjVhUDhaZy1pQzFJNjhzTWNCZ3V5b2NNSUIzMWl3cjhLTER1aHozRkFYcXVYeXVVXzFQMEdiQWpzWmVqbHU?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "American shoppers pull back in biggest sales drop in a year",
+      "summary": "U.S. retail sales fell unexpectedly, marking the sharpest decline in consumer spending in over 12 months.",
+      "view": "The 'Trade-Down Economy' has reached a tipping point where even high-end luxury shoppers are deserting boutiques in favor of value. This retail slump is the clearest signal yet that the middle and upper-middle class have exhausted their post-pandemic savings and are now hunkering down in the face of tariff and inflation uncertainty.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORk16TW44WWs3VlZRdGE5Zy1ZeUs5NVNnX2tRanhTSmdnZ0tHbGtMM2tJamJHdlNNdkROdWo4WmZwMkx1STFmdUpEX3ZvRzdXVTlJUmxpako5dDNyS3p2QzB4a3ROa2R6RWtDcXBNMlNJU2RHMGFjeHJrWG1EaUQ3aElIOTVyaWk0WUZoM2g1ZGJqVnJKUmY4cVZrWHA3XzFrbFFNUXNB?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "US considers blocking Iran's trade indefinitely",
+      "summary": "The U.S. government is threatening a long-term blockade against Iran, raising tensions in the Middle East.",
+      "view": "A long-term U.S. blockade of Iranian trade, backed by Navy escorts, is a move to weaponize oil tanker insurance and cripple Tehran's 'grey market' revenue. This is a supply-side shock that will structurally raise the floor for oil prices by increasing the 'war premium' for every barrel exiting the Persian Gulf.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOEsxSHRoSmJRakx6eFJyeHRhd3R6dDBYTkx5UWFvUExSYmtmMUs0SmZXZVhrOGZ5UGxsZjUzd0FqVmRjV2NDdVZxaDg0QjduZmN2RHd1UFVEcFdKLXN0bDRuZ1RQdENzZTBnQ284V2c3eXNOM1dUalV1Z3lZS0FmQk9QNmVEeWp6b0gyWkd3djh6ZDR6VUJaYmhUTDdwV2dMOG9YaURfUVphaWfSAbABQVVfeXFMUFMxZUlxNVdiQVhkWDVxVTR3N3RCU0JGdGw3NzV6dHlub1pWVEY4WnlrZ3gwNjNRYVVHZ05nRDd6Y1QyZ0lzOGd1Y1VGY3VPXzJ0MmdIQUVYeXhqT2FjaGVtNmRMbzgydU5Td3UyY1lrSi0yZWNEZlRWRUhtU3NWM0o2SlFZbksya1BRVVhuV1BUQVRGZXJGZVYySlNJX2hJR3hNMUVZNHMzRmxKTU1iQW0?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Anthropic's massive valuation faces a reality check",
+      "summary": "The AI startup Anthropic is seeking a valuation that many analysts say is far ahead of its actual revenue.",
+      "view": "Anthropic is currently the most overvalued asset in the AI space, seeking a valuation that ignores the reality of brutal enterprise competition and high burn rates. Investors are beginning to demand revenue multiples that align with traditional SaaS, and Anthropic is far from meeting those benchmarks.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTjVOdW9zemhxOWQyYWV6V1NHMFpjUzY3WHBVVl83a3lNYnRaOHE4ZUpLYjd2ZFhTRWJpUmZEd3M2cFczVDZxb2ZNUURmRE9scnY2SDJSdFROdzVSdVpzNkRKYklfQS0xMko2M3A1RV94Y3RZRHpZYkdHYVVtNEhnMTRXTTY4Y3YyVGFGdVp0TnFpX3cwXzFncE1jNnhpUGs0dE83OThTVmdmOTh1UmYtdlpOZEs5X3cwSGd6dUg4a2IxYnNvSUdn?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Hurricane Lala triggers warnings for Hawaii\u2019s Big Island",
+      "summary": "A hurricane warning has been issued as Tropical Storm Lala approaches Hawaii, threatening severe weather.",
+      "view": "Hurricane Lala is more than just a weather event; it is a 'tail risk' that will further destabilize Hawaii's fragile tourism economy and localized insurance market. The real losers will be property owners who will see another round of double-digit premium hikes in a market already bordering on uninsurable.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUkVuUkY5OF9PNVM4OTcwRnVWOHJVSFp3c1Z2T0dFbjE0dzR6OTREN0pjNzVqcFNUMENXR2RQbHo1SGtPb2VLdmZZaXRabXRhaFF0bTlWVEpBREs4X0x5NGFvSWU1WndPSDZmUjE2MmVXd0dQcDBWcVlWR2xSbGJKOHdZOWVmd2ZVUlltSC1vZ0tkczBiQlJxbzg1akJmZ0xMSW5zOUpYZW1XeXNwd3MyTzJ4enY?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Prabowo\u2019s influence over the central bank sparks concern",
+      "summary": "Analysts are warning that Indonesia's monetary policy is falling under the direct influence of President Prabowo.",
+      "view": "Prabowo's push for influence over Bank Indonesia (BI) is a direct threat to the country's macroeconomic stability. The market's 'no confidence' vote is already visible in the rupiah's record low; if the central bank's independence is officially compromised, we will see a rapid acceleration of capital flight.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY2NXZ1RiNUoydVkwa2hnbzlDbFRoTTgyVFVTcFZHenpIT2lmaXNkRGxHOC1ZSVNyalN6ZXYyYnFGc3ZIb3ViWG41M1h0Vkh5RnV5UHRxLTZEU2V5QmhFT0QwZm5DcUN2X1NBYmxiWU8tY0Q1ZV9QaU5ZZHR5d05NYUgxZFVWN2w0Rm9fLXlsN0tjMGM0eFJEaUhwbjY0TUh4UzRTeE9DRQ?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia moves to tax Google and AI for content",
+      "summary": "A planned copyright law would force tech platforms to pay Indonesian creators for the data used to train AI models.",
+      "view": "Indonesia's move to tax AI for content is a protectionist gamble that could backfire by starving the local ecosystem of advanced tools. By forcing Google to pay for AI training data, the government is creating a 'digital border' that will likely lead Big Tech to pause AI rollouts in the country entirely.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ3dUZEU3QUhQc25HUlh0TXVWaDl1YlIwdVFNUm9vLWZ3QjgtVjV4RWZaemdSeFFiYUZjbEg4Mmt2WUhCa2hLNS11QzVaVXlHQkNEWnJKN2tUVThNeTRtTS1MN0hKeWlJOUFaVXFUS3hqZ0JWbDBsZVRlMk1nT0QxM2ZHRkRVVHhMbi00d1hVQnhOdjMxZ0pFSTludWtzU0RXN3I1WVpleWlTSkk3Zk9Kb19CbjhFVG1nOFR3?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Prabowo promises massive growth and a tight budget",
+      "summary": "The President is targeting 2027 for a major economic surge while keeping the budget deficit to 2.4%.",
+      "view": "Prabowo is attempting a fiscal 'magic trick' by promising 8% growth while maintaining a 2.4% deficit. Once the massive costs of his social programs like free school meals are accounted for, he will be forced to choose between breaking his deficit promise or scaling back his populist agenda.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSktWZE1XZjJqcGxFdFotd1ZZTFRIOU9UUlFJQ2cyWnN3WEpQUXpZbHBMUjViMHNCVy1SbEZxbE1CTWIzeVBIenRFZHB1S3dFMTJYM2xHUUpHV3l5djVmZGR3c3JYRHlhSS1aY2I4WjV1clUtVU1saWpUNDZ6aC1sZk5BWGMzSnBsSVNoZF9YSG9OTUxzbnQ5NThOTW1XQ19QeWlTZjJ1c0RuZzhFV1E?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "The new capital Nusantara finds tourists but not investors",
+      "summary": "Indonesia's planned capital city is attracting curious visitors, but long-term corporate investment remains uncertain.",
+      "view": "Nusantara is currently a nationalistic vanity project that serves as a tourist curiosity rather than a viable economic hub. Without clear tax incentives and a massive 'anchor' private-sector investment, the new capital will remain a fiscal drain on Jakarta rather than a growth engine.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTU54eDVBTWxVckw0NHNLOERuTGt2ME5SSHRwQVNyOUZ6eGdCSTF2X2drdmFRcmx5TUNPT0RDQ0RmaXBSZGlVdE9qX1BvSm9sODBNV20xYVI3WVJScThRMm53NFFwRmtmQlZTZ1hxSDc2b1NDUE42UTkzN0NtaEJ1Tzd6QUpLUWJ1ZHRYYmpwNHJyRFFKeTd1UzZ0elpFX1M1aGdLYnZaT0lDOWM?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Crypto markets tumble as Middle East conflict escalates",
+      "summary": "Bitcoin and other digital assets fell sharply following news of U.S. strikes against targets in Iran.",
+      "view": "The $350M liquidation proves that Bitcoin remains a 'risk-on' asset that fails the 'safe haven' test during geopolitical conflict. In a US-Iran clash, Bitcoin loses twice: once to the flight to quality (Gold/USD) and again to the threat of rising energy costs and potential internet infrastructure risks.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMndtc2Z4NkNHVVNIa3NTbGV5YnlLN29HY3hNYk5sLVM0N180eFBRWHQxMG1zQTQyc0RkNzJCSWV6OExCNUl2SXBrVHd2cUxOSng1NWE4ZlhpbUNqRm9MdkdkbWVLdnVxMUlKWUZXRzlmRWV4WVhDbDd2ZDdVRlBZQzBnd2cwdmZsRzZaM25ZWVJxVkh0cXVyelVGTmlTWm5k?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin is now moving in lockstep with the Yen",
+      "summary": "The correlation between Bitcoin and the USD/JPY exchange rate has hit a record high.",
+      "view": "The Bitcoin-Yen correlation is the smoking gun of the 'Yen-Carry Trade' in crypto; Bitcoin has effectively become a high-beta proxy for Japanese monetary policy. As the Yen strengthens, the cheap leverage used to fund crypto positions is being forcefully unwound, making BTC more sensitive to the BOJ than to its own fundamentals.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin wipes out its entire post-election rally",
+      "summary": "The price of Bitcoin has fallen below levels seen before the start of Trump\u2019s second term.",
+      "view": "The total wipeout of the 'Trump rally' gains signals that the market has moved past political hype and is now pricing in the reality of high interest rates and regulatory headwinds like the CLARITY Act. The $2.2 trillion market cap loss since October shows that without a new liquidity catalyst, the 'Trump trade' was just a temporary sentiment pop.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNEtqckFZRzZHclBKMzh2MEc2WnNIN1RsRVY1c1poeVY5d1lMcmVsQUk0aTMzdGYtOUpnbWs4X2JiZ1otZFd5a2h6bjhzUEI0Y1RWLVd0NEtPcEZYWV8wTW1pTVhPN1FRaTdiMDM1T2pyTFVYSl8zZThfZENpQ3I5LWpMdVNkNzQxdHd2QWpINmtQRnAtVDFpcV9FYnJnOWZSbnBVcDNEYl81aFZKZWhjVjU5c093SEk?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Macro data becomes the steering wheel for Bitcoin",
+      "summary": "Inflation, interest rates, and liquidity are now the primary drivers of Bitcoin\u2019s price in 2026.",
+      "view": "Bitcoin has officially matured into a 'macro-slave' asset, with its price now entirely dictated by Fed liquidity and M2 money supply rather than halving cycles. By 2026, the only path to a new all-time high is a coordinated global return to low rates and quantitative easing, not technological adoption.",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ1lya1lkRlFlcEJYeHNVUHNQbGtaQ2FIMEJIWFN5UEVPWklnMnNfRDIyeUFiRElnejliX0I5QnhJdTZ3VEhtNUxURjRVOEN2LVlpVVpMM0IzYnZQTjg5UmtYU21tNnJET1Jid0JfUVZucUNlbjNrOUIwTmE2THZ1V1RZeWN1V2xQM0hhcGxRZGJkSjVGZGFmMXhwWGZGSi0zeGVVVEJHckFjMXJVVUFua0xBOXEtbk1yUDBuaDlxVkI2cFFhN2huOEs0Y1haWGVrTlZoX0lmc0hFa2o3SjRkSVNWWVRfam5qVW9r?oc=5"
+    }
+  ]
+}

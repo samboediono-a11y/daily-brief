@@ -6,42 +6,54 @@
       "headline": "Pentagon opens doors for tech startups to join missile defense",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxONkdIeFdfWTNFR1VFVncxWmpSanFvLW0zRmFwN0VVb1ZvVUFlOGsyMVc2a05QZ21JZE8zUjg3c2t3RnBUeVM1YkZ3RkVqWkVaS1ZOdnY2aE5Da0VRWWhKOVdWVFIyd05CaTNGVlJfSUI5UW5EWjEtV2NrSUdneFlqaDRWVDkxckhEak9xdFdrOF8wVEo1eDQ3U3dNOWhhWnRfZDh6a0ctZll4UVo3TTBCa2FQUmd1djB6REFSenkzVjZNbDVKbXZoU2NVNGpqZFNReFczNXRHQzh2V1RLR2R1cEpuTXBCNmRNd2s1VXAxNGowUEZIeUFqTjNVcDB5dw?oc=5",
       "prediction": "Expect at least two 'unicorn' defense tech startups to be awarded major missile defense integration contracts exceeding $250M before the end of the fiscal year.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new information was found regarding Pentagon missile defense contracts for defense tech startups."
     },
     {
       "section": "tech",
       "headline": "Tech companies keep hiring despite a broader cooling US economy",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSm1EWjQ4LWRkSl9lQUhESGxRRXI3OTRtYjBWMDk2YThTaFVBRkZtVFBEc18xZS1BOUlOUHd0Y0dHR1hsS3hrWmI3NVpaVjc0S3NHUGlkT0U2ZGExZWRPMm9ESDk0al9FMno2bkkyM0NNOW5QT01FbzBaSW8yajJuTEotR2dLRVE5U21rWkxyc3g1M19IZXVseGJFOFFTSGNTbHFCZV8xa25EWGNmZFE?oc=5",
       "prediction": "Tech sector job growth will remain positive through the next two quarters even if the national U.S. unemployment rate ticks above 4.3%.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "While general job growth is positive, there is no specific data on tech sector growth relative to a 4.3% unemployment rate."
     },
     {
       "section": "tech",
       "headline": "Ukraine conflict triggers a global race for private spy satellites",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGYTU1R1NteFFzUExYbGEwdFV4STZESzJIOGxlb2tGTkIzaW9oVDhYd2dWeHEtcDZQZUVVVHk4RmhremxqeDRQdHlYY1V5ZzljQ0hPczUtSW1TZUVhX1JqNnRfTE5ZUFBQRDRqY051MGFBNjVWZDN4WnZRaDMtaEHSAYQBQVVfeXFMUGRyQ3IwX09nMlgwYWU4WVhDeWxKNGJaTHBxUXZTamc3UXJWN0lFRmVFUlhKWHJDMlhRM2lDRTlqbTFXUUl2SXNIbEEzV1Rqb09UUC1tOEJTUTE2UG1jUnpidU5Zb0pOMUVnRU1FckI3QVNQYU1leDhJTXFRWDFGRVBJekZY?oc=5",
       "prediction": "At least three non-NATO countries will announce contracts for dedicated, private satellite clusters for 'national security' use before year-end.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "The fresh headlines only mention a contract in Canada, a NATO member, which does not verify the prediction for non-NATO countries."
     },
     {
       "section": "tech",
       "headline": "Micron fights to stay ahead in the cutthroat AI chip race",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMEZXTnU1ZkZndzdKWnNhTG1EcnJCbmVPUGJIRlhzbk03VW9iOWVDNERZMkQxaEN5WVVFM3RRdW1tdGdXemJEWDJXSWhjb2dyTWVYOG9NMlh4Q3pSeHJhZ290V0JkZHFoeXpwZjZlZzRCQzNVeHRLNnBlUVhkdWhhSWloNFJSR2ZkM2ZmQk82bzJ4aDYxNE1QTXJuSnBIU0VIZWl1bg?oc=5",
       "prediction": "Micron will report a 15% sequential increase in HBM-related revenue in its next quarterly earnings report.",
-      "grounded": false
+      "grounded": false,
+      "status": "held_up",
+      "note": "Headlines report a massive 346% revenue surge and an HBM surge for Micron in its Q3 2026 earnings transcript."
     },
     {
       "section": "markets",
       "headline": "Cooler inflation data sends US stocks on a relief rally",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSXhWU0VLcFhDLThvbkpXTV9QUkZSYUhMMmJEd1d6cVZUTXN6ZjUtMUI4OVRTRkpheVpIZFJsRWxKZk5JcnBGd0hEZFRzS29WLW11ZV9ocVQ1RWM5QzRBYW9udk0tbHV5SkFRM2hfMVRsSmRuU1BxUjlZSDAwWU1OT1VvTjlTRmtCNFU3Y1JmMDJ2VU9XREhlQjBINlV6M29oZHF4UkVUOUpuM0p6c1JfeU5XMkdac0Ntbi1kblU0WURTUE1XTHc?oc=5",
       "prediction": "The S&P 500 will reach a new all-time high within the next 30 days, provided the next PPI reading remains below consensus.",
-      "grounded": true
+      "grounded": true,
+      "status": "held_up",
+      "note": "The S&P 500 reached a record high following flat PPI inflation data as predicted."
     },
     {
       "section": "markets",
       "headline": "Saudi Arabia investigates banks after series of botched stock listings",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORnZvUVFsanZqazRqY3NHNUtzZUxmUkFGSXlZX3BXdkFIbXN6c3dNOTNGLW1nQ21DMGZrTFN3RVRCS0U4R1VkamhsR1hyZEE4aGFNUkZmRWFQUGxaQUxaUkdaSnIzc1RZT2M3MG1LLTRyQnQ5VDFyelR6cGhibHowVUNOZHh1SS0yVWc?oc=5",
       "prediction": "Expect a minimum 90-day pause in major state-linked IPOs in Saudi Arabia as regulators overhaul listing requirements.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No new headlines were found to confirm or deny a pause in Saudi state-linked IPOs."
     },
     {
       "section": "markets",
