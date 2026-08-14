@@ -8,7 +8,7 @@
       "prediction": "Expect at least two 'unicorn' defense tech startups to be awarded major missile defense integration contracts exceeding $250M before the end of the fiscal year.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new information was found regarding Pentagon missile defense contracts for defense tech startups."
+      "note": "No new information was found regarding defense tech startup contracts or missile defense awards."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "Tech sector job growth will remain positive through the next two quarters even if the national U.S. unemployment rate ticks above 4.3%.",
       "grounded": true,
       "status": "too_early",
-      "note": "While general job growth is positive, there is no specific data on tech sector growth relative to a 4.3% unemployment rate."
+      "note": "While general economic forecasts for 2026 are mentioned, there is no specific data on tech sector job growth or national unemployment rates crossing the 4.3% threshold."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "At least three non-NATO countries will announce contracts for dedicated, private satellite clusters for 'national security' use before year-end.",
       "grounded": false,
       "status": "too_early",
-      "note": "The fresh headlines only mention a contract in Canada, a NATO member, which does not verify the prediction for non-NATO countries."
+      "note": "The headline regarding Isar Aerospace involves NATO countries (Germany and Canada) and does not provide information on non-NATO satellite contracts."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Micron will report a 15% sequential increase in HBM-related revenue in its next quarterly earnings report.",
       "grounded": false,
       "status": "held_up",
-      "note": "Headlines report a massive 346% revenue surge and an HBM surge for Micron in its Q3 2026 earnings transcript."
+      "note": "Fresh headlines confirm a massive revenue surge and an HBM-driven growth story in the Q3 2026 earnings report."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The S&P 500 will reach a new all-time high within the next 30 days, provided the next PPI reading remains below consensus.",
       "grounded": true,
       "status": "held_up",
-      "note": "The S&P 500 reached a record high following flat PPI inflation data as predicted."
+      "note": "Headlines explicitly state the S&P 500 hit a record high following flat PPI inflation data."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "Expect a minimum 90-day pause in major state-linked IPOs in Saudi Arabia as regulators overhaul listing requirements.",
       "grounded": false,
       "status": "too_early",
-      "note": "No new headlines were found to confirm or deny a pause in Saudi state-linked IPOs."
+      "note": "No new information was found regarding Saudi Arabian IPO activity or regulatory pauses."
     },
     {
       "section": "markets",
