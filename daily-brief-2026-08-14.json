@@ -6,42 +6,54 @@
       "headline": "Pentagon opens $185 billion missile defense hub for commercial tech",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxONkdIeFdfWTNFR1VFVncxWmpSanFvLW0zRmFwN0VVb1ZvVUFlOGsyMVc2a05QZ21JZE8zUjg3c2t3RnBUeVM1YkZ3RkVqWkVaS1ZOdnY2aE5Da0VRWWhKOVdWVFIyd05CaTNGVlJfSUI5UW5EWjEtV2NrSUdneFlqaDRWVDkxckhEak9xdFdrOF8wVEo1eDQ3U3dNOWhhWnRfZDh6a0ctZll4UVo3TTBCa2FQUmd1djB6REFSenkzVjZNbDVKbXZoU2NVNGpqZFNReFczNXRHQzh2V1RLR2R1cEpuTXBCNmRNd2s1VXAxNGowUEZIeUFqTjNVcDB5dw?oc=5",
       "prediction": "Expect a major non-traditional tech firm to win a prime integration contract for missile defense systems worth over $500 million by the end of 2025.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No fresh headlines were found regarding the award of a missile defense integration contract to a non-traditional tech firm."
     },
     {
       "section": "tech",
       "headline": "North American data centers are almost entirely full",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTU0xcDNkSGVrX1pJZlBoWHlTajBVdEprb3BzMF9yd3Ytb3U1YmUzZUNOdkE3UDZ6NGZ0M3BVM0w4ZHQ4SkZfazExbVJ3amkxMTF6dVFpMThmcFp3RWR6WlhKc04ybkpFemJaMkdUY2tBQ1YyaFF6U2dhMWFpdHFYeHRlZEh0TFg3TGNnM0d4UGttRHFYUHc0NWdTSmZvVl9KbFE?oc=5",
       "prediction": "At least three major US power utilities will announce specialized 'AI surcharge' rates for high-density data centers within the next two earnings cycles.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new information was found concerning the announcement of AI-specific surcharge rates by power utilities."
     },
     {
       "section": "tech",
       "headline": "Global giants find Chinese tech impossible to quit",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUkJWX1oyZklMNlRwbTRFZDZ3TDhTX09IQ0tQa0Rzb0I2WUQ0YmhsUHkzUnlvTmZxLUl4RlI0YVZ1SzlpNHN6Wml1Y0I4aHM3VWItdjlYbHJQVXBVOHpiTnJwcnc4d3Ywd0lLTlhiNk95Z1h2ZDNib3RwdHlJdllrR1N2Wlp1aERENXhka1VCc9IBlAFBVV95cUxOQWFYWWxTQWR1Ml9rNXU2cDYwdi1ScVhxVjZmYW9Pb3M3ckVjYkN6b215a0FKX003ZWV6d3FydWNOamhoVGJVZkFOR3VjZndxWWc2Vm43NVI0ZnY3OXJSSWZhNFVPN3E3WFE3dXJJQlNuOWk5SVpIcnJldUh0UTdRa3VBd29abk5LWXQ4V0theTd2Nnpn?oc=5",
       "prediction": "A major Western automaker will sign a new, long-term battery technology licensing deal with a Chinese firm before the end of Q1 2026 despite political pressure.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No updates were found regarding battery technology licensing deals between Western automakers and Chinese firms."
     },
     {
       "section": "tech",
       "headline": "New York bets $60 million on becoming a quantum hub",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR21mY0Y4dDVnbXY4eDEtVjBDTzlqbmx0SktYUmoyYlF0RjZYTjZhNkNVR3NlUjJjSFdqTzQwV2x1RnJjaTkwTTd5bU5md3ozRVhRR215UTFvNUNpbHpEbG1wZ0NUSTNqTE9JdW9jTlFNcnZ0X3Q3ZDZURFhKX2J0V19JZnRybE1wNlpWUm55bXJGMUZwaGxORzl3NWFJQ0ty?oc=5",
       "prediction": "New York will announce at least one major 'anchor' startup relocation from another state to this hub by mid-2025.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No information was found regarding any major startup relocations to the New York quantum hub."
     },
     {
       "section": "markets",
       "headline": "Tech giants are essentially paying themselves for AI growth",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTYjQyMEtqZ3drOEFXbFo0TS1hTFRUOEowR2w5Q29PTmJzbzduTkZ4a1VKNzkyRmR0RGN4a2M4NmdKT2huM0pVVXktTDVEZFJSLWVXV3FHdENjSFpTSkhkSnIyN3lMS204YTc5N29WQzVfUQ?oc=5",
       "prediction": "Expect a significant downward revision in 'AI-attributed cloud growth' by at least one 'Magnificent Seven' company if peer Capex spending slows in the next two quarters.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No headlines were found indicating a significant downward revision in AI-attributed cloud growth."
     },
     {
       "section": "markets",
       "headline": "Oil prices climb as US-Iran tensions resurface",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWk9LT09OZ0o3aE1weXpUM0V0XzMzblRONDFQM2JqZFdWaUZ1RkJOV1BPRWM5eWtIczJReUhRY243d1pGMkRTU2ZENTI1ZWU3ZHdnVXNMRDJVQWk2eHBQRFNUN1VDMlZJczFKTVYxZy1Ecm5EbldNVEV5cVh0TmFmUzJWX2xhSXpNWTl3NUdBSXJiZ0h4Znd6V19FNG1WazNUemExeC1wVEdEaHlNdGt6bHdB?oc=5",
       "prediction": "Brent crude will breach the $92 level within 30 days if there is even a minor kinetic incident involving a commercial vessel in the Persian Gulf.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new headlines were found regarding Brent crude prices or kinetic incidents in the Persian Gulf."
     },
     {
       "section": "markets",

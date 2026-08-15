@@ -1,0 +1,287 @@
+{
+  "date": "2026-08-15",
+  "predictions": [
+    {
+      "section": "tech",
+      "headline": "Nvidia proves the AI boom is just getting started",
+      "link": "",
+      "prediction": "Nvidia will overtake Microsoft as the world's most valuable public company by market capitalization before the end of Q3 2024.",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "OpenAI stumbles over Scarlett Johansson voice controversy",
+      "link": "",
+      "prediction": "OpenAI will announce a major 'Creative Partnership' deal with a top-tier Hollywood talent agency or studio within the next 60 days to repair its image.",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "Microsoft wants your PC to remember everything you do",
+      "link": "",
+      "prediction": "A major security researcher will demonstrate a way to remotely harvest 'Recall' screenshots within one month of the public launch, forcing Microsoft to make the feature 'Opt-In' rather than 'Opt-Out.'",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "Apple eyes Google's Gemini for iPhone AI integration",
+      "link": "",
+      "prediction": "Apple will announce a 'Multi-Model' approach at WWDC in June, positioning Gemini as an optional feature for 'knowledge tasks' while keeping local privacy tasks on its own proprietary silicon.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Fed minutes suggest interest rate hikes aren't off the table",
+      "link": "",
+      "prediction": "The Federal Reserve will not cut interest rates at all in the third quarter of 2024.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Target's sales slump as shoppers get picky about spending",
+      "link": "",
+      "prediction": "Target's stock will underperform the S&P 500 Retail Index for the remainder of 2024 as they struggle to redefine their value proposition.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Copper prices hit record highs on global supply fears",
+      "link": "",
+      "prediction": "Copper prices will test the $12,500 per ton level by year-end as physical inventory in LME warehouses continues to drop.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Gold retreats from record highs as the dollar strengthens",
+      "link": "",
+      "prediction": "Gold will trade in a narrow range between $2,250 and $2,350 for the next three months as speculative long positions are liquidated.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "Biden releases gas reserves to lower summer pump prices",
+      "link": "",
+      "prediction": "National average gasoline prices will not drop by more than 5 cents per gallon as a direct result of this specific reserve release.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "Red Lobster files for bankruptcy after 'endless shrimp' failure",
+      "link": "",
+      "prediction": "Red Lobster will be acquired out of bankruptcy by a smaller restaurant conglomerate or a turnaround firm by year-end, with at least 150 permanent store closures.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "FDIC Chairman to resign after report on toxic culture",
+      "link": "",
+      "prediction": "The White House will nominate a replacement within 30 days who has a 'clean' record but is equally hawkish on bank capital requirements.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "New tariffs on Chinese goods set to start in August",
+      "link": "",
+      "prediction": "Chinese EV makers like BYD will accelerate plans to build factories in Mexico to bypass these tariffs via the USMCA 'backdoor.'",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Elon Musk launches Starlink in Indonesia to bridge digital gap",
+      "link": "",
+      "prediction": "Starlink will secure a dedicated government contract for maritime surveillance and remote education connectivity before the end of 2024.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Investors nervous as Prabowo's free meal plan takes shape",
+      "link": "",
+      "prediction": "Foreign direct investment (FDI) into Indonesian sovereign bonds will slow in the second half of the year as the 2025 budget details emerge.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia considers 'nickel exchange' to set global prices",
+      "link": "",
+      "prediction": "The Indonesian government will mandate that all domestic nickel sales be settled through its new exchange by the first half of 2025.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "New capital city IKN faces leadership shakeup and delays",
+      "link": "",
+      "prediction": "The August 17th inauguration of the new capital will be a scaled-down, purely symbolic event with most of the planned infrastructure still incomplete.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Ethereum ETF approval odds skyrocket after SEC pivot",
+      "link": "",
+      "prediction": "Spot Ethereum ETFs will see over $5 billion in net inflows within the first 30 days of trading.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "The Yen remains weak despite Japanese government warnings",
+      "link": "",
+      "prediction": "USD/JPY will breach the 160 level again before the end of July as the BoJ maintains its dovish stance.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin struggles to hold $70k as inflation fears return",
+      "link": "",
+      "prediction": "Bitcoin will remain in a consolidation range between $63,000 and $71,000 until the September FOMC meeting.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "US House passes major crypto bill despite White House opposition",
+      "link": "",
+      "prediction": "Major US custodian banks will announce new digital asset custody products for institutional clients by the end of 2024, citing the clarity provided by the FIT21 house vote.",
+      "grounded": false
+    }
+  ],
+  "stories": [
+    {
+      "section": "tech",
+      "headline": "Nvidia proves the AI boom is just getting started",
+      "summary": "Nvidia reported a massive 262% jump in revenue, crushing expectations and announcing a 10-for-1 stock split.",
+      "view": "Nvidia is no longer just a hardware play; it is the toll booth for the entire AI economy. The 10-for-1 stock split is a tactical masterstroke designed to keep the share price accessible for retail investors and pave the way for Dow Jones Industrial Average inclusion, while the 262% revenue jump proves that data center demand is structural, not cyclical.",
+      "link": ""
+    },
+    {
+      "section": "tech",
+      "headline": "OpenAI stumbles over Scarlett Johansson voice controversy",
+      "summary": "OpenAI paused a voice feature after the actress claimed they used a soundalike without her permission.",
+      "view": "OpenAI's handling of the Scarlett Johansson situation reveals a persistent 'move fast and break things' culture that is now a liability. By failing to secure a clean IP slate, they have handed a PR win to the 'human-centric' AI movement and potentially complicated their ongoing licensing negotiations with major media conglomerates.",
+      "link": ""
+    },
+    {
+      "section": "tech",
+      "headline": "Microsoft wants your PC to remember everything you do",
+      "summary": "Microsoft unveiled 'Recall,' an AI feature that takes screenshots of your activity every few seconds to help you search.",
+      "view": "Microsoft is aggressively betting that users will trade privacy for productivity, using 'Recall' to force a hardware upgrade cycle for 'AI PCs.' This feature turns every laptop into a searchable time machine, but it simultaneously creates the world's largest honeypot for data exfiltration, making it a nightmare for corporate security officers.",
+      "link": ""
+    },
+    {
+      "section": "tech",
+      "headline": "Apple eyes Google's Gemini for iPhone AI integration",
+      "summary": "Apple is reportedly closing in on a deal to use Google\u2019s AI models to power new features in iOS 18.",
+      "view": "Apple is effectively outsourcing its AI 'intelligence' to Google because it missed the LLM boat, which is a massive strategic retreat for a company that prides itself on vertical integration. This deal confirms Google's Gemini as the industry standard for mobile distribution, giving Google a massive data advantage on the world's premium mobile platform.",
+      "link": ""
+    },
+    {
+      "section": "markets",
+      "headline": "Fed minutes suggest interest rate hikes aren't off the table",
+      "summary": "The latest meeting notes show several officials are worried about sticky inflation and are open to raising rates if needed.",
+      "view": "The Fed is officially in a 'hawkish hold' pattern as the disinflation trend has clearly stalled. The mention of rate hikes in the minutes is a deliberate signal to the market to tighten financial conditions without the Fed actually having to move the needle, effectively using words as a substitute for action.",
+      "link": ""
+    },
+    {
+      "section": "markets",
+      "headline": "Target's sales slump as shoppers get picky about spending",
+      "summary": "Target reported its first quarterly sales drop in years as consumers pull back on non-essential items.",
+      "view": "Target's slump is the clearest evidence yet of the 'bifurcated consumer'\u2014middle-income shoppers are abandoning discretionary 'Target runs' for the survivalist pricing of Walmart and Aldi. Their heavy exposure to home goods and apparel is a major drag in a high-interest-rate environment where consumers only care about the 'need-to-haves.'",
+      "link": ""
+    },
+    {
+      "section": "markets",
+      "headline": "Copper prices hit record highs on global supply fears",
+      "summary": "The price of copper surged past $11,000 a ton driven by demand for EVs and renewable energy grids.",
+      "view": "Copper is the new oil, and the current price surge is the result of a multi-year supply deficit finally meeting the reality of the AI and EV power demands. This isn't a speculative bubble; it's a structural shortfall that cannot be fixed without a decade of new mining investment that hasn't happened yet.",
+      "link": ""
+    },
+    {
+      "section": "markets",
+      "headline": "Gold retreats from record highs as the dollar strengthens",
+      "summary": "Gold prices fell sharply after the Fed signaled interest rates will stay high, boosting the US dollar.",
+      "view": "Gold's retreat is a classic 'yield play' correction; as the dollar stays strong and yields stay high, the opportunity cost of holding a non-yielding asset like gold becomes too high for institutional traders. The safe-haven premium is being eroded by the sheer dominance of the US dollar's carry trade.",
+      "link": ""
+    },
+    {
+      "section": "us_news",
+      "headline": "Biden releases gas reserves to lower summer pump prices",
+      "summary": "The administration is releasing 1 million barrels of gasoline from the Northeast Reserve to cool down prices.",
+      "view": "The release of 1 million barrels is a rounding error in the global market\u2014it represents less than 1% of daily global demand. This is a purely political move aimed at dampening the 'cost of living' narrative ahead of the summer driving season, offering symbolic relief rather than a genuine price shift.",
+      "link": ""
+    },
+    {
+      "section": "us_news",
+      "headline": "Red Lobster files for bankruptcy after 'endless shrimp' failure",
+      "summary": "The seafood chain is closing dozens of restaurants after a debt-heavy buyout and an unprofitable promotion.",
+      "view": "Red Lobster is a textbook case of private equity 'strip and flip' failure, where the real estate was sold off to pay dividends, leaving the operating business with unmanageable rent. The 'endless shrimp' promotion was a desperate attempt to drive traffic to a business model that was already hollowed out from within.",
+      "link": ""
+    },
+    {
+      "section": "us_news",
+      "headline": "FDIC Chairman to resign after report on toxic culture",
+      "summary": "Martin Gruenberg will step down following allegations of widespread harassment and a 'boys club' atmosphere at the agency.",
+      "view": "Gruenberg's resignation is a necessary sacrifice to save the 'Basel III Endgame' banking regulations. The FDIC's toxic culture became a political cudgel for the banking lobby; removing the leadership allows the agency to reset and push through tighter capital requirements with less friction.",
+      "link": ""
+    },
+    {
+      "section": "us_news",
+      "headline": "New tariffs on Chinese goods set to start in August",
+      "summary": "The US is moving ahead with 100% tariffs on Chinese EVs and significant hikes on solar cells and medical supplies.",
+      "view": "The US is officially moving from a 'globalist' trade posture to a 'protectionist' industrial policy aimed at decoupling from China's green energy supply chain. These tariffs are designed to insulate high-cost US domestic manufacturing (like Tesla and Ford) from the hyper-efficient, state-subsidized Chinese EV market.",
+      "link": ""
+    },
+    {
+      "section": "indonesia",
+      "headline": "Elon Musk launches Starlink in Indonesia to bridge digital gap",
+      "summary": "Musk visited Bali to launch the satellite internet service, targeting remote health clinics and islands.",
+      "view": "Starlink in Indonesia is Elon Musk's ticket to securing the country's nickel supply for Tesla. By providing a low-cost solution to Indonesia's 'archipelago connectivity problem,' he is building significant political capital with the incoming administration that will pay off in future mineral processing deals.",
+      "link": ""
+    },
+    {
+      "section": "indonesia",
+      "headline": "Investors nervous as Prabowo's free meal plan takes shape",
+      "summary": "The incoming president's signature 'Free Nutritious Meals' program is estimated to cost nearly $30 billion.",
+      "view": "Prabowo's free meal plan is a massive fiscal risk that threatens Indonesia's reputation for prudent budget management. The $30 billion price tag is incompatible with the country's 3% deficit cap unless the government dramatically guts energy subsidies or significantly raises the VAT.",
+      "link": ""
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia considers 'nickel exchange' to set global prices",
+      "summary": "The government wants to create its own price index for nickel to reduce reliance on the London Metal Exchange.",
+      "view": "Indonesia is attempting to form an 'OPEC for Nickel' to reclaim price-setting power from the London Metal Exchange. As the producer of over half the world's nickel, they have the leverage to force global buyers to follow their pricing, which will likely push more EV makers toward LFP batteries to avoid Indonesian dominance.",
+      "link": ""
+    },
+    {
+      "section": "indonesia",
+      "headline": "New capital city IKN faces leadership shakeup and delays",
+      "summary": "The head of the authority building the new capital resigned, raising questions about the project's timeline.",
+      "view": "The leadership shakeup at IKN is a signal that the project's private funding targets are being missed by a wide margin. Resignations at this level usually mean a clash over the lack of budget or impossible timelines, casting serious doubt on whether the city will ever be more than a ghost town for bureaucrats.",
+      "link": ""
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Ethereum ETF approval odds skyrocket after SEC pivot",
+      "summary": "Analysts raised the probability of an Ether ETF approval to 75% following a sudden shift in regulatory sentiment.",
+      "view": "The SEC's pivot on the Ethereum ETF is a political white flag, not a change of heart; the White House has realized that being 'anti-crypto' is a net-loss in a close election year. This approval legitimizes the entire DeFi ecosystem and paves the way for Ethereum to outperform Bitcoin in terms of percentage gains over the next six months.",
+      "link": ""
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "The Yen remains weak despite Japanese government warnings",
+      "summary": "The Japanese Yen is hovering near 34-year lows as the interest rate gap with the US remains massive.",
+      "view": "The Yen is a victim of the 'Interest Rate Gap' gravity that no amount of verbal intervention can fix. Unless the Bank of Japan hikes rates to at least 1% or the US Fed starts cutting, the Yen will continue to be the world's favorite funding currency for carry trades, keeping it perpetually weak.",
+      "link": ""
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin struggles to hold $70k as inflation fears return",
+      "summary": "Bitcoin fell back below the $70,000 mark after hawkish Fed comments dampened the mood for risky assets.",
+      "view": "Bitcoin's struggle at $70k is a reflection of the 'wait and see' approach from institutional macro traders who are spooked by sticky US inflation. Bitcoin has transitioned from a 'risk-off' safe haven to a 'high-beta' NASDAQ proxy; it needs a clear path to lower yields to sustain a breakout to new highs.",
+      "link": ""
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "US House passes major crypto bill despite White House opposition",
+      "summary": "The FIT21 bill, which aims to create a clear regulatory framework for digital assets, passed the House with bipartisan support.",
+      "view": "The passing of FIT21 is a watershed moment that strips the SEC of its 'regulation by enforcement' monopoly and hand-delivers more authority to the CFTC. This bill provides the legal 'safe harbor' that institutional banks need to finally integrate crypto assets into their core brokerage services.",
+      "link": ""
+    }
+  ]
+}
