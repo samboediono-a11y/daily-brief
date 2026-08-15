@@ -8,7 +8,7 @@
       "prediction": "Expect a major non-traditional tech firm to win a prime integration contract for missile defense systems worth over $500 million by the end of 2025.",
       "grounded": false,
       "status": "too_early",
-      "note": "No fresh headlines were found regarding the award of a missile defense integration contract to a non-traditional tech firm."
+      "note": "While SciTec joined a $423 million Space Force digitization push, this does not confirm a prime integration contract worth over $500 million by a non-traditional tech firm for the missile defense hub."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "At least three major US power utilities will announce specialized 'AI surcharge' rates for high-density data centers within the next two earnings cycles.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new information was found concerning the announcement of AI-specific surcharge rates by power utilities."
+      "note": "Fresh headlines focus on data centers bypassing the grid for power and general market growth, but do not mention any 'AI surcharge' rates announced by utilities."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "A major Western automaker will sign a new, long-term battery technology licensing deal with a Chinese firm before the end of Q1 2026 despite political pressure.",
       "grounded": true,
       "status": "too_early",
-      "note": "No updates were found regarding battery technology licensing deals between Western automakers and Chinese firms."
+      "note": "The provided headlines discuss general automotive innovation and Chinese battery dominance but do not report a specific new licensing deal between a Western automaker and a Chinese firm."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "New York will announce at least one major 'anchor' startup relocation from another state to this hub by mid-2025.",
       "grounded": false,
       "status": "too_early",
-      "note": "No information was found regarding any major startup relocations to the New York quantum hub."
+      "note": "The available city ranking report does not contain specific information regarding anchor startup relocations to New York's quantum hub."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "Expect a significant downward revision in 'AI-attributed cloud growth' by at least one 'Magnificent Seven' company if peer Capex spending slows in the next two quarters.",
       "grounded": false,
       "status": "too_early",
-      "note": "No headlines were found indicating a significant downward revision in AI-attributed cloud growth."
+      "note": "No new headlines were provided to evaluate the status of AI-attributed cloud growth revisions for Magnificent Seven companies."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "Brent crude will breach the $92 level within 30 days if there is even a minor kinetic incident involving a commercial vessel in the Persian Gulf.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new headlines were found regarding Brent crude prices or kinetic incidents in the Persian Gulf."
+      "note": "No new headlines were provided to verify Brent crude price levels or kinetic incidents involving commercial vessels in the Persian Gulf."
     },
     {
       "section": "markets",
