@@ -8,7 +8,7 @@
       "prediction": "At least two defense-tech startups will be awarded contracts exceeding $250 million through the Golden Dome hub by mid-2025.",
       "grounded": false,
       "status": "too_early",
-      "note": "No new information was found regarding contract awards for defense-tech startups through the Golden Dome hub."
+      "note": "No new information was found to track the progress of Golden Dome hub contracts for defense-tech startups."
     },
     {
       "section": "tech",
@@ -16,8 +16,8 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUkJWX1oyZklMNlRwbTRFZDZ3TDhTX09IQ0tQa0Rzb0I2WUQ0YmhsUHkzUnlvTmZxLUl4RlI0YVZ1SzlpNHN6Wml1Y0I4aHM3VWItdjlYbHJQVXBVOHpiTnJwcnc4d3Ywd0lLTlhiNk95Z1h2ZDNib3RwdHlJdllrR1N2Wlp1aERENXhka1VCc9IBlAFBVV95cUxOQWFYWWxTQWR1Ml9rNXU2cDYwdi1ScVhxVjZmYW9Pb3M3ckVjYkN6b215a0FKX003ZWV6d3FydWNOamhoVGJVZkFOR3VjZndxWWc2Vm43NVI0ZnY3OXJSSWZhNFVPN3E3WFE3dXJJQlNuOWk5SVpIcnJldUh0UTdRa3VBd29abk5LWXQ4V0theTd2Nnpn?oc=5",
       "prediction": "A major U.S. automaker will announce a formal joint venture or licensing deal for Chinese battery technology to power its 2026 model lineup.",
       "grounded": true,
-      "status": "held_up",
-      "note": "Headlines confirm Ford's completion of a CATL-backed battery plant and Stellantis using a 'Chinese Remedy,' supporting the prediction of licensing Chinese battery tech."
+      "status": "too_early",
+      "note": "No fresh headlines were found regarding U.S. automakers licensing Chinese battery technology."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "Hyperscalers (Amazon/Microsoft/Google) will announce at least three new partnerships with nuclear energy providers for dedicated on-site power before the end of Q1 2025.",
       "grounded": true,
       "status": "too_early",
-      "note": "While headlines discuss massive private power programs and Google's energy acquisitions, they do not explicitly confirm three new nuclear-specific partnerships."
+      "note": "No new data is available concerning hyperscaler partnerships with nuclear energy providers."
     },
     {
       "section": "tech",
@@ -34,8 +34,8 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY3FWd1VlNC05Vm9zWng1YUtMR3JGdE5aTVJyTWUyeUVHVGJRdUhFYVhtSG1fQ2VjWmNGZWYwenBURlpfdWNsT25NSk5JVFo1cHdCaVJTR3N3NGcyOVlkbG04TkNNNzJZUE03VmRmeGg2b2VYUlgtMVJQeXVxcUpIYk9BNUJuRk9GMTVkeTA2VXI4MXd1?oc=5",
       "prediction": "At least five AI-powered medical devices will receive new, permanent CPT billing codes within the next 12 months.",
       "grounded": false,
-      "status": "held_up",
-      "note": "The fresh headline from Medscape confirms that CPT 2026 has added new AI diagnostic codes, supporting the prediction of permanent billing codes for AI devices."
+      "status": "too_early",
+      "note": "No new information has surfaced regarding permanent CPT billing codes for AI-powered medical devices."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The S&P 500 Equal Weight Index will outperform the Market Cap Weighted Index over the next 90 days.",
       "grounded": false,
       "status": "too_early",
-      "note": "The 90-day window from the prediction date of August 15, 2026, has not yet elapsed, and current headlines only reflect performance from earlier in the year."
+      "note": "Lack of fresh market headlines prevents an assessment of the relative performance between the S&P 500 Equal Weight and Market Cap Weighted indices."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "SpaceX will announce a Starlink spin-off or a major orbital infrastructure partnership with a G7 government within the next six months to create a new valuation catalyst.",
       "grounded": true,
       "status": "too_early",
-      "note": "There is no new evidence provided regarding a Starlink spin-off or a major orbital infrastructure partnership with a G7 government."
+      "note": "There is no new information regarding a Starlink spin-off or a major G7 government infrastructure deal for SpaceX."
     },
     {
       "section": "markets",
