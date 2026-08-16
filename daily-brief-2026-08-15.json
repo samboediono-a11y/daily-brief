@@ -6,42 +6,54 @@
       "headline": "The Pentagon is opening its missile defense wallet to tech startups",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxONkdIeFdfWTNFR1VFVncxWmpSanFvLW0zRmFwN0VVb1ZvVUFlOGsyMVc2a05QZ21JZE8zUjg3c2t3RnBUeVM1YkZ3RkVqWkVaS1ZOdnY2aE5Da0VRWWhKOVdWVFIyd05CaTNGVlJfSUI5UW5EWjEtV2NrSUdneFlqaDRWVDkxckhEak9xdFdrOF8wVEo1eDQ3U3dNOWhhWnRfZDh6a0ctZll4UVo3TTBCa2FQUmd1djB6REFSenkzVjZNbDVKbXZoU2NVNGpqZFNReFczNXRHQzh2V1RLR2R1cEpuTXBCNmRNd2s1VXAxNGowUEZIeUFqTjNVcDB5dw?oc=5",
       "prediction": "At least two defense-tech startups will be awarded contracts exceeding $250 million through the Golden Dome hub by mid-2025.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No new information was found regarding contract awards for defense-tech startups through the Golden Dome hub."
     },
     {
       "section": "tech",
       "headline": "Global giants can no longer ignore the lead in Chinese tech",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUkJWX1oyZklMNlRwbTRFZDZ3TDhTX09IQ0tQa0Rzb0I2WUQ0YmhsUHkzUnlvTmZxLUl4RlI0YVZ1SzlpNHN6Wml1Y0I4aHM3VWItdjlYbHJQVXBVOHpiTnJwcnc4d3Ywd0lLTlhiNk95Z1h2ZDNib3RwdHlJdllrR1N2Wlp1aERENXhka1VCc9IBlAFBVV95cUxOQWFYWWxTQWR1Ml9rNXU2cDYwdi1ScVhxVjZmYW9Pb3M3ckVjYkN6b215a0FKX003ZWV6d3FydWNOamhoVGJVZkFOR3VjZndxWWc2Vm43NVI0ZnY3OXJSSWZhNFVPN3E3WFE3dXJJQlNuOWk5SVpIcnJldUh0UTdRa3VBd29abk5LWXQ4V0theTd2Nnpn?oc=5",
       "prediction": "A major U.S. automaker will announce a formal joint venture or licensing deal for Chinese battery technology to power its 2026 model lineup.",
-      "grounded": true
+      "grounded": true,
+      "status": "held_up",
+      "note": "Headlines confirm Ford's completion of a CATL-backed battery plant and Stellantis using a 'Chinese Remedy,' supporting the prediction of licensing Chinese battery tech."
     },
     {
       "section": "tech",
       "headline": "America has effectively run out of available data center space",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTU0xcDNkSGVrX1pJZlBoWHlTajBVdEprb3BzMF9yd3Ytb3U1YmUzZUNOdkE3UDZ6NGZ0M3BVM0w4ZHQ4SkZfazExbVJ3amkxMTF6dVFpMThmcFp3RWR6WlhKc04ybkpFemJaMkdUY2tBQ1YyaFF6U2dhMWFpdHFYeHRlZEh0TFg3TGNnM0d4UGttRHFYUHc0NWdTSmZvVl9KbFE?oc=5",
       "prediction": "Hyperscalers (Amazon/Microsoft/Google) will announce at least three new partnerships with nuclear energy providers for dedicated on-site power before the end of Q1 2025.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "While headlines discuss massive private power programs and Google's energy acquisitions, they do not explicitly confirm three new nuclear-specific partnerships."
     },
     {
       "section": "tech",
       "headline": "Medicare starts paying hospitals to use AI-powered medical devices",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY3FWd1VlNC05Vm9zWng1YUtMR3JGdE5aTVJyTWUyeUVHVGJRdUhFYVhtSG1fQ2VjWmNGZWYwenBURlpfdWNsT25NSk5JVFo1cHdCaVJTR3N3NGcyOVlkbG04TkNNNzJZUE03VmRmeGg2b2VYUlgtMVJQeXVxcUpIYk9BNUJuRk9GMTVkeTA2VXI4MXd1?oc=5",
       "prediction": "At least five AI-powered medical devices will receive new, permanent CPT billing codes within the next 12 months.",
-      "grounded": false
+      "grounded": false,
+      "status": "held_up",
+      "note": "The fresh headline from Medscape confirms that CPT 2026 has added new AI diagnostic codes, supporting the prediction of permanent billing codes for AI devices."
     },
     {
       "section": "markets",
       "headline": "Big money managers are quietly backing away from tech darlings",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVEhXR0lpSVV6T19LcXRWTk1Lc2l4dDhDeTBoOThuNHQ5M2JjajdRamxsdnpRR1lqaHFwNTNFREtRdGgybE45a2lGTlVNeGgwYUtuTkwyZFlidzhEWmtMeDJtUkd2QXVFLVdhYVRBSmgtVGxVMjk5UDFLV3ZJa1hHMDdLVHZQZXBlSTFyang4bEdsaml0VGloQ2ZYd0lvVzRWNE4tNUxvQWF0S3RRNThiTVM0bXl4bkozVWkxcXFEbFI1eXhhSkhuODNQSVZSdw?oc=5",
       "prediction": "The S&P 500 Equal Weight Index will outperform the Market Cap Weighted Index over the next 90 days.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "The 90-day window from the prediction date of August 15, 2026, has not yet elapsed, and current headlines only reflect performance from earlier in the year."
     },
     {
       "section": "markets",
       "headline": "SpaceX is the new stock market North Star for investors",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYWxmM1pVSUt5NExEXzdvZGxTR2dhbmRrUW9yNWNTRUNKcVZEbFlyMEhaS0xPTXBmYmFPV25vY2Z6Y0RtbGstd01HMXVqSWo1Y2hLOFRLWkpocTBzX2tua2ZNaEJTMUZjdkxwbnJma05zaGtkeXV0S1VKTXNtbTVvSTlSRmw3WnQtSWxmenZrdzYzS0tPTnNkbm9CUGFJRmNBcEZrN3NjYlFUR3dxSUM3YTJ0Mzk5d3AyUGVoY2x5SzZFYjA?oc=5",
       "prediction": "SpaceX will announce a Starlink spin-off or a major orbital infrastructure partnership with a G7 government within the next six months to create a new valuation catalyst.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "There is no new evidence provided regarding a Starlink spin-off or a major orbital infrastructure partnership with a G7 government."
     },
     {
       "section": "markets",
