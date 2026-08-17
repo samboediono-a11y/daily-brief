@@ -6,42 +6,54 @@
       "headline": "Nvidia proves the AI boom is still just getting started",
       "link": "",
       "prediction": "Nvidia will beat the high end of their own revenue guidance again in the next quarterly earnings report as the H200 ramp-up offsets any 'lull' before Blackwell.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No fresh headlines were provided to confirm Nvidia's recent quarterly earnings results or revenue guidance performance."
     },
     {
       "section": "tech",
       "headline": "Scarlett Johansson highlights the massive legal risks of AI imitation",
       "link": "",
       "prediction": "OpenAI will settle with Johansson out of court within six months to avoid a discovery process that would expose their voice-training datasets to public scrutiny.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "There are no new headlines regarding the legal dispute or a potential settlement between Scarlett Johansson and OpenAI."
     },
     {
       "section": "tech",
       "headline": "Microsoft\u2019s new PC feature raises major privacy red flags",
       "link": "",
       "prediction": "Microsoft will be forced to change 'Recall' from an opt-out to an opt-in feature before the general release of new Surface hardware.",
-      "grounded": false
+      "grounded": false,
+      "status": "held_up",
+      "note": "Fresh headlines explicitly confirm that Microsoft changed the Recall feature to an opt-in requirement following privacy concerns."
     },
     {
       "section": "tech",
       "headline": "Google scales back AI search answers after embarrassing errors",
       "link": "",
       "prediction": "Google will reduce the visibility of AI Overviews by at least 25% for 'Your Money or Your Life' (YMYL) queries by the end of Q3.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No new information was provided to evaluate the visibility levels of Google's AI Overviews for YMYL queries."
     },
     {
       "section": "markets",
       "headline": "The Fed signals higher rates for longer than anyone wanted",
       "link": "",
       "prediction": "The Fed will maintain current rates through the September meeting, with the first potential cut delayed until November or December.",
-      "grounded": false
+      "grounded": false,
+      "status": "held_up",
+      "note": "Headlines discussing a possible rate cut in December and the lack of a cut in September align with the predicted timeline for delayed easing."
     },
     {
       "section": "markets",
       "headline": "Target joins the price-cut club as shoppers hit their limit",
       "link": "",
       "prediction": "Target\u2019s comparable store sales will return to positive territory by the Q4 holiday season as price cuts stimulate volume.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No fresh headlines were found regarding Target's comparable store sales or financial performance for the holiday season."
     },
     {
       "section": "markets",
