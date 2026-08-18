@@ -8,7 +8,7 @@
       "prediction": "Expect at least one of the 'Magnificent 7' to announce a second, larger round of 'efficiency' layoffs before the end of Q3 2026.",
       "grounded": true,
       "status": "too_early",
-      "note": "The provided headline lists tech layoffs for 2025 but does not provide any information regarding Magnificent 7 layoff rounds in 2026."
+      "note": "The TechCrunch headline provided only covers 2025 layoffs and contains no information about Magnificent 7 activities in 2026."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "At least three major Indian IT firms will report that AI services account for more than 15% of their total revenue by the next fiscal year-end.",
       "grounded": true,
       "status": "too_early",
-      "note": "Fresh headlines discuss Microsoft, Amazon, and PwC surveys but contain no data on the AI revenue percentages of Indian IT firms."
+      "note": "The provided headlines focus on Microsoft, Amazon, and China policy, but offer no revenue data for major Indian IT firms."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "A major US or European legacy automaker will announce a deep technical licensing agreement with a Chinese EV firm to stay competitive within 12 months.",
       "grounded": true,
       "status": "too_early",
-      "note": "Recent headlines focus on policy shifts and general Chinese innovation, with no mention of a specific technical licensing agreement involving a legacy automaker."
+      "note": "Headlines discuss general Chinese innovation and US policy but do not mention a specific technical licensing agreement with a legacy automaker."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "The US government will formalize a 'Cyber Reserve' program for tech employees, granting them specialized security clearances, before the end of 2026.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new headlines were provided to confirm or deny the formalization of a 'Cyber Reserve' program."
+      "note": "No news headlines were found to confirm or deny the formalization of a US government 'Cyber Reserve' program."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The S&P 500 tech sector will experience a correction of at least 15% before the end of the 2026 calendar year.",
       "grounded": true,
       "status": "too_early",
-      "note": "While headlines mention a 'summer correction' and the potential for a 2026 plunge, they do not confirm that a 15% correction in the tech sector has taken place."
+      "note": "Headlines mention that a 'summer correction' has ended, but do not provide the specific percentage drop for the tech sector needed to verify the 15% threshold."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "European indices (DAX and CAC 40) will underperform the S&P 500 by more than 8% over the next two quarters.",
       "grounded": true,
       "status": "too_early",
-      "note": "Headlines report daily movements for the DAX and FTSE 100 but lack the comparative performance data against the S&P 500 needed to verify the prediction."
+      "note": "Current headlines only provide daily performance snapshots for the DAX and FTSE and do not offer the two-quarter comparative data vs. the S&P 500."
     },
     {
       "section": "markets",
