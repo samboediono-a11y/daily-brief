@@ -6,42 +6,54 @@
       "headline": "The tech layoff wave shows no signs of stopping",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbU1SeTkyTkV2NTVURzkxM3pjUno1ZzNlZ3J2R2RXMUljWDBLbGhOVTdWRktaYjlFSkRGUV9CeXJkVlIwZkZKdFlzdTdUVi1Cd0JoRElwMU0tRzF6Tk9JWmZlUThrbXZqN3JXb3BCWmJLM21pMFVuUVh3TU5fNEU1SmZTUlZvOFZJeDhsWWx4WGpSS05tT3V1SXctWVRoZXBlMUJ1a3l1YWJEaFNRT0ppYzRvOGJTMFB0dElQbzVVVnFfeUFveDJZRUM1bzlOLUhFVXl1ZU50d3ZZalFnVmRob3k0M2tsYWQ1TnFlZGFqWmlKWlJyWDdF?oc=5",
       "prediction": "Expect at least one of the 'Magnificent 7' to announce a second, larger round of 'efficiency' layoffs before the end of Q3 2026.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The provided headline lists tech layoffs for 2025 but does not provide any information regarding Magnificent 7 layoff rounds in 2026."
     },
     {
       "section": "tech",
       "headline": "Companies are finally demanding real profits from AI investments",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aeHR5ZzFYWFRmTnJzbFlMUEFYU05qRVNuVTVYYklLWEhEdkh1aWJmT1JKSmFVeHE4dGprNjd0R0tJajRFNzNScWRjWVJDX1djXzQySjFSeVd4MFNqRUQ2M0czQzEtLWdLMDRqMDVheFRJZGRac1pV?oc=5",
       "prediction": "At least three major Indian IT firms will report that AI services account for more than 15% of their total revenue by the next fiscal year-end.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Fresh headlines discuss Microsoft, Amazon, and PwC surveys but contain no data on the AI revenue percentages of Indian IT firms."
     },
     {
       "section": "tech",
       "headline": "Global giants can no longer ignore Chinese tech innovation",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUkJWX1oyZklMNlRwbTRFZDZ3TDhTX09IQ0tQa0Rzb0I2WUQ0YmhsUHkzUnlvTmZxLUl4RlI0YVZ1SzlpNHN6Wml1Y0I4aHM3VWItdjlYbHJQVXBVOHpiTnJwcnc4d3Ywd0lLTlhiNk95Z1h2ZDNib3RwdHlJdllrR1N2Wlp1aERENXhka1VCc9IBlAFBVV95cUxOQWFYWWxTQWR1Ml9rNXU2cDYwdi1ScVhxVjZmYW9Pb3M3ckVjYkN6b215a0FKX003ZWV6d3FydWNOamhoVGJVZkFOR3VjZndxWWc2Vm43NVI0ZnY3OXJSSWZhNFVPN3E3WFE3dXJJQlNuOWk5SVpIcnJldUh0UTdRa3VBd29abk5LWXQ4V0theTd2Nnpn?oc=5",
       "prediction": "A major US or European legacy automaker will announce a deep technical licensing agreement with a Chinese EV firm to stay competitive within 12 months.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Recent headlines focus on policy shifts and general Chinese innovation, with no mention of a specific technical licensing agreement involving a legacy automaker."
     },
     {
       "section": "tech",
       "headline": "The government is drafting tech firms for cyber defense",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZFlJdlpkelhmYTZjUUVlU21SblRldmRpZHFWRm5yVmRxTXdkdVp3UXlubVlNVWtSMWFnbTM2amU3eWZES2ZPUHdScjZVQkFLRDRkUEdrTzZOV1FEazlWZzhwcnFQNnNvN2prbW5oWkxLcUlwNURJR3dmTUZZQXBQZzdZSQ?oc=5",
       "prediction": "The US government will formalize a 'Cyber Reserve' program for tech employees, granting them specialized security clearances, before the end of 2026.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new headlines were provided to confirm or deny the formalization of a 'Cyber Reserve' program."
     },
     {
       "section": "markets",
       "headline": "World's largest wealth fund warns of AI stock bubble",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVTBscGNtd0pyUUUzRE1NelY4QkZXNjViemV6Uld0M3pXMWtjdk5zR1BoNXZtelMzb2NZdTVELTdBZi13ZlpUVmtOVUlfSjJXMXFnZlRTei1hZ3hvOG1JOEtKbE5ESFo4RWFOYmlGTEJaLVF0WGI4UVd5VHY3UDI5Q2VhdXl1Q1hpQzJLVWRFUjLSAZABQVVfeXFMTWR3a21fT3V3eUwtMktKWEpmckZjZmpPakttWjlRMVdwd1BSYWNLX042eHdVdzhSODVobmVwQUlDZ0dTbzhwaGtFenh1NTZWcWtyOVdvR0ZUaDdoSjVOUTV5aUJ5MzhHN2xDaGFCdWNYVGk1SFpjZ0Y2UC1kYVcxaXEtbGp0ZXF5UHBvcUVTUVZs?oc=5",
       "prediction": "The S&P 500 tech sector will experience a correction of at least 15% before the end of the 2026 calendar year.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "While headlines mention a 'summer correction' and the potential for a 2026 plunge, they do not confirm that a 15% correction in the tech sector has taken place."
     },
     {
       "section": "markets",
       "headline": "Europe's central bank predicts a looming market correction",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOejNkZVFTSjVNZEVpMms5aWtNbzdCcWMyZFQwT2xHRnQzanhqbHoxZzZKSGdTblptSHhUT0Jjamk3ZWI1VnJHOFZPWnk0VERidlZsNFItMzE2T2UyOEhfYWVGOUt1MkRLLVlNTWlNYnViUGhnalAtS3RDSS0tX3ZSckR1MjM4UmF4YzNDZ3hyN1AxYVhEaE1fMWpOQlFhVlZBbXdJVF9sVTNhNjJGMEQ0THlBVHc?oc=5",
       "prediction": "European indices (DAX and CAC 40) will underperform the S&P 500 by more than 8% over the next two quarters.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Headlines report daily movements for the DAX and FTSE 100 but lack the comparative performance data against the S&P 500 needed to verify the prediction."
     },
     {
       "section": "markets",
