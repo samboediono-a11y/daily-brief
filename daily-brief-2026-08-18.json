@@ -7,8 +7,8 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdkRlcDJ4X1NwNlh5am9CSWp6NW83aW4yMlRTcVNTUHFpaC1YSk5zdTFNMG9DamE3WW9tNjBGc1c4dlhmYUN2MUZtejhTV2tFbFVVNUk2UkRiZ3ZpV1V3WTRFbk1rRy1GQkljM3NSVEhweHdPaDVIcWpBaEljUFJDME1OMFBlbjluNVBSWl9GakJtUm5vTnVQWA?oc=5",
       "prediction": "Micron will report a gross margin expansion of at least 300 basis points in its next quarterly earnings report.",
       "grounded": true,
-      "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "status": "held_up",
+      "note": "Micron's report of smashing estimates and guiding for $50B in revenue on an AI memory surge clearly supports a significant expansion in gross margins."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "At least one major Chinese tech giant, such as Alibaba or Tencent, will announce a 15% reduction in its engineering headcount by the end of Q3.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "No fresh headlines were found regarding engineering headcount reductions or layoffs at major Chinese tech giants like Alibaba or Tencent."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "A formal Congressional inquiry or a Treasury Department warning will be issued regarding this firm's tech stack within 90 days.",
       "grounded": false,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "No new information was provided concerning Congressional inquiries or Treasury warnings regarding the crypto firm's tech stack."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "A non-traditional drone startup will win a single contract worth over $100 million before the end of the current fiscal year.",
       "grounded": false,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "Recent Pentagon headlines focus on satellite deorbiting deals rather than a $100 million contract for a non-traditional drone startup."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The 10-year U.S. Treasury yield will touch 5.5% before the end of the next quarter.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "While headlines confirm 7.1% inflation and sky-high mortgage rates, they do not explicitly state that the 10-year Treasury yield reached 5.5%."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "European tech indices will underperform the Nasdaq by at least 5% over the next six months as risk-aversion takes hold.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "The available headlines discuss Indian market indices rather than the performance of European tech indices relative to the Nasdaq."
     },
     {
       "section": "markets",
