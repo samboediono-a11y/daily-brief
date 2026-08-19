@@ -6,42 +6,54 @@
       "headline": "Micron rides the AI wave as memory chip demand surges",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdkRlcDJ4X1NwNlh5am9CSWp6NW83aW4yMlRTcVNTUHFpaC1YSk5zdTFNMG9DamE3WW9tNjBGc1c4dlhmYUN2MUZtejhTV2tFbFVVNUk2UkRiZ3ZpV1V3WTRFbk1rRy1GQkljM3NSVEhweHdPaDVIcWpBaEljUFJDME1OMFBlbjluNVBSWl9GakJtUm5vTnVQWA?oc=5",
       "prediction": "Micron will report a gross margin expansion of at least 300 basis points in its next quarterly earnings report.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "Chinese tech workers face layoffs as AI replaces coding jobs",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeFZQeTR5Ym9ucU0zVWM2RkpOWWF6b1ozclpZTEluTWxxWm1wY0RRU1VJWG1EUTFqY2hMY0h4eTB2X2hPTDRUV2lseWV1YWNCS3pvUk9aNWx2cUxMemY1bWxaZWVXc2NxYWJrY1Z6WXAxNjNOa2dWY29ZTVFRTWc1d1NyVW9sOTVuVVd4YjJmUmhpUWROREIxSzhWNy12b2h4MkR5N1g1MGc3N0ZsenQyY2xxTHBwQUc4OXc5VE9mNkRZRmkwdzZzLVdWZGhPTnNBbFg0THhWZ3dKX1JaaTg0X0hrelN2bG0wMkkyRDdORERJUzTSAfgBQVVfeXFMT3NiWjhxUHRJZndFbUlTMGhXd2VXNnMwYTBhNEYtZG5Fd2FwYzgwUjFaX3FMMVFnVWRhT3QwejFQUDJGV2RWSkdmSC1LMVMxZzl2d2RoOTBBS2JrZTlESDZsTVFWTkJJV2RoN2xoVHpLUWpDUHBFNTN2V0dVZWw2UlhIdVVpbDZNYWdrZlZkOGhiOUtaMDc5dkRqVVdaQU5nZDE2MGJPZHRwME93bHltTHBVWE9lenJNSU1vR1hVMXBfWjNHNHd2VEV1VGplcDMxY0pORWZjWU9mMWJnck93Z0ozVHJ6ek1POXdlcjlfbkpQRWIwSHpoYmQ?oc=5",
       "prediction": "At least one major Chinese tech giant, such as Alibaba or Tencent, will announce a 15% reduction in its engineering headcount by the end of Q3.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "Trump-linked crypto firm taps restricted Chinese AI resources",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHhDcEM5cGN4V2duaGh3RmNtbVZndFdfWHBjSkF5ekRiN1JBVnRULTBUeTVld0I3czliYWZsckdXbVJfLTdJcldxY0V1VnV6NU1sME1uM3BWLUttZzR4RDVPSkJsTXlRQkRSTkFJc2pLelNEYXNBWHpUX1BGdzFBTGtmaFFwdE1DclphZDZncHMyTk5oNmFZSWhQRmVrUHdkaFpCb3ZBWWY4eExmcGZEMkJZekFPTEI3VG4zUQ?oc=5",
       "prediction": "A formal Congressional inquiry or a Treasury Department warning will be issued regarding this firm's tech stack within 90 days.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "The Pentagon opens a faster lane for drone tech startups",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTDEwaGFBZk1renFDNFJXb1lNSC1qdUktVzdvN0x2SGV0UkVZVW1NZjUzRms5TEN6QUNQSEdvQUx5R0xXdWJsMm9uVmpKU3NoVXhCR0RseUdwNHVaUkRhRmpaRkJNbDlLS1Q1cW91TmhuNmlWaE5CUWNreFAyQTEzQldDOFBpakk3YWw2MlFvS29YMnJiRllXMnBjM2lkWWcyT0Mtek1wVFlGX0dnXzhESzZzc3ZKZXZXNU5tOTZvVzJYUUNkUWc?oc=5",
       "prediction": "A non-traditional drone startup will win a single contract worth over $100 million before the end of the current fiscal year.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
       "headline": "Markets tumble as bond yields hit multi-year highs",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdFM0dVhmTXVxX3VFRjlPeW5RSUJRa3NNbUVzNTl0LWtHeTd1TW9ZLXNOM0lPVS01aU9wZVl3RHhZWFJmVlpaSVZMR1J4WTF0ckVZU0lQaXoyZXpLMmF6alNsN01FNUpzbGNoeHZyNVBjLVJSUHR6SzdlcWo4UHBRNnV3VVUyZmc?oc=5",
       "prediction": "The 10-year U.S. Treasury yield will touch 5.5% before the end of the next quarter.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
       "headline": "European central bank warns that AI may trigger market crash",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xbVRBdlNrTkdsNEU3bWtMMWxmN3d0a0oyOWpBaFJtYV9TaXZvb2htSVdObVZ5eWs3YmxrWGVvbU9MclJBS0UyYjBlREpPQmhpNW5JbmhFMDZmUHpXbHI1bjhMejV3MkRabHRiRGVTeFJmYUxyZnBvVDFwc2nSAYIBQVVfeXFMUEp3Y0tlNzlTZ1RpYmVEUndHRkxPMklEZnBUNHBvWmdfZ2QyNC16b2pJZFp0MUhyVFhzUnhwMWVGX3ZwMXlrcGxjT0xSaW5RNG4waWoyWnRUVnhSS0d6dXlJaDZJcUZSdDNuTkxad1U1SW8zNG45Nm1uaDBGYUtxVUVWZw?oc=5",
       "prediction": "European tech indices will underperform the Nasdaq by at least 5% over the next six months as risk-aversion takes hold.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
