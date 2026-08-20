@@ -3,284 +3,284 @@
   "predictions": [
     {
       "section": "tech",
-      "headline": "Big Tech's diet continues with another wave of 2026 layoffs",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbU5yZnhlanZPbWxCZ0hBVVZTX19YRDdiYVVOWFY4VFNPMnNlQURNNlczTnNwa3lDcVp2U2ltS0NJb1BGU0pCVWdneXF2SkhtYXh2b3p0NGh1TEpfMHp4Qi12NXNIVmRuSExFZy1scmt0cTZKZTRZcUlmbnZwcnpnZG01b1ZTSE1UTUlTMmNOTDJ1MVpRbkw3TWVUVVNOUDJRVFhyYjdOYlVnNHdjbDFpNy1YOFhZT1pXNlhnM3ZpVHpuYjRCbUFpRUN6aXRzZW1YME1PdUZ1anhBeHB6aGxz?oc=5",
-      "prediction": "Expect Meta to report record-high revenue-per-employee figures in its next two earnings cycles as the 'Year of Efficiency' becomes the permanent operating model.",
-      "grounded": true
-    },
-    {
-      "section": "tech",
       "headline": "The massive AI build-out is hiding a mountain of debt",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LYXQzc1RHTXI1emZ4WkhHalVsTllRRWd3QlBDR0R5NTZIbnB2ekpCNl83Yk0yU0xqcmwwU1pPaTRrSkxxVjNDYU1qcmN2eE1LOUs4ZjJXbHBoNmdTaVEwUnQ2cmhGZHpMd2w4?oc=5",
-      "prediction": "Watch for a major 'AI-as-a-service' provider to face a liquidity crisis or a forced debt restructuring before the end of Q3 2026.",
+      "prediction": "A major credit rating agency will issue a formal warning or downgrade on a second-tier AI infrastructure provider specifically citing 'off-balance-sheet liabilities' within six months.",
       "grounded": true
     },
     {
       "section": "tech",
-      "headline": "AI demand forces a total rewrite of the memory industry",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdkRlcDJ4X1NwNlh5am9CSWp6NW83aW4yMlRTcVNTUHFpaC1YSk5zdTFNMG9DamE3WW9tNjBGc1c4dlhmYUN2MUZtejhTV2tFbFVVNUk2UkRiZ3ZpV1V3WTRFbk1rRy1GQkljM3NSVEhweHdPaDVIcWpBaEljUFJDME1OMFBlbjluNVBSWl9GakJtUm5vTnVQWA?oc=5",
-      "prediction": "Micron will report HBM-related revenue growth of at least 40% quarter-over-quarter for the next three reporting periods.",
+      "headline": "Big Tech job cuts persist despite the AI craze",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbU5yZnhlanZPbWxCZ0hBVVZTX19YRDdiYVVOWFY4VFNPMnNlQURNNlczTnNwa3lDcVp2U2ltS0NJb1BGU0pCVWdneXF2SkhtYXh2b3p0NGh1TEpfMHp4Qi12NXNIVmRuSExFZy1scmt0cTZKZTRZcUlmbnZwcnpnZG01b1ZTSE1UTUlTMmNOTDJ1MVpRbkw3TWVUVVNOUDJRVFhyYjdOYlVnNHdjbDFpNy1YOFhZT1pXNlhnM3ZpVHpuYjRCbUFpRUN6aXRzZW1YME1PdUZ1anhBeHB6aGxz?oc=5",
+      "prediction": "Meta's revenue-per-employee will hit an all-time high in its FY2026 reporting, exceeding its previous 2021 peak by at least 15%.",
       "grounded": false
     },
     {
       "section": "tech",
-      "headline": "Colorado becomes the new ground zero for quantum computing",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdmxiRGRucUhiQVBOeTZxTmNaM1EzSFdfM0hYNzBrUHhMTXV6dFMwYVd6WlYweWh0UjRaY2FmVnpDZU93WEJXVHZkSjB1ZkIwM0g5UFZCMGtTT0twN0RnOEg4LWVxcjFQRUpYNVpVVW1jVkNzNjBGRzN0THlDaXBuQnRNR0JxUXB3MDcwVHExMFhMb0dNcjEwSw?oc=5",
-      "prediction": "Expect at least two more major quantum startups to announce HQ moves or primary manufacturing hubs in the Denver-Boulder corridor by year-end.",
+      "headline": "Micron thrives as memory chips become the new gold",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdkRlcDJ4X1NwNlh5am9CSWp6NW83aW4yMlRTcVNTUHFpaC1YSk5zdTFNMG9DamE3WW9tNjBGc1c4dlhmYUN2MUZtejhTV2tFbFVVNUk2UkRiZ3ZpV1V3WTRFbk1rRy1GQkljM3NSVEhweHdPaDVIcWpBaEljUFJDME1OMFBlbjluNVBSWl9GakJtUm5vTnVQWA?oc=5",
+      "prediction": "Micron will report its highest quarterly gross margin in company history within the next three earnings cycles.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "Hawaii\u2019s $1.7 billion attempt to buy a tech industry fails",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeHF5eUliMFQ4Z1hXazBaWWZtMThSc3Z5Zzg2ZW40VEs1dFl1Ym5VbEtmMHVhcHpKNlgzbXRXb2c0bDZScEV1NDVkTFNYdG1NT1dfSlVFUnJ6bk0tZ0pRNDVhOVVUZTBvZFl6YlY3TnItSDBxbzdkdEZlbjNiTDFLZzRZdFFNZ0dBQ0E?oc=5",
+      "prediction": "Hawaii will announce a total wind-down or liquidation of its primary state-backed tech venture fund before the end of 2027.",
       "grounded": false
     },
     {
       "section": "markets",
-      "headline": "China\u2019s backflipping robots trigger a 500% stock market explosion",
+      "headline": "Chinese robotics firm Unitree explodes 542% in market debut",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUkwtX3hYUHVJcU5sNkpFd01YM1JBSnlVRDVBYzZMLXlteVFzZVlJTTRFWXFpSkF5U09aUFpyVUpDOFo5MWRxSTROYzlaV0doMGR0SVFwcjlKS3FaWEI1aHdJa1JiZy01UkQ5ejA0Z1dFY0JVMjNOUUFaNnlqTDR2eERWdG82M20xQ1RUNDlhUnljNHNPUGFYbUln0gGfAUFVX3lxTE8wUFNpYWZ4N0tBX1RXNWFWZUVhRlpTRGZUUHV2RVp4emxfbUlOam0tTHhEOUlfN3gwR0V0UVJlMWtBOFd6Vl9rYWFsWm1WbzJMSm1jYlZrMlhLZ3BNM3NZajBndXlNSUlpaTV2ZTVQSWZSeUZxZUh5M0ZrbFFUdEUxMjEwLWlCTlN2MG1sRkFKeXkzUURPb21pcEJma3NqUQ?oc=5",
-      "prediction": "The stock will experience a sharp correction of at least 30% within 30 days as early investors lock in profits and the 'backflip' novelty wears off.",
+      "prediction": "Unitree shares will trade at least 30% below their Day 1 closing price within the next 90 days as the initial hype-cycle liquidity evaporates.",
       "grounded": false
     },
     {
       "section": "markets",
-      "headline": "Bond markets rebel against the Treasury\u2019s attempt at stability",
+      "headline": "Walmart\u2019s rare sales miss signals a tired US consumer",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QbDhCamxCMER1bDRnLVB6bDJyREJEakdHUVlKZkQ5MlVobmFDVDJ2bUhmc1Jpamxla3pQbFhzcF9jQi1SV3ZtODVxMm1aMnJtaDY3VjI4MFI2MFpWRlhHYnlvendnWGROOUtyeXpEbGpFa1E?oc=5",
+      "prediction": "Major Quick Service Restaurant (QSR) chains will report negative same-store traffic growth in their next earnings calls, confirming the consumer pullback.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Treasury yields jump as government intervention fails to stick",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNEVUdmY5YUpuaFJKQ0g2MGdLTUZsX0lmc3FERjZlRTNVSGRyR2ZyQUpBZGN3RHNIWExlajJpS3VOMVZOQTl4VWxFelp4dnBwbzdEQkRrdVpZMEJjUkc1clZKMEVPX20tNUh1TUhYZERPcHdSa1RtZ1ZuelIta0hOWHMxUGFqZGlXdUR1c2Rock1UOHRXZFhOd29YclpnTEMzT3ZyNEtLWTnSAa4BQVVfeXFMUDJXVzY5dHRmMVcwS2RXRFNqbDVsUkFhMHpPRDdPd2pYYVZJZ293dUtXNU85M3BNR2pQaVNQa3I5MVY0eE5HS2JVZGFwM2J5eS1OVHBubTI5bEZZa2o5ZDBjUWdOeEF4b295NTc3XzNhUjNDUkZIaDN1Qy1FN2dhbDF6WWxweUhRUm00bVUxS3Ywd1F5M052cVViQ3NCX1MtNzJVVWkzVnAzZnZFbEJ3?oc=5",
       "prediction": "The 10-year Treasury yield will test the 4.8% level before the end of the current quarter.",
       "grounded": false
     },
     {
       "section": "markets",
-      "headline": "Moderna shares skyrocket on breakthrough cancer vaccine data",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT2xvLURsMkRMdjZWWVpJdHN1VmJNY3VyT1R4NHBVMjNBb25WWmpFVGI4ckNRakJuYzU4RmZXVl9KY0RjZmtsWk1JQ2d1cjVLR2ZxamM2cnp6T2NUTG9RQmFrdDgwLU5HejZHNEhsMjBranlqbUpUV0Nac250ajNRSTJQOFhWOVhRN0xneFRpcjBZd19z?oc=5",
-      "prediction": "Moderna will file for full FDA approval of its melanoma vaccine before the end of 2026, triggering another double-digit move in the share price.",
+      "headline": "SpaceX stock dips as 319 million new shares hit market",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWktmdUlFem5Ia2daMnc1dGxuMW5Zd1ZsSnZxbm80Tm1jZHAtcElzRTZrdTZENTJEbDdYQ3dUNjhEV2Jsb1poTmhRYnZjYVliMGJJazl2aF9MX3lLTGdMTksxRFVUb3NrNkNETnhHMkFlb2U1dlhLVXpTNG1IZ3Zhb2dDUzdfR05IcFVleTVCN0hUUnZmU3JjQm9kNXpaUE5IVTBSNUZ6Mk9hLXJVelRqQkw0ei1Oc2pZTDRoY3dKeHc?oc=5",
+      "prediction": "SpaceX's next internal valuation or tender offer price will be flat or lower than its previous $210 billion peak.",
       "grounded": true
     },
     {
-      "section": "markets",
-      "headline": "Walmart earnings slip as the budget-conscious shopper reaches their limit",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa0syUWR1dVM4V1cxSjJMZVBBQkRQcXhKWjhvTkp3eHdDV3ZtT3hiTEJFOV9MZU5Ud2RBOUNrSkxuQmxldmpzOVg3S2EzcjQtRjVNeFVOM3dNUk9pbGl4V29rNGJTenI3eTF0LXdWekJaMjdjWUtsYVNzY0RadmZNenBTMHVIMGVmY0lQUTByT2VydWh2VGVHS1ZBakR3azNlTWFRc0Vsb24zQ3oyNmRYWjZfOVhOa2tY?oc=5",
-      "prediction": "Expect Walmart to lower its full-year guidance in the next earnings call, citing persistent 'macroeconomic headwinds' in the core US segment.",
-      "grounded": false
+      "section": "us_news",
+      "headline": "North Korea launches missiles following Trump\u2019s military drill cuts",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORVdsZHA4UEJGQk91VHU5TURyME9mbHRfN0RmdE5menhRTmdCaE45ZGtNSlVVakFSazlhLXpna25HaWJrSm1oVzU0cmZweUhQN2JGYXM1X0ltbFVkMkVvQnFQcmh2QkdPTXMxUGpUWVdTc1RUUDV6SzczSWtYOXlPaGFzN21wWEJiMkZ3ZjVpM1RzUlhqTG9rU3BocHBBNWRLZUZvS3ViU0ZOb1JteWFkdjFHNy1HZ1I4QUFYSXpYRDFkMEk?oc=5",
+      "prediction": "South Korea will formally announce a record 10%+ increase in its 2027 defense budget specifically for independent missile defense systems.",
+      "grounded": true
     },
     {
       "section": "us_news",
-      "headline": "The American consumer's resilience has finally hit a breaking point",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWHpDQjhTTjdrTGVtLWhZMUJIdWtybnk5SjJ0bWxfMjZ3VmhYXzE3UGljRlZiMmI3V0FNN09Pb1NYWlhCWTVmMlFsdjZTRDFLUFh4WV9Yb0ZGMTJWYTc0eWVWVEZiVC1oVmdXNTBNdGtGdGZoWHN3MzRndDR2YlY2bzFuWTlJeHBXdGJzZHZzMmFiVzYxWUtsZDFlN0F6OWJPTktkS0RaTmtjY0I4WU9wQ3Y4X1VsZzQ?oc=5",
-      "prediction": "US retail sales data will show a month-over-month decline of at least 0.5% in two of the next three reporting cycles.",
-      "grounded": false
+      "headline": "Market intervention fails to calm the bond sell-off",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ2QyX2VhNGtvZlNVcUIwUmU4eTR4a2R5MHFCVU1YM3VqbGJ6M1lGUUFZWnhMVktQT0NWS08xTndZcTg4cXRDZ2dRbkxSTnhIbFVoRGNrbXpIOXBiNHVPNW9HbTNSRmVzUkdMSktaSS1SQXp4eU1iRTEyMzc1d09Od2FILUw?oc=5",
+      "prediction": "The Treasury will be forced to significantly reduce the size of its long-dated bond auctions in the next quarterly refunding announcement to prevent a total yield spike.",
+      "grounded": true
     },
     {
       "section": "us_news",
-      "headline": "Trump\u2019s new Iran strategy depends entirely on Dubai\u2019s cooperation",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb2pfemR3czYyOTVqcnF1bWwweUVZVFR4NjRNRXFobmpwMmxHanNlQ29KelBpcHZUUTQzWURFV1VaZENJNTJjRUNwTkhHTkZDVVNjLUJROVVLX3NoQlVsb2M3ZWUwQks3LWRtbkc1U1Q1M1ZBTE1aOVZrNFVWcGVPd3VsSkU2aGpsZUY3cUdOZGpqTlN2Qms0TkVHRUJmMk9pNlRLeDNEWTh6UkRSTWc?oc=5",
-      "prediction": "Expect a high-level diplomatic mission from the US Treasury to Dubai within the next 60 days to negotiate specific enforcement protocols.",
-      "grounded": false
-    },
-    {
-      "section": "us_news",
-      "headline": "Meta faces a day of reckoning in landmark whistleblower trial",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVW9EU1E2eEZnY1BvMS1zUWtXaWhBdllnTmZiVmRvWWt5NTBuZnpva0JhdnRBMF9qZmU0Qk12Q0g5ajVQdFpXM0k0TVJMeFhidV9Nc2tEaXJlcGUwaXVsOFMtR3RZUEVHSktneENlWElyRHNTdEFaWTMyNm5MU2JsWTZZclhPcGtMMkE4MkpWbUZ0QXBtV1lV?oc=5",
-      "prediction": "Internal Meta emails revealed during this trial will lead to a new FTC inquiry into child safety practices by mid-year.",
-      "grounded": false
-    },
-    {
-      "section": "us_news",
-      "headline": "Washington and California lock horns over environmental rules",
+      "headline": "California prepares for a legal war over climate policy",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjdkc4cnMtdlVyUW9Ja3Z3V0JNenFuRUlsd2s2ZlA1YXRERHB4QzdhOWNTRjRlYWpHdEJwaFVWM2pRRVYtVEtFNWh3V291Y2xGT2lpampJbURTZExtd0JKbVdtdTNpV2JncTYxN2VFV2JBa2hCMm1VaVN1LVA?oc=5",
-      "prediction": "California will lead a coalition of at least 15 states in a lawsuit that reaches the Supreme Court by 2027.",
+      "prediction": "At least three major global automakers will sign private 'compliance agreements' with California before year-end to maintain a single production standard regardless of federal rollbacks.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Zuckerberg accused of prioritizing growth over teen safety",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSnJickNjcEg3Ykp6T0l3dk5kc296R1RUX3FaeGlESnNxNlgzd2tRYm1uMW8taV9GWmsxUmtXc2lBR2J6Z2dBWnZOcEVsV2JCelRPTmFGNDZlajZJeUtKcFZlTl9DOTFLQjZYbDlVTXNhbXNjcnRkM2lqLWc2ZHVtdDlUTmZpNjc1WXZYcl9JOWRtdDM2dkxOZFkycExLS3NCNjN1ZjRkdktRajJlQng4bElLcmdWclRWV3RIa05DYw?oc=5",
+      "prediction": "A major US state will successfully secure a preliminary injunction or a record-breaking settlement against Meta regarding 'addictive design' before the end of 2026.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "Prabowo\u2019s honeymoon ends as approval ratings take a hit",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcURIb1kyakJOTmFKOUxyZ0IxeTFnRDJTQU5mVzJzRHJaMTM0THdCenVMOHUxb2FLWVNDSTJWa3NxSDNxWXJvY3RBeGI2aGZOQV9MeGhXcUR0dnVZaXFZZ0FLUExwWlFoZFZEcFFKZnNpa3p3ZlVCYjJNSGQ5V2Z6VkFoUEh0R0lYRmNSQ0JMaXlJcTd5Rjdxb0dCaVFpcW1DS0RxNm1adGxRT3JDVzdrZmJiUkFzbk13WWhZ?oc=5",
+      "prediction": "Expect a major cabinet reshuffle or the announcement of a massive new populist spending package by the one-year anniversary of his inauguration to stop the polling slide.",
       "grounded": false
     },
     {
       "section": "indonesia",
-      "headline": "Prabowo's 'boring' approach pays off as Indonesian stocks rally",
+      "headline": "Investors cheer as Prabowo chooses a 'boring' economic path",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMHRuNUM2YTJuYkVwTlhETW5QUFpIMlowUWQtc09hbGVhV3pLSDQxTWkzbEkwWHZxNnk4VEttak5UZnUzdHR2ZEpvbmdvTEp4NlBQVDlSZzNSRDZhN3UzSjhkXzA2aUhFbGVhNWJqbnlMNGZQU2pPMllRSU1yUExnQUVMdktNamhkYjljSHJkanVEMDlwUEo5YzJRaGNXNjdoenF0WE5DSGlmZS04bVQyVHFn?oc=5",
-      "prediction": "Foreign direct investment (FDI) inflows into Indonesia will hit a three-year high in the first half of 2026.",
+      "prediction": "Indonesia\u2019s sovereign credit rating will be affirmed or upgraded to a 'positive' outlook by a major agency within the next two quarters.",
       "grounded": false
     },
     {
       "section": "indonesia",
-      "headline": "Institutional investors forced to wait as FTSE delays Indonesia additions",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWmN5dG83cUlzZER3amp1MEpNemp1d3RwNnVkYXVxcy1QbmFkTkcyN1pKTDBITmlTbnc1UlFPSnJxa24wSkh6N0hTQWJUcHU1aGRsMEs4aURWdHNsWnRKR1hRa2hydHZFYUd4bTZwTVI1aUk3VUJ6UFA1TVIzbUFCOGE3alRhU0JxOTJ0TDhXR3UwRmdqdTdLTEV4Nm9Lc3FGenhHSzhTNVZXQm5EOFNJUGlGdmo?oc=5",
-      "prediction": "Daily trading volume on the Indonesia Stock Exchange will stagnate or decline until the new December inclusion date is confirmed.",
-      "grounded": false
-    },
-    {
-      "section": "indonesia",
-      "headline": "Critical minerals spark a new alliance between Indonesia and Australia",
+      "headline": "Indonesia and Australia forge a critical minerals alliance",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaUVEbkVlZ0RzRnF3SG1FcWVSbV81eGNtakd4eW9HMkp0RVZNWWJrTDJoQ1pIaFpTWGF1bG5CUHRlcFVfT3VxSkFWbUtwNGlLSWxGbkJOWF9qbW1uaGxhV3lqVnN5SlRrSUd2ZHJsV1hIX3o5NC1qME1MQ3BXa0VybkhTdWE0b1E?oc=5",
-      "prediction": "Expect a formal joint investment framework for a new cross-border mineral processing hub to be announced within 12 months.",
-      "grounded": false
+      "prediction": "The alliance will announce a joint venture for a large-scale precursor or battery cell manufacturing plant within the next 12 months.",
+      "grounded": true
     },
     {
       "section": "indonesia",
-      "headline": "Students protest 'decaying freedom' as Indonesia marks 81 years",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWTk3Rm1XaW01Mzd1YUR6WWIzdGUzRkNHWVMtUlBoV01IWWhBLWZ4aFdNMEZkVHZWZXRpRjZfajNnZzZONkpGbExTaEQ0LVhnNHd4NnJCY0REdHZFem9BaG4zUmpGeFdQUXhCZHl3b1lzenktUnBBZlZHeTN1cW40V053TXRNWVU4YjdiNWtYMzNnek1uR2l3VkpfWWx6WDNfSVMyMUxEVXZhUjRkTHZhUC1VYw?oc=5",
-      "prediction": "Watch for the Indonesian government to announce a significant increase in student aid or social subsidies within the next budget cycle to appease the youth demographic.",
-      "grounded": false
-    },
-    {
-      "section": "crypto_fx",
-      "headline": "The 'Trump Pump' evaporates as Bitcoin slides below $67,000",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNEtqckFZRzZHclBKMzh2MEc2WnNIN1RsRVY1c1poeVY5d1lMcmVsQUk0aTMzdGYtOUpnbWs4X2JiZ1otZFd5a2h6bjhzUEI0Y1RWLVd0NEtPcEZYWV8wTW1pTVhPN1FRaTdiMDM1T2pyTFVYSl8zZThfZENpQ3I5LWpMdVNkNzQxdHd2QWpINmtQRnAtVDFpcV9FYnJnOWZSbnBVcDNEYl81aFZKZWhjVjU5c093SEnSAbwBQVVfeXFMTlZLOHN2NEJGdWIwcm5WeXRhaTZMbVJ1N2Y0VjhGMkhkb2JCNmpYZ2VJSmhyVjdqMDVuYUZUbGdtU1ZWY3FMWWxhdU1FRmNXcEhZNTBrNDFBWFIzR20wZUZHdDJqWGxrZG1TYXFHV0paSDl6Qk0wX2ZjUE5xQjN5Qk8yTDdQOUpiZWR1dVNhOUlscVF3c3FZTXFQR2ZyaC1ubnNDeDBCQ25PNDlaYmhSQlJmQks4LUYyZFdxQmY?oc=5",
-      "prediction": "Bitcoin will trade in a tight, sideways range between $62,000 and $68,000 until the next major Fed policy shift.",
-      "grounded": false
-    },
-    {
-      "section": "crypto_fx",
-      "headline": "Bitcoin is now moving in lockstep with the Japanese Yen",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5",
-      "prediction": "Expect a sharp BTC sell-off the next time the Bank of Japan hints at an interest rate hike.",
+      "headline": "FTSE delays adding Indonesian stocks to global indexes",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWmN5dG83cUlzZER3amp1MEpNemp1d3RwNnVkYXVxcy1QbmFkTkcyN1pKTDBITmlTbnc1UlFPSnJxa24wSkh6N0hTQWJUcHU1aGRsMEs4aURWdHNsWnRKR1hRa2hydHZFYUd4bTZwTVI1aUk3VUJ6UFA1TVIzbUFCOGE3alRhU0JxOTJ0TDhXR3UwRmdqdTdLTEV4Nm9Lc3FGenhHSzhTNVZXQm5EOFNJUGlGdmo?oc=5",
+      "prediction": "Indonesia will fail to meet the December deadline for at least one major stock addition, pushing the inclusion into the first half of 2027.",
       "grounded": true
     },
     {
       "section": "crypto_fx",
-      "headline": "Fed liquidity promises are the only thing keeping crypto afloat",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLWowck9uTTBPRi11WjBMQ1czLWVxTm1qVjZzOTVNNlo1LXdKekp5SG1HbjRidzlhMEFDbVZYb2QzQjZMa0d4X285ZVJJem1KNUctbFpyTUgyd0dXYjROeWRfTzRteEVoOWY0R1JMTTJTTGMyZXRDajVEamFFYXlCc0V2cVIwVzRfNW5NQ0NGczNoQl9VeWVCaS05ampPdjc4dWo5WHZ3MGRSWDNEZ2VHcmZ2RVFNZi1PNnprNUpB?oc=5",
-      "prediction": "Bitcoin price action will remain stagnant until the Fed's Net Liquidity indicator shows a clear upward trend.",
+      "headline": "Bitcoin gives back all its 'Trump rally' gains",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNEtqckFZRzZHclBKMzh2MEc2WnNIN1RsRVY1c1poeVY5d1lMcmVsQUk0aTMzdGYtOUpnbWs4X2JiZ1otZFd5a2h6bjhzUEI0Y1RWLVd0NEtPcEZYWV8wTW1pTVhPN1FRaTdiMDM1T2pyTFVYSl8zZThfZENpQ3I5LWpMdVNkNzQxdHd2QWpINmtQRnAtVDFpcV9FYnJnOWZSbnBVcDNEYl81aFZKZWhjVjU5c093SEnSAbwBQVVfeXFMTlZLOHN2NEJGdWIwcm5WeXRhaTZMbVJ1N2Y0VjhGMkhkb2JCNmpYZ2VJSmhyVjdqMDVuYUZUbGdtU1ZWY3FMWWxhdU1FRmNXcEhZNTBrNDFBWFIzR20wZUZHdDJqWGxrZG1TYXFHV0paSDl6Qk0wX2ZjUE5xQjN5Qk8yTDdQOUpiZWR1dVNhOUlscVF3c3FZTXFQR2ZyaC1ubnNDeDBCQ25PNDlaYmhSQlJmQks4LUYyZFdxQmY?oc=5",
+      "prediction": "Bitcoin will trade in a sideways consolidation range between $60,000 and $65,000 for the remainder of this quarter as speculative positions are flushed out.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin becomes a mirror for the Japanese Yen",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5",
+      "prediction": "A 2% intraday gain in the Yen (USD/JPY drop) will trigger an immediate 5%+ flash-crash in Bitcoin within the same 24-hour period.",
       "grounded": false
     },
     {
       "section": "crypto_fx",
-      "headline": "South Korean Won breaks a key barrier against the Dollar",
+      "headline": "Investors ditch volatile Bitcoin for 'digital dollars'",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc0FjUTVZN3JBM2t6c1NLWkxJR1VvSFd5VmZDN1Z2dXhZU3p4S2tBRndYdzlxZ1JHVmhjLU5jN1pYZ0xwOU9WdTNQNHJJazlIcUM0T2NqaFNBd2x4cUlRTE5HR0xBM3Zuc2ZIT3lFRncyaUZYTTBlQUlmQjJJcWpibjdhbXR0MTVVVFZDR3kzWWJET3YzU1hsbXYwcV9MN2JWb21RSUxaR19rYmYxU0NSZVIyU2toRTg5?oc=5",
+      "prediction": "Stablecoin dominance (as a % of total crypto market cap) will rise by at least 2 percentage points before Bitcoin records another weekly green candle.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "South Korean Won recovers as it breaks the 1,400 barrier",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUzJIbGRQcEM4VHh0Z21HcDY5dmZOUTlpRlFkM1g3LV9kZ1B4bEhkUUVfSXAybk8xQ01YeXVHNGZKX1gweE5pNmQtbWtWV1JLTUlIMkppX2NaSEZabkhsbVFJbjk0bFhMQnNERzlMRWF2a3g0V1c1MFBPalhTMHdyb3V6T2ZoRFBtcW1v?oc=5",
-      "prediction": "The USD/KRW pair will stabilize around 1,350-1,380 for the remainder of the year as the Dollar's interest rate advantage narrows.",
+      "prediction": "USD/KRW will settle into a new trading range of 1,360\u20131,390 for the next 30 days, ending the streak of emergency BOK interventions.",
       "grounded": false
     }
   ],
   "stories": [
     {
       "section": "tech",
-      "headline": "Big Tech's diet continues with another wave of 2026 layoffs",
-      "summary": "Major players including Meta, Microsoft, and TikTok are continuing to trim their headcounts well into the new year.",
-      "view": "The 2026 layoff wave signals that Big Tech has moved from temporary 'post-pandemic resizing' to a permanent state of aggressive margin protection. Companies like Oracle and Meta are treating labor as a pure variable cost to fund the massive shift toward AI infrastructure, sacrificing institutional knowledge for spreadsheet-driven efficiency.",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbU5yZnhlanZPbWxCZ0hBVVZTX19YRDdiYVVOWFY4VFNPMnNlQURNNlczTnNwa3lDcVp2U2ltS0NJb1BGU0pCVWdneXF2SkhtYXh2b3p0NGh1TEpfMHp4Qi12NXNIVmRuSExFZy1scmt0cTZKZTRZcUlmbnZwcnpnZG01b1ZTSE1UTUlTMmNOTDJ1MVpRbkw3TWVUVVNOUDJRVFhyYjdOYlVnNHdjbDFpNy1YOFhZT1pXNlhnM3ZpVHpuYjRCbUFpRUN6aXRzZW1YME1PdUZ1anhBeHB6aGxz?oc=5"
-    },
-    {
-      "section": "tech",
       "headline": "The massive AI build-out is hiding a mountain of debt",
-      "summary": "New reports suggest the infrastructure required for the AI boom is being financed by complex, non-traditional debt structures.",
-      "view": "The $1.5 trillion in 'hidden leverage' is the ticking time bomb of the AI era. By using non-traditional debt to fund hardware that depreciates at lightning speed, Big Tech and specialized cloud providers are creating a localized credit bubble that will burst the moment GPU demand slightly undershoots projections.",
+      "summary": "Analysts warn that the current rush to build AI infrastructure is being funded by complex, often obscured financial structures.",
+      "view": "The AI boom is rapidly transitioning from a Capex story to a leverage story, with hyperscalers and specialized GPU clouds using opaque financial structures to mask the true cost of the infrastructure arms race. This hidden leverage\u2014estimated near $1.5 trillion\u2014creates a systemic risk where even a minor cooling in AI demand could trigger a violent deleveraging event across the tech sector.",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LYXQzc1RHTXI1emZ4WkhHalVsTllRRWd3QlBDR0R5NTZIbnB2ekpCNl83Yk0yU0xqcmwwU1pPaTRrSkxxVjNDYU1qcmN2eE1LOUs4ZjJXbHBoNmdTaVEwUnQ2cmhGZHpMd2w4?oc=5"
     },
     {
       "section": "tech",
-      "headline": "AI demand forces a total rewrite of the memory industry",
-      "summary": "Micron Technology is seeing massive gains as the need for specialized AI memory chips outpaces traditional computer storage.",
-      "view": "Micron is finally escaping the 'commodity trap' as High Bandwidth Memory (HBM) becomes the primary bottleneck for AI performance. This isn't just a cyclical upswing; it is a structural shift where memory manufacturers now hold the same pricing power that logic chipmakers traditionally enjoyed.",
+      "headline": "Big Tech job cuts persist despite the AI craze",
+      "summary": "Major players like Meta, Microsoft, and TikTok are continuing to trim staff well into 2026.",
+      "view": "Big Tech is fundamentally rewriting its headcount-to-revenue ratios by trading humans for compute, signaling that the 'Year of Efficiency' was not a one-off event but a permanent structural shift. These ongoing cuts prove that AI isn't just a product addition; it is a replacement for middle-tier engineering and administrative layers that previously drove corporate growth.",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbU5yZnhlanZPbWxCZ0hBVVZTX19YRDdiYVVOWFY4VFNPMnNlQURNNlczTnNwa3lDcVp2U2ltS0NJb1BGU0pCVWdneXF2SkhtYXh2b3p0NGh1TEpfMHp4Qi12NXNIVmRuSExFZy1scmt0cTZKZTRZcUlmbnZwcnpnZG01b1ZTSE1UTUlTMmNOTDJ1MVpRbkw3TWVUVVNOUDJRVFhyYjdOYlVnNHdjbDFpNy1YOFhZT1pXNlhnM3ZpVHpuYjRCbUFpRUN6aXRzZW1YME1PdUZ1anhBeHB6aGxz?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Micron thrives as memory chips become the new gold",
+      "summary": "Micron Technology is seeing major gains as the demand for high-end memory chips needed for AI continues to skyrocket.",
+      "view": "Micron has successfully decoupled from the cyclical commodity PC and smartphone markets by securing a dominant position in the high-bandwidth memory (HBM) stack essential for AI. Their HBM3E leadership acts as a high-margin moat that will keep earnings elevated even if the broader NAND or DRAM prices soften due to weak consumer demand.",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdkRlcDJ4X1NwNlh5am9CSWp6NW83aW4yMlRTcVNTUHFpaC1YSk5zdTFNMG9DamE3WW9tNjBGc1c4dlhmYUN2MUZtejhTV2tFbFVVNUk2UkRiZ3ZpV1V3WTRFbk1rRy1GQkljM3NSVEhweHdPaDVIcWpBaEljUFJDME1OMFBlbjluNVBSWl9GakJtUm5vTnVQWA?oc=5"
     },
     {
       "section": "tech",
-      "headline": "Colorado becomes the new ground zero for quantum computing",
-      "summary": "Infleqtion has opened a new Quantum Innovation Center, signaling a shift in where the next tech frontier is being built.",
-      "view": "Colorado is successfully replicating the 'research cluster' model that built Silicon Valley, but for the quantum age. By anchoring Infleqtion's new center there, the state is securing a first-mover advantage in high-value hardware manufacturing that will be nearly impossible for other states to displace once the talent pool deepens.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdmxiRGRucUhiQVBOeTZxTmNaM1EzSFdfM0hYNzBrUHhMTXV6dFMwYVd6WlYweWh0UjRaY2FmVnpDZU93WEJXVHZkSjB1ZkIwM0g5UFZCMGtTT0twN0RnOEg4LWVxcjFQRUpYNVpVVW1jVkNzNjBGRzN0THlDaXBuQnRNR0JxUXB3MDcwVHExMFhMb0dNcjEwSw?oc=5"
+      "headline": "Hawaii\u2019s $1.7 billion attempt to buy a tech industry fails",
+      "summary": "After spending nearly $2 billion to foster a local tech scene, Hawaii is pivoting to a modest $1.2 million office lease plan.",
+      "view": "Hawaii\u2019s $1.7 billion failure is a stark reminder that top-down industrial policy cannot manufacture a tech ecosystem in a vacuum of high living costs and geographic isolation. The retreat to a million-dollar lease is a formal surrender, proving that 'Silicon Paradise' was a policy hallucination that ignored the fundamental requirements of talent density.",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeHF5eUliMFQ4Z1hXazBaWWZtMThSc3Z5Zzg2ZW40VEs1dFl1Ym5VbEtmMHVhcHpKNlgzbXRXb2c0bDZScEV1NDVkTFNYdG1NT1dfSlVFUnJ6bk0tZ0pRNDVhOVVUZTBvZFl6YlY3TnItSDBxbzdkdEZlbjNiTDFLZzRZdFFNZ0dBQ0E?oc=5"
     },
     {
       "section": "markets",
-      "headline": "China\u2019s backflipping robots trigger a 500% stock market explosion",
-      "summary": "Robotics firm Unitree saw its stock price quintuple in a massive Shanghai debut, fueled by the embodied AI craze.",
-      "view": "The 500% surge in Unitree is a classic speculative mania fueled by retail FOMO rather than fundamental valuation. Embodied AI is the new 'shiny object' in the Shanghai market, and this explosion indicates that Chinese domestic capital is desperate for a growth story, regardless of the company's actual burn rate.",
+      "headline": "Chinese robotics firm Unitree explodes 542% in market debut",
+      "summary": "Unitree, known for its agile, backflipping robots, saw its shares skyrocket during its first day of trading in Shanghai.",
+      "view": "Unitree\u2019s 542% debut is a textbook speculative frenzy driven by China\u2019s desperate search for domestic 'hard tech' champions rather than fundamental valuation. While their hardware is world-class, the market is pricing in immediate mass-market humanoid adoption that is still years away from commercial viability.",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUkwtX3hYUHVJcU5sNkpFd01YM1JBSnlVRDVBYzZMLXlteVFzZVlJTTRFWXFpSkF5U09aUFpyVUpDOFo5MWRxSTROYzlaV0doMGR0SVFwcjlKS3FaWEI1aHdJa1JiZy01UkQ5ejA0Z1dFY0JVMjNOUUFaNnlqTDR2eERWdG82M20xQ1RUNDlhUnljNHNPUGFYbUln0gGfAUFVX3lxTE8wUFNpYWZ4N0tBX1RXNWFWZUVhRlpTRGZUUHV2RVp4emxfbUlOam0tTHhEOUlfN3gwR0V0UVJlMWtBOFd6Vl9rYWFsWm1WbzJMSm1jYlZrMlhLZ3BNM3NZajBndXlNSUlpaTV2ZTVQSWZSeUZxZUh5M0ZrbFFUdEUxMjEwLWlCTlN2MG1sRkFKeXkzUURPb21pcEJma3NqUQ?oc=5"
     },
     {
       "section": "markets",
-      "headline": "Bond markets rebel against the Treasury\u2019s attempt at stability",
-      "summary": "Treasury yields jumped back up, erasing the cooling effect that followed recent government interventions in the bond market.",
-      "view": "Bond markets are effectively telling the Treasury that government intervention cannot mask the reality of a ballooning deficit. The jump in yields confirms that the 'term premium'\u2014the extra yield investors demand for long-term risk\u2014is back with a vengeance, and no amount of Treasury smoothing can suppress it.",
+      "headline": "Walmart\u2019s rare sales miss signals a tired US consumer",
+      "summary": "Walmart shares fell after reporting that shoppers are finally pulling back on spending due to persistent inflation.",
+      "view": "When Walmart\u2014the ultimate defensive retailer for the value-conscious\u2014misses on sales, it is the clearest signal yet that the US consumer's 'resilience' has finally broken. This miss indicates a shift from 'trading down' to 'cutting out,' as inflation-weary households exhaust their credit and savings.",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QbDhCamxCMER1bDRnLVB6bDJyREJEakdHUVlKZkQ5MlVobmFDVDJ2bUhmc1Jpamxla3pQbFhzcF9jQi1SV3ZtODVxMm1aMnJtaDY3VjI4MFI2MFpWRlhHYnlvendnWGROOUtyeXpEbGpFa1E?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Treasury yields jump as government intervention fails to stick",
+      "summary": "Bond yields rose again, erasing recent gains as investors remain skeptical of the Treasury Department's latest market maneuvers.",
+      "view": "The failure of Treasury maneuvers to cap yields reveals that 'bond vigilantes' have returned and are unimpressed by tactical buybacks. Investors are now pricing in a structural deficit expansion that no amount of technical market-making can obscure, forcing a painful reality check on fiscal spending.",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNEVUdmY5YUpuaFJKQ0g2MGdLTUZsX0lmc3FERjZlRTNVSGRyR2ZyQUpBZGN3RHNIWExlajJpS3VOMVZOQTl4VWxFelp4dnBwbzdEQkRrdVpZMEJjUkc1clZKMEVPX20tNUh1TUhYZERPcHdSa1RtZ1ZuelIta0hOWHMxUGFqZGlXdUR1c2Rock1UOHRXZFhOd29YclpnTEMzT3ZyNEtLWTnSAa4BQVVfeXFMUDJXVzY5dHRmMVcwS2RXRFNqbDVsUkFhMHpPRDdPd2pYYVZJZ293dUtXNU85M3BNR2pQaVNQa3I5MVY0eE5HS2JVZGFwM2J5eS1OVHBubTI5bEZZa2o5ZDBjUWdOeEF4b295NTc3XzNhUjNDUkZIaDN1Qy1FN2dhbDF6WWxweUhRUm00bVUxS3Ywd1F5M052cVViQ3NCX1MtNzJVVWkzVnAzZnZFbEJ3?oc=5"
     },
     {
       "section": "markets",
-      "headline": "Moderna shares skyrocket on breakthrough cancer vaccine data",
-      "summary": "The biotech firm saw its stock surge 177% after positive results from its Phase 3 melanoma treatment study.",
-      "view": "Moderna has successfully validated mRNA as a multi-modal platform, finally breaking its image as a one-product pandemic company. By hitting Phase 3 targets in melanoma, they have opened up a multi-billion dollar oncology market that forces a total re-rating of the stock's long-term terminal value.",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT2xvLURsMkRMdjZWWVpJdHN1VmJNY3VyT1R4NHBVMjNBb25WWmpFVGI4ckNRakJuYzU4RmZXVl9KY0RjZmtsWk1JQ2d1cjVLR2ZxamM2cnp6T2NUTG9RQmFrdDgwLU5HejZHNEhsMjBranlqbUpUV0Nac250ajNRSTJQOFhWOVhRN0xneFRpcjBZd19z?oc=5"
-    },
-    {
-      "section": "markets",
-      "headline": "Walmart earnings slip as the budget-conscious shopper reaches their limit",
-      "summary": "Walmart stock took a hit after reporting a rare sales miss, blaming a sudden pullback in consumer spending.",
-      "view": "Walmart\u2019s sales miss is the definitive 'canary in the coal mine' for the US economy. When the world\u2019s most efficient low-cost retailer can\u2019t get consumers to spend, it means the middle-class cushion is gone and the trade-down effect has reached its absolute limit.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa0syUWR1dVM4V1cxSjJMZVBBQkRQcXhKWjhvTkp3eHdDV3ZtT3hiTEJFOV9MZU5Ud2RBOUNrSkxuQmxldmpzOVg3S2EzcjQtRjVNeFVOM3dNUk9pbGl4V29rNGJTenI3eTF0LXdWekJaMjdjWUtsYVNzY0RadmZNenBTMHVIMGVmY0lQUTByT2VydWh2VGVHS1ZBakR3azNlTWFRc0Vsb24zQ3oyNmRYWjZfOVhOa2tY?oc=5"
+      "headline": "SpaceX stock dips as 319 million new shares hit market",
+      "summary": "A massive influx of new SpaceX shares has put downward pressure on the private company's valuation.",
+      "view": "The influx of 319 million secondary shares is finally creating a liquidity hangover for SpaceX, exposing the limits of private market absorption even for the world's most valuable aerospace firm. Analysts are rightfully warning traders to 'divorce' the rally from fundamentals as insider selling post-lockup creates significant overhead resistance.",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWktmdUlFem5Ia2daMnc1dGxuMW5Zd1ZsSnZxbm80Tm1jZHAtcElzRTZrdTZENTJEbDdYQ3dUNjhEV2Jsb1poTmhRYnZjYVliMGJJazl2aF9MX3lLTGdMTksxRFVUb3NrNkNETnhHMkFlb2U1dlhLVXpTNG1IZ3Zhb2dDUzdfR05IcFVleTVCN0hUUnZmU3JjQm9kNXpaUE5IVTBSNUZ6Mk9hLXJVelRqQkw0ei1Oc2pZTDRoY3dKeHc?oc=5"
     },
     {
       "section": "us_news",
-      "headline": "The American consumer's resilience has finally hit a breaking point",
-      "summary": "A rare sales miss from Walmart suggests that high prices are finally forcing households to drastically cut back.",
-      "view": "The 'resilient consumer' narrative is officially dead. High interest rates have finally caught up with household balance sheets, and we are now entering a phase where consumers are prioritizing debt servicing over any discretionary or even semi-essential spending.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWHpDQjhTTjdrTGVtLWhZMUJIdWtybnk5SjJ0bWxfMjZ3VmhYXzE3UGljRlZiMmI3V0FNN09Pb1NYWlhCWTVmMlFsdjZTRDFLUFh4WV9Yb0ZGMTJWYTc0eWVWVEZiVC1oVmdXNTBNdGtGdGZoWHN3MzRndDR2YlY2bzFuWTlJeHBXdGJzZHZzMmFiVzYxWUtsZDFlN0F6OWJPTktkS0RaTmtjY0I4WU9wQ3Y4X1VsZzQ?oc=5"
+      "headline": "North Korea launches missiles following Trump\u2019s military drill cuts",
+      "summary": "A day after President Trump ordered a reduction in joint military exercises with South Korea, Pyongyang launched 10 missiles.",
+      "view": "Trump\u2019s unilateral cut to military exercises has been immediately interpreted as a sign of weakness by Pyongyang, which is now testing the limits of the US-South Korea alliance. This move has fundamentally backfired, forcing Seoul to pivot toward autonomous defense spending and indigenous missile programs as US security guarantees become transactional.",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORVdsZHA4UEJGQk91VHU5TURyME9mbHRfN0RmdE5menhRTmdCaE45ZGtNSlVVakFSazlhLXpna25HaWJrSm1oVzU0cmZweUhQN2JGYXM1X0ltbFVkMkVvQnFQcmh2QkdPTXMxUGpUWVdTc1RUUDV6SzczSWtYOXlPaGFzN21wWEJiMkZ3ZjVpM1RzUlhqTG9rU3BocHBBNWRLZUZvS3ViU0ZOb1JteWFkdjFHNy1HZ1I4QUFYSXpYRDFkMEk?oc=5"
     },
     {
       "section": "us_news",
-      "headline": "Trump\u2019s new Iran strategy depends entirely on Dubai\u2019s cooperation",
-      "summary": "The administration's plan to squeeze Iran\u2019s economy hinges on whether trade hubs in the UAE will enforce strict new rules.",
-      "view": "Dubai is the ultimate loophole in the Trump administration's Iran strategy. If the US fails to offer a significant carrot or a very big stick to the UAE, the 'maximum pressure' campaign will fail as Iranian oil and capital simply continue to flow through Emirati intermediaries.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb2pfemR3czYyOTVqcnF1bWwweUVZVFR4NjRNRXFobmpwMmxHanNlQ29KelBpcHZUUTQzWURFV1VaZENJNTJjRUNwTkhHTkZDVVNjLUJROVVLX3NoQlVsb2M3ZWUwQks3LWRtbkc1U1Q1M1ZBTE1aOVZrNFVWcGVPd3VsSkU2aGpsZUY3cUdOZGpqTlN2Qms0TkVHRUJmMk9pNlRLeDNEWTh6UkRSTWc?oc=5"
+      "headline": "Market intervention fails to calm the bond sell-off",
+      "summary": "An attempt by Treasury Secretary Scott Bessent to soothe investors has failed, with long-term bond prices continuing to slide.",
+      "view": "Secretary Bessent\u2019s first attempt to calm the long end of the curve has been a failure, proving that the market views 'buyback programs' as a weak band-aid for an unsustainable fiscal path. The 3,000-point Dow plunge reflects a total loss of confidence in the Treasury's ability to orchestrate a soft landing for interest rates.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ2QyX2VhNGtvZlNVcUIwUmU4eTR4a2R5MHFCVU1YM3VqbGJ6M1lGUUFZWnhMVktQT0NWS08xTndZcTg4cXRDZ2dRbkxSTnhIbFVoRGNrbXpIOXBiNHVPNW9HbTNSRmVzUkdMSktaSS1SQXp4eU1iRTEyMzc1d09Od2FILUw?oc=5"
     },
     {
       "section": "us_news",
-      "headline": "Meta faces a day of reckoning in landmark whistleblower trial",
-      "summary": "Arturo B\u00e9jar\u2019s testimony is putting Meta\u2019s internal safety failures under a legal microscope in a high-stakes court battle.",
-      "view": "The B\u00e9jar whistleblower trial is the most significant legal threat to Meta since the Cambridge Analytica scandal. If the court finds that Meta knowingly ignored internal safety warnings to prioritize growth, it creates a roadmap for a wave of devastating class-action lawsuits that could bypass current Section 230 protections.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVW9EU1E2eEZnY1BvMS1zUWtXaWhBdllnTmZiVmRvWWt5NTBuZnpva0JhdnRBMF9qZmU0Qk12Q0g5ajVQdFpXM0k0TVJMeFhidV9Nc2tEaXJlcGUwaXVsOFMtR3RZUEVHSktneENlWElyRHNTdEFaWTMyNm5MU2JsWTZZclhPcGtMMkE4MkpWbUZ0QXBtV1lV?oc=5"
-    },
-    {
-      "section": "us_news",
-      "headline": "Washington and California lock horns over environmental rules",
-      "summary": "The Trump administration is moving to dismantle California\u2019s unique ability to set its own strict pollution standards.",
-      "view": "The fight over California's pollution standards is an existential threat to the US EV industry. By removing the state's waiver, the administration is creating a 'lost decade' of regulatory uncertainty that will cause automakers to freeze CAPEX and allow Chinese manufacturers to dominate the global EV transition.",
+      "headline": "California prepares for a legal war over climate policy",
+      "summary": "The Trump administration is targeting California\u2019s strict environmental rules, setting up a massive federal-state showdown.",
+      "view": "This legal war is a fundamental challenge to the 10th Amendment, with the administration seeking to destroy California's unique regulatory autonomy to benefit national manufacturing uniformity. For automakers, this creates a 'regulatory chasm' where they must choose between a fragmented US market or following California's stricter rules to maintain global competitiveness.",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjdkc4cnMtdlVyUW9Ja3Z3V0JNenFuRUlsd2s2ZlA1YXRERHB4QzdhOWNTRjRlYWpHdEJwaFVWM2pRRVYtVEtFNWh3V291Y2xGT2lpampJbURTZExtd0JKbVdtdTNpV2JncTYxN2VFV2JBa2hCMm1VaVN1LVA?oc=5"
     },
     {
+      "section": "us_news",
+      "headline": "Zuckerberg accused of prioritizing growth over teen safety",
+      "summary": "In a high-profile trial, an ex-Meta executive testified that Mark Zuckerberg personally pushed for growth metrics over safety features.",
+      "view": "The testimony from a former Meta executive provides the 'smoking gun' required to pierce the corporate veil on product liability, moving the risk from PR to multi-billion dollar legal settlements. This increases the probability of a 'tobacco-style' master settlement that would permanently bake safety overhead into social media profit margins.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSnJickNjcEg3Ykp6T0l3dk5kc296R1RUX3FaeGlESnNxNlgzd2tRYm1uMW8taV9GWmsxUmtXc2lBR2J6Z2dBWnZOcEVsV2JCelRPTmFGNDZlajZJeUtKcFZlTl9DOTFLQjZYbDlVTXNhbXNjcnRkM2lqLWc2ZHVtdDlUTmZpNjc1WXZYcl9JOWRtdDM2dkxOZFkycExLS3NCNjN1ZjRkdktRajJlQng4bElLcmdWclRWV3RIa05DYw?oc=5"
+    },
+    {
       "section": "indonesia",
-      "headline": "Prabowo's 'boring' approach pays off as Indonesian stocks rally",
-      "summary": "The Indonesian stock market has entered a bull run as the new president adopts a pragmatic, investor-friendly tone.",
-      "view": "Prabowo\u2019s 'boring' pragmatism is exactly what the Jakarta Composite Index needed to decouple from regional volatility. By signaling fiscal continuity over populist shocks, he is attracting long-term institutional capital that previously viewed Indonesia as a high-variance political risk.",
+      "headline": "Prabowo\u2019s honeymoon ends as approval ratings take a hit",
+      "summary": "Public satisfaction with President Prabowo Subianto is dropping as citizens grow frustrated with the sluggish economy.",
+      "view": "Prabowo is learning that populist rhetoric cannot sustain approval when it meets the reality of sticky food inflation and a cooling export economy. His political standing is now dangerously tied to the immediate success of his 'Free Nutritious Meal' program, which risks blowing out the deficit just as public patience runs thin.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcURIb1kyakJOTmFKOUxyZ0IxeTFnRDJTQU5mVzJzRHJaMTM0THdCenVMOHUxb2FLWVNDSTJWa3NxSDNxWXJvY3RBeGI2aGZOQV9MeGhXcUR0dnVZaXFZZ0FLUExwWlFoZFZEcFFKZnNpa3p3ZlVCYjJNSGQ5V2Z6VkFoUEh0R0lYRmNSQ0JMaXlJcTd5Rjdxb0dCaVFpcW1DS0RxNm1adGxRT3JDVzdrZmJiUkFzbk13WWhZ?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Investors cheer as Prabowo chooses a 'boring' economic path",
+      "summary": "The President is successfully calming foreign markets by sticking to conventional, predictable financial policies.",
+      "view": "The 'boring' economic path is a calculated defensive play to retain foreign capital that originally feared Prabowo would be a fiscal arsonist. By keeping technocrats in charge of the checkbook, he is successfully buying market credibility while he prepares more ambitious, nationalist industrial policies in the background.",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMHRuNUM2YTJuYkVwTlhETW5QUFpIMlowUWQtc09hbGVhV3pLSDQxTWkzbEkwWHZxNnk4VEttak5UZnUzdHR2ZEpvbmdvTEp4NlBQVDlSZzNSRDZhN3UzSjhkXzA2aUhFbGVhNWJqbnlMNGZQU2pPMllRSU1yUExnQUVMdktNamhkYjljSHJkanVEMDlwUEo5YzJRaGNXNjdoenF0WE5DSGlmZS04bVQyVHFn?oc=5"
     },
     {
       "section": "indonesia",
-      "headline": "Institutional investors forced to wait as FTSE delays Indonesia additions",
-      "summary": "FTSE has pushed back adding more Indonesian stocks to its global indexes until at least December.",
-      "view": "The FTSE delay is a major tactical setback for Indonesian equities that creates a 'dead zone' for liquidity. Passive funds that were front-running the inclusion will now be forced to sit on dead money or trim positions, creating a short-term ceiling on the current rally.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWmN5dG83cUlzZER3amp1MEpNemp1d3RwNnVkYXVxcy1QbmFkTkcyN1pKTDBITmlTbnc1UlFPSnJxa24wSkh6N0hTQWJUcHU1aGRsMEs4aURWdHNsWnRKR1hRa2hydHZFYUd4bTZwTVI1aUk3VUJ6UFA1TVIzbUFCOGE3alRhU0JxOTJ0TDhXR3UwRmdqdTdLTEV4Nm9Lc3FGenhHSzhTNVZXQm5EOFNJUGlGdmo?oc=5"
-    },
-    {
-      "section": "indonesia",
-      "headline": "Critical minerals spark a new alliance between Indonesia and Australia",
+      "headline": "Indonesia and Australia forge a critical minerals alliance",
       "summary": "The two nations are deepening ties to control the supply chain for minerals essential to the green energy transition.",
-      "view": "The Indonesia-Australia mineral alliance is the birth of a 'Green Mineral OPEC.' By coordinating their supply of nickel and lithium, these two nations can dictate terms to both the US and China, ensuring they capture the lion's share of the value in the battery supply chain.",
+      "view": "The Indonesia-Australia mineral alliance is a strategic masterstroke designed to create a 'non-China' supply chain for battery metals, specifically targeting US IRA-linked investment. By pairing Indonesian nickel volume with Australian ESG standards, the two nations are positioning themselves as the indispensable 'Green Hub' for Western automakers.",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaUVEbkVlZ0RzRnF3SG1FcWVSbV81eGNtakd4eW9HMkp0RVZNWWJrTDJoQ1pIaFpTWGF1bG5CUHRlcFVfT3VxSkFWbUtwNGlLSWxGbkJOWF9qbW1uaGxhV3lqVnN5SlRrSUd2ZHJsV1hIX3o5NC1qME1MQ3BXa0VybkhTdWE0b1E?oc=5"
     },
     {
       "section": "indonesia",
-      "headline": "Students protest 'decaying freedom' as Indonesia marks 81 years",
-      "summary": "Large-scale rallies in Jakarta are highlighting growing public concern over political centralization and civil liberties.",
-      "view": "The student protests in Jakarta are a warning shot against the 'Jokowi-fication' of Indonesian politics. While the government remains stable, these rallies indicate that civil society will be a major friction point for Prabowo's legislative agenda, likely forcing him to spend more on social programs to keep the peace.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWTk3Rm1XaW01Mzd1YUR6WWIzdGUzRkNHWVMtUlBoV01IWWhBLWZ4aFdNMEZkVHZWZXRpRjZfajNnZzZONkpGbExTaEQ0LVhnNHd4NnJCY0REdHZFem9BaG4zUmpGeFdQUXhCZHl3b1lzenktUnBBZlZHeTN1cW40V053TXRNWVU4YjdiNWtYMzNnek1uR2l3VkpfWWx6WDNfSVMyMUxEVXZhUjRkTHZhUC1VYw?oc=5"
+      "headline": "FTSE delays adding Indonesian stocks to global indexes",
+      "summary": "The index provider has pushed back the inclusion of several Indonesian companies until December, citing technical hurdles.",
+      "view": "The FTSE delay is a major setback for passive inflows and signals that Indonesia's market infrastructure still suffers from transparency and liquidity issues that global investors find unacceptable. This 'technical hurdle' is likely a polite way of saying that the Jakarta exchange's recent reforms haven't yet met the threshold for institutional reliability.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWmN5dG83cUlzZER3amp1MEpNemp1d3RwNnVkYXVxcy1QbmFkTkcyN1pKTDBITmlTbnc1UlFPSnJxa24wSkh6N0hTQWJUcHU1aGRsMEs4aURWdHNsWnRKR1hRa2hydHZFYUd4bTZwTVI1aUk3VUJ6UFA1TVIzbUFCOGE3alRhU0JxOTJ0TDhXR3UwRmdqdTdLTEV4Nm9Lc3FGenhHSzhTNVZXQm5EOFNJUGlGdmo?oc=5"
     },
     {
       "section": "crypto_fx",
-      "headline": "The 'Trump Pump' evaporates as Bitcoin slides below $67,000",
-      "summary": "Bitcoin has officially lost all the gains it made following the second-term election buzz, hitting its lowest level in months.",
-      "view": "The 'Trump Pump' was always a liquidity event masquerading as a political one. Bitcoin sliding below $67,000 confirms that the market has already priced in the regulatory optimism and is now reacting to the harsh reality of higher-for-longer interest rates.",
+      "headline": "Bitcoin gives back all its 'Trump rally' gains",
+      "summary": "Bitcoin has fallen below $67,000, erasing the price surge seen after the recent US election.",
+      "view": "The 'Trump rally' was an overcrowded trade built on speculative froth that is now being liquidated as reality sets in: a pro-crypto president doesn't solve the problem of restrictive monetary policy. Bitcoin's fall below $67,000 confirms that the market is hitting a 'wall of profit-taking' as the political catalyst evaporates.",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNEtqckFZRzZHclBKMzh2MEc2WnNIN1RsRVY1c1poeVY5d1lMcmVsQUk0aTMzdGYtOUpnbWs4X2JiZ1otZFd5a2h6bjhzUEI0Y1RWLVd0NEtPcEZYWV8wTW1pTVhPN1FRaTdiMDM1T2pyTFVYSl8zZThfZENpQ3I5LWpMdVNkNzQxdHd2QWpINmtQRnAtVDFpcV9FYnJnOWZSbnBVcDNEYl81aFZKZWhjVjU5c093SEnSAbwBQVVfeXFMTlZLOHN2NEJGdWIwcm5WeXRhaTZMbVJ1N2Y0VjhGMkhkb2JCNmpYZ2VJSmhyVjdqMDVuYUZUbGdtU1ZWY3FMWWxhdU1FRmNXcEhZNTBrNDFBWFIzR20wZUZHdDJqWGxrZG1TYXFHV0paSDl6Qk0wX2ZjUE5xQjN5Qk8yTDdQOUpiZWR1dVNhOUlscVF3c3FZTXFQR2ZyaC1ubnNDeDBCQ25PNDlaYmhSQlJmQks4LUYyZFdxQmY?oc=5"
     },
     {
       "section": "crypto_fx",
-      "headline": "Bitcoin is now moving in lockstep with the Japanese Yen",
-      "summary": "The correlation between Bitcoin and the USD/JPY exchange rate has hit a staggering -0.90.",
-      "view": "Bitcoin has become a proxy for the Yen carry trade. The -0.90 correlation means BTC is no longer 'digital gold' but rather a high-beta liquidity sponge; when the Yen strengthens and the carry trade unwinds, Bitcoin is the first asset sold to cover margins.",
+      "headline": "Bitcoin becomes a mirror for the Japanese Yen",
+      "summary": "A strong negative correlation has emerged between Bitcoin and the USD/JPY exchange rate.",
+      "view": "Bitcoin has become the ultimate high-beta proxy for the Yen carry trade; when the Yen strengthens, BTC is sold to cover margin calls in more traditional asset classes. This negative correlation proves that Bitcoin is currently behaving as a liquidity gauge rather than an independent 'digital gold' inflation hedge.",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5"
     },
     {
       "section": "crypto_fx",
-      "headline": "Fed liquidity promises are the only thing keeping crypto afloat",
-      "summary": "Analysts suggest that future moves in Bitcoin will depend more on central bank money-printing than tech adoption.",
-      "view": "Crypto adoption is currently a secondary story; global M2 money supply is the only thing that matters. Bitcoin is essentially a high-leverage bet on central bank balance sheet expansion, and without a 'pivot' to more liquidity, the tech-adoption narrative will not be enough to sustain a bull market.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLWowck9uTTBPRi11WjBMQ1czLWVxTm1qVjZzOTVNNlo1LXdKekp5SG1HbjRidzlhMEFDbVZYb2QzQjZMa0d4X285ZVJJem1KNUctbFpyTUgyd0dXYjROeWRfTzRteEVoOWY0R1JMTTJTTGMyZXRDajVEamFFYXlCc0V2cVIwVzRfNW5NQ0NGczNoQl9VeWVCaS05ampPdjc4dWo5WHZ3MGRSWDNEZ2VHcmZ2RVFNZi1PNnprNUpB?oc=5"
+      "headline": "Investors ditch volatile Bitcoin for 'digital dollars'",
+      "summary": "As Bitcoin slides, there is a marked acceleration of capital moving into stablecoins pegged to the US dollar.",
+      "view": "The flight to stablecoins is the crypto market's version of moving to cash, signaling a deep lack of conviction in any near-term recovery for volatile assets. This internal de-risking suggests that the 'smart money' within the ecosystem is hunkering down for a prolonged period of instability rather than 'buying the dip.'",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc0FjUTVZN3JBM2t6c1NLWkxJR1VvSFd5VmZDN1Z2dXhZU3p4S2tBRndYdzlxZ1JHVmhjLU5jN1pYZ0xwOU9WdTNQNHJJazlIcUM0T2NqaFNBd2x4cUlRTE5HR0xBM3Zuc2ZIT3lFRncyaUZYTTBlQUlmQjJJcWpibjdhbXR0MTVVVFZDR3kzWWJET3YzU1hsbXYwcV9MN2JWb21RSUxaR19rYmYxU0NSZVIyU2toRTg5?oc=5"
     },
     {
       "section": "crypto_fx",
-      "headline": "South Korean Won breaks a key barrier against the Dollar",
-      "summary": "The Dollar-Won exchange rate dropped below 1,400 for the first time in nearly a year as the Greenback weakens.",
-      "view": "The Won breaking 1,400 is a significant psychological and technical shift that signals the peak of US Dollar dominance. This move provides the Bank of Korea with much-needed breathing room to support domestic growth without worrying about a catastrophic currency flight.",
+      "headline": "South Korean Won recovers as it breaks the 1,400 barrier",
+      "summary": "The dollar-won exchange rate dropped below the 1,400 mark for the first time in nearly a year.",
+      "view": "Breaking below the 1,400 mark is a vital psychological victory for the Bank of Korea, easing the immediate need for emergency currency intervention. This recovery is less about Korean economic strength and more about a general softening of the US Dollar, but it gives the BOK the breathing room it needs to pivot toward domestic growth.",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUzJIbGRQcEM4VHh0Z21HcDY5dmZOUTlpRlFkM1g3LV9kZ1B4bEhkUUVfSXAybk8xQ01YeXVHNGZKX1gweE5pNmQtbWtWV1JLTUlIMkppX2NaSEZabkhsbVFJbjk0bFhMQnNERzlMRWF2a3g0V1c1MFBPalhTMHdyb3V6T2ZoRFBtcW1v?oc=5"
     }
   ]

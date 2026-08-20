@@ -8,7 +8,7 @@
       "prediction": "Expect at least one more major cloud provider to announce a specific AI-related layoff round targeting mid-level management before the end of Q3 2026.",
       "grounded": true,
       "status": "too_early",
-      "note": "While headlines confirm major cloud providers like Amazon conducted layoffs in 2026, they do not specify if a new round was dedicated to AI-related mid-level management pivots."
+      "note": "While major tech companies like Amazon are confirmed to have conducted layoffs in 2026, the headlines do not specify if these were AI-related rounds specifically targeting mid-level management."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "There will be zero new US-listed Chinese tech IPOs with a valuation exceeding $5 billion for the remainder of the 2025-2026 cycle.",
       "grounded": false,
       "status": "too_early",
-      "note": "The provided headline regarding mid-year M&A outlooks does not contain data on Chinese tech IPOs or their valuations in the US market."
+      "note": "The provided headlines contain no information regarding the status of Chinese tech IPOs or their valuations on US exchanges."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "The Treasury Department will open a formal inquiry into the entity's supply chain compliance within the next six months.",
       "grounded": true,
       "status": "too_early",
-      "note": "Recent headlines focus on Russian sanctions and general trade updates but offer no information regarding a Treasury inquiry into a Trump-linked AI venture."
+      "note": "There is no information in the current headlines regarding a Treasury Department inquiry into a Trump-linked firm or its supply chain compliance."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Micron's gross margins will hit a record high in the next two earnings cycles as HBM3e contract prices are locked in at premium rates.",
       "grounded": true,
       "status": "held_up",
-      "note": "Headlines reporting 'Record DRAM Pricing' and Micron's stock hitting an all-time high support the prediction of record-level performance driven by memory demand."
+      "note": "Headlines reporting record DRAM pricing and Micron stock reaching an all-time high support the prediction of record gross margins driven by AI memory demand."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The 10-year Treasury yield will stay capped below 4.5% through the next quarter solely due to this intervention.",
       "grounded": false,
       "status": "too_early",
-      "note": "No fresh headlines were provided to verify the status of Treasury yields or debt buyback impacts."
+      "note": "No new information was provided regarding Treasury debt buybacks or their impact on the 10-year Treasury yield."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "A formal 'Trade and Border Security' agreement will be signed before year-end, permanently removing the 50% tariff threat for the current term.",
       "grounded": true,
       "status": "too_early",
-      "note": "Current headlines indicate that negotiations for a trade deal are intensifying and tariffs have been delayed, but a formal permanent agreement has not yet been confirmed."
+      "note": "Current headlines show that while 50% tariffs have been threatened or briefly delayed, negotiations for a deal are still intensifying and have not yet resulted in a signed agreement."
     },
     {
       "section": "markets",
