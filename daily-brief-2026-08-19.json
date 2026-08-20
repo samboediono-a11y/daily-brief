@@ -6,42 +6,54 @@
       "headline": "Big Tech continues staff cuts to fund expensive AI pivots",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbU5yZnhlanZPbWxCZ0hBVVZTX19YRDdiYVVOWFY4VFNPMnNlQURNNlczTnNwa3lDcVp2U2ltS0NJb1BGU0pCVWdneXF2SkhtYXh2b3p0NGh1TEpfMHp4Qi12NXNIVmRuSExFZy1scmt0cTZKZTRZcUlmbnZwcnpnZG01b1ZTSE1UTUlTMmNOTDJ1MVpRbkw3TWVUVVNOUDJRVFhyYjdOYlVnNHdjbDFpNy1YOFhZT1pXNlhnM3ZpVHpuYjRCbUFpRUN6aXRzZW1YME1PdUZ1anhBeHB6aGxz?oc=5",
       "prediction": "Expect at least one more major cloud provider to announce a specific AI-related layoff round targeting mid-level management before the end of Q3 2026.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "While headlines confirm major cloud providers like Amazon conducted layoffs in 2026, they do not specify if a new round was dedicated to AI-related mid-level management pivots."
     },
     {
       "section": "tech",
       "headline": "Beijing orders tech champions to shun foreign stock markets",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rMjYwRGNLa09aWFNHdDhLcklGMXgwU0hMUnBnNU0zenJqeTcxbTd2VXRhRUQzNUtIS05Ob3hLLVhoeUkwTFFMb3ZjYmgwNmMxTEF0WmJNYVNnekhQZ2tteTFPZFMyMmltaEZHT0h4eWNYYTl2N1RF?oc=5",
       "prediction": "There will be zero new US-listed Chinese tech IPOs with a valuation exceeding $5 billion for the remainder of the 2025-2026 cycle.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "The provided headline regarding mid-year M&A outlooks does not contain data on Chinese tech IPOs or their valuations in the US market."
     },
     {
       "section": "tech",
       "headline": "Trump-linked firm uses restricted Chinese tech for AI ventures",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHhDcEM5cGN4V2duaGh3RmNtbVZndFdfWHBjSkF5ekRiN1JBVnRULTBUeTVld0I3czliYWZsckdXbVJfLTdJcldxY0V1VnV6NU1sME1uM3BWLUttZzR4RDVPSkJsTXlRQkRSTkFJc2pLelNEYXNBWHpUX1BGdzFBTGtmaFFwdE1DclphZDZncHMyTk5oNmFZSWhQRmVrUHdkaFpCb3ZBWWY4eExmcGZEMkJZekFPTEI3VG4zUQ?oc=5",
       "prediction": "The Treasury Department will open a formal inquiry into the entity's supply chain compliance within the next six months.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Recent headlines focus on Russian sanctions and general trade updates but offer no information regarding a Treasury inquiry into a Trump-linked AI venture."
     },
     {
       "section": "tech",
       "headline": "Micron surges as AI creates a massive memory chip shortage",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdkRlcDJ4X1NwNlh5am9CSWp6NW83aW4yMlRTcVNTUHFpaC1YSk5zdTFNMG9DamE3WW9tNjBGc1c4dlhmYUN2MUZtejhTV2tFbFVVNUk2UkRiZ3ZpV1V3WTRFbk1rRy1GQkljM3NSVEhweHdPaDVIcWpBaEljUFJDME1OMFBlbjluNVBSWl9GakJtUm5vTnVQWA?oc=5",
       "prediction": "Micron's gross margins will hit a record high in the next two earnings cycles as HBM3e contract prices are locked in at premium rates.",
-      "grounded": true
+      "grounded": true,
+      "status": "held_up",
+      "note": "Headlines reporting 'Record DRAM Pricing' and Micron's stock hitting an all-time high support the prediction of record-level performance driven by memory demand."
     },
     {
       "section": "markets",
       "headline": "Treasury debt buybacks provide a sudden lift to stocks",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52WVUwei1VUlFvc0FwU3lkWlBjY2lHYlNOei1RSnktZVRxQmpYWlFRN25yNS12NE96QlpuM2ZOUWpseURQV0JIcFVHZDRiYjJSb2tTSkJ3Vk5UNEpuNTJLRkFfcEZaZUluNVRXWXFFVHBvUDhSallz0gF8QVVfeXFMTnJZcUR5RmdKSDBwYlQyeXdhN2V6NFJYTVhHMVhZNzBxZFNkeFZ4OWZuMUZKLW83VWtXcWh6MVZpMHNjamVEbThLYzB4SzRIN2E2Ym5Ua2JOMU5vb2x2Y2hYSklqWi0tX210RS1neHZGbnRBY1ZqcHRVblhMTg?oc=5",
       "prediction": "The 10-year Treasury yield will stay capped below 4.5% through the next quarter solely due to this intervention.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No fresh headlines were provided to verify the status of Treasury yields or debt buyback impacts."
     },
     {
       "section": "markets",
       "headline": "Market relief as Trump pauses proposed tariffs on Canada",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVVBqOWZXQ2JNMDRyeVF1bnRvU2RRaUFKTk1rbnlKMHBpSi1hc01GZThfS2ozcVJDbDBzVGo3d1B1NWVSbmM3RkhLRU9OOG9QMHM3ZW1CSlJjSjFCb3FfYWRUNjctM09LMFpKSEhXX2hZWF9nUHphMVR3OUVoOWV6SDRueUF1dnFaY0ttWklOSFdZZ19hYmxyRFlXZHRRcGhNYl9lMF81QTBlX2tGaU9N?oc=5",
       "prediction": "A formal 'Trade and Border Security' agreement will be signed before year-end, permanently removing the 50% tariff threat for the current term.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Current headlines indicate that negotiations for a trade deal are intensifying and tariffs have been delayed, but a formal permanent agreement has not yet been confirmed."
     },
     {
       "section": "markets",
