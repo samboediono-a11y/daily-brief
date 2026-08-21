@@ -6,42 +6,54 @@
       "headline": "The massive AI build-out is hiding a mountain of debt",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LYXQzc1RHTXI1emZ4WkhHalVsTllRRWd3QlBDR0R5NTZIbnB2ekpCNl83Yk0yU0xqcmwwU1pPaTRrSkxxVjNDYU1qcmN2eE1LOUs4ZjJXbHBoNmdTaVEwUnQ2cmhGZHpMd2w4?oc=5",
       "prediction": "A major credit rating agency will issue a formal warning or downgrade on a second-tier AI infrastructure provider specifically citing 'off-balance-sheet liabilities' within six months.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new headlines were provided regarding credit rating actions or formal warnings for second-tier AI infrastructure providers."
     },
     {
       "section": "tech",
       "headline": "Big Tech job cuts persist despite the AI craze",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbU5yZnhlanZPbWxCZ0hBVVZTX19YRDdiYVVOWFY4VFNPMnNlQURNNlczTnNwa3lDcVp2U2ltS0NJb1BGU0pCVWdneXF2SkhtYXh2b3p0NGh1TEpfMHp4Qi12NXNIVmRuSExFZy1scmt0cTZKZTRZcUlmbnZwcnpnZG01b1ZTSE1UTUlTMmNOTDJ1MVpRbkw3TWVUVVNOUDJRVFhyYjdOYlVnNHdjbDFpNy1YOFhZT1pXNlhnM3ZpVHpuYjRCbUFpRUN6aXRzZW1YME1PdUZ1anhBeHB6aGxz?oc=5",
       "prediction": "Meta's revenue-per-employee will hit an all-time high in its FY2026 reporting, exceeding its previous 2021 peak by at least 15%.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No fresh headlines were found concerning Meta's FY2026 financial reporting or its revenue-per-employee metrics."
     },
     {
       "section": "tech",
       "headline": "Micron thrives as memory chips become the new gold",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdkRlcDJ4X1NwNlh5am9CSWp6NW83aW4yMlRTcVNTUHFpaC1YSk5zdTFNMG9DamE3WW9tNjBGc1c4dlhmYUN2MUZtejhTV2tFbFVVNUk2UkRiZ3ZpV1V3WTRFbk1rRy1GQkljM3NSVEhweHdPaDVIcWpBaEljUFJDME1OMFBlbjluNVBSWl9GakJtUm5vTnVQWA?oc=5",
       "prediction": "Micron will report its highest quarterly gross margin in company history within the next three earnings cycles.",
-      "grounded": true
+      "grounded": true,
+      "status": "held_up",
+      "note": "A CNBC headline identifies Micron as the 'new margin king' with performance pushing the company past Nvidia and Meta."
     },
     {
       "section": "tech",
       "headline": "Hawaii\u2019s $1.7 billion attempt to buy a tech industry fails",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeHF5eUliMFQ4Z1hXazBaWWZtMThSc3Z5Zzg2ZW40VEs1dFl1Ym5VbEtmMHVhcHpKNlgzbXRXb2c0bDZScEV1NDVkTFNYdG1NT1dfSlVFUnJ6bk0tZ0pRNDVhOVVUZTBvZFl6YlY3TnItSDBxbzdkdEZlbjNiTDFLZzRZdFFNZ0dBQ0E?oc=5",
       "prediction": "Hawaii will announce a total wind-down or liquidation of its primary state-backed tech venture fund before the end of 2027.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "There is no information in the provided headlines regarding the status or potential liquidation of Hawaii's state-backed tech venture fund."
     },
     {
       "section": "markets",
       "headline": "Chinese robotics firm Unitree explodes 542% in market debut",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUkwtX3hYUHVJcU5sNkpFd01YM1JBSnlVRDVBYzZMLXlteVFzZVlJTTRFWXFpSkF5U09aUFpyVUpDOFo5MWRxSTROYzlaV0doMGR0SVFwcjlKS3FaWEI1aHdJa1JiZy01UkQ5ejA0Z1dFY0JVMjNOUUFaNnlqTDR2eERWdG82M20xQ1RUNDlhUnljNHNPUGFYbUln0gGfAUFVX3lxTE8wUFNpYWZ4N0tBX1RXNWFWZUVhRlpTRGZUUHV2RVp4emxfbUlOam0tTHhEOUlfN3gwR0V0UVJlMWtBOFd6Vl9rYWFsWm1WbzJMSm1jYlZrMlhLZ3BNM3NZajBndXlNSUlpaTV2ZTVQSWZSeUZxZUh5M0ZrbFFUdEUxMjEwLWlCTlN2MG1sRkFKeXkzUURPb21pcEJma3NqUQ?oc=5",
       "prediction": "Unitree shares will trade at least 30% below their Day 1 closing price within the next 90 days as the initial hype-cycle liquidity evaporates.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No stock market data for Unitree was provided in the fresh headlines to verify the predicted 30% price decline."
     },
     {
       "section": "markets",
       "headline": "Walmart\u2019s rare sales miss signals a tired US consumer",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QbDhCamxCMER1bDRnLVB6bDJyREJEakdHUVlKZkQ5MlVobmFDVDJ2bUhmc1Jpamxla3pQbFhzcF9jQi1SV3ZtODVxMm1aMnJtaDY3VjI4MFI2MFpWRlhHYnlvendnWGROOUtyeXpEbGpFa1E?oc=5",
       "prediction": "Major Quick Service Restaurant (QSR) chains will report negative same-store traffic growth in their next earnings calls, confirming the consumer pullback.",
-      "grounded": false
+      "grounded": false,
+      "status": "held_up",
+      "note": "The reported 4.5% sink in McDonald's US traffic confirms the prediction of negative same-store traffic growth for major QSR chains."
     },
     {
       "section": "markets",
