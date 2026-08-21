@@ -8,7 +8,7 @@
       "prediction": "A major credit rating agency will issue a formal warning or downgrade on a second-tier AI infrastructure provider specifically citing 'off-balance-sheet liabilities' within six months.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new headlines were provided regarding credit rating actions or formal warnings for second-tier AI infrastructure providers."
+      "note": "No fresh headlines are available to evaluate if a credit rating agency has issued a warning to an AI infrastructure provider regarding off-balance-sheet liabilities."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "Meta's revenue-per-employee will hit an all-time high in its FY2026 reporting, exceeding its previous 2021 peak by at least 15%.",
       "grounded": false,
       "status": "too_early",
-      "note": "No fresh headlines were found concerning Meta's FY2026 financial reporting or its revenue-per-employee metrics."
+      "note": "No new data has been found regarding Meta's FY2026 financial metrics or revenue-per-employee."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "Micron will report its highest quarterly gross margin in company history within the next three earnings cycles.",
       "grounded": true,
       "status": "held_up",
-      "note": "A CNBC headline identifies Micron as the 'new margin king' with performance pushing the company past Nvidia and Meta."
+      "note": "A headline from CNBC identifies Micron as the 'new margin king' following a memory crisis that pushed it past other major tech firms, supporting the prediction of record margins."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Hawaii will announce a total wind-down or liquidation of its primary state-backed tech venture fund before the end of 2027.",
       "grounded": false,
       "status": "too_early",
-      "note": "There is no information in the provided headlines regarding the status or potential liquidation of Hawaii's state-backed tech venture fund."
+      "note": "There is no new information provided regarding the status or potential liquidation of Hawaii's state-backed tech venture fund."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "Unitree shares will trade at least 30% below their Day 1 closing price within the next 90 days as the initial hype-cycle liquidity evaporates.",
       "grounded": false,
       "status": "too_early",
-      "note": "No stock market data for Unitree was provided in the fresh headlines to verify the predicted 30% price decline."
+      "note": "No current stock market data or headlines were provided to confirm the price action of Unitree shares following its debut."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "Major Quick Service Restaurant (QSR) chains will report negative same-store traffic growth in their next earnings calls, confirming the consumer pullback.",
       "grounded": false,
       "status": "held_up",
-      "note": "The reported 4.5% sink in McDonald's US traffic confirms the prediction of negative same-store traffic growth for major QSR chains."
+      "note": "The report that McDonald's US traffic sank 4.5% confirms the prediction of negative same-store traffic growth for major QSR chains."
     },
     {
       "section": "markets",
