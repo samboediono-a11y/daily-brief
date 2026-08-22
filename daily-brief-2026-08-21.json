@@ -6,42 +6,54 @@
       "headline": "Big Tech pink slips continue to pile up through 2026",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbU5yZnhlanZPbWxCZ0hBVVZTX19YRDdiYVVOWFY4VFNPMnNlQURNNlczTnNwa3lDcVp2U2ltS0NJb1BGU0pCVWdneXF2SkhtYXh2b3p0NGh1TEpfMHp4Qi12NXNIVmRuSExFZy1scmt0cTZKZTRZcUlmbnZwcnpnZG01b1ZTSE1UTUlTMmNOTDJ1MVpRbkw3TWVUVVNOUDJRVFhyYjdOYlVnNHdjbDFpNy1YOFhZT1pXNlhnM3ZpVHpuYjRCbUFpRUN6aXRzZW1YME1PdUZ1anhBeHB6aGxz?oc=5",
       "prediction": "At least one FAANG-level company will report a record-high revenue-per-employee metric in their 2025 fiscal year-end results.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "While fresh headlines confirm tech layoffs continued into 2025, they do not provide specific revenue-per-employee metrics for FAANG-level companies."
     },
     {
       "section": "tech",
       "headline": "Beijing orders tech giants to prioritize domestic fundraising",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rMjYwRGNLa09aWFNHdDhLcklGMXgwU0hMUnBnNU0zenJqeTcxbTd2VXRhRUQzNUtIS05Ob3hLLVhoeUkwTFFMb3ZjYmgwNmMxTEF0WmJNYVNnekhQZ2tteTFPZFMyMmltaEZHT0h4eWNYYTl2N1RF?oc=5",
       "prediction": "Expect a 40% drop in new Chinese tech IPO filings in the US and London by the end of Q3 2025.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "The provided headlines discuss global M&A trends but offer no data regarding Chinese tech IPO filings in the US or London."
     },
     {
       "section": "tech",
       "headline": "Pentagon accelerates the pipeline for cutting-edge military tech",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUUdVWGs4N1BGbWx6Q3lVNUt6SFJuNV91OU1fVW0tenN5YjNVTy1sOE1vU3hpTmh1VGJwdzdDaXdvYVpCVTZONW1Hbm55aURIMVc4TEdVWGNYR29uTjRjQzNDM296Zlg3RWs2RjRFV1pEbUpmWHNKdm1yWVhaYktMbmxDWUdEOTIycjlMUGd2MnEyYWpaeTEzR3RpdWxkeTJrLW05OW5ZeEQwRU9uNVctdHVrNmpXVjRaejZMSUlhUzAwMkdtb2hyR1p4UGI4cElHaklDZ2JEZ2Rhc0NRbXBXTVdqcVRyQlU?oc=5",
       "prediction": "At least three 'commercial-first' tech startups will secure production contracts exceeding $500 million before the end of the 2025 fiscal year.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Headlines discuss general AI development and CEO compensation but do not mention Pentagon production contracts for tech startups."
     },
     {
       "section": "tech",
       "headline": "Quantum computing prepares for its big commercial debut",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObGxRYW5Vay0xdG5fWWdrNEJqWWhVQzZYRHJmaHhQbTdSTFhGc1JIVFFpaExvVW1CdXFoWVpTV3dDZW5LSHN6d3FkZDJpMkhIZGZfZTRyVE55Zm1zS3ROcTlhUUJqeE96UVE0WWdiTUpSampSU0JsN1QtZmJpajQ1aElDSUxNSTdTdVN2c0wwVGx0MjZ6YXZ6cEpB?oc=5",
       "prediction": "Watch for a major global logistics firm to announce a quantum-hybrid routing partnership by the end of the Copenhagen summit.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new headlines were found to verify the status of quantum-hybrid routing partnerships in the logistics sector."
     },
     {
       "section": "markets",
       "headline": "Dow plunges 700 points as interest rate fears return",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWGVyOGkzVnFXZ2JtUV83amUyVmlNTVJGaVJxanQzLWhRY3lNYU5vdkFkQVRwWk9vdGo4TklfZVdULXZBNFIydkpVb296MjYyRHF0Um0tQV9GcHJiODRWYTJzTUNMV2tFSzZJWTFjVFo1dGQ5eFhmQzhVMThlaXJDM1JwSGdLRDdxdHBzclJ4b0FBeWtWMDBUZ0JrczR1ZXFhZTdqY3NjV3lMUHpqTHVEM1daLTlNMTFF?oc=5",
       "prediction": "The 10-year Treasury yield will test the 5.25% level before the next FOMC meeting.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "A fresh headline confirms the 30-year Treasury yield hit 5.25%, but there is no specific information regarding the 10-year yield testing that level."
     },
     {
       "section": "markets",
       "headline": "Walmart\u2019s weak forecast drags down the entire retail sector",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmlyUENlX1M1NzRGQmNObkJzQ0dIMDNtcm9oU3VVLWMzTTdfNEp6M2Z0ZDF5U1lpUThkRnRTWGlRaC1tNl8wdDJaWnBRSmhKRE5ob1BDczVOVGg4a3N4eXNjMDM4eHpOMnpSbVNsZGJrX3dxOHk2Sktyc2hTQ1RJWjRTVFJuTkRzc2RlNVZXX29md3NsbzRYbUFjTm9Jc0cyMlRLRGxIcEphY19McEpERmdNbnl6LXlULVE?oc=5",
       "prediction": "Target and Costco will see a downward revision in analyst price targets by at least 10% within the next 30 days.",
-      "grounded": true
+      "grounded": true,
+      "status": "missed",
+      "note": "Fresh headlines for Costco indicate an 18% rally in 2026 and a 36% upside case from analysts, which contradicts the predicted 10% downward revision."
     },
     {
       "section": "markets",

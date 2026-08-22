@@ -1,0 +1,287 @@
+{
+  "date": "2026-08-22",
+  "predictions": [
+    {
+      "section": "tech",
+      "headline": "Beijing pushes tech giants to fundraise within China",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rMjYwRGNLa09aWFNHdDhLcklGMXgwU0hMUnBnNU0zenJqeTcxbTd2VXRhRUQzNUtIS05Ob3hLLVhoeUkwTFFMb3ZjYmgwNmMxTEF0WmJNYVNnekhQZ2tteTFPZFMyMmltaEZHT0h4eWNYYTl2N1RF?oc=5",
+      "prediction": "Expect at least two major US-listed Chinese tech firms to announce plans for a primary domestic listing or conversion of their secondary listing in Shanghai/Shenzhen by the end of Q3 2024.",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "The industry can't agree on why people hate data centers",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWXZqelQtV3l6NTdlTm94RWlySEdZSEhueDVlLXBmLWJuSlJSUktXcXA4OFRQbW1UQUtvU000YnVrMUticXl3dUk3a19KTnY1WHU2eVotbWc4VkVoLVdoN0J2d05BMFBzRDJMaU4xZVFmN2V1d19IUXpDWWM1clVvZEF4YnI2RzVNZFRBYVNxaWxvZw?oc=5",
+      "prediction": "At least three major US municipalities will implement a moratorium or a significantly higher 'AI infrastructure tax' on new data center permits before the end of 2024.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "New coalition launches to fight big tech's AI hype",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb1hsYTFEcm9qbXlIUjk5R3NrWmxoVlJhVndCTy1xa25GZVY4aGpIcU1qenlJQnhsNWZTZHdkNTZkamUzcWo4VUVxWWg0bmNOdjdFTjVNRy1CZHhLbmhUbHFYOWxWcllvbmFOTVlWdVVKVWFkMWgyY0kyZnZVUW5jZHpKMEpyRTlQRVpwNld4aTI2VnpiT1dQbEw1T2xxV0NEU3JlemFWV1JBY00?oc=5",
+      "prediction": "A major ESG-focused institutional fund will publicly divest or reduce its position in a Tier-1 AI player (Microsoft, Nvidia, or Google) citing lack of climate transparency within the next 12 months.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "U.S. Army tests new tech to kill rogue drones",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQTFrZVF3azhyeHp5QlczZURfTmRYOHl2OUVuMFItUzFBZVlQSlJtQWJ2ZzdZanZ3QWk3Q2FnRGNBWWVRemkxQ1dqaWJSTDhSeU83cHlGLXd6WHdILVFZbFlEQ0gxdFpBMkIzTGJxcWxidzRNRTNCWnNKSGtfNGVKOE1QOHFVMXlYNXVTaE43TTZrT291elA2UzFWX1ZIeF9zNjd4WQ?oc=5",
+      "prediction": "The U.S. Army will announce a $100M+ procurement contract for an autonomous, AI-driven counter-UAS system from a non-traditional defense contractor before year-end.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Bond market chaos sends the Dow down 700 points",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8teUxWQ1hsU240emRnZElJWExIWnE4UDEyV2xEWEVmZTZYVklUeWU3YlU5NUhaMGNOemdRdXJOOHFSb2ZVeXh6SmVjQUNLMmhzRHRrczZLYUhieVdxSGxPWEs0OFFyR2RoTlNaYnFUbWsxQ00tRjQ00gF8QVVfeXFMUEVDcDhJU2RrSk9PdEwySEhJTUZLdFdXNHFLeUhrRjJPLW1yTk05MmJpTTU2WndPbjlYeXJkVERRLU8tbHNHQnp0eVJwdWV3ZzBoejI2UVVmMEtic3psYS1vbWFwc0RHU2Z1VGRHdUQ2UEN1STl5cGJWQkVCTQ?oc=5",
+      "prediction": "The 10-year Treasury yield will test the 5.0% level within the next 30 days, causing another single-day drop of 2% or more in the S&P 500.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Cash piles in money markets are fueling stocks",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YY0ZlWEVFeWsxb0RBUEhyRkszQVdPdWN6ZzZKbDRPbExXQXMxTWgtaUtueVAtdWg0MkNVZTNJUnJDeDgyQ053Xzh4WlVMZGdUbmNiR2FhVlpiVkdkN1RiY1Y1ejdBdUpjWGh6V1g0S0E?oc=5",
+      "prediction": "Monthly money-market fund outflows will top $100 billion for the first time this cycle within 30 days of the Fed's next interest rate cut.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Buffett\u2019s valuation warning looms over expensive stocks",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV1l4Q1M5dVBuazhLU09McEllbG9oVWFFT2pzNzdtTlJwVWFfSkY5OEpYMmowNk5DdVFmYkFfWHNpLWpBQ0VqNmdKNm9nRnNPbU9SQklsQ09Ic3BRRFViTkM3TTlTa3BwR2tsUWYzYVR2WWtUb3lmUWFicU95MFpSNWVmT0ZESkNncjk4SzI4REVvdFIxXzhQMlF4X3hEN1VS?oc=5",
+      "prediction": "Berkshire Hathaway's next 13F filing will show a record-breaking cash position exceeding $200 billion for the first time.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Global bond yields are spiking everywhere at once",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MQS05OUQ1azF6RDFoeDJKRGxMRUVGSWtDa1EzMHMyQ1EwTHVxR1RvUDh3VG5iaHkteDN1WkxBWVVRbWZBWnVlazYzNUludHd2RUt3QUUyelR3eTB1VTN0eEtDaUhoYnFiQjY2RQ?oc=5",
+      "prediction": "The Japanese 10-year JGB yield will break 1.2% by the end of next month, triggering a sudden spike in USD/JPY volatility and a corresponding drop in global equity futures.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Treasury debt buyback plan risks killing the dollar",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVTVBUUxBVEJkTUx3a3U5OWNUM09WS09IRDE3R0tUSGU4YndPM3NpMERZaXdnUG1pbTlXVkpidEZHakFubHYxTzdSc1JKazRHMFJDVUFVZUZxRDdnOGlTR2Znd3hhNDJWRGh4dlJnd29nZ2s5OE1JdTZWYlh6MEVDeTdZRUpoTkZhZER6RDAwWGVkUDByY3YtUjdROTAzNjYyLXZZQmNSV3NXbDNoZk5BQXN2eGY?oc=5",
+      "prediction": "The U.S. Dollar Index (DXY) will drop below the 100 level within 90 days of the official commencement of large-scale debt buybacks.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "U.S. debt hits $40 trillion as spending continues",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOTZ5SVhpaTBlZE8tVm9veEVrblI5OXF3Rm50WEY5Rmc5M2h5a29RTmFHSUdYRXZjU05NWlA5RVdDNlBuNUg4R3dhWlNGUDhzZVBQVEdQVUZNSEEyc3VCV0QtakYxaTEtd0h1RVVMLVllb0t4b0FST283S29Oc2NTSVZ4WjNuRGdwcVZpVlB1WmMwMXA0UHB6WlV4OGQ5ZmF0MGVQaFVRdTZXaHFDMEFsUGtpMA?oc=5",
+      "prediction": "Interest payments on the national debt will surpass $1.2 trillion annually by the end of the next fiscal year, becoming the single largest line item in the federal budget.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Western states face massive water cuts from Colorado River",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU3pQQWo2QnZIOWttb2hyS2NQZ0F4YjN2OHk3T2d4ZFAtQUFRekROR0J5Z3FYTnNsMEZfWXNFaHNaX0Z3UVpMLUxubWsxb2VaLWlBd1pSMFlESmF0UGNqS25wYVFxSkxDMkpPc2N4ZHBuaXdUWjNaQ3NxRDFsSG5qZkxEcDd4ZHkweS0yUGtGTmNac3JXMkVtQlZENklsUQ?oc=5",
+      "prediction": "The Bureau of Reclamation will announce the first-ever 'Tier 3' shortage declaration for Lake Mead by early 2025, triggering mandatory cuts beyond current state agreements.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Amazon hikes gadget prices to cover chip costs",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd0JMbllqRGV6d01qQ0ZDRHoxQkRUNzh1V1JBMVB4V3Q1ZmVEV3hVd3p1c1dJZ3FxNzRyMzJPeTlLWmtOQUc0dHRIVFdWVVEwd21fOVh5TjFsZVJDaUFyUlUyaV84RFcwRS1yVE1OaUJtODd3Qmw0SDdDSXJ3NkhCODhtSFR0U3kzUlljdlp1UC1mOEp1Ykc4M01tLTNvQ0RMb3B2VVlMZm9KcHZzUVVlSlhQZ0hVMndxRjhob243eEcyWEpVMEtzWQ?oc=5",
+      "prediction": "Amazon\u2019s 'Devices and Services' segment will report its first quarterly revenue increase in two years in the next earnings cycle, driven by higher ASPs (Average Selling Prices) rather than unit volume growth.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Nickel politics shift as Chinese investment floods Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTGNxaHRjdWlmUXB2Vm9GOWRjTTJjTHk3cmN4akNmQUh3dkdfVTEzS0pTa1lhS1RVWFNmV2VwdHJmTkxCanBvVHpMelFSNURVVzhRLWpjSTBSdl8tSk42aUlmN3JBN2k4S0o2d2RTd3B1WUo0VE1ON2FibWZNdmJLRVJBaGZpbnpnVG94VGFzRFpzZ21sLXo5TnpXTDBkY0RPUFNIUEg1MlB4azhNNU5sX3otV25GRnVEZXY5WFFVYm52ckdHa1I0?oc=5",
+      "prediction": "The U.S. will formally exclude Indonesian nickel from IRA tax credit eligibility unless Jakarta implements a strict 'clean supply chain' audit that limits Chinese equity stakes by early 2025.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "Prabowo\u2019s approval drops as the economy stumbles",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcURIb1kyakJOTmFKOUxyZ0IxeTFnRDJTQU5mVzJzRHJaMTM0THdCenVMOHUxb2FLWVNDSTJWa3NxSDNxWXJvY3RBeGI2aGZOQV9MeGhXcUR0dnVZaXFZZ0FLUExwWlFoZFZEcFFKZnNpa3p3ZlVCYjJNSGQ5V2Z6VkFoUEh0R0lYRmNSQ0JMaXlJcTd5Rjdxb0dCaVFpcW1DS0RxNm1adGxRT3JDVzdrZmJiUkFzbk13WWhZ?oc=5",
+      "prediction": "Prabowo\u2019s public approval rating will fall below the 50% mark for the first time before he completes his first full year in office.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia pays the price for conflicting economic policies",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRTIwZU5HaFBlNkUtNXF6c04zTmFsT1BWT0lVbmN2UkJhOFZUTXBVSlFma2FQZ0hBaWFCVFNETkpoRno2dHVOeXBrVVotREJLOFJDOXMycGVkdzNOV1pCTDhueFl3M2lWTGlZUjlMOUVEcmJINFkwaGlCUTlKV0VEQlkzZkxHdkFwUVppZTRVdUQ2RHhmWHpwaE1iRXNTWDgzc2c?oc=5",
+      "prediction": "Net foreign portfolio outflows from Indonesian government bonds will reach a 12-month high by the end of the next fiscal quarter.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Energy transition hits a wall of structural issues",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcmR5RGNFWmxHbkczbURyVlo2V3E5MElmZEU2RVdVRU1lblRVc0RteENqU1ZGOUpZZ0gtMUx3Vkk5aXpfdnlGZWNpeTFpTk0xajY4bjVoeDRzTmRjT1FTaFgtWnpPaTRnd0JadmRodTRtNFJxcE01c3QzZ25Bb3dxcWhfRmVfbUF3WHRtQ1NKVkhIbk9VYXJ2dy1YS0lPc3FtVDJR?oc=5",
+      "prediction": "Indonesia will miss its 2025 renewable energy mix target of 23% by at least 10 percentage points, prompting a formal 'downward revision' of the national energy plan.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin and gold rally as dollar trust falters",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZjhYLWRvY1c5TnNteV9UUFlJT2dNcVJiS0NtU3lRSDNpblJncGh0aWpKYzgtWDNpOEItTnZic0tHYzBVNnZNVnc5R2M1c0RHQmFDbXR5OTV2cVU1RlAzTF9aRFBOYkxvMHBWSWphNWpuSmg2NFZoUGYyZVNVNUhSQVpSVHU?oc=5",
+      "prediction": "Gold will reach a new all-time high above $2,500/oz before Bitcoin re-tests its all-time high, as the 'boomer' flight to safety precedes the 'digital' flight.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin is now moving in lockstep with the Yen",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5",
+      "prediction": "A sudden 5% appreciation in the Yen will cause a flash-crash in Bitcoin of at least 10% within a 24-hour window before the end of Q2.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin falls below pre-election levels under $67,000",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNEtqckFZRzZHclBKMzh2MEc2WnNIN1RsRVY1c1poeVY5d1lMcmVsQUk0aTMzdGYtOUpnbWs4X2JiZ1otZFd5a2h6bjhzUEI0Y1RWLVd0NEtPcEZYWV8wTW1pTVhPN1FRaTdiMDM1T2pyTFVYSl8zZThfZENpQ3I5LWpMdVNkNzQxdHd2QWpINmtQRnAtVDFpcV9FYnJnOWZSbnBVcDNEYl81aFZKZWhjVjU5c093SEnSAbwBQVVfeXFMTlZLOHN2NEJGdWIwcm5WeXRhaTZMbVJ1N2Y0VjhGMkhkb2JCNmpYZ2VJSmhyVjdqMDVuYUZUbGdtU1ZWY3FMWWxhdU1FRmNXcEhZNTBrNDFBWFIzR20wZUZHdDJqWGxrZG1TYXFHV0paSDl6Qk0wX2ZjUE5xQjN5Qk8yTDdQOUpiZWR1dVNhOUlscVF3c3FZTXFQR2ZyaC1ubnNDeDBCQ25PNDlaYmhSQlJmQks4LUYyZFdxQmY?oc=5",
+      "prediction": "Bitcoin will consolidate in the $60,000-$65,000 range for at least 30 days before any credible attempt to reclaim the $70,000 level.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "U.S. inflation data is now the main driver for crypto",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ1lya1lkRlFlcEJYeHNVUHNQbGtaQ2FIMEJIWFN5UEVPWklnMnNfRDIyeUFiRElnejliX0I5QnhJdTZ3VEhtNUxURjRVOEN2LVlpVVpMM0IzYnZQTjg5UmtYU21tNnJET1Jid0JfUVZucUNlbjNrOUIwTmE2THZ1V1RZeWN1V2xQM0hhcGxRZGJkSjVGZGFmMXhwWGZGSi0zeGVVVEJHckFjMXJVVUFua0xBOXEtbk1yUDBuaDlxVkI2cFFhN2huOEs0Y1haWGVrTlZoX0lmc0hFa2o3SjRkSVNWWVRfam5qVW9r?oc=5",
+      "prediction": "The next three monthly US CPI releases will cause more Bitcoin price volatility than any crypto-specific news event during that same period.",
+      "grounded": true
+    }
+  ],
+  "stories": [
+    {
+      "section": "tech",
+      "headline": "Beijing pushes tech giants to fundraise within China",
+      "summary": "The Chinese government is pressuring its top technology firms to raise capital on domestic exchanges rather than seeking foreign investment.",
+      "view": "Beijing is effectively nationalizing the risk profile of its tech giants by forcing them into a 'closed loop' financial system that isolates them from Western capital. While this secures CCP oversight, it starves these firms of the aggressive liquidity that fueled their initial growth, making the domestic A-share market the ultimate loser as it absorbs tech volatility without the commensurate global upside.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rMjYwRGNLa09aWFNHdDhLcklGMXgwU0hMUnBnNU0zenJqeTcxbTd2VXRhRUQzNUtIS05Ob3hLLVhoeUkwTFFMb3ZjYmgwNmMxTEF0WmJNYVNnekhQZ2tteTFPZFMyMmltaEZHT0h4eWNYYTl2N1RF?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "The industry can't agree on why people hate data centers",
+      "summary": "Tech leaders are debating the cause of growing public backlash against the massive facilities needed to power AI.",
+      "view": "The backlash against data centers is a classic NIMBY response weaponized by critics who recognize that these facilities are the physical manifestation of an 'AI bubble' that consumes local water and electricity with negligible local employment benefits. As Ed Zitron and Pew Research suggest, the growing perception of AI as a 'harmful or menacing' shift makes permit approvals the new, critical bottleneck for Big Tech's physical expansion.",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWXZqelQtV3l6NTdlTm94RWlySEdZSEhueDVlLXBmLWJuSlJSUktXcXA4OFRQbW1UQUtvU000YnVrMUticXl3dUk3a19KTnY1WHU2eVotbWc4VkVoLVdoN0J2d05BMFBzRDJMaU4xZVFmN2V1d19IUXpDWWM1clVvZEF4YnI2RzVNZFRBYVNxaWxvZw?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "New coalition launches to fight big tech's AI hype",
+      "summary": "The 'AI Resist List' was created to challenge the dominant industry narratives and push for more realistic AI expectations.",
+      "view": "This coalition marks the transition of AI skepticism from academic concern to organized activist pressure, specifically targeting the ESG-friendly image tech giants cultivate. By exposing what Stand.earth calls the 'AI climate hoax,' they are creating a new reputational liability for institutional investors who are currently over-weighted in Big Tech despite the unproven nature of AI's climate benefits.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb1hsYTFEcm9qbXlIUjk5R3NrWmxoVlJhVndCTy1xa25GZVY4aGpIcU1qenlJQnhsNWZTZHdkNTZkamUzcWo4VUVxWWg0bmNOdjdFTjVNRy1CZHhLbmhUbHFYOWxWcllvbmFOTVlWdVVKVWFkMWgyY0kyZnZVUW5jZHpKMEpyRTlQRVpwNld4aTI2VnpiT1dQbEw1T2xxV0NEU3JlemFWV1JBY00?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "U.S. Army tests new tech to kill rogue drones",
+      "summary": "The XVIII Airborne Corps is partnering with private tech firms to field-test counter-drone systems.",
+      "view": "The XVIII Airborne Corps is finally moving past 'exotic laser' prototypes toward practical, rapidly deployable counter-drone tech because the Ukraine theater has proven that cheap, commercial drones are the biggest threat to US tactical superiority. The winners will be agile, non-traditional defense firms that can iterate faster than legacy primes like Raytheon, whose systems often lack the 'stark reminders' of adaptability required for modern drone warfare.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQTFrZVF3azhyeHp5QlczZURfTmRYOHl2OUVuMFItUzFBZVlQSlJtQWJ2ZzdZanZ3QWk3Q2FnRGNBWWVRemkxQ1dqaWJSTDhSeU83cHlGLXd6WHdILVFZbFlEQ0gxdFpBMkIzTGJxcWxidzRNRTNCWnNKSGtfNGVKOE1QOHFVMXlYNXVTaE43TTZrT291elA2UzFWX1ZIeF9zNjd4WQ?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Bond market chaos sends the Dow down 700 points",
+      "summary": "Stocks tumbled after the U.S. Treasury's plan to control interest rates failed to stop bond yields from climbing.",
+      "view": "The Treasury's failed attempt to control yields signals a 'bond vigilante' comeback where the market, not the government, dictates the price of debt. This is a direct attack on equity valuations; as the risk-free rate climbs uncontrollably, the equity risk premium disappears, forcing a brutal rotation out of high-multiple growth stocks that rely on low discount rates.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8teUxWQ1hsU240emRnZElJWExIWnE4UDEyV2xEWEVmZTZYVklUeWU3YlU5NUhaMGNOemdRdXJOOHFSb2ZVeXh6SmVjQUNLMmhzRHRrczZLYUhieVdxSGxPWEs0OFFyR2RoTlNaYnFUbWsxQ00tRjQ00gF8QVVfeXFMUEVDcDhJU2RrSk9PdEwySEhJTUZLdFdXNHFLeUhrRjJPLW1yTk05MmJpTTU2WndPbjlYeXJkVERRLU8tbHNHQnp0eVJwdWV3ZzBoejI2UVVmMEtic3psYS1vbWFwc0RHU2Z1VGRHdUQ2UEN1STl5cGJWQkVCTQ?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Cash piles in money markets are fueling stocks",
+      "summary": "Trillions of dollars sitting in money-market funds are acting as a massive reserve for the stock market.",
+      "view": "The trillions sitting in money markets aren't just 'dry powder'; they act as a massive behavioral floor that will flood the market the moment the Fed confirms a definitive rate-cutting cycle. While this creates a 'buy the dip' mentality that protects valuations, it also creates extreme concentration risk in 'safe' AI winners that Seeking Alpha contributors identify as the primary beneficiaries of this 'big beautiful bill' of liquidity.",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YY0ZlWEVFeWsxb0RBUEhyRkszQVdPdWN6ZzZKbDRPbExXQXMxTWgtaUtueVAtdWg0MkNVZTNJUnJDeDgyQ053Xzh4WlVMZGdUbmNiR2FhVlpiVkdkN1RiY1Y1ejdBdUpjWGh6V1g0S0E?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Buffett\u2019s valuation warning looms over expensive stocks",
+      "summary": "Warren Buffett has renewed warnings that the stock market is approaching dangerously high valuation levels.",
+      "view": "Buffett\u2019s valuation warning and his shift to cash suggest the 'Buffett Indicator' (market cap to GDP) is flashing red, signaling that the market is priced for a perfection that high interest rates cannot sustain. His move is a signal to institutional whales that the risk/reward for holding 'magnificent' stocks at these multiples is officially broken, favoring capital preservation over chasing the AI rally.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV1l4Q1M5dVBuazhLU09McEllbG9oVWFFT2pzNzdtTlJwVWFfSkY5OEpYMmowNk5DdVFmYkFfWHNpLWpBQ0VqNmdKNm9nRnNPbU9SQklsQ09Ic3BRRFViTkM3TTlTa3BwR2tsUWYzYVR2WWtUb3lmUWFicU95MFpSNWVmT0ZESkNncjk4SzI4REVvdFIxXzhQMlF4X3hEN1VS?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Global bond yields are spiking everywhere at once",
+      "summary": "Government debt yields in the US, Europe, and Asia are rising simultaneously, rattling global investors.",
+      "view": "This synchronized global spike in yields is the 'great normalization' where the era of cheap money is being buried simultaneously in the US, Europe, and Asia. The real loser is the 'carry trade,' as higher yields in Japan and Europe remove the incentive to borrow in those currencies to buy US assets, leading to a painful deleveraging event across all asset classes, including flat-lining crypto markets.",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MQS05OUQ1azF6RDFoeDJKRGxMRUVGSWtDa1EzMHMyQ1EwTHVxR1RvUDh3VG5iaHkteDN1WkxBWVVRbWZBWnVlazYzNUludHd2RUt3QUUyelR3eTB1VTN0eEtDaUhoYnFiQjY2RQ?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Treasury debt buyback plan risks killing the dollar",
+      "summary": "Analysts warn that Scott Bessent\u2019s plan to have the Treasury buy back its own debt could trigger a currency spiral.",
+      "view": "Bessent's buyback plan is a desperate liquidity injection masquerading as 'debt management' that risks backfiring by signaling to foreign holders that the US is prioritizing low rates over currency stability. By buying back long-dated debt with short-dated cash, the Treasury is effectively monetizing the debt, which debases the dollar and could trigger a self-reinforcing currency spiral.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVTVBUUxBVEJkTUx3a3U5OWNUM09WS09IRDE3R0tUSGU4YndPM3NpMERZaXdnUG1pbTlXVkpidEZHakFubHYxTzdSc1JKazRHMFJDVUFVZUZxRDdnOGlTR2Znd3hhNDJWRGh4dlJnd29nZ2s5OE1JdTZWYlh6MEVDeTdZRUpoTkZhZER6RDAwWGVkUDByY3YtUjdROTAzNjYyLXZZQmNSV3NXbDNoZk5BQXN2eGY?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "U.S. debt hits $40 trillion as spending continues",
+      "summary": "The national debt has officially crossed the $40 trillion mark, raising concerns about long-term fiscal stability.",
+      "view": "Crossing $40 trillion is a psychological rubicon that will force the bond market to demand a higher 'sovereign risk premium,' regardless of political promises to restore order. The mechanism of pain is interest expense, which now rivals the defense budget; this 'doubling' of debt mentioned by Reuters and others makes future tax hikes or significant spending cuts a mathematical certainty to avoid a fiscal crisis.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOTZ5SVhpaTBlZE8tVm9veEVrblI5OXF3Rm50WEY5Rmc5M2h5a29RTmFHSUdYRXZjU05NWlA5RVdDNlBuNUg4R3dhWlNGUDhzZVBQVEdQVUZNSEEyc3VCV0QtakYxaTEtd0h1RVVMLVllb0t4b0FST283S29Oc2NTSVZ4WjNuRGdwcVZpVlB1WmMwMXA0UHB6WlV4OGQ5ZmF0MGVQaFVRdTZXaHFDMEFsUGtpMA?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Western states face massive water cuts from Colorado River",
+      "summary": "California, Nevada, and Arizona must slash water usage as the Colorado River hits record-low levels.",
+      "view": "The era of voluntary cooperation on the Colorado River is over; the federal government is moving into a 'command and control' phase because the hydrology has failed the legal framework. California's senior water rights are no longer a shield, and as Vox and KUNC highlight, the mounting pressure will lead to a permanent downsizing of Southwestern agriculture in favor of urban residential stability.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU3pQQWo2QnZIOWttb2hyS2NQZ0F4YjN2OHk3T2d4ZFAtQUFRekROR0J5Z3FYTnNsMEZfWXNFaHNaX0Z3UVpMLUxubWsxb2VaLWlBd1pSMFlESmF0UGNqS25wYVFxSkxDMkpPc2N4ZHBuaXdUWjNaQ3NxRDFsSG5qZkxEcDd4ZHkweS0yUGtGTmNac3JXMkVtQlZENklsUQ?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Amazon hikes gadget prices to cover chip costs",
+      "summary": "Amazon is raising prices on Echo and Kindle devices, blaming 'significant increases' in the cost of memory and components.",
+      "view": "Amazon's gadget price hikes are 'cost-plus' pricing reaching the consumer level, proving that even a retail giant cannot absorb the persistent inflation in the semiconductor supply chain. By raising prices on Echo and Kindle\u2014historically loss-leaders used for ecosystem lock-in\u2014Amazon is signaling that ecosystem growth has hit a ceiling and the company is pivoting to margin protection.",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd0JMbllqRGV6d01qQ0ZDRHoxQkRUNzh1V1JBMVB4V3Q1ZmVEV3hVd3p1c1dJZ3FxNzRyMzJPeTlLWmtOQUc0dHRIVFdWVVEwd21fOVh5TjFsZVJDaUFyUlUyaV84RFcwRS1yVE1OaUJtODd3Qmw0SDdDSXJ3NkhCODhtSFR0U3kzUlljdlp1UC1mOEp1Ykc4M01tLTNvQ0RMb3B2VVlMZm9KcHZzUVVlSlhQZ0hVMndxRjhob243eEcyWEpVMEtzWQ?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Nickel politics shift as Chinese investment floods Indonesia",
+      "summary": "Indonesia is attempting to rebalance its economy as it becomes the global hub for Chinese-funded nickel processing.",
+      "view": "Indonesia\u2019s 'nickel nationalism' has backfired by making the country entirely dependent on Chinese tech and refining capacity, as noted by the Asia Times. By allowing China to dominate the processing phase, Jakarta has traded Western diversification for a 'captured' supply chain that risks exclusion from US/EU trade benefits under the Inflation Reduction Act.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTGNxaHRjdWlmUXB2Vm9GOWRjTTJjTHk3cmN4akNmQUh3dkdfVTEzS0pTa1lhS1RVWFNmV2VwdHJmTkxCanBvVHpMelFSNURVVzhRLWpjSTBSdl8tSk42aUlmN3JBN2k4S0o2d2RTd3B1WUo0VE1ON2FibWZNdmJLRVJBaGZpbnpnVG94VGFzRFpzZ21sLXo5TnpXTDBkY0RPUFNIUEg1MlB4azhNNU5sX3otV25GRnVEZXY5WFFVYm52ckdHa1I0?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Prabowo\u2019s approval drops as the economy stumbles",
+      "summary": "President Prabowo is seeing a decline in public support due to dissatisfaction with the country's economic and political direction.",
+      "view": "President Prabowo\u2019s honeymoon is ending because his populist promises are hitting the reality of a global economic slowdown and high domestic interest rates. The decline in approval is a signal that the middle class is losing faith in his ability to maintain the 'Jokowi magic' of stable growth without the former president\u2019s direct hand on the wheel.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcURIb1kyakJOTmFKOUxyZ0IxeTFnRDJTQU5mVzJzRHJaMTM0THdCenVMOHUxb2FLWVNDSTJWa3NxSDNxWXJvY3RBeGI2aGZOQV9MeGhXcUR0dnVZaXFZZ0FLUExwWlFoZFZEcFFKZnNpa3p3ZlVCYjJNSGQ5V2Z6VkFoUEh0R0lYRmNSQ0JMaXlJcTd5Rjdxb0dCaVFpcW1DS0RxNm1adGxRT3JDVzdrZmJiUkFzbk13WWhZ?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia pays the price for conflicting economic policies",
+      "summary": "A lack of coordination between the central bank and the government is hurting investor confidence.",
+      "view": "The disconnect between Bank Indonesia\u2019s hawkish stance and the government's expansionary fiscal impulse is creating a 'policy trap' that scares off foreign direct investment. This lack of coordination makes the Rupiah an underperformer among emerging market peers, as investors realize the 'carry' isn't worth the risk of a government that may try to override central bank independence to juice growth.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRTIwZU5HaFBlNkUtNXF6c04zTmFsT1BWT0lVbmN2UkJhOFZUTXBVSlFma2FQZ0hBaWFCVFNETkpoRno2dHVOeXBrVVotREJLOFJDOXMycGVkdzNOV1pCTDhueFl3M2lWTGlZUjlMOUVEcmJINFkwaGlCUTlKV0VEQlkzZkxHdkFwUVppZTRVdUQ2RHhmWHpwaE1iRXNTWDgzc2c?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Energy transition hits a wall of structural issues",
+      "summary": "Indonesia's ambitious renewable energy goals are being held back by old-school bureaucracy and power grid problems.",
+      "view": "Indonesia\u2019s renewable energy goals are effectively dead on arrival because the state utility (PLN) is structurally incentivized to favor coal to protect domestic mining interests and existing take-or-pay contracts. The 'structural issues' are a political choice to prioritize the coal lobby over international funding, making the energy transition a reputational exercise rather than a physical one.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcmR5RGNFWmxHbkczbURyVlo2V3E5MElmZEU2RVdVRU1lblRVc0RteENqU1ZGOUpZZ0gtMUx3Vkk5aXpfdnlGZWNpeTFpTk0xajY4bjVoeDRzTmRjT1FTaFgtWnpPaTRnd0JadmRodTRtNFJxcE01c3QzZ25Bb3dxcWhfRmVfbUF3WHRtQ1NKVkhIbk9VYXJ2dy1YS0lPc3FtVDJR?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin and gold rally as dollar trust falters",
+      "summary": "Both assets surged as the Treasury's intervention in the bond market weakened the U.S. dollar.",
+      "view": "We are seeing the 'debasement trade' in real-time; investors are fleeing the dollar for Gold and Bitcoin not because of the underlying tech, but because they fear the Treasury's interventionism in the bond market. This move establishes Bitcoin and Gold as the only two 'non-sovereign' escape hatches, effectively decoupling them from the broader equity market for the duration of this currency trust crisis.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZjhYLWRvY1c5TnNteV9UUFlJT2dNcVJiS0NtU3lRSDNpblJncGh0aWpKYzgtWDNpOEItTnZic0tHYzBVNnZNVnc5R2M1c0RHQmFDbXR5OTV2cVU1RlAzTF9aRFBOYkxvMHBWSWphNWpuSmg2NFZoUGYyZVNVNUhSQVpSVHU?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin is now moving in lockstep with the Yen",
+      "summary": "The correlation between Bitcoin and the USD/JPY exchange rate has reached a staggering -0.90.",
+      "view": "The -0.90 correlation with USD/JPY proves Bitcoin is being used as a high-beta proxy for the 'global liquidity' trade rather than a digital gold. When the Yen strengthens, it signals the unwinding of the global carry trade, which forces leveraged crypto positions to liquidate\u2014making Bitcoin, as icobench suggests, highly vulnerable to the 'Yen drag.'",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin falls below pre-election levels under $67,000",
+      "summary": "The price of Bitcoin has wiped out its gains from the second-term Trump rally as sentiment cools.",
+      "view": "The 'Trump Pump' was a classic sentiment bubble that ignored the reality of high real rates; the market is now realizing that political support doesn't automatically mean 'free money' for crypto. This crash below $67,000 is a 'vibe check' for the industry, purging speculative 'moon' tourists and resetting the baseline to actual institutional adoption as noted by Al Jazeera.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNEtqckFZRzZHclBKMzh2MEc2WnNIN1RsRVY1c1poeVY5d1lMcmVsQUk0aTMzdGYtOUpnbWs4X2JiZ1otZFd5a2h6bjhzUEI0Y1RWLVd0NEtPcEZYWV8wTW1pTVhPN1FRaTdiMDM1T2pyTFVYSl8zZThfZENpQ3I5LWpMdVNkNzQxdHd2QWpINmtQRnAtVDFpcV9FYnJnOWZSbnBVcDNEYl81aFZKZWhjVjU5c093SEnSAbwBQVVfeXFMTlZLOHN2NEJGdWIwcm5WeXRhaTZMbVJ1N2Y0VjhGMkhkb2JCNmpYZ2VJSmhyVjdqMDVuYUZUbGdtU1ZWY3FMWWxhdU1FRmNXcEhZNTBrNDFBWFIzR20wZUZHdDJqWGxrZG1TYXFHV0paSDl6Qk0wX2ZjUE5xQjN5Qk8yTDdQOUpiZWR1dVNhOUlscVF3c3FZTXFQR2ZyaC1ubnNDeDBCQ25PNDlaYmhSQlJmQks4LUYyZFdxQmY?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "U.S. inflation data is now the main driver for crypto",
+      "summary": "Macroeconomic factors like interest rates and liquidity are now more important for Bitcoin's price than its own technology.",
+      "view": "Bitcoin has officially lost its 'inflation hedge' narrative and is now a liquidity-sensitive asset, moving in direct response to US macro data rather than its own technology. Soft inflation data is the real reason for Bitcoin rallies\u2014as the Bitcoin Foundation and Yellow.com note\u2014because it increases the net liquidity in the system, which is the only fuel that truly matters for BTC price action in 2024.",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ1lya1lkRlFlcEJYeHNVUHNQbGtaQ2FIMEJIWFN5UEVPWklnMnNfRDIyeUFiRElnejliX0I5QnhJdTZ3VEhtNUxURjRVOEN2LVlpVVpMM0IzYnZQTjg5UmtYU21tNnJET1Jid0JfUVZucUNlbjNrOUIwTmE2THZ1V1RZeWN1V2xQM0hhcGxRZGJkSjVGZGFmMXhwWGZGSi0zeGVVVEJHckFjMXJVVUFua0xBOXEtbk1yUDBuaDlxVkI2cFFhN2huOEs0Y1haWGVrTlZoX0lmc0hFa2o3SjRkSVNWWVRfam5qVW9r?oc=5"
+    }
+  ]
+}
