@@ -8,7 +8,7 @@
       "prediction": "At least one FAANG-level company will report a record-high revenue-per-employee metric in their 2025 fiscal year-end results.",
       "grounded": false,
       "status": "too_early",
-      "note": "While fresh headlines confirm tech layoffs continued into 2025, they do not provide specific revenue-per-employee metrics for FAANG-level companies."
+      "note": "Headlines confirm 2025 tech layoffs but do not provide specific revenue-per-employee metrics for FAANG companies."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "Expect a 40% drop in new Chinese tech IPO filings in the US and London by the end of Q3 2025.",
       "grounded": false,
       "status": "too_early",
-      "note": "The provided headlines discuss global M&A trends but offer no data regarding Chinese tech IPO filings in the US or London."
+      "note": "Fresh headlines discuss global M&A trends but lack data on Chinese tech IPO filings in the US and London."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "At least three 'commercial-first' tech startups will secure production contracts exceeding $500 million before the end of the 2025 fiscal year.",
       "grounded": false,
       "status": "too_early",
-      "note": "Headlines discuss general AI development and CEO compensation but do not mention Pentagon production contracts for tech startups."
+      "note": "The provided headlines do not contain information regarding Pentagon production contracts for 'commercial-first' tech startups."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Watch for a major global logistics firm to announce a quantum-hybrid routing partnership by the end of the Copenhagen summit.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new headlines were found to verify the status of quantum-hybrid routing partnerships in the logistics sector."
+      "note": "No new headlines were provided to confirm or contradict the prediction of a quantum-hybrid routing partnership."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The 10-year Treasury yield will test the 5.25% level before the next FOMC meeting.",
       "grounded": true,
       "status": "too_early",
-      "note": "A fresh headline confirms the 30-year Treasury yield hit 5.25%, but there is no specific information regarding the 10-year yield testing that level."
+      "note": "Headlines confirm the 30-year Treasury yield reached 5.25% but provide no data on the 10-year yield."
     },
     {
       "section": "markets",
@@ -52,8 +52,8 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmlyUENlX1M1NzRGQmNObkJzQ0dIMDNtcm9oU3VVLWMzTTdfNEp6M2Z0ZDF5U1lpUThkRnRTWGlRaC1tNl8wdDJaWnBRSmhKRE5ob1BDczVOVGg4a3N4eXNjMDM4eHpOMnpSbVNsZGJrX3dxOHk2Sktyc2hTQ1RJWjRTVFJuTkRzc2RlNVZXX29md3NsbzRYbUFjTm9Jc0cyMlRLRGxIcEphY19McEpERmdNbnl6LXlULVE?oc=5",
       "prediction": "Target and Costco will see a downward revision in analyst price targets by at least 10% within the next 30 days.",
       "grounded": true,
-      "status": "missed",
-      "note": "Fresh headlines for Costco indicate an 18% rally in 2026 and a 36% upside case from analysts, which contradicts the predicted 10% downward revision."
+      "status": "too_early",
+      "note": "Headlines show a bullish outlook for Costco but do not provide data on analyst price target revisions for Target and Costco."
     },
     {
       "section": "markets",
