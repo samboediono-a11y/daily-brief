@@ -6,42 +6,54 @@
       "headline": "China orders tech giants to hunt for funding at home",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rMjYwRGNLa09aWFNHdDhLcklGMXgwU0hMUnBnNU0zenJqeTcxbTd2VXRhRUQzNUtIS05Ob3hLLVhoeUkwTFFMb3ZjYmgwNmMxTEF0WmJNYVNnekhQZ2tteTFPZFMyMmltaEZHT0h4eWNYYTl2N1RF?oc=5",
       "prediction": "At least two major Chinese tech 'unicorns' will cancel planned Hong Kong or US IPOs in favor of mainland listings by the end of Q3 2024.",
-      "grounded": false
+      "grounded": false,
+      "status": "missed",
+      "note": "EY reports indicate that mainland IPO activity slowed down while Hong Kong's rebounded, which contradicts the predicted shift of tech unicorns toward mainland listings."
     },
     {
       "section": "tech",
       "headline": "The growing public backlash against massive new data centers",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWXZqelQtV3l6NTdlTm94RWlySEdZSEhueDVlLXBmLWJuSlJSUktXcXA4OFRQbW1UQUtvU000YnVrMUticXl3dUk3a19KTnY1WHU2eVotbWc4VkVoLVdoN0J2d05BMFBzRDJMaU4xZVFmN2V1d19IUXpDWWM1clVvZEF4YnI2RzVNZFRBYVNxaWxvZw?oc=5",
       "prediction": "Expect a major Big Tech firm to announce a multi-billion dollar AI data center cancellation specifically citing local zoning or power grid opposition within the next six months.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Fresh headlines mention growing opposition and a specific case where construction began despite a negative local vote, but no multi-billion dollar cancellation is confirmed."
     },
     {
       "section": "tech",
       "headline": "The difficult search for real profits in the AI boom",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGdkpjVnpVbElrNFQwMXBzVHJzQWJXanB6TnVYb1MxX1l0ZTNMd2JHWWRYaFlxNmFCUkZ0Vy0yQVA3WDEyc3NKWFg2MUFhTTdZZHRwRW5BUWlyLUlHOE4yNmtpZ21NT181VEZsNXo5NXkweHdrLWpj?oc=5",
       "prediction": "NVIDIA will experience a 10%+ intra-day correction following its next earnings report if its growth guidance merely matches analyst consensus rather than exceeding it.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The provided headline is a general market update from early August 2026 and contains no information about NVIDIA's earnings or stock performance."
     },
     {
       "section": "tech",
       "headline": "Europe attempts to bridge the tech gap with US rivals",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdjdZRWFyOTdidlhKb3JqRnlTUlRfNmJuN2I2TEdPUTc5QXdORHkwdFotRHJRSzFRRC01a1h5NVZ4eHBnYW1Qd3QteG5kSDRvZkRGTVR3VlBjZ3Z3VTNsUG15Q1B3bVU3SmZEYVlfc19PUXRpM2hiYTFzZmtDeUdBamJwcHhDMFF2dk1zcVBvZlRzYS1xNjl3M2psV2VrQTY1cXFHUlFNTUYyWnJDOWhWSy1uNjVIbFF4b2x4bDJFcmxxUQ?oc=5",
       "prediction": "EU venture capital flows into 'Industrial/B2B Tech' will exceed 'Consumer Tech' investment for the first time by the end of 2025.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "The provided headlines focus on sector outlooks for 2026 but do not contain the specific venture capital flow data needed to evaluate this prediction."
     },
     {
       "section": "markets",
       "headline": "Global bond yields surge, threatening to derail the stock rally",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MQS05OUQ1azF6RDFoeDJKRGxMRUVGSWtDa1EzMHMyQ1EwTHVxR1RvUDh3VG5iaHkteDN1WkxBWVVRbWZBWnVlazYzNUludHd2RUt3QUUyelR3eTB1VTN0eEtDaUhoYnFiQjY2RQ?oc=5",
       "prediction": "The US 10-year Treasury yield will touch 5.0% before the end of the current quarter, triggering a minimum 5% correction in the Nasdaq.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new headlines were provided to confirm or deny the movement of US 10-year Treasury yields or the Nasdaq's performance."
     },
     {
       "section": "markets",
       "headline": "Cash on the sidelines begins flooding into the stock market",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YY0ZlWEVFeWsxb0RBUEhyRkszQVdPdWN6ZzZKbDRPbExXQXMxTWgtaUtueVAtdWg0MkNVZTNJUnJDeDgyQ053Xzh4WlVMZGdUbmNiR2FhVlpiVkdkN1RiY1Y1ejdBdUpjWGh6V1g0S0E?oc=5",
       "prediction": "Total assets in US money-market funds will see a net outflow of more than $400 billion within 60 days of the next FOMC rate cut.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The provided headlines discuss Bitcoin outflows and general economic reports but offer no data on US money-market fund flows or FOMC rate cut impacts."
     },
     {
       "section": "markets",
