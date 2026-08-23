@@ -3,285 +3,285 @@
   "predictions": [
     {
       "section": "tech",
-      "headline": "Nvidia hikes AI chip prices by more than 15 percent",
+      "headline": "Nvidia hikes AI chip prices by over 15 percent",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWS1NOHBfNzB3RGJTaXpPM25VZENhMWdGdkg1M2JHZjZoOWxtOGotQXh4TXZ2V0tIcDBscldpd0VuMy1fTEJzbF94dWVpTmZOZUd1NTdyZ2tjQzAzc0JHWEU0eWt3Mng3aVlObXZhMkYtaDVPNXh4b0hlUGJUb0VyNW5EU3hmcmY0WEFLMzRCakhpeFdIUWFkV2tZMTJXWllhR29DTUREQktNOHlUMnhSQ0s1Vk9ndw?oc=5",
-      "prediction": "Nvidia's gross margins will remain above 75% through the next two earnings cycles despite rising input costs.",
+      "prediction": "Nvidia will report gross margins consistently above 75% for the next four quarters despite rising manufacturing costs.",
       "grounded": true
     },
     {
       "section": "tech",
-      "headline": "Major tech firms continue cutting staff despite the AI boom",
+      "headline": "Tech layoffs persist as giants pivot to efficiency",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPM3E4cFQ4NjVxamx5czRPOTdCMWxJQjFtVUlFOGFtdW1qVHBiQTZWRjhralN6aVh6b0NsQ1VaTHFmZ0ZMcUNSTUJ1UTN1VE1fTmxRamdWYWJFMTRJbWRLMy1Pem9GaWVuZzZoMnlkcEVOY0w0TTFRLWFQRUZJakdYSm9GUkFpN3FkZWhKVVNpQXRLZnVWRjAwcElmUTMwc0VxVWxwVDNTWVh3ZWlhS1BGU0RGMXRIY1VJeUZrQkZXbmNkanZfS0U4ZXZRMDhSZzd5Y1RlTHM2TllBNkFoLUZGNXYteXRodw?oc=5",
-      "prediction": "Total tech sector layoffs in 2026 will exceed 200,000 as AI-first restructuring becomes the standard for annual budgeting.",
-      "grounded": true
+      "prediction": "Expect at least two more major 'efficiency' announcements from Magnificent 7 firms before the end of Q3 2026.",
+      "grounded": false
     },
     {
       "section": "tech",
-      "headline": "Trade groups panic as Canada tariff deal remains stalled",
+      "headline": "Trade deadlocks threaten higher costs for Canadian hardware",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcE5xU2U1aXdhSzJvdlZNYzl6akpmMEpLOXFDc200bDZjVjNZaXVEcFp3cm43SEl0bGIwaWZyb1NNUmdTNmFkbmgzNm5ZazBrVTIwcDJwQWVpVlFMM3hNcVRtenNqYU9BQ2pVLWRtXzdfRXAzaTRfek9IWkJGaGp5bjFGbXZwcVVpTXVRMlhjanhLVVEta1E?oc=5",
-      "prediction": "Tech hardware prices, specifically for laptops and servers, will see a 5-8% 'tariff surcharge' by the end of Q3 if no deal is reached.",
+      "prediction": "Canadian business investment in IT hardware will contract by at least 8% year-over-year if no deal is reached by the end of Q4.",
       "grounded": false
     },
     {
       "section": "tech",
-      "headline": "The AI revolution is creating two different tech industries",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kb2pMUnUtSVBTLWlvT1hvdUhvRW13dXhadDN6ZXBOTzlQcy1XTGxWZWxGbmdpa0FoejFRNGE0TjVRZzJfbjA0NFFBc1lQTWlXd1pKV2x0a21ieWlBMVNZdHdRUDRZWE9iTnc?oc=5",
-      "prediction": "Valuation multiples for non-AI software companies will compress another 15-20% relative to AI-labeled peers by year-end.",
+      "headline": "AI data centers become the new industrial gold mine",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb3YtVF9HazNDclBYQmlGNkM2RFUxNlg0REVVNFZpQXlRLUp0em5xQ240TlBoSkhXYzhTRG54U2VxdGo4YUpJY0p1VWJQVjI3Sk14d2Q4ZC1RWkpFN09YcUxRaHM2N0hKNW8xZGVMem00ZkR0Rm5ETndweTBMLXBfOG5OUnZ3TnNCbFQtbUpRWUUtOERKODdoZVNZbnNGZGtha0p1LURYWmluSVlMSms4RXdPUXUwUGhORGo1MVNGNA?oc=5",
+      "prediction": "Copper ETFs will outperform the broader S&P 500 Information Technology index over the next six months as data center demand hits the physical supply wall.",
       "grounded": true
     },
     {
       "section": "markets",
-      "headline": "The stock market rally is finally spreading to smaller companies",
+      "headline": "Equal-weight S&P trade hits massive 100 billion milestone",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IckxLSXNzT3VrdlV5UzNXRDUxTlQ3d1BBOWFEVk1xOXVTOU1xcGdaS2NxR1k3NmFrSFRaYUJtMTN6ZjRWbEJIakc4a3JPNEFxX01uV3liV2UtUVR4eG5tLTRMekJFOFJ0bGJ2QXVmanpZdV9wYWlzUFh30gF_QVVfeXFMTTNBUjd2b2JhclhwMnhVT1pZempacXhGd1FIZXRkeW9teGgtdmNURHBlYVFmOTB4QVh4a0RTRTV5T1dOUVdmUEZOZXZjaS1NMWIzWFhoaXhEVDBNSUU3LVJwclk1UVUtZ0t2akZId1REWUVlWGlpY2NnNHZPUnUzUQ?oc=5",
-      "prediction": "The Russell 2000 will outperform the Nasdaq 100 by at least 5% over the next 90 days.",
+      "prediction": "The Invesco S&P 500 Equal Weight ETF (RSP) will outperform the market-cap-weighted SPY by at least 300 basis points over the next six months.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "The stock market remains shackled to Nvidia's performance",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSDYwYVZIWmxmM2c5QUZsQlU1cXRIdWMtRUg1Y0ZMcEc0WWkwWF9RVEJ2RzY1MnFNak9NTjM3d0NiMFVIOUR2VzYtcUg1OFZBeXdrQUxseTBhTm1pbTB2N0cwSmlBaEJvU3RFSUdROUN6TUFJMjIzNkRYSnNtems5MHBZUDU2b1VJRWFRYUZUUHRQT2toSTZRYVZCb2h0RlBKdEJCQlQyeDhxSGVXMXgxeXBEU0lmWEIwNkpac2tQc0FLTlplRTNwaTlEUQ?oc=5",
+      "prediction": "Nvidia\u2019s next earnings call will trigger a 3% or greater swing in the S&P 500, regardless of whether the result is a beat or a miss.",
       "grounded": true
     },
     {
       "section": "markets",
-      "headline": "Massive stock trading disclosure reveals high-level political market activity",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYzUtWUJMb241QlNQYTg4V19PMzhWdnE5cWFEMS1xMjRXYzNJMTJscFp1NVV4NEtqOHdENGdrVzE4X2lWRk5Rd3ctYklnR0QtdUlwR2RBSlFVakJRbnZpOVI5VUdEOGtJdVZFaHFmdkxDVUZleVh0UUZWREN6QjJvbW4tSlNFcURKU0dKZ3RxV3BtS2M?oc=5",
-      "prediction": "A 'Trump Whale' tracking ETF or a dominant copy-trading community will emerge as a major retail trend before the end of the next quarter.",
-      "grounded": true
+      "headline": "Trump's lightning-fast stock trades reveal massive Meta exit",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY2p6b0JpNDlPNmtYUi1TUFR4OTVyMHRFTGJXQ0V5ZEpodVZYN2RYMDVuSElZMmRudjROZERtUHVKT2tTY2ZXUHYxWEZfTHRka1FlOWlKNXlGWG5tNF9tZ29MT0ZqRGFNdE1qNVpleU1Tdk1mY0VHbkRiNGttZ2R0cll3ZVZxSWhqTFo2RUU2Y202dC11SUUxdEJkek1zc1V4enc?oc=5",
+      "prediction": "Meta will trade at a P/E discount of at least 15% compared to Alphabet for the next two quarters as regulatory fears persist.",
+      "grounded": false
     },
     {
       "section": "markets",
-      "headline": "Gen Z gives up on housing to bet on stocks",
+      "headline": "Gen Z skips homeownership to bet on stock portfolios",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMVTlIaUs5YncxSkpZTDdjUkNTRXVTdW85dFlGZlJ3ZkMwWmdKNk8xTzlzdG4yeGN1QTBzaXZGdm9HQ2FQNkdicDBKOFQtZWRnN0F6UHdUMDZMdVZsN2U3TlQ1UzZ1d2tXMWFGVE9fam9sRDdjN3VibENkOA?oc=5",
-      "prediction": "Inflows into retail-heavy prediction markets like Polymarket will double by the end of 2026 as housing remains unaffordable.",
-      "grounded": true
-    },
-    {
-      "section": "markets",
-      "headline": "The bond market threatens to pop the stock bubble",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS2o2SDREdjdxbm5NUnJGMkVjT2JULVYzZ1Rfamx6Sy16WDdmNkoyMERXVEVtZkxXc0NlMkxraFRXaTdUUlJ2MnYtOV9UZUtEZm5BNlU0RUdGVkpIcmZzS1hxc0dDeVl2WWRXQTlmS1IyT2FPZEpuR3hnM0NFVEstX3dVY0NhUGpBZ0lVTDk5WWVSUEJfT2VnelJkQXIwWno1bVE?oc=5",
-      "prediction": "The 10-year Treasury yield will touch 5.2% before the S&P 500 hits its next all-time high.",
-      "grounded": true
+      "prediction": "Net retail inflows into US equity ETFs from the 18-28 demographic will hit a record high in the 2026 fiscal year.",
+      "grounded": false
     },
     {
       "section": "us_news",
-      "headline": "New 50 percent tariffs hit everything from Canada",
+      "headline": "Strange niche goods hit by 50 percent Canadian tariffs",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSWJiTC0zaE8wNVhVNERJVzhCWGlTWmY3RjZvRjFZMUxSRDVZc0VVOHlZSndWQjJCc0xheW1BbWhFS081R3VmMWViZ3FLN0szbGxuOTdMOWpmcnZrVUF3Z1VxZkdLdnJsWTB4VUh6ejBFenhRLTc1MXRGT1RFdXR4NnBiQS1qWmpFVnlncm1TckRNVDhxd2Jv?oc=5",
-      "prediction": "US lumber and grocery prices will spike by double digits within 60 days of these tariffs being formally enacted.",
+      "prediction": "The 'Miscellaneous Imported Goods' component of the US CPI will show a double-digit localized spike in the first month following implementation.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "Federal water cuts hit as Colorado River levels crash",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbGZuVDE3aHotbGJCX0NzeDFlc0ZCUmxRTW1SS0xXNHpIZGh0NTVJMGw2Q3N2WjRQMWRzV3VuSTFla2ltLVlzRkJteWluT25xMjVielJwT0lPTG1XNkNLYjEyc0I1UXFUTkEzckNYT0NqLUhocG1aRE5rb1FLZWc1QmdXRzBxbmxFV01LX0ZmZi1SR0hBN3dwelZoVV9XVkgxQVM5clJwVzVlWW0wYmNGTTNnencxOXZ0czVj?oc=5",
+      "prediction": "Land valuations for water-intensive agricultural parcels in the Colorado River basin will drop by 15-20% by the end of 2026.",
       "grounded": true
     },
     {
       "section": "us_news",
-      "headline": "Politicians turn against the expansion of AI data centers",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV0h3d3N1UlREUG9md3JGMmRJVXJUeTgxSjhyWDBsWC1IakRYRk5nQUVUY21QdlJ5N0tGODhFQzgxWWM2dGlJalMxVWRiQ0ZwR0FGRXZDd3dnaVY0eDNqUUlyR1hxVnhkSWJ1Sl9LTEZOM0dhaHJzZkg0QVdiQnlCRGJyQzJKYzN5WmVKaXVNYURDblVGeEZLc2lpaEpfUS14RWlyNjM5bTFhYk1reUg2UXFCdkpKM1c2TVZ2ZVJSTzRnQQ?oc=5",
-      "prediction": "At least three major data center projects in primary hubs (like Virginia or Oregon) will be canceled or indefinitely delayed by local ordinance changes within 12 months.",
+      "headline": "Billionaires buy up farmland, squeezing out local farmers",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNmFQLWVBSnF6S2w3VHVTTGszYlBtOHA3dFA1VDI3MkNpVkYyUWNuNWp5VGIyM2tKYlBwU0F0QURiN0tCZ09PZDZBeC1JbjZhUmRDYzVVNXlEaUlhS2FkWXRaUUo0QzBxeVhRZjU3bnhOLW91YlNUd2hpaDN3TGZMbkt5WjRibTgzb1RjR1dZZk1URE10bzBaVURWTWVpdGRyY0hJajJvVjFEdkU?oc=5",
+      "prediction": "Average US farmland prices per acre will reach a new nominal all-time high in 2026 despite the highest interest rates in two decades.",
       "grounded": true
     },
     {
       "section": "us_news",
-      "headline": "Walmart makes a major play for the fashion market",
+      "headline": "Walmart launches new fashion brand to challenge Shein",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT0RxcEVmV1BiOEw4QjdpUTYzRUxBQzBmcTRERDIzMHpOT2F0WUdjTktQdkZCNlQtRjVuam1SYUM2V05KTzNaWjl4MUU0dnZCUGNVZkt0eUdZZTZsMnE5ZHBERnBxVkREWW9XVmszTk96T1kzTmxwOFNpUFk3Z204OVZBLWVsV3E5ejdMVmVCeFlLMkswVUtISHl2Q3NONk5EUldRZEFn?oc=5",
-      "prediction": "Walmart's private-label fashion sales will grow at twice the rate of its general grocery sales over the next four quarters.",
-      "grounded": true
-    },
-    {
-      "section": "us_news",
-      "headline": "United Airlines CEO looks to AI for future growth",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QNEJTWmp2TUxZN0FZT1l2bnFzV0Fva1drcU1aUzFfSnhmNmpCNFV4NGFfelp4b09xeXJZQi1HR2VlcktTcS1FUlBtYWZfRXliSEhGbVpCUUJKUXUyUVlGdG05NC1IeExVdWNkQ2FVdGxRYXZhRWVv0gF8QVVfeXFMUEtrM2xoMUhWVzBrc0FlZ0xjek9SNGY2VkdYQ0VTRm1fZFZueFVlSkgzTjdOSXdreE5mUlpPUS1XNGJuUGxSNE01czZPdmNobzEzNUVGSEx1bW5mbE9jYkdHd0sxZFZLR2xiUmhFTDVtcGVNOUdaaURQWmktXw?oc=5",
-      "prediction": "United will announce a 10%+ increase in JFK capacity by 2027, driven specifically by AI-managed gate and turn-time optimizations.",
+      "prediction": "Walmart's 'apparel' category will report double-digit growth in its next earnings cycle, while Target's apparel margins will continue to contract.",
       "grounded": true
     },
     {
       "section": "indonesia",
-      "headline": "China deepens its control over Indonesia\u2019s nickel industry",
+      "headline": "Indonesia's nickel monopoly draws massive Chinese investment",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTGNxaHRjdWlmUXB2Vm9GOWRjTTJjTHk3cmN4akNmQUh3dkdfVTEzS0pTa1lhS1RVWFNmV2VwdHJmTkxCanBvVHpMelFSNURVVzhRLWpjSTBSdl8tSk42aUlmN3JBN2k4S0o2d2RTd3B1WUo0VE1ON2FibWZNdmJLRVJBaGZpbnpnVG94VGFzRFpzZ21sLXo5TnpXTDBkY0RPUFNIUEg1MlB4azhNNU5sX3otV25GRnVEZXY5WFFVYm52ckdHa1I0?oc=5",
-      "prediction": "Chinese-backed firms will control over 70% of Indonesia\u2019s nickel processing and smelting capacity by the end of 2026.",
+      "prediction": "Chinese FDI in Indonesia\u2019s nickel and battery sector will exceed $12 billion in the current fiscal year.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Jakarta balances security and economics with Beijing talks",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPczhmbHpHMUd4bTZYQlQxZ2gtZktITk5faVdyZkxtdy1LQnpFTWdEM0FqLW1UczJWWFNmZGZrN0ZkdHk1aWdhSWFIQm4xT0VxdktIMjJmRE11ZVVVTWsxc05neXllMzJCbk1GM3BBOGFPb1dUVlF5bzg2NUQya1ZkckNOMUstWTlxejhsZ3ZZR1Q1M2dXOWRTMFJXcVRQUQ?oc=5",
+      "prediction": "A major new China-backed green energy or rail project will be signed within 90 days of these ministerial talks.",
       "grounded": true
     },
     {
       "section": "indonesia",
-      "headline": "Indonesia seeks to hold joint military drills with China",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSmdKaGRtdUpaMGN0czk5LWFxWHdVdm1Hd2JkSW92NTl1ejFqVGpfdVBfN3NGMmZ0WFZWSXJfa3ZOWU4yX1ZmMUg5alJBTGs5M3VhUWtWRjNXNUEwREpnNVpUNGx6Yk9sb0N6LVBkWGVnMlRMaHBXN0dESTFfWE5EM19wOHJkcXJ5TFg2Yy0xZlo5Qm9KRlJtWkhIZ0FNcnVVRmZF?oc=5",
-      "prediction": "Indonesia will host a joint naval exercise with China within the next 18 months, despite formal US protests.",
-      "grounded": true
+      "headline": "Political shifts raise fears of a democratic 'slowdown'",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZWdWNzRycEpzNmpSZXRsXzlqWlItX3ZKR1dZeUV4c00wVEF3b1NCbjVJV2hVdUttLVNVM1lpbjZWalpQV2VScGpXbXhVUlQ3aFlPN3lPcGZqbVlaUkpHVGpHY1MwNGZpTkR0SlZEcXFfdlc5MlhYRUw0MDlXQTlaZDB6aWVEcU51Q0FXVFN3ekdVZHZUN0c4M0Ywak54X2YzLS05RGtBMGtGdXZB?oc=5",
+      "prediction": "Indonesia's score in the Economist Intelligence Unit's Democracy Index will drop for the second consecutive year.",
+      "grounded": false
     },
     {
       "section": "indonesia",
-      "headline": "New copyright laws challenge Google and AI platforms",
+      "headline": "New copyright law puts Google and AI on notice",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ3dUZEU3QUhQc25HUlh0TXVWaDl1YlIwdVFNUm9vLWZ3QjgtVjV4RWZaemdSeFFiYUZjbEg4Mmt2WUhCa2hLNS11QzVaVXlHQkNEWnJKN2tUVThNeTRtTS1MN0hKeWlJOUFaVXFUS3hqZ0JWbDBsZVRlMk1nT0QxM2ZHRkRVVHhMbi00d1hVQnhOdjMxZ0pFSTludWtzU0RXN3I1WVpleWlTSkk3Zk9Kb19CbjhFVG1nOFR3?oc=5",
-      "prediction": "At least one major AI platform (Google or Meta) will temporarily suspend generative AI features in Indonesia following the implementation of the law.",
-      "grounded": false
-    },
-    {
-      "section": "indonesia",
-      "headline": "Economic policy mismatch sparks concern for investors",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRTIwZU5HaFBlNkUtNXF6c04zTmFsT1BWT0lVbmN2UkJhOFZUTXBVSlFma2FQZ0hBaWFCVFNETkpoRno2dHVOeXBrVVotREJLOFJDOXMycGVkdzNOV1pCTDhueFl3M2lWTGlZUjlMOUVEcmJINFkwaGlCUTlKV0VEQlkzZkxHdkFwUVppZTRVdUQ2RHhmWHpwaE1iRXNTWDgzc2c?oc=5",
-      "prediction": "Foreign Direct Investment (FDI) growth into Indonesia will stall or decline in 2026 as investors wait for clearer alignment with G7 trade standards.",
+      "prediction": "At least one major US tech firm will pause its AI product rollout in Indonesia pending 'regulatory clarification' before year-end.",
       "grounded": false
     },
     {
       "section": "crypto_fx",
-      "headline": "Bitcoin and gold rally as the US dollar weakens",
+      "headline": "Bitcoin and gold rally as the dollar weakens",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZjhYLWRvY1c5TnNteV9UUFlJT2dNcVJiS0NtU3lRSDNpblJncGh0aWpKYzgtWDNpOEItTnZic0tHYzBVNnZNVnc5R2M1c0RHQmFDbXR5OTV2cVU1RlAzTF9aRFBOYkxvMHBWSWphNWpuSmg2NFZoUGYyZVNVNUhSQVpSVHU?oc=5",
-      "prediction": "Bitcoin will break $110,000 before year-end if the Treasury Department confirms a formal debt-buyback program.",
+      "prediction": "Bitcoin will breach its previous all-time high before the end of the next Treasury buyback cycle.",
       "grounded": true
     },
     {
       "section": "crypto_fx",
-      "headline": "Bitcoin is now moving in perfect sync with the Yen",
+      "headline": "Bitcoin's tie to the Japanese Yen hits record levels",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5",
-      "prediction": "Any 50bps hike by the Bank of Japan will cause an immediate 15% flash crash in Bitcoin within 24 hours of the announcement.",
+      "prediction": "Bitcoin will experience a flash-crash of 10% or more if the Bank of Japan hikes interest rates by more than 25 basis points.",
       "grounded": true
     },
     {
       "section": "crypto_fx",
-      "headline": "Fed liquidity signals could be the next catalyst for crypto",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLWowck9uTTBPRi11WjBMQ1czLWVxTm1qVjZzOTVNNlo1LXdKekp5SG1HbjRidzlhMEFDbVZYb2QzQjZMa0d4X285ZVJJem1KNUctbFpyTUgyd0dXYjROeWRfTzRteEVoOWY0R1JMTTJTTGMyZXRDajVEamFFYXlCc0V2cVIwVzRfNW5NQ0NGczNoQl9VeWVCaS05ampPdjc4dWo5WHZ3MGRSWDNEZ2VHcmZ2RVFNZi1PNnprNUpB?oc=5",
-      "prediction": "Bitcoin will hit a new all-time high within 30 days of the Federal Reserve announcing a formal end to Quantitative Tightening.",
-      "grounded": true
-    },
-    {
-      "section": "crypto_fx",
-      "headline": "Investors are fleeing volatile coins for 'digital dollars'",
+      "headline": "Investors flee to stablecoins as Bitcoin volatility spikes",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc0FjUTVZN3JBM2t6c1NLWkxJR1VvSFd5VmZDN1Z2dXhZU3p4S2tBRndYdzlxZ1JHVmhjLU5jN1pYZ0xwOU9WdTNQNHJJazlIcUM0T2NqaFNBd2x4cUlRTE5HR0xBM3Zuc2ZIT3lFRncyaUZYTTBlQUlmQjJJcWpibjdhbXR0MTVVVFZDR3kzWWJET3YzU1hsbXYwcV9MN2JWb21RSUxaR19rYmYxU0NSZVIyU2toRTg5?oc=5",
-      "prediction": "The total market cap of stablecoins (USDT/USDC) will hit a new record high by mid-2026, even if Bitcoin remains range-bound.",
+      "prediction": "Tether's (USDT) total market cap will hit a new all-time high within 30 days as capital flees volatile Altcoins.",
       "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin erases its entire 'Trump trade' price bump",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNEtqckFZRzZHclBKMzh2MEc2WnNIN1RsRVY1c1poeVY5d1lMcmVsQUk0aTMzdGYtOUpnbWs4X2JiZ1otZFd5a2h6bjhzUEI0Y1RWLVd0NEtPcEZYWV8wTW1pTVhPN1FRaTdiMDM1T2pyTFVYSl8zZThfZENpQ3I5LWpMdVNkNzQxdHd2QWpINmtQRnAtVDFpcV9FYnJnOWZSbnBVcDNEYl81aFZKZWhjVjU5c093SEnSAbwBQVVfeXFMTlZLOHN2NEJGdWIwcm5WeXRhaTZMbVJ1N2Y0VjhGMkhkb2JCNmpYZ2VJSmhyVjdqMDVuYUZUbGdtU1ZWY3FMWWxhdU1FRmNXcEhZNTBrNDFBWFIzR20wZUZHdDJqWGxrZG1TYXFHV0paSDl6Qk0wX2ZjUE5xQjN5Qk8yTDdQOUpiZWR1dVNhOUlscVF3c3FZTXFQR2ZyaC1ubnNDeDBCQ25PNDlaYmhSQlJmQks4LUYyZFdxQmY?oc=5",
+      "prediction": "Bitcoin will test and likely break the $60,000 support level before it sees $70,000 again.",
+      "grounded": true
     }
   ],
   "stories": [
     {
       "section": "tech",
-      "headline": "Nvidia hikes AI chip prices by more than 15 percent",
-      "summary": "Nvidia has informed its customers that the cost of its AI-related hardware and services is jumping significantly.",
-      "view": "Nvidia is aggressively testing its monopoly power, betting that the AI arms race is price-inelastic. By passing on soaring HBM3e memory costs and foundry hikes from Samsung, Nvidia is effectively taxing the entire hyperscaler layer to maintain its 70%+ gross margins as the industry moves toward 2027 hardware cycles.",
+      "headline": "Nvidia hikes AI chip prices by over 15 percent",
+      "summary": "Nvidia has informed its major customers that the cost of its high-end AI hardware is increasing significantly.",
+      "view": "Nvidia is aggressively leveraging its monopoly to pass on surging HBM memory and foundry costs to its most captive customers. By announcing hikes into 2027, they are signaling that the AI hardware 'arms race' has a long tail and that margin preservation is their top priority over market share. The real winners are Nvidia and its supply chain partners like Samsung, while the losers are hyperscalers who must now choose between lower ROIs or hiking their own cloud prices.",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWS1NOHBfNzB3RGJTaXpPM25VZENhMWdGdkg1M2JHZjZoOWxtOGotQXh4TXZ2V0tIcDBscldpd0VuMy1fTEJzbF94dWVpTmZOZUd1NTdyZ2tjQzAzc0JHWEU0eWt3Mng3aVlObXZhMkYtaDVPNXh4b0hlUGJUb0VyNW5EU3hmcmY0WEFLMzRCakhpeFdIUWFkV2tZMTJXWllhR29DTUREQktNOHlUMnhSQ0s1Vk9ndw?oc=5"
     },
     {
       "section": "tech",
-      "headline": "Major tech firms continue cutting staff despite the AI boom",
-      "summary": "New data shows that Apple, Meta, and Microsoft are still trimming their workforces throughout 2026.",
-      "view": "Big Tech is using AI as a convenient PR shield for 'efficiency' re-engineering that is actually about margin expansion and shedding legacy overhead. The industry is shifting from 'hiring for growth' to 'hiring for compute,' where human headcount is increasingly viewed as a liability rather than an asset for 2026 valuations.",
+      "headline": "Tech layoffs persist as giants pivot to efficiency",
+      "summary": "Major players including Meta, Microsoft, and TikTok are continuing to trim staff well into 2026.",
+      "view": "The era of the 'growth at all costs' tech workforce is dead; these persistent layoffs represent a permanent pivot to 'lean AI' operations where headcount is traded for compute power. Meta and Microsoft are re-engineering their cost structures to ensure that every dollar of revenue requires fewer human hours to generate. This is a massive win for institutional shareholders and a death knell for middle management in the tech sector.",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPM3E4cFQ4NjVxamx5czRPOTdCMWxJQjFtVUlFOGFtdW1qVHBiQTZWRjhralN6aVh6b0NsQ1VaTHFmZ0ZMcUNSTUJ1UTN1VE1fTmxRamdWYWJFMTRJbWRLMy1Pem9GaWVuZzZoMnlkcEVOY0w0TTFRLWFQRUZJakdYSm9GUkFpN3FkZWhKVVNpQXRLZnVWRjAwcElmUTMwc0VxVWxwVDNTWVh3ZWlhS1BGU0RGMXRIY1VJeUZrQkZXbmNkanZfS0U4ZXZRMDhSZzd5Y1RlTHM2TllBNkFoLUZGNXYteXRodw?oc=5"
     },
     {
       "section": "tech",
-      "headline": "Trade groups panic as Canada tariff deal remains stalled",
-      "summary": "Tech industry leaders are warning that a lack of agreement on Canadian trade could disrupt hardware supply chains.",
-      "view": "The hardware supply chain is far more integrated with Canada than the current administration's rhetoric suggests, particularly for specialized components and raw materials. A failure to secure a carve-out creates an immediate 'just-in-case' inventory tax that will be passed directly to consumers by the third quarter.",
+      "headline": "Trade deadlocks threaten higher costs for Canadian hardware",
+      "summary": "The tech industry is bracing for impact as negotiations over Canadian tariffs remain stalled.",
+      "view": "Stalled trade negotiations are creating a 'tariff tax' that will be borne entirely by Canadian enterprise consumers, effectively slowing down the country's digital transformation. US hardware giants will maintain their margins by passing costs through, while Canadian startups will find themselves under-equipped compared to US peers. This deadlock creates a massive opening for non-North American hardware vendors to gain a foothold in the Canadian market.",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcE5xU2U1aXdhSzJvdlZNYzl6akpmMEpLOXFDc200bDZjVjNZaXVEcFp3cm43SEl0bGIwaWZyb1NNUmdTNmFkbmgzNm5ZazBrVTIwcDJwQWVpVlFMM3hNcVRtenNqYU9BQ2pVLWRtXzdfRXAzaTRfek9IWkJGaGp5bjFGbXZwcVVpTXVRMlhjanhLVVEta1E?oc=5"
     },
     {
       "section": "tech",
-      "headline": "The AI revolution is creating two different tech industries",
-      "summary": "In major hubs like Israel, a deep divide is forming between AI-focused firms and traditional tech companies.",
-      "view": "We are witnessing a structural decoupling where 'AI-native' firms enjoy infinite capital while 'legacy tech' is being valued like a utility. In major hubs, the real destruction isn't of existing jobs, but of the traditional career ladder, as investment capital ignores any firm without a transformer-based roadmap.",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kb2pMUnUtSVBTLWlvT1hvdUhvRW13dXhadDN6ZXBOTzlQcy1XTGxWZWxGbmdpa0FoejFRNGE0TjVRZzJfbjA0NFFBc1lQTWlXd1pKV2x0a21ieWlBMVNZdHdRUDRZWE9iTnc?oc=5"
+      "headline": "AI data centers become the new industrial gold mine",
+      "summary": "Cities like Flint are seeing a massive influx of tech demand as data centers seek power and land.",
+      "view": "Data centers are the new 'anchor tenants' of the American Rust Belt, turning power-hungry AI infrastructure into a local economic lifeline. However, the 'gold mine' status is precarious as soaring copper prices and localized 'NIMBY' resistance create a pincer move on project viability. Utilities and copper producers are the true beneficiaries of this trend, while municipalities face a future of potential grid instability and rising consumer electricity rates.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb3YtVF9HazNDclBYQmlGNkM2RFUxNlg0REVVNFZpQXlRLUp0em5xQ240TlBoSkhXYzhTRG54U2VxdGo4YUpJY0p1VWJQVjI3Sk14d2Q4ZC1RWkpFN09YcUxRaHM2N0hKNW8xZGVMem00ZkR0Rm5ETndweTBMLXBfOG5OUnZ3TnNCbFQtbUpRWUUtOERKODdoZVNZbnNGZGtha0p1LURYWmluSVlMSms4RXdPUXUwUGhORGo1MVNGNA?oc=5"
     },
     {
       "section": "markets",
-      "headline": "The stock market rally is finally spreading to smaller companies",
-      "summary": "The 'equal-weight' S&P 500 is outperforming the standard index as the tech giants' dominance fades.",
-      "view": "The broadening of the rally into equal-weight indices signals that 'Mag 7' exhaustion has finally forced capital into deep-value pockets. This isn't just AI fatigue; it's a bet that the broader domestic economy is resilient enough to handle 'higher for longer' rates, which specifically benefits smaller, value-oriented companies.",
+      "headline": "Equal-weight S&P trade hits massive 100 billion milestone",
+      "summary": "Investors are pouring record amounts into S&P 500 funds that don't just track the biggest tech giants.",
+      "view": "The $100B milestone in equal-weight funds is a clear vote of no confidence in the sustainability of the Magnificent 7's dominance. This is a massive liquidity rotation into the 'ignored 493,' signaling that investors are finally pricing in the risk of a tech-led bubble pop. It moves the market by broadening the rally, which actually creates a healthier, more resilient price floor for the index overall.",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IckxLSXNzT3VrdlV5UzNXRDUxTlQ3d1BBOWFEVk1xOXVTOU1xcGdaS2NxR1k3NmFrSFRaYUJtMTN6ZjRWbEJIakc4a3JPNEFxX01uV3liV2UtUVR4eG5tLTRMekJFOFJ0bGJ2QXVmanpZdV9wYWlzUFh30gF_QVVfeXFMTTNBUjd2b2JhclhwMnhVT1pZempacXhGd1FIZXRkeW9teGgtdmNURHBlYVFmOTB4QVh4a0RTRTV5T1dOUVdmUEZOZXZjaS1NMWIzWFhoaXhEVDBNSUU3LVJwclk1UVUtZ0t2akZId1REWUVlWGlpY2NnNHZPUnUzUQ?oc=5"
     },
     {
       "section": "markets",
-      "headline": "Massive stock trading disclosure reveals high-level political market activity",
-      "summary": "New filings show a flurry of over 1,000 stock trades made in a single month by Trump.",
-      "view": "The scale of these trading disclosures creates an unprecedented 'political alpha' distortion in the market. Retail traders will treat these filings as a 'Trump Insider Index,' creating self-fulfilling price movements and liquidity surges in the specific Big Tech tickers identified in the reports.",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYzUtWUJMb241QlNQYTg4V19PMzhWdnE5cWFEMS1xMjRXYzNJMTJscFp1NVV4NEtqOHdENGdrVzE4X2lWRk5Rd3ctYklnR0QtdUlwR2RBSlFVakJRbnZpOVI5VUdEOGtJdVZFaHFmdkxDVUZleVh0UUZWREN6QjJvbW4tSlNFcURKU0dKZ3RxV3BtS2M?oc=5"
+      "headline": "The stock market remains shackled to Nvidia's performance",
+      "summary": "Nvidia's upcoming earnings are being treated as the ultimate health check for the entire market.",
+      "view": "The market has effectively treated Nvidia as a proxy for global GDP, meaning any guidance hiccup creates systemic volatility far beyond the semi sector. The plummeting of Nvidia-backed CoreWeave post-earnings suggests that the 'AI ecosystem' is starting to show cracks in its secondary layer. Investors are realizing that hardware sales are a 'front-loaded' benefit that may not translate into sustainable software revenue for the rest of the market.",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSDYwYVZIWmxmM2c5QUZsQlU1cXRIdWMtRUg1Y0ZMcEc0WWkwWF9RVEJ2RzY1MnFNak9NTjM3d0NiMFVIOUR2VzYtcUg1OFZBeXdrQUxseTBhTm1pbTB2N0cwSmlBaEJvU3RFSUdROUN6TUFJMjIzNkRYSnNtems5MHBZUDU2b1VJRWFRYUZUUHRQT2toSTZRYVZCb2h0RlBKdEJCQlQyeDhxSGVXMXgxeXBEU0lmWEIwNkpac2tQc0FLTlplRTNwaTlEUQ?oc=5"
     },
     {
       "section": "markets",
-      "headline": "Gen Z gives up on housing to bet on stocks",
-      "summary": "Younger investors are pouring their savings into the market because home prices feel out of reach.",
-      "view": "This is the 'financial nihilism' phase of the housing crisis: Gen Z is treating the equity and prediction markets as high-stakes casinos because the path to homeownership is mathematically broken. By shifting from savings to risky bets, they are injecting a new, permanent layer of volatility and sentiment-driven momentum into the market.",
+      "headline": "Trump's lightning-fast stock trades reveal massive Meta exit",
+      "summary": "New financial disclosures show high-volume trading by the former president, including selling off Meta.",
+      "view": "Trump's massive exit from Meta is more than a personal portfolio move; it\u2019s a high-conviction signal of impending regulatory hostility toward the platform. This creates a 'political risk premium' that will depress Meta's multiple relative to its peers. The former president's high-volume trading style forces the market to treat his financial disclosures as a 'regulatory roadmap' for the next administration.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY2p6b0JpNDlPNmtYUi1TUFR4OTVyMHRFTGJXQ0V5ZEpodVZYN2RYMDVuSElZMmRudjROZERtUHVKT2tTY2ZXUHYxWEZfTHRka1FlOWlKNXlGWG5tNF9tZ29MT0ZqRGFNdE1qNVpleU1Tdk1mY0VHbkRiNGttZ2R0cll3ZVZxSWhqTFo2RUU2Y202dC11SUUxdEJkek1zc1V4enc?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Gen Z skips homeownership to bet on stock portfolios",
+      "summary": "Younger investors are prioritizing liquid market assets over the traditional dream of owning a home.",
+      "view": "Gen Z's pivot from housing to equities is a rational response to an illiquid and unaffordable real estate market, turning the stock market into a 'digital piggy bank.' This demographic shift creates a permanent, structural floor for the S&P 500 as monthly 'mortgage-equivalent' inflows hit ETFs instead of banks. Brokerage platforms and high-growth tech stocks are the winners of this 'rent-and-invest' lifestyle.",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMVTlIaUs5YncxSkpZTDdjUkNTRXVTdW85dFlGZlJ3ZkMwWmdKNk8xTzlzdG4yeGN1QTBzaXZGdm9HQ2FQNkdicDBKOFQtZWRnN0F6UHdUMDZMdVZsN2U3TlQ1UzZ1d2tXMWFGVE9fam9sRDdjN3VibENkOA?oc=5"
     },
     {
-      "section": "markets",
-      "headline": "The bond market threatens to pop the stock bubble",
-      "summary": "Analysts warn that rising yields on government debt could make stocks look too risky.",
-      "view": "The 'Equity Risk Premium' is thinning to the point of absurdity; the bond market is acting as the 'adult in the room' by pricing in fiscal profligacy and tariff-induced inflation. Stocks are currently ignoring the reality that risk-free yields are sniping at 5%, which creates a massive vulnerability to any disappointing earnings data.",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS2o2SDREdjdxbm5NUnJGMkVjT2JULVYzZ1Rfamx6Sy16WDdmNkoyMERXVEVtZkxXc0NlMkxraFRXaTdUUlJ2MnYtOV9UZUtEZm5BNlU0RUdGVkpIcmZzS1hxc0dDeVl2WWRXQTlmS1IyT2FPZEpuR3hnM0NFVEstX3dVY0NhUGpBZ0lVTDk5WWVSUEJfT2VnelJkQXIwWno1bVE?oc=5"
-    },
-    {
       "section": "us_news",
-      "headline": "New 50 percent tariffs hit everything from Canada",
-      "summary": "A wide range of Canadian goods are facing massive new import taxes under the latest trade policy.",
-      "view": "This 50% tariff is a maximalist negotiating tactic that risks destroying the highly integrated US-Canada supply chain. While some analysts downplay the impact, the reality will be an immediate inflationary shock to energy, timber, and groceries that will hit the US construction and retail sectors by next quarter.",
+      "headline": "Strange niche goods hit by 50 percent Canadian tariffs",
+      "summary": "A wide variety of everyday and specialized Canadian items are now facing heavy US import taxes.",
+      "view": "These 50% tariffs are a blunt-force negotiation tactic that will cause immediate, localized 'sticker shock' for US consumers without solving long-term supply chain issues. While domestic US producers of these niche goods gain a temporary price advantage, small businesses reliant on integrated cross-border logistics will face a margin collapse. This is a classic case of 'trade friction inflation' that will likely be walked back once political concessions are secured.",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSWJiTC0zaE8wNVhVNERJVzhCWGlTWmY3RjZvRjFZMUxSRDVZc0VVOHlZSndWQjJCc0xheW1BbWhFS081R3VmMWViZ3FLN0szbGxuOTdMOWpmcnZrVUF3Z1VxZkdLdnJsWTB4VUh6ejBFenhRLTc1MXRGT1RFdXR4NnBiQS1qWmpFVnlncm1TckRNVDhxd2Jv?oc=5"
     },
     {
       "section": "us_news",
-      "headline": "Politicians turn against the expansion of AI data centers",
-      "summary": "Republican lawmakers are increasingly opposing new data centers due to power and water concerns.",
-      "view": "We have hit the 'NIMBY' wall for AI; local politicians have realized data centers provide massive tax revenue but almost zero local employment while straining power grids. The 'unlimited compute' dream is about to crash into the reality of local zoning boards and water rights litigation, which now represent the biggest tail risk for AI infrastructure.",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV0h3d3N1UlREUG9md3JGMmRJVXJUeTgxSjhyWDBsWC1IakRYRk5nQUVUY21QdlJ5N0tGODhFQzgxWWM2dGlJalMxVWRiQ0ZwR0FGRXZDd3dnaVY0eDNqUUlyR1hxVnhkSWJ1Sl9LTEZOM0dhaHJzZkg0QVdiQnlCRGJyQzJKYzN5WmVKaXVNYURDblVGeEZLc2lpaEpfUS14RWlyNjM5bTFhYk1reUg2UXFCdkpKM1c2TVZ2ZVJSTzRnQQ?oc=5"
+      "headline": "Federal water cuts hit as Colorado River levels crash",
+      "summary": "Officials have announced mandatory water usage reductions as Western reservoirs hit critical lows.",
+      "view": "Mandatory water cuts are officially shifting water from a utility to a strategic constraint, favoring industrial hubs in Nevada over traditional agriculture in Arizona. This creates an economic 'water sorting' where low-margin farming is phased out in favor of high-efficiency urban and tech development. Nevada's long-term planning has turned a resource crisis into a competitive advantage for attracting new business capital.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbGZuVDE3aHotbGJCX0NzeDFlc0ZCUmxRTW1SS0xXNHpIZGh0NTVJMGw2Q3N2WjRQMWRzV3VuSTFla2ltLVlzRkJteWluT25xMjVielJwT0lPTG1XNkNLYjEyc0I1UXFUTkEzckNYT0NqLUhocG1aRE5rb1FLZWc1QmdXRzBxbmxFV01LX0ZmZi1SR0hBN3dwelZoVV9XVkgxQVM5clJwVzVlWW0wYmNGTTNnencxOXZ0czVj?oc=5"
     },
     {
       "section": "us_news",
-      "headline": "Walmart makes a major play for the fashion market",
-      "summary": "The retail giant is launching its own high-end clothing brand to compete with specialty stores.",
-      "view": "Walmart is aggressively moving up-market to capture the 'distressed middle class' consumer who can no longer afford specialty stores but still demands aesthetic value. By leveraging its supply chain dominance to undercut competitors on price while mirroring high-end design trends, this is a direct assault on Target\u2019s core identity.",
+      "headline": "Billionaires buy up farmland, squeezing out local farmers",
+      "summary": "A surge in farmland acquisitions by the ultra-wealthy is driving land prices to record highs.",
+      "view": "Billionaires are hoovering up farmland as a 'hard asset' hedge against currency debasement and a long-term play on food security. This is pricing out generational farmers and transforming the US heartland into a corporate tenant-farming model. The result is a surge in land values that benefits the wealthy but hollows out the economic resilience of local rural communities.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNmFQLWVBSnF6S2w3VHVTTGszYlBtOHA3dFA1VDI3MkNpVkYyUWNuNWp5VGIyM2tKYlBwU0F0QURiN0tCZ09PZDZBeC1JbjZhUmRDYzVVNXlEaUlhS2FkWXRaUUo0QzBxeVhRZjU3bnhOLW91YlNUd2hpaDN3TGZMbkt5WjRibTgzb1RjR1dZZk1URE10bzBaVURWTWVpdGRyY0hJajJvVjFEdkU?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Walmart launches new fashion brand to challenge Shein",
+      "summary": "Walmart is aggressively expanding its clothing line to capture the budget-conscious 'fast fashion' market.",
+      "view": "Walmart is finally weaponizing its massive physical footprint and superior logistics to eat into the 'fast fashion' market share of Shein and Temu. By offering instant gratification and easier returns, Walmart is capturing the 'budget-conscious' consumer that Target has alienated with its recent identity struggles. This is a battle of logistics vs. data, and Walmart's local proximity is a winning edge for the American consumer.",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT0RxcEVmV1BiOEw4QjdpUTYzRUxBQzBmcTRERDIzMHpOT2F0WUdjTktQdkZCNlQtRjVuam1SYUM2V05KTzNaWjl4MUU0dnZCUGNVZkt0eUdZZTZsMnE5ZHBERnBxVkREWW9XVmszTk96T1kzTmxwOFNpUFk3Z204OVZBLWVsV3E5ejdMVmVCeFlLMkswVUtISHl2Q3NONk5EUldRZEFn?oc=5"
     },
     {
-      "section": "us_news",
-      "headline": "United Airlines CEO looks to AI for future growth",
-      "summary": "CEO Scott Kirby is planning a major expansion at JFK and a heavy integration of AI technology.",
-      "view": "CEO Scott Kirby is betting that AI-driven 'dynamic pricing' and operational efficiency are the only ways to survive the triple threat of rising fuel, labor costs, and airport congestion. By integrating AI at JFK, United is looking to optimize slot usage and passenger yield to a degree that makes traditional airline models look prehistoric.",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QNEJTWmp2TUxZN0FZT1l2bnFzV0Fva1drcU1aUzFfSnhmNmpCNFV4NGFfelp4b09xeXJZQi1HR2VlcktTcS1FUlBtYWZfRXliSEhGbVpCUUJKUXUyUVlGdG05NC1IeExVdWNkQ2FVdGxRYXZhRWVv0gF8QVVfeXFMUEtrM2xoMUhWVzBrc0FlZ0xjek9SNGY2VkdYQ0VTRm1fZFZueFVlSkgzTjdOSXdreE5mUlpPUS1XNGJuUGxSNE01czZPdmNobzEzNUVGSEx1bW5mbE9jYkdHd0sxZFZLR2xiUmhFTDVtcGVNOUdaaURQWmktXw?oc=5"
-    },
-    {
       "section": "indonesia",
-      "headline": "China deepens its control over Indonesia\u2019s nickel industry",
-      "summary": "Massive new Chinese investments are reshaping how Indonesia exports its most valuable mineral.",
-      "view": "Indonesia has effectively traded Western environmental standards for Chinese capital and 'downstreaming' technology. This total capture of the supply chain makes 'Indonesian Nickel' synonymous with Chinese industrial policy, which will likely lock the country out of US IRA-compliant markets in the long term.",
+      "headline": "Indonesia's nickel monopoly draws massive Chinese investment",
+      "summary": "A new wave of Chinese capital is flowing into Indonesia to secure control over EV battery materials.",
+      "view": "Indonesia\u2019s 'commodity nationalism' is successfully forcing a transfer of technology and capital from China, securing its position as the OPEC of the EV era. However, this creates a dangerous monoculture economy where Indonesia's fiscal health is entirely dependent on Chinese demand and nickel price stability. The winner is the Indonesian state treasury in the short term, but the loser is long-term economic diversification.",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTGNxaHRjdWlmUXB2Vm9GOWRjTTJjTHk3cmN4akNmQUh3dkdfVTEzS0pTa1lhS1RVWFNmV2VwdHJmTkxCanBvVHpMelFSNURVVzhRLWpjSTBSdl8tSk42aUlmN3JBN2k4S0o2d2RTd3B1WUo0VE1ON2FibWZNdmJLRVJBaGZpbnpnVG94VGFzRFpzZ21sLXo5TnpXTDBkY0RPUFNIUEg1MlB4azhNNU5sX3otV25GRnVEZXY5WFFVYm52ckdHa1I0?oc=5"
     },
     {
       "section": "indonesia",
-      "headline": "Indonesia seeks to hold joint military drills with China",
-      "summary": "The government is exploring expanded security cooperation with Beijing alongside its existing US ties.",
-      "view": "Prabowo is playing a high-stakes 'non-aligned' game, using security ties with China to hedge against US sovereignty overreach. This isn't a pivot to Beijing as much as it is a message to Washington that Indonesia\u2019s defense cooperation is a commodity for sale to the highest bidder.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSmdKaGRtdUpaMGN0czk5LWFxWHdVdm1Hd2JkSW92NTl1ejFqVGpfdVBfN3NGMmZ0WFZWSXJfa3ZOWU4yX1ZmMUg5alJBTGs5M3VhUWtWRjNXNUEwREpnNVpUNGx6Yk9sb0N6LVBkWGVnMlRMaHBXN0dESTFfWE5EM19wOHJkcXJ5TFg2Yy0xZlo5Qm9KRlJtWkhIZ0FNcnVVRmZF?oc=5"
+      "headline": "Jakarta balances security and economics with Beijing talks",
+      "summary": "High-level ministers met to discuss deepening economic ties despite regional security tensions.",
+      "view": "Jakarta is masterfully playing a 'pragmatic neutrality' game, using the lure of infrastructure investment to de-escalate maritime security tensions with Beijing. Both sides win by keeping the South China Sea status quo from boiling over into a trade-choking conflict. Indonesia effectively gets to 'double dip' by taking Chinese capital while maintaining a security backstop with the US.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPczhmbHpHMUd4bTZYQlQxZ2gtZktITk5faVdyZkxtdy1LQnpFTWdEM0FqLW1UczJWWFNmZGZrN0ZkdHk1aWdhSWFIQm4xT0VxdktIMjJmRE11ZVVVTWsxc05neXllMzJCbk1GM3BBOGFPb1dUVlF5bzg2NUQya1ZkckNOMUstWTlxejhsZ3ZZR1Q1M2dXOWRTMFJXcVRQUQ?oc=5"
     },
     {
       "section": "indonesia",
-      "headline": "New copyright laws challenge Google and AI platforms",
-      "summary": "Indonesia is preparing rules that would force AI companies to pay local creators for data use.",
-      "view": "Indonesia's move to force AI companies to pay local creators is a 'digital sovereignty' play aimed at extracting rent from Silicon Valley. By setting these rules, Jakarta is positioning itself as a leader in Global South tech resistance, hoping to create a new regional standard for data compensation.",
+      "headline": "Political shifts raise fears of a democratic 'slowdown'",
+      "summary": "Analysts are warning that personalist politics could erode Indonesia's post-Reform stability.",
+      "view": "The 'slowdown' in democracy is a calculated move to prioritize 'authoritarian developmentalism'\u2014modeled after Singapore\u2014to ensure project continuity and investor confidence. While this provides a stable environment for foreign direct investment (FDI), it increases the long-term risk of systemic corruption and succession crises. Investors should enjoy the current stability but hedge for a 'post-reform' institutional decay.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZWdWNzRycEpzNmpSZXRsXzlqWlItX3ZKR1dZeUV4c00wVEF3b1NCbjVJV2hVdUttLVNVM1lpbjZWalpQV2VScGpXbXhVUlQ3aFlPN3lPcGZqbVlaUkpHVGpHY1MwNGZpTkR0SlZEcXFfdlc5MlhYRUw0MDlXQTlaZDB6aWVEcU51Q0FXVFN3ekdVZHZUN0c4M0Ywak54X2YzLS05RGtBMGtGdXZB?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "New copyright law puts Google and AI on notice",
+      "summary": "Indonesia is preparing legislation that forces tech platforms to pay for local content used by AI.",
+      "view": "Indonesia is leading the charge on 'AI sovereignty,' treating local language and cultural data as a national asset that tech giants can no longer exploit for free. This will create a 'pay-to-play' barrier for Google and OpenAI, likely forcing them to establish local partnerships or data centers in Indonesia. It\u2019s a win for local media and content creators, but it may delay the rollout of advanced AI features for Indonesian consumers.",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ3dUZEU3QUhQc25HUlh0TXVWaDl1YlIwdVFNUm9vLWZ3QjgtVjV4RWZaemdSeFFiYUZjbEg4Mmt2WUhCa2hLNS11QzVaVXlHQkNEWnJKN2tUVThNeTRtTS1MN0hKeWlJOUFaVXFUS3hqZ0JWbDBsZVRlMk1nT0QxM2ZHRkRVVHhMbi00d1hVQnhOdjMxZ0pFSTludWtzU0RXN3I1WVpleWlTSkk3Zk9Kb19CbjhFVG1nOFR3?oc=5"
     },
     {
-      "section": "indonesia",
-      "headline": "Economic policy mismatch sparks concern for investors",
-      "summary": "Experts warn that Indonesia's internal economic policies are out of sync with global trends.",
-      "view": "Indonesia is attempting to maintain protectionist 'downstreaming' policies while the global economy moves toward open-market 'friend-shoring.' This policy mismatch is creating a friction point where the country is too resource-rich to ignore but too restrictive for the next wave of high-growth foreign investment.",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRTIwZU5HaFBlNkUtNXF6c04zTmFsT1BWT0lVbmN2UkJhOFZUTXBVSlFma2FQZ0hBaWFCVFNETkpoRno2dHVOeXBrVVotREJLOFJDOXMycGVkdzNOV1pCTDhueFl3M2lWTGlZUjlMOUVEcmJINFkwaGlCUTlKV0VEQlkzZkxHdkFwUVppZTRVdUQ2RHhmWHpwaE1iRXNTWDgzc2c?oc=5"
-    },
-    {
       "section": "crypto_fx",
-      "headline": "Bitcoin and gold rally as the US dollar weakens",
-      "summary": "A shift in US Treasury leadership expectations is driving investors toward alternative assets.",
-      "view": "The rally in Bitcoin and Gold is a front-run on a 'Bessent Treasury' policy shift toward dollar devaluation and debt buybacks. These assets are moving in tandem as 'fiat exits' for investors betting that the next US administration will prioritize debt monetization over maintaining absolute dollar strength.",
+      "headline": "Bitcoin and gold rally as the dollar weakens",
+      "summary": "Treasury interventions in the bond market have sent yields lower, boosting 'hard' assets.",
+      "view": "Bitcoin and gold are the primary beneficiaries of 'Bessent Buybacks,' as the Treasury's intervention to lower yields acts as a stealth QE program. By weakening the dollar, the US is inadvertently fueling a 'hard asset' rally that serves as a hedge against future debt monetization. This confirms that BTC is now a mature macro asset, moving in direct opposition to the US Treasury's fiscal desperation.",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZjhYLWRvY1c5TnNteV9UUFlJT2dNcVJiS0NtU3lRSDNpblJncGh0aWpKYzgtWDNpOEItTnZic0tHYzBVNnZNVnc5R2M1c0RHQmFDbXR5OTV2cVU1RlAzTF9aRFBOYkxvMHBWSWphNWpuSmg2NFZoUGYyZVNVNUhSQVpSVHU?oc=5"
     },
     {
       "section": "crypto_fx",
-      "headline": "Bitcoin is now moving in perfect sync with the Yen",
-      "summary": "The correlation between Bitcoin and the USD/JPY pair has reached an all-time high.",
-      "view": "Bitcoin has become the ultimate proxy for the 'Yen Carry Trade.' When the Yen strengthens, speculators are forced to liquidate risk assets to cover Yen-denominated loans, meaning Bitcoin's price action is now effectively a play on Bank of Japan interest rate policy.",
+      "headline": "Bitcoin's tie to the Japanese Yen hits record levels",
+      "summary": "The correlation between Bitcoin and the USD/JPY pair has strengthened to a staggering -0.90.",
+      "view": "The -0.90 correlation with the USD/JPY pair confirms that Bitcoin has become the ultimate proxy for the global carry trade and dollar liquidity. When the Yen strengthens, Bitcoin falls\u2014not because of its own fundamentals, but because it is the most liquid 'risk' asset to dump when global funding conditions tighten. The DOJ investigation into Fed leadership only adds a 'regime change' premium to this volatility.",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5"
     },
     {
       "section": "crypto_fx",
-      "headline": "Fed liquidity signals could be the next catalyst for crypto",
-      "summary": "Traders are closely watching the Federal Reserve for any signs of increased cash flow into the economy.",
-      "view": "The market has priced in stable rates; the real driver now is Fed liquidity through the Reverse Repo facility and balance sheet management. Bitcoin has become a 'liquidity sponge' that cares less about economic data and more about the volume of cash sloshing in the financial system.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLWowck9uTTBPRi11WjBMQ1czLWVxTm1qVjZzOTVNNlo1LXdKekp5SG1HbjRidzlhMEFDbVZYb2QzQjZMa0d4X285ZVJJem1KNUctbFpyTUgyd0dXYjROeWRfTzRteEVoOWY0R1JMTTJTTGMyZXRDajVEamFFYXlCc0V2cVIwVzRfNW5NQ0NGczNoQl9VeWVCaS05ampPdjc4dWo5WHZ3MGRSWDNEZ2VHcmZ2RVFNZi1PNnprNUpB?oc=5"
+      "headline": "Investors flee to stablecoins as Bitcoin volatility spikes",
+      "summary": "Market data shows a massive shift of capital into 'digital dollars' like Tether and USDC.",
+      "view": "The massive capital flight into stablecoins is the ultimate 'risk-off' signal within the crypto ecosystem, showing that even native investors don't believe the current price levels are sustainable. This 'digital dollarization' provides a massive liquidity cushion for Tether and USDC, making them the real winners of market volatility. It signals a 'wait and see' approach from whales who are prepping for a much lower entry point.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc0FjUTVZN3JBM2t6c1NLWkxJR1VvSFd5VmZDN1Z2dXhZU3p4S2tBRndYdzlxZ1JHVmhjLU5jN1pYZ0xwOU9WdTNQNHJJazlIcUM0T2NqaFNBd2x4cUlRTE5HR0xBM3Zuc2ZIT3lFRncyaUZYTTBlQUlmQjJJcWpibjdhbXR0MTVVVFZDR3kzWWJET3YzU1hsbXYwcV9MN2JWb21RSUxaR19rYmYxU0NSZVIyU2toRTg5?oc=5"
     },
     {
       "section": "crypto_fx",
-      "headline": "Investors are fleeing volatile coins for 'digital dollars'",
-      "summary": "As Bitcoin's price fluctuates, there is a massive move into stablecoins pegged to the dollar.",
-      "view": "The massive move into stablecoins is a sign of 'dry powder' accumulation, not a flight from the ecosystem. Investors are parking capital in digital dollars to prepare for a major 'buy the dip' moment, indicating that long-term bullish sentiment remains intact despite short-term BTC volatility.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc0FjUTVZN3JBM2t6c1NLWkxJR1VvSFd5VmZDN1Z2dXhZU3p4S2tBRndYdzlxZ1JHVmhjLU5jN1pYZ0xwOU9WdTNQNHJJazlIcUM0T2NqaFNBd2x4cUlRTE5HR0xBM3Zuc2ZIT3lFRncyaUZYTTBlQUlmQjJJcWpibjdhbXR0MTVVVFZDR3kzWWJET3YzU1hsbXYwcV9MN2JWb21RSUxaR19rYmYxU0NSZVIyU2toRTg5?oc=5"
+      "headline": "Bitcoin erases its entire 'Trump trade' price bump",
+      "summary": "The crypto market has dropped below $67,000, losing the gains made during the second term hype.",
+      "view": "The 'Trump trade' is dead, killed by the harsh reality of geopolitical risk as the Iran ultimatum reintroduces a level of macro-uncertainty that crypto cannot absorb. Bitcoin losing its post-election gains proves that it is still a 'risk asset' first and a 'digital gold' second. The $2 trillion wiped from the broader market shows that the 'Trump premium' was built on a house of cards that didn't account for aggressive foreign policy.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNEtqckFZRzZHclBKMzh2MEc2WnNIN1RsRVY1c1poeVY5d1lMcmVsQUk0aTMzdGYtOUpnbWs4X2JiZ1otZFd5a2h6bjhzUEI0Y1RWLVd0NEtPcEZYWV8wTW1pTVhPN1FRaTdiMDM1T2pyTFVYSl8zZThfZENpQ3I5LWpMdVNkNzQxdHd2QWpINmtQRnAtVDFpcV9FYnJnOWZSbnBVcDNEYl81aFZKZWhjVjU5c093SEnSAbwBQVVfeXFMTlZLOHN2NEJGdWIwcm5WeXRhaTZMbVJ1N2Y0VjhGMkhkb2JCNmpYZ2VJSmhyVjdqMDVuYUZUbGdtU1ZWY3FMWWxhdU1FRmNXcEhZNTBrNDFBWFIzR20wZUZHdDJqWGxrZG1TYXFHV0paSDl6Qk0wX2ZjUE5xQjN5Qk8yTDdQOUpiZWR1dVNhOUlscVF3c3FZTXFQR2ZyaC1ubnNDeDBCQ25PNDlaYmhSQlJmQks4LUYyZFdxQmY?oc=5"
     }
   ]
 }

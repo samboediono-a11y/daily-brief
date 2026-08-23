@@ -7,8 +7,8 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rMjYwRGNLa09aWFNHdDhLcklGMXgwU0hMUnBnNU0zenJqeTcxbTd2VXRhRUQzNUtIS05Ob3hLLVhoeUkwTFFMb3ZjYmgwNmMxTEF0WmJNYVNnekhQZ2tteTFPZFMyMmltaEZHT0h4eWNYYTl2N1RF?oc=5",
       "prediction": "At least two major Chinese tech 'unicorns' will cancel planned Hong Kong or US IPOs in favor of mainland listings by the end of Q3 2024.",
       "grounded": false,
-      "status": "missed",
-      "note": "EY reports indicate that mainland IPO activity slowed down while Hong Kong's rebounded, which contradicts the predicted shift of tech unicorns toward mainland listings."
+      "status": "too_early",
+      "note": "While headlines indicate a slowdown in mainland A-share activity and a rebound in Hong Kong for 2025/2026, they do not confirm or deny specific unicorn IPO cancellations from Q3 2024."
     },
     {
       "section": "tech",
@@ -16,8 +16,8 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWXZqelQtV3l6NTdlTm94RWlySEdZSEhueDVlLXBmLWJuSlJSUktXcXA4OFRQbW1UQUtvU000YnVrMUticXl3dUk3a19KTnY1WHU2eVotbWc4VkVoLVdoN0J2d05BMFBzRDJMaU4xZVFmN2V1d19IUXpDWWM1clVvZEF4YnI2RzVNZFRBYVNxaWxvZw?oc=5",
       "prediction": "Expect a major Big Tech firm to announce a multi-billion dollar AI data center cancellation specifically citing local zoning or power grid opposition within the next six months.",
       "grounded": true,
-      "status": "too_early",
-      "note": "Fresh headlines mention growing opposition and a specific case where construction began despite a negative local vote, but no multi-billion dollar cancellation is confirmed."
+      "status": "missed",
+      "note": "Headlines explicitly advise against claims of data center cancellations and note that construction proceeded in Michigan despite local opposition, contradicting the prediction of a major cancellation."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "NVIDIA will experience a 10%+ intra-day correction following its next earnings report if its growth guidance merely matches analyst consensus rather than exceeding it.",
       "grounded": true,
       "status": "too_early",
-      "note": "The provided headline is a general market update from early August 2026 and contains no information about NVIDIA's earnings or stock performance."
+      "note": "The provided headlines focus on Intel, Micron, and the KOSPI index, offering no information regarding NVIDIA's recent earnings performance or stock price correction."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "EU venture capital flows into 'Industrial/B2B Tech' will exceed 'Consumer Tech' investment for the first time by the end of 2025.",
       "grounded": false,
       "status": "too_early",
-      "note": "The provided headlines focus on sector outlooks for 2026 but do not contain the specific venture capital flow data needed to evaluate this prediction."
+      "note": "The current headlines provide general industry outlooks for 2026 but lack specific data on the breakdown of EU venture capital flows between Industrial/B2B and Consumer tech."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The US 10-year Treasury yield will touch 5.0% before the end of the current quarter, triggering a minimum 5% correction in the Nasdaq.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new headlines were provided to confirm or deny the movement of US 10-year Treasury yields or the Nasdaq's performance."
+      "note": "No new headlines were provided to confirm or deny movements in the US 10-year Treasury yield or the Nasdaq's performance."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "Total assets in US money-market funds will see a net outflow of more than $400 billion within 60 days of the next FOMC rate cut.",
       "grounded": true,
       "status": "too_early",
-      "note": "The provided headlines discuss Bitcoin outflows and general economic reports but offer no data on US money-market fund flows or FOMC rate cut impacts."
+      "note": "Fresh headlines discuss Bitcoin fund outflows of $400 million, but provide no data on the predicted $400 billion outflow from US money-market funds following FOMC actions."
     },
     {
       "section": "markets",
