@@ -6,42 +6,54 @@
       "headline": "Nvidia hikes AI chip prices by over 15 percent",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWS1NOHBfNzB3RGJTaXpPM25VZENhMWdGdkg1M2JHZjZoOWxtOGotQXh4TXZ2V0tIcDBscldpd0VuMy1fTEJzbF94dWVpTmZOZUd1NTdyZ2tjQzAzc0JHWEU0eWt3Mng3aVlObXZhMkYtaDVPNXh4b0hlUGJUb0VyNW5EU3hmcmY0WEFLMzRCakhpeFdIUWFkV2tZMTJXWllhR29DTUREQktNOHlUMnhSQ0s1Vk9ndw?oc=5",
       "prediction": "Nvidia will report gross margins consistently above 75% for the next four quarters despite rising manufacturing costs.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "While headlines confirm the timing of Nvidia's financial results for fiscal 2026 and 2027, they do not provide specific gross margin percentages to verify the 75% threshold."
     },
     {
       "section": "tech",
       "headline": "Tech layoffs persist as giants pivot to efficiency",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPM3E4cFQ4NjVxamx5czRPOTdCMWxJQjFtVUlFOGFtdW1qVHBiQTZWRjhralN6aVh6b0NsQ1VaTHFmZ0ZMcUNSTUJ1UTN1VE1fTmxRamdWYWJFMTRJbWRLMy1Pem9GaWVuZzZoMnlkcEVOY0w0TTFRLWFQRUZJakdYSm9GUkFpN3FkZWhKVVNpQXRLZnVWRjAwcElmUTMwc0VxVWxwVDNTWVh3ZWlhS1BGU0RGMXRIY1VJeUZrQkZXbmNkanZfS0U4ZXZRMDhSZzd5Y1RlTHM2TllBNkFoLUZGNXYteXRodw?oc=5",
       "prediction": "Expect at least two more major 'efficiency' announcements from Magnificent 7 firms before the end of Q3 2026.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "The provided headlines focus on general earnings growth and market outlooks for 2026 but do not mention specific 'efficiency' or layoff announcements from Magnificent 7 firms."
     },
     {
       "section": "tech",
       "headline": "Trade deadlocks threaten higher costs for Canadian hardware",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcE5xU2U1aXdhSzJvdlZNYzl6akpmMEpLOXFDc200bDZjVjNZaXVEcFp3cm43SEl0bGIwaWZyb1NNUmdTNmFkbmgzNm5ZazBrVTIwcDJwQWVpVlFMM3hNcVRtenNqYU9BQ2pVLWRtXzdfRXAzaTRfek9IWkJGaGp5bjFGbXZwcVVpTXVRMlhjanhLVVEta1E?oc=5",
       "prediction": "Canadian business investment in IT hardware will contract by at least 8% year-over-year if no deal is reached by the end of Q4.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Headlines discuss potential Trump tariffs and trade sequels for 2026, but provide no specific data or metrics regarding Canadian IT hardware investment contraction."
     },
     {
       "section": "tech",
       "headline": "AI data centers become the new industrial gold mine",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb3YtVF9HazNDclBYQmlGNkM2RFUxNlg0REVVNFZpQXlRLUp0em5xQ240TlBoSkhXYzhTRG54U2VxdGo4YUpJY0p1VWJQVjI3Sk14d2Q4ZC1RWkpFN09YcUxRaHM2N0hKNW8xZGVMem00ZkR0Rm5ETndweTBMLXBfOG5OUnZ3TnNCbFQtbUpRWUUtOERKODdoZVNZbnNGZGtha0p1LURYWmluSVlMSms4RXdPUXUwUGhORGo1MVNGNA?oc=5",
       "prediction": "Copper ETFs will outperform the broader S&P 500 Information Technology index over the next six months as data center demand hits the physical supply wall.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The fresh headlines mention tariff panic and buybacks but do not contain any performance data for Copper ETFs or the S&P 500 Information Technology index."
     },
     {
       "section": "markets",
       "headline": "Equal-weight S&P trade hits massive 100 billion milestone",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IckxLSXNzT3VrdlV5UzNXRDUxTlQ3d1BBOWFEVk1xOXVTOU1xcGdaS2NxR1k3NmFrSFRaYUJtMTN6ZjRWbEJIakc4a3JPNEFxX01uV3liV2UtUVR4eG5tLTRMekJFOFJ0bGJ2QXVmanpZdV9wYWlzUFh30gF_QVVfeXFMTTNBUjd2b2JhclhwMnhVT1pZempacXhGd1FIZXRkeW9teGgtdmNURHBlYVFmOTB4QVh4a0RTRTV5T1dOUVdmUEZOZXZjaS1NMWIzWFhoaXhEVDBNSUU3LVJwclk1UVUtZ0t2akZId1REWUVlWGlpY2NnNHZPUnUzUQ?oc=5",
       "prediction": "The Invesco S&P 500 Equal Weight ETF (RSP) will outperform the market-cap-weighted SPY by at least 300 basis points over the next six months.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "The headlines provided are from 2025 and do not contain performance data for the RSP or SPY ETFs following the August 2026 prediction date."
     },
     {
       "section": "markets",
       "headline": "The stock market remains shackled to Nvidia's performance",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSDYwYVZIWmxmM2c5QUZsQlU1cXRIdWMtRUg1Y0ZMcEc0WWkwWF9RVEJ2RzY1MnFNak9NTjM3d0NiMFVIOUR2VzYtcUg1OFZBeXdrQUxseTBhTm1pbTB2N0cwSmlBaEJvU3RFSUdROUN6TUFJMjIzNkRYSnNtems5MHBZUDU2b1VJRWFRYUZUUHRQT2toSTZRYVZCb2h0RlBKdEJCQlQyeDhxSGVXMXgxeXBEU0lmWEIwNkpac2tQc0FLTlplRTNwaTlEUQ?oc=5",
       "prediction": "Nvidia\u2019s next earnings call will trigger a 3% or greater swing in the S&P 500, regardless of whether the result is a beat or a miss.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new headlines were found to assess the market impact of Nvidia's August 2026 earnings call."
     },
     {
       "section": "markets",
