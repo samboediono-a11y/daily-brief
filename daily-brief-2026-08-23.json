@@ -8,7 +8,7 @@
       "prediction": "Nvidia will report gross margins consistently above 75% for the next four quarters despite rising manufacturing costs.",
       "grounded": true,
       "status": "too_early",
-      "note": "While headlines confirm the timing of Nvidia's financial results for fiscal 2026 and 2027, they do not provide specific gross margin percentages to verify the 75% threshold."
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "Expect at least two more major 'efficiency' announcements from Magnificent 7 firms before the end of Q3 2026.",
       "grounded": false,
       "status": "too_early",
-      "note": "The provided headlines focus on general earnings growth and market outlooks for 2026 but do not mention specific 'efficiency' or layoff announcements from Magnificent 7 firms."
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "Canadian business investment in IT hardware will contract by at least 8% year-over-year if no deal is reached by the end of Q4.",
       "grounded": false,
       "status": "too_early",
-      "note": "Headlines discuss potential Trump tariffs and trade sequels for 2026, but provide no specific data or metrics regarding Canadian IT hardware investment contraction."
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Copper ETFs will outperform the broader S&P 500 Information Technology index over the next six months as data center demand hits the physical supply wall.",
       "grounded": true,
       "status": "too_early",
-      "note": "The fresh headlines mention tariff panic and buybacks but do not contain any performance data for Copper ETFs or the S&P 500 Information Technology index."
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The Invesco S&P 500 Equal Weight ETF (RSP) will outperform the market-cap-weighted SPY by at least 300 basis points over the next six months.",
       "grounded": false,
       "status": "too_early",
-      "note": "The headlines provided are from 2025 and do not contain performance data for the RSP or SPY ETFs following the August 2026 prediction date."
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "Nvidia\u2019s next earnings call will trigger a 3% or greater swing in the S&P 500, regardless of whether the result is a beat or a miss.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new headlines were found to assess the market impact of Nvidia's August 2026 earnings call."
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
