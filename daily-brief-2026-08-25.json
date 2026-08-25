@@ -1,0 +1,287 @@
+{
+  "date": "2026-08-25",
+  "predictions": [
+    {
+      "section": "tech",
+      "headline": "The great tech job reset continues into 2026",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPM3E4cFQ4NjVxamx5czRPOTdCMWxJQjFtVUlFOGFtdW1qVHBiQTZWRjhralN6aVh6b0NsQ1VaTHFmZ0ZMcUNSTUJ1UTN1VE1fTmxRamdWYWJFMTRJbWRLMy1Pem9GaWVuZzZoMnlkcEVOY0w0TTFRLWFQRUZJakdYSm9GUkFpN3FkZWhKVVNpQXRLZnVWRjAwcElmUTMwc0VxVWxwVDNTWVh3ZWlhS1BGU0RGMXRIY1VJeUZrQkZXbmNkanZfS0U4ZXZRMDhSZzd5Y1RlTHM2TllBNkFoLUZGNXYteXRodw?oc=5",
+      "prediction": "Expect Meta or Microsoft to announce a permanent hiring freeze on non-engineering roles through at least Q3 2026.",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "AI's expansion hits a physical wall of power limits",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOclF4bTlPQkZtM0wyZmJKbmxZWkJicXZRM05ya1o2ZTZqWl9SVUxSWG5kSWtacUNwQm05bkNtZk5TMl9CUHQzd2JHclVkOTg4X3lBUGNYZE1PUU95ZTJ2Z3ZTeS1ZZDFIU0VyY1lSUDFLNDdjcGlCMmhqNkRzQkZxMFF3?oc=5",
+      "prediction": "At least one major US data center project will be canceled or delayed by more than 18 months due to grid capacity refusal by year-end.",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "Britain gains access to real-world AI battlefield data",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQajZod3N3MnYySXo1c1RjX0lDa3BlR1JJSk51eHNOdTJZYzVBTlNIcG1wQTNzZmZXNDd4QzU5VnlRUjk4aFpQcWlGLWt0VEFnbDBPbmdYdzhPa3Zyb21ERkJ6S08wYWVZZnZmZjVPOG9COEZxaE5pWE9JZGFYRkNhV2Fld1U3Q1VwUU55NDBKdnZoWXNWVkxkX3IzQjc3bTN2bEFMU2Qyd1JpWWlaT19QRVo0di1WOHNobGJkb0lsRDhwU3NWaF9JNzlsb2ZJbFAwdmszbENhbHd1OWhDRXFGdzVVNTlCUU5HTGc?oc=5",
+      "prediction": "The UK Ministry of Defence will announce a new autonomous drone program specifically citing 'Ukrainian combat data' within the next six months.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "Big Tech has effectively captured the American classroom",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeEtKWkZVWlNaXzBaLU95OFIxdUk2NkE4YURkWXdCT3FjX2VKblVaeE5EZFV0cmRlaEJES2VyMTJlT29UVDFObHZlZS1mdWNyM0xYenBXZXUxeXg1ZDY3MHk0UjJXOEY1VkpzZWZwa0VERDlMYzM2TUNHendXRFhncHlaeDJJY1lkemc?oc=5",
+      "prediction": "Watch for a major state-level lawsuit challenging Google or Microsoft's data collection practices within public school districts before the 2026 school year.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Dick\u2019s Sporting Goods signals a tighter-fisted consumer",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQWV3Z3ZvOUo2RzVfNVQ4a2JvcTRPcnhGRHM3UlZKQlM4NE0xTjZkdjBwRmpiYzlaTUU0MjZjejNzV0Q3ZHBTSzZkTnNFRW5oMXlSazNZUVY3MUNLVm5vWjV5UWZITzRhRXJIV2hIMDBQZkxPQmEzYk9najk4ZHdFenlMc1hHTWRqLTJoLXVn?oc=5",
+      "prediction": "Expect at least two more major athletic retailers to issue profit warnings in the upcoming earnings cycle.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Global tensions drag down major stock indices",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
+      "prediction": "The S&P 500 will test its 200-day moving average within the next 30 days as volatility persists.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Trump\u2019s trade threats boost the Dow while Nvidia slips",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMnE5STlmSDJyVHIzYkNOSzRsUGtHZFd0THZDdThJQzdhT0x1SXdfaXJhMkxVOXF3ZDlhQU1DbTNOS3JONFEtQ2Y2bHhZa3d5V0RSN3JHbUFaY0JtLVkwLWRyWkQ4ZEYtbWhKR0JsSGp0QzB1b18tcFI3YkZfRlhCV0V6UlhGUHFwSTF2SlBjaHp0Q2I1QTROMnpwYjNPM1hZRW5xcVotd2NTV2lGMTFQNXk0N245UQ?oc=5",
+      "prediction": "The Dow will outperform the Nasdaq by at least 3% over the next quarter as trade-war-sensitive industrials lead.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Shein's IPO faces a wall of sustainability questions",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVWlVQm1XNmhOeHkwYm5qZ3gyR1k2UDA4anFkeThSeTNrT2JuNGRBb1M2c3VVYmRpVUQ3LUpWRjR4bEhONkI0SzFuNkdIR1V1SW5tdWEzTGdoWk8xTGU1bkI4MzZiRzQ0TU4xaU5QOHhVUVNKWm5zZ0Jka1hEdWlkWWxCUjR1Ykw1VVQ3OEZpS0JRRkNtbkJ4ckhBSlhqRTAzNUtTeE9MNU1wYlpWRl9xVGc5WllJRTU2OVRyT05YMVVNeHZqenpJ?oc=5",
+      "prediction": "Shein will be forced to lower its IPO valuation by at least 20% or delay the offering indefinitely.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Renaming Lake Ontario is the new trade war front",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUExDUGZBbXhJOXZta0tiOEhmckJ2c1Viei1pMnk2ZEpwVVdieFUzVU54X194NW5LRmZ1NlNIaWhCWVFMNFpZN3hzSXJUcF80NFg2TVdfVGJmUzByWkIzQVV4ckE4N2xscjNVeHNiekZKRlBBNlBVVHVsc2NRVVhfQVdxVQ?oc=5",
+      "prediction": "Expect an official White House memorandum proposing the name change or a 'Great Lakes Sovereignty' study within 60 days.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "New visa restrictions target thousands of asylum seekers",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZXhmT3p5cUtzZXNYWXhWaU5reU5fdG9kdkhOOG9hempkMGNIWnRWVkF3eUJJRHdLVFo0YUVuc1dlT0kxRThHVEFOUldUR1FIZ3o0cXpYXzZCeDZ3TnpOUGFpQUU4SGVpbFN3Qkc0cjV2YnZnYTNwcVRSWEJ1N3RNSzZvSVRPOGxuTk9xa3dB?oc=5",
+      "prediction": "A federal judge will issue a temporary injunction against these restrictions before the end of the quarter.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "Nvidia options suggest a massive $280 billion swing",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa182VERRNl9ULTg3MXh0Z004aGNnVW9HQW9TLTI3R01YZzRMeWZEMFhramsxeHVLNGE1ZXAwYTRZcWxMbGF5YTB5dkl6OHVyT2FrTks2ODRFdlNPSTNmUE1MM0ZhaF9LT1JRZEdVX1ZJU2NMNlZiQWlQZ0toUWk1WmVSbXdYTWJva3NxTG92LVJrczhfQzVnLTZ4aE1yYTAwVHVucFNQbHRxSDN6OGJZcjZNVHo?oc=5",
+      "prediction": "Nvidia will see a post-earnings move of at least 8% in either direction, triggering a broader market-wide volatility spike.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "The creator economy's massive wealth gap is widening",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TSGhJWDVyZFdDRkw0NXlfWWVBNjg4WXVEc0RKb2lVOHBPcWt5V3RpMzByNTRHbl9Xam5CTGlFZm9kcEdvV0h2am9Wb3JsZ2MzNnJpRjZrZTE4QQ?oc=5",
+      "prediction": "Expect a major regulatory push or tax proposal specifically targeting 'high-earner digital platforms' within the next year.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Chinese money dominates Indonesia's critical nickel supply",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTGNxaHRjdWlmUXB2Vm9GOWRjTTJjTHk3cmN4akNmQUh3dkdfVTEzS0pTa1lhS1RVWFNmV2VwdHJmTkxCanBvVHpMelFSNURVVzhRLWpjSTBSdl8tSk42aUlmN3JBN2k4S0o2d2RTd3B1WUo0VE1ON2FibWZNdmJLRVJBaGZpbnpnVG94VGFzRFpzZ21sLXo5TnpXTDBkY0RPUFNIUEg1MlB4azhNNU5sX3otV25GRnVEZXY5WFFVYm52ckdHa1I0?oc=5",
+      "prediction": "Indonesia will formalize a nickel export quota system similar to OPEC production cuts by mid-2026.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "A new trade deal pulls Indonesia closer to Washington",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaE9kR252ZElMaHRtZVlnVGFSWS1lY0ZxTDlmOG5SWFBxdUpCTHhRRTU3ZE9RWkNmcmtqTWVNZVJxM001ZkdKNlBEeWRnYUhJZk9ZX2gxeV9nUWZKbjJGdjJLQUZobVVUQm9JRlVGeDZYNHFNamJRWXE2NklPMmk2U1N6WXJwS2xLc1FnbnU4a0NhRnNrZWRiRXV2cFZNejJmX2FkZnV0eEVJY21WVjFzSTVDWGRFRHc?oc=5",
+      "prediction": "The first joint US-Indonesia naval patrol in contested waters will be announced within the next six months.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "Investors worry about the president\u2019s heavy economic hand",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZkpJZUQyb2dua2JwYzlUOGtmVXN1cjRGZUkxYlNkOVRPT0VOWG5PbE1vcGl1OXAwZE9GU3prRHB2WFFacVBVcGNPWkItQkhYV2ZLTDloWURFWGMtaWlxemhQeFNic0RTdDJMR2NaNi1UZnlIVDczRXExel84dFhXbDVSSVB5TUdIQjZNdzZPbUNXMGtYRG5HdkJDQU9JTHQxTWY0a0xldFRwdmY3T3pnbU5R?oc=5",
+      "prediction": "Expect the Indonesian Rupiah to underperform its regional peers as foreign investors reduce their exposure to Indonesian equities.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Jakarta hedges its bets with new Chinese military drills",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSmdKaGRtdUpaMGN0czk5LWFxWHdVdm1Hd2JkSW92NTl1ejFqVGpfdVBfN3NGMmZ0WFZWSXJfa3ZOWU4yX1ZmMUg5alJBTGs5M3VhUWtWRjNXNUEwREpnNVpUNGx6Yk9sb0N6LVBkWGVnMlRMaHBXN0dESTFfWE5EM19wOHJkcXJ5TFg2Yy0xZlo5Qm9KRlJtWkhIZ0FNcnVVRmZF?oc=5",
+      "prediction": "Indonesia will host a high-level military summit with both US and Chinese observers present by year-end.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin and gold rise as the dollar loses its shine",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZjhYLWRvY1c5TnNteV9UUFlJT2dNcVJiS0NtU3lRSDNpblJncGh0aWpKYzgtWDNpOEItTnZic0tHYzBVNnZNVnc5R2M1c0RHQmFDbXR5OTV2cVU1RlAzTF9aRFBOYkxvMHBWSWphNWpuSmg2NFZoUGYyZVNVNUhSQVpSVHU?oc=5",
+      "prediction": "Gold will hit a new all-time high while Bitcoin holds support above $60k during the next Treasury auction cycle.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Canada\u2019s dollar takes a hit from trade threats",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU3piNGZtd25SejI5U0pILWkyNUxHTzg3VkthODQ5WGRsTGhNd1BaMmRiSnFRUVFXek9SUkp2MG5lZ29qbXVKcTZrWlVmMFp5TnMya29XX3FiY09uV01nd2NSeDNaNmFiNTNjcXplb0ZfdE9wZlAtTEFwVjVkU2VnTDV3?oc=5",
+      "prediction": "The USD/CAD pair will test 1.45 if the January 1st tariff deadline remains in place.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin is now moving in lockstep with the Japanese Yen",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5",
+      "prediction": "Expect a 10%+ Bitcoin price swing the next time the Bank of Japan makes a surprise interest rate announcement.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Investors flee to stablecoins as Bitcoin prices wobble",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc0FjUTVZN3JBM2t6c1NLWkxJR1VvSFd5VmZDN1Z2dXhZU3p4S2tBRndYdzlxZ1JHVmhjLU5jN1pYZ0xwOU9WdTNQNHJJazlIcUM0T2NqaFNBd2x4cUlRTE5HR0xBM3Zuc2ZIT3lFRncyaUZYTTBlQUlmQjJJcWpibjdhbXR0MTVVVFZDR3kzWWJET3YzU1hsbXYwcV9MN2JWb21RSUxaR19rYmYxU0NSZVIyU2toRTg5?oc=5",
+      "prediction": "Stablecoin market caps will reach a new all-time high even if Bitcoin remains range-bound for the next 30 days.",
+      "grounded": false
+    }
+  ],
+  "stories": [
+    {
+      "section": "tech",
+      "headline": "The great tech job reset continues into 2026",
+      "summary": "Major tech firms including Meta, Microsoft, and TikTok are continuing to shed staff despite the AI boom.",
+      "view": "The job reset isn't just about over-hiring; it's a fundamental shift where AI is used to gut middle management and back-office functions permanently. Big Tech is using the 'AI boom' as a narrative cover to streamline operations and juice per-employee margins, moving away from the talent-hoarding era. The real losers are entry-level white-collar workers whose roles are being automated out of existence before they even start.",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPM3E4cFQ4NjVxamx5czRPOTdCMWxJQjFtVUlFOGFtdW1qVHBiQTZWRjhralN6aVh6b0NsQ1VaTHFmZ0ZMcUNSTUJ1UTN1VE1fTmxRamdWYWJFMTRJbWRLMy1Pem9GaWVuZzZoMnlkcEVOY0w0TTFRLWFQRUZJakdYSm9GUkFpN3FkZWhKVVNpQXRLZnVWRjAwcElmUTMwc0VxVWxwVDNTWVh3ZWlhS1BGU0RGMXRIY1VJeUZrQkZXbmNkanZfS0U4ZXZRMDhSZzd5Y1RlTHM2TllBNkFoLUZGNXYteXRodw?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "AI's expansion hits a physical wall of power limits",
+      "summary": "Data center operators are facing a crisis as the energy demands of AI exceed the capacity of local power grids.",
+      "view": "Compute is no longer the bottleneck; power is. We are entering a phase where data center operators with legacy grid access hold all the cards, while newcomers will be priced out by utility surcharges and NIMBY local politics. This effectively cements the dominance of the 'Hyperscalers' (AWS, GCP, Azure) who have the capital to build their own modular nuclear reactors or massive battery arrays.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOclF4bTlPQkZtM0wyZmJKbmxZWkJicXZRM05ya1o2ZTZqWl9SVUxSWG5kSWtacUNwQm05bkNtZk5TMl9CUHQzd2JHclVkOTg4X3lBUGNYZE1PUU95ZTJ2Z3ZTeS1ZZDFIU0VyY1lSUDFLNDdjcGlCMmhqNkRzQkZxMFF3?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Britain gains access to real-world AI battlefield data",
+      "summary": "The UK and Ukraine have signed a pact to share classified AI data gathered from active combat zones.",
+      "view": "This pact gives the UK a 'goldmine' of edge-case data that no simulation can replicate, specifically regarding how AI sensors handle Russian electronic warfare and deception. By securing access to Ukraine\u2019s Avengers AI Labs, Britain is jumping to the front of the line in autonomous weapons development. This moves the UK from a consumer of US defense tech to a primary developer of battle-tested algorithms.",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQajZod3N3MnYySXo1c1RjX0lDa3BlR1JJSk51eHNOdTJZYzVBTlNIcG1wQTNzZmZXNDd4QzU5VnlRUjk4aFpQcWlGLWt0VEFnbDBPbmdYdzhPa3Zyb21ERkJ6S08wYWVZZnZmZjVPOG9COEZxaE5pWE9JZGFYRkNhV2Fld1U3Q1VwUU55NDBKdnZoWXNWVkxkX3IzQjc3bTN2bEFMU2Qyd1JpWWlaT19QRVo0di1WOHNobGJkb0lsRDhwU3NWaF9JNzlsb2ZJbFAwdmszbENhbHd1OWhDRXFGdzVVNTlCUU5HTGc?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Big Tech has effectively captured the American classroom",
+      "summary": "Major technology companies have become the primary infrastructure and curriculum providers for US public schools.",
+      "view": "Big Tech has turned US public education into a massive top-of-funnel customer acquisition play. By providing the infrastructure for free or at low cost, Google and Microsoft are locking in a generation of users who will be dependent on their specific ecosystems for the rest of their professional lives. This isn't philanthropy; it's the ultimate long-term monopoly strategy.",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeEtKWkZVWlNaXzBaLU95OFIxdUk2NkE4YURkWXdCT3FjX2VKblVaeE5EZFV0cmRlaEJES2VyMTJlT29UVDFObHZlZS1mdWNyM0xYenBXZXUxeXg1ZDY3MHk0UjJXOEY1VkpzZWZwa0VERDlMYzM2TUNHendXRFhncHlaeDJJY1lkemc?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Dick\u2019s Sporting Goods signals a tighter-fisted consumer",
+      "summary": "The retailer\u2019s stock plummeted after it cut its profit forecast due to 'challenging' footwear and apparel markets.",
+      "view": "The middle-class consumer is officially tapped out, trading down from premium 'lifestyle' activewear to generic alternatives. Dick\u2019s Sporting Goods is the canary in the coal mine for discretionary retail; if footwear\u2014a traditionally resilient category\u2014is flagging, the entire apparel sector is in for a valuation haircut. This signals a shift toward a 'needs-based' economy where brands without massive pricing power will see margin collapse.",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQWV3Z3ZvOUo2RzVfNVQ4a2JvcTRPcnhGRHM3UlZKQlM4NE0xTjZkdjBwRmpiYzlaTUU0MjZjejNzV0Q3ZHBTSzZkTnNFRW5oMXlSazNZUVY3MUNLVm5vWjV5UWZITzRhRXJIV2hIMDBQZkxPQmEzYk9najk4ZHdFenlMc1hHTWRqLTJoLXVn?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Global tensions drag down major stock indices",
+      "summary": "The S&P 500 and Nasdaq ended lower as investors reacted to new Iranian sanctions and a tech-sector slump.",
+      "view": "Geopolitical risk is finally being priced back into a market that had become dangerously complacent. The Iranian sanctions and general war fears are the catalyst for a much-needed correction, purging the 'tourist' investors who were riding the tech wave on pure momentum. This isn't just a dip; it's a rotation into defensive assets as the realization of a multi-front conflict sinks in.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Trump\u2019s trade threats boost the Dow while Nvidia slips",
+      "summary": "The Dow rose following comments about Canadian trade, but Nvidia shares dropped as AI enthusiasm cooled.",
+      "view": "The Dow\u2019s rise versus Nvidia\u2019s slip is a classic rotation from 'growth at any price' to 'value protected by tariffs.' Trump's trade rhetoric favors old-line industrial giants that benefit from domestic protectionism, while Nvidia is being punished for its reliance on globalized supply chains and vulnerable Asian markets. The AI hype cycle is maturing, and investors are now demanding earnings consistency over visionary promises.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMnE5STlmSDJyVHIzYkNOSzRsUGtHZFd0THZDdThJQzdhT0x1SXdfaXJhMkxVOXF3ZDlhQU1DbTNOS3JONFEtQ2Y2bHhZa3d5V0RSN3JHbUFaY0JtLVkwLWRyWkQ4ZEYtbWhKR0JsSGp0QzB1b18tcFI3YkZfRlhCV0V6UlhGUHFwSTF2SlBjaHp0Q2I1QTROMnpwYjNPM1hZRW5xcVotd2NTV2lGMTFQNXk0N245UQ?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Shein's IPO faces a wall of sustainability questions",
+      "summary": "The fast-fashion giant is struggling to convince investors of its long-term viability amid environmental concerns.",
+      "view": "Shein\u2019s IPO is a litmus test for whether 'fast growth' can still override ESG and geopolitical concerns in the current market. The valuation scrutiny isn't just about sustainability; it's about the risk of a US ban or crippling tariffs on Chinese-linked platforms. Investors are realizing that Shein's low-cost model is structurally vulnerable to a trade war, making its $50B+ target look delusional.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVWlVQm1XNmhOeHkwYm5qZ3gyR1k2UDA4anFkeThSeTNrT2JuNGRBb1M2c3VVYmRpVUQ3LUpWRjR4bEhONkI0SzFuNkdIR1V1SW5tdWEzTGdoWk8xTGU1bkI4MzZiRzQ0TU4xaU5QOHhVUVNKWm5zZ0Jka1hEdWlkWWxCUjR1Ykw1VVQ3OEZpS0JRRkNtbkJ4ckhBSlhqRTAzNUtTeE9MNU1wYlpWRl9xVGc5WllJRTU2OVRyT05YMVVNeHZqenpJ?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Renaming Lake Ontario is the new trade war front",
+      "summary": "President Trump suggested renaming the shared Great Lake as a symbolic escalation in trade disputes with Canada.",
+      "view": "Renaming Lake Ontario is pure psychological warfare designed to force the Canadian government to the negotiating table on trade. It\u2019s a symbolic assertion of dominance that signals Trump is willing to weaponize shared geography and cultural history, not just tariffs. This move is intended to make the Trudeau administration look weak and reactive to their own domestic audience.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUExDUGZBbXhJOXZta0tiOEhmckJ2c1Viei1pMnk2ZEpwVVdieFUzVU54X194NW5LRmZ1NlNIaWhCWVFMNFpZN3hzSXJUcF80NFg2TVdfVGJmUzByWkIzQVV4ckE4N2xscjNVeHNiekZKRlBBNlBVVHVsc2NRVVhfQVdxVQ?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "New visa restrictions target thousands of asylum seekers",
+      "summary": "The administration is moving to restrict visas for up to 200,000 foreign citizens seeking asylum.",
+      "view": "This visa restriction is a logistical pivot to free up ICE and CBP resources for higher-priority enforcement. By throttling the legal intake of asylum seekers, the administration is effectively creating a 'bottleneck' that allows them to claim the border is 'closed' for political points. It\u2019s a blunt instrument that prioritizes security theater over humanitarian infrastructure.",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZXhmT3p5cUtzZXNYWXhWaU5reU5fdG9kdkhOOG9hempkMGNIWnRWVkF3eUJJRHdLVFo0YUVuc1dlT0kxRThHVEFOUldUR1FIZ3o0cXpYXzZCeDZ3TnpOUGFpQUU4SGVpbFN3Qkc0cjV2YnZnYTNwcVRSWEJ1N3RNSzZvSVRPOGxuTk9xa3dB?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Nvidia options suggest a massive $280 billion swing",
+      "summary": "Traders are bracing for historic volatility as Nvidia prepares to report its latest quarterly earnings.",
+      "view": "The options market is pricing in a binary 'make or break' moment for the entire AI trade. A $280 billion swing\u2014roughly the size of the entire Netflix market cap\u2014shows that traders are no longer trading the company, they are trading the macro-sentiment of the Fourth Industrial Revolution. If Nvidia beats but gives 'only' good guidance, the stock will crater because 'perfect' is already priced in.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa182VERRNl9ULTg3MXh0Z004aGNnVW9HQW9TLTI3R01YZzRMeWZEMFhramsxeHVLNGE1ZXAwYTRZcWxMbGF5YTB5dkl6OHVyT2FrTks2ODRFdlNPSTNmUE1MM0ZhaF9LT1JRZEdVX1ZJU2NMNlZiQWlQZ0toUWk1WmVSbXdYTWJva3NxTG92LVJrczhfQzVnLTZ4aE1yYTAwVHVucFNQbHRxSDN6OGJZcjZNVHo?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "The creator economy's massive wealth gap is widening",
+      "summary": "Reports of a $700 million payout to the OnlyFans owner highlight the extreme concentration of wealth in digital platforms.",
+      "view": "The creator economy has become a digital version of the Gilded Age, where platform owners and the top 0.01% of talent capture all the value. The $700 million OnlyFans payout proves that the real money isn't in 'creating,' it's in owning the toll booth for digital attention. The 'middle-class creator' is a myth; the platform algorithm is designed for extreme concentration of wealth.",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TSGhJWDVyZFdDRkw0NXlfWWVBNjg4WXVEc0RKb2lVOHBPcWt5V3RpMzByNTRHbl9Xam5CTGlFZm9kcEdvV0h2am9Wb3JsZ2MzNnJpRjZrZTE4QQ?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Chinese money dominates Indonesia's critical nickel supply",
+      "summary": "New analysis shows that Chinese investment is fundamentally reshaping Indonesia's commodity markets through nickel processing.",
+      "view": "Indonesia is the 'OPEC of Nickel,' and China has successfully executed a vertical integration play that leaves the West out in the cold. By controlling the smelting and processing within Indonesia, China has made it impossible for Western EV makers to source nickel that isn't touched by Chinese capital. This is a strategic checkmate in the global battery supply chain.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTGNxaHRjdWlmUXB2Vm9GOWRjTTJjTHk3cmN4akNmQUh3dkdfVTEzS0pTa1lhS1RVWFNmV2VwdHJmTkxCanBvVHpMelFSNURVVzhRLWpjSTBSdl8tSk42aUlmN3JBN2k4S0o2d2RTd3B1WUo0VE1ON2FibWZNdmJLRVJBaGZpbnpnVG94VGFzRFpzZ21sLXo5TnpXTDBkY0RPUFNIUEg1MlB4azhNNU5sX3otV25GRnVEZXY5WFFVYm52ckdHa1I0?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "A new trade deal pulls Indonesia closer to Washington",
+      "summary": "A reciprocal trade agreement between the US and Indonesia is seen as a major strategic pivot.",
+      "view": "Jakarta is masterfully playing a hedging game, using the US trade deal as a counterweight to China's economic dominance. By pulling closer to Washington on trade and South China Sea cooperation, Indonesia is signaling to Beijing that their 'friendship' has a price. This isn't a pivot to the West; it's an auction for Indonesian loyalty.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaE9kR252ZElMaHRtZVlnVGFSWS1lY0ZxTDlmOG5SWFBxdUpCTHhRRTU3ZE9RWkNmcmtqTWVNZVJxM001ZkdKNlBEeWRnYUhJZk9ZX2gxeV9nUWZKbjJGdjJLQUZobVVUQm9JRlVGeDZYNHFNamJRWXE2NklPMmk2U1N6WXJwS2xLc1FnbnU4a0NhRnNrZWRiRXV2cFZNejJmX2FkZnV0eEVJY21WVjFzSTVDWGRFRHc?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Investors worry about the president\u2019s heavy economic hand",
+      "summary": "Concerns are mounting over President Prabowo\u2019s interventionist approach to managing the Indonesian economy.",
+      "view": "Prabowo is signaling a return to 'Suharto-lite' economics, where the state picks winners and manages resources with a heavy hand. Investors are right to be nervous; interventionism in Indonesia historically leads to capital flight and inefficiency. This 'developmentalist' approach will likely prioritize national champions over foreign direct investment, cooling the recent IPO boom.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZkpJZUQyb2dua2JwYzlUOGtmVXN1cjRGZUkxYlNkOVRPT0VOWG5PbE1vcGl1OXAwZE9GU3prRHB2WFFacVBVcGNPWkItQkhYV2ZLTDloWURFWGMtaWlxemhQeFNic0RTdDJMR2NaNi1UZnlIVDczRXExel84dFhXbDVSSVB5TUdIQjZNdzZPbUNXMGtYRG5HdkJDQU9JTHQxTWY0a0xldFRwdmY3T3pnbU5R?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Jakarta hedges its bets with new Chinese military drills",
+      "summary": "Indonesia is seeking to expand its joint military exercises with China despite its growing trade ties with the US.",
+      "view": "Military drills with China while signing trade deals with the US is the ultimate 'Non-Aligned Movement' flex. Indonesia is making it clear that they will not be a pawn in the US-China Cold War. This strategy maximizes their leverage, forcing both superpowers to compete for influence through increasingly favorable economic and security offers.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSmdKaGRtdUpaMGN0czk5LWFxWHdVdm1Hd2JkSW92NTl1ejFqVGpfdVBfN3NGMmZ0WFZWSXJfa3ZOWU4yX1ZmMUg5alJBTGs5M3VhUWtWRjNXNUEwREpnNVpUNGx6Yk9sb0N6LVBkWGVnMlRMaHBXN0dESTFfWE5EM19wOHJkcXJ5TFg2Yy0xZlo5Qm9KRlJtWkhIZ0FNcnVVRmZF?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin and gold rise as the dollar loses its shine",
+      "summary": "Safe-haven assets surged as government intervention in the bond market weighed heavily on the US dollar.",
+      "view": "The 'de-dollarization' trade is no longer a fringe theory; it's a central bank reality. As the US dollar loses its shine due to fiscal dominance and bond market intervention, gold and Bitcoin are merging into a single 'hard asset' class. Central banks buying gold is the institutional permission slip that individual investors needed to treat Bitcoin as a legitimate hedge against the fiat system.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZjhYLWRvY1c5TnNteV9UUFlJT2dNcVJiS0NtU3lRSDNpblJncGh0aWpKYzgtWDNpOEItTnZic0tHYzBVNnZNVnc5R2M1c0RHQmFDbXR5OTV2cVU1RlAzTF9aRFBOYkxvMHBWSWphNWpuSmg2NFZoUGYyZVNVNUhSQVpSVHU?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Canada\u2019s dollar takes a hit from trade threats",
+      "summary": "The 'Loonie' slid significantly as trade tensions with the US reached a boiling point.",
+      "view": "The Canadian dollar is now a hostage to CUSMA renegotiation. The threat of 50% tariffs on vehicles and steel is an existential threat to the Canadian economy, and the 'Loonie' is pricing in a structural decline in trade. If Canada matches tariffs 'dollar for dollar,' it will only accelerate the currency's slide by increasing domestic inflation and killing exports.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU3piNGZtd25SejI5U0pILWkyNUxHTzg3VkthODQ5WGRsTGhNd1BaMmRiSnFRUVFXek9SUkp2MG5lZ29qbXVKcTZrWlVmMFp5TnMya29XX3FiY09uV01nd2NSeDNaNmFiNTNjcXplb0ZfdE9wZlAtTEFwVjVkU2VnTDV3?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin is now moving in lockstep with the Japanese Yen",
+      "summary": "The correlation between Bitcoin and the USD/JPY pair has reached a record high.",
+      "view": "Bitcoin has become a 'carry trade' proxy. Its record correlation with the JPY means it\u2019s being treated as a high-beta liquidity play rather than an independent store of value. When the Yen carry trade unwinds\u2014meaning investors have to pay back their cheap JPY loans\u2014Bitcoin is the first 'risk-on' asset they sell to cover those positions.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Investors flee to stablecoins as Bitcoin prices wobble",
+      "summary": "Bitcoin\u2019s slide toward $66,000 has accelerated a flight into 'digital dollars' like USDT and USDC.",
+      "view": "The flight to stablecoins is not a capitulation; it\u2019s a strategic re-arming. Moving into USDT and USDC at $66,000 indicates that 'smart money' is staying in the ecosystem but waiting for a clearer entry point. This 'dry powder' accumulation suggests that the downside is limited, as there is massive liquidity sitting on the sidelines ready to buy the next significant dip.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc0FjUTVZN3JBM2t6c1NLWkxJR1VvSFd5VmZDN1Z2dXhZU3p4S2tBRndYdzlxZ1JHVmhjLU5jN1pYZ0xwOU9WdTNQNHJJazlIcUM0T2NqaFNBd2x4cUlRTE5HR0xBM3Zuc2ZIT3lFRncyaUZYTTBlQUlmQjJJcWpibjdhbXR0MTVVVFZDR3kzWWJET3YzU1hsbXYwcV9MN2JWb21RSUxaR19rYmYxU0NSZVIyU2toRTg5?oc=5"
+    }
+  ]
+}
