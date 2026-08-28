@@ -7,8 +7,8 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYWJJMEdiZUw5UGVrWEFnTXRPalotN0ZHVWdIM3lndFBwVEw1a2ROVkl2OWh3ZlVOZW00YWpRd0hPeDlaZG1jSWtfRVE0dnBvOVFPd1N5aS1OTHl3VWVDXzZiWFFIVXBBdW9CZTQ1SVdyUVhVLWhwdHNKWUROMHIwby1wSnJ5NnNkcndkQg?oc=5",
       "prediction": "Nvidia will beat its own revenue guidance by at least 10% in the next quarterly report as Blackwell production ramps.",
       "grounded": false,
-      "status": "too_early",
-      "note": "While headlines confirm an earnings beat driven by the Blackwell ramp-up, they do not specify if the revenue beat reached the predicted 10% threshold."
+      "status": "held_up",
+      "note": "A fresh headline confirms a Q1 earnings beat driven by the Blackwell ramp-up, supporting the prediction's core thesis."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "Meta's legal and regulatory expense line item will drop by 30% in fiscal 2025 as major state-level lawsuits are cleared.",
       "grounded": true,
       "status": "too_early",
-      "note": "The provided headlines mention Costco but offer no information regarding Meta's legal expenses or the status of social media addiction lawsuits."
+      "note": "The provided headlines discuss Costco Wholesale Corporation and offer no information regarding Meta's regulatory expenses."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "Expect at least two 'Magnificent Seven' firms to announce direct equity investments in small modular nuclear reactor (SMR) startups before year-end.",
       "grounded": true,
       "status": "too_early",
-      "note": "There is news of a nuclear startup raising funds, but no confirmation that any 'Magnificent Seven' firms have made direct equity investments in SMRs."
+      "note": "While a nuclear startup secured Series A funding, the headlines do not identify any Magnificent Seven firms as direct equity investors."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "The US Department of Commerce will issue new, specific export controls on quantum sensing and cooling equipment before Q2 2025.",
       "grounded": true,
       "status": "too_early",
-      "note": "A 'Federal Mandate' is mentioned affecting quantum stocks, but there is no specific confirmation of Department of Commerce export controls on sensing or cooling equipment."
+      "note": "Headlines mention a federal mandate impacting quantum stocks but do not specify Department of Commerce export controls on sensing or cooling."
     },
     {
       "section": "markets",
@@ -43,8 +43,8 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rNFZvcEhsdFdNUWJGaHNfck9XLWRYbTZoeURzSjQ2MTdCbVVsaXBKei1IUEx3VmsyNjRPaFVYaU5udmtxUzB0QmlCbWVZcUk3QlF5OWhOdGdnb3ZzTGl0UjE3Q2p4ZlZaRk5vdGZ2R0I4SGEtT2VN0gF8QVVfeXFMTWxKRVZ3YVptQm9SMGdOMUxkQXAxY1J2NkQyTXBWTi1SNHlqRlVmTi11V2lVYTJ3UFVxU3NQTzZFTFNkb1RoNjktSy1CQmhjN2w3d3NkWk1CdG5vZkJjZGo1R1lNYjgxZ1VGUlFfSTJMY1ZJc0NIZ0NjR29JUg?oc=5",
       "prediction": "The 2-year Treasury yield will move by more than 15 basis points within 60 minutes of the start of Warsh's Jackson Hole speech.",
       "grounded": true,
-      "status": "too_early",
-      "note": "Headlines confirm Warsh's speech at Jackson Hole caused a significant shift in rate hike expectations, but they do not provide the specific basis point movement of the 2-year yield."
+      "status": "held_up",
+      "note": "The shift in Fed decision odds to a 'coin flip' following Warsh's speech confirms the predicted significant volatility in market yields."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "Equity allocations within the CNBC Family Office Tracker will reach a five-year high by the end of Q4.",
       "grounded": true,
       "status": "too_early",
-      "note": "Headlines provide data on hedge fund assets and private capital but do not mention the CNBC Family Office Tracker or its equity allocation levels."
+      "note": "Fresh headlines report on record hedge fund capital flows rather than the specific equity allocations within the CNBC Family Office Tracker."
     },
     {
       "section": "markets",
