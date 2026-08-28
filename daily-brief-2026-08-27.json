@@ -6,42 +6,54 @@
       "headline": "Nvidia profits double as AI hardware hunger stays insatiable",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYWJJMEdiZUw5UGVrWEFnTXRPalotN0ZHVWdIM3lndFBwVEw1a2ROVkl2OWh3ZlVOZW00YWpRd0hPeDlaZG1jSWtfRVE0dnBvOVFPd1N5aS1OTHl3VWVDXzZiWFFIVXBBdW9CZTQ1SVdyUVhVLWhwdHNKWUROMHIwby1wSnJ5NnNkcndkQg?oc=5",
       "prediction": "Nvidia will beat its own revenue guidance by at least 10% in the next quarterly report as Blackwell production ramps.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "While headlines confirm an earnings beat driven by the Blackwell ramp-up, they do not specify if the revenue beat reached the predicted 10% threshold."
     },
     {
       "section": "tech",
       "headline": "Meta pays record $17 billion to settle social media addiction claims",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd0dRVTg3ZWtFRUJ5eDBpeFU5dHJfbVd5MXI4cUJ2aTR1NUFCOXZRMVY4TThva1Z0VkxRckttUlhjZ2wtaFJoTzd0bkFtazVBMmpYaHBDMmVieXdqaDhVTGUzR2FmMl9VNFJIbU1qTlM5X3d5VXlPTkNxdnNMalBpaG1FdUNiRkwyWGptenNOR2Y2UWhucExmcXJFNzdwZw?oc=5",
       "prediction": "Meta's legal and regulatory expense line item will drop by 30% in fiscal 2025 as major state-level lawsuits are cleared.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The provided headlines mention Costco but offer no information regarding Meta's legal expenses or the status of social media addiction lawsuits."
     },
     {
       "section": "tech",
       "headline": "Tech giants launch PR push to protect data center expansions",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkOC16cUFYRFZqUm82dUljS0kwQU1RQ3p4MjNNY05rdkhHZVNId3JWX2Z3US1uaHpBb3BRSVRLLVhfOWlmSlVPWWRLOTNZLVY2NDJfM1hTOFJGVEt5a3NfNi1Qc2hicnFZWHU5VUNOV3VicGs?oc=5",
       "prediction": "Expect at least two 'Magnificent Seven' firms to announce direct equity investments in small modular nuclear reactor (SMR) startups before year-end.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "There is news of a nuclear startup raising funds, but no confirmation that any 'Magnificent Seven' firms have made direct equity investments in SMRs."
     },
     {
       "section": "tech",
       "headline": "China targets 2030 for total quantum computing dominance",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeG1UWW9Sb1ZJa1FHbldIV0duSENmTmpzOTYwOVV0djVuTTAtUEdSUDRlSGVucWQ1b0RGWDRJU01nUG1JOHRBaXEtaExJSFY5MmtLdDVhalEzdUFyNkxEX0lkVGUzaUpvdVloRmJRQTNlcGl3X1RXT0ZPUndVRlhyRjdyMy1GMUxpTFdZRGJFWnJURm0xVFo0bzZybDlNbi1aaVN4WG5YVW91NUhnZmZuY05UM0tlTEVqQlB6cA?oc=5",
       "prediction": "The US Department of Commerce will issue new, specific export controls on quantum sensing and cooling equipment before Q2 2025.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "A 'Federal Mandate' is mentioned affecting quantum stocks, but there is no specific confirmation of Department of Commerce export controls on sensing or cooling equipment."
     },
     {
       "section": "markets",
       "headline": "Investors freeze up ahead of Warsh's big speech",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rNFZvcEhsdFdNUWJGaHNfck9XLWRYbTZoeURzSjQ2MTdCbVVsaXBKei1IUEx3VmsyNjRPaFVYaU5udmtxUzB0QmlCbWVZcUk3QlF5OWhOdGdnb3ZzTGl0UjE3Q2p4ZlZaRk5vdGZ2R0I4SGEtT2VN0gF8QVVfeXFMTWxKRVZ3YVptQm9SMGdOMUxkQXAxY1J2NkQyTXBWTi1SNHlqRlVmTi11V2lVYTJ3UFVxU3NQTzZFTFNkb1RoNjktSy1CQmhjN2w3d3NkWk1CdG5vZkJjZGo1R1lNYjgxZ1VGUlFfSTJMY1ZJc0NIZ0NjR29JUg?oc=5",
       "prediction": "The 2-year Treasury yield will move by more than 15 basis points within 60 minutes of the start of Warsh's Jackson Hole speech.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Headlines confirm Warsh's speech at Jackson Hole caused a significant shift in rate hike expectations, but they do not provide the specific basis point movement of the 2-year yield."
     },
     {
       "section": "markets",
       "headline": "The world's wealthiest families are doubling down on stocks",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb3M0QzBlZE1MNXhQTFVWYkJQWUVNU0w2SkpadW1URm9iRVg4ZGZXcFlkYnEtRE5ybTRjeEdFNnVDbDNOMmpBcWkxOVRhdDlNV2U5UDVBbmtYR1d0cXUwUFpvcXFPa2trMWVWV05ZM3lJUzFFa1JmZE4wMlRHbGhLZkZRZHNKS3F6QUJpUjdjOGZ0UjZ0SExrRUQtSmloM2V6c0hMOC1WbXk3QdIBrwFBVV95cUxQd2xwVXBZVTVZR0RyN1hUZmhPNy12c2dGREttMGNKRWNpcE9VaXd5VVduM2ctYWFYa2RIeDRTOUlZdlRZZHpIT2hOY2NMd09tclJNb3ZmdkJ0M1V2cllrSWg3cTdNY09hNXNGVEdoQnUzVnR6UERUZS1GdjF2QnBtR3dTVWZuejJNVUZMRVdJcWZpYU1kcTNndldVbURJcWlvd2VEYXE3VDlNV1pPWU5v?oc=5",
       "prediction": "Equity allocations within the CNBC Family Office Tracker will reach a five-year high by the end of Q4.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Headlines provide data on hedge fund assets and private capital but do not mention the CNBC Family Office Tracker or its equity allocation levels."
     },
     {
       "section": "markets",
