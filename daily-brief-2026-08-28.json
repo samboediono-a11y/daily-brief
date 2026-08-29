@@ -6,42 +6,54 @@
       "headline": "Tech giants form defensive alliance against AI-powered hacking",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ga0RXWlJZWVNWbFZBUno5T2hpVW9reTAwT2ZEYktDRmItRnJNMVRKelBjQlpUNWpsbEgwQ0xmd2RzNVdfOG5iWDE1U2F6Z1p3TzFXY2RFYmtPTktUSmhIdl82aXZaNXRCODNxeNIBckFVX3lxTE53NVBDNDRNczJJRk9SZmpDQW5hVEpKdjBRZjFSUGhKSVV3WU90TjdyeUduVzE0ZjVwLTVYM1EtYUg1cjJPdFRYWGlaVXh1cklXc1AzNDM0bWg1UjB5NW5GTDZQc2pIejRuVkx6SEdoTkpMZw?oc=5",
       "prediction": "At least one major signatory will suffer a high-profile, AI-enabled data breach within the next 12 months, testing the pact's actual information-sharing commitments.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No fresh headlines were provided to confirm or deny the occurrence of a high-profile, AI-enabled data breach among the alliance members."
     },
     {
       "section": "tech",
       "headline": "Nvidia launches political fund to influence AI laws in Washington",
       "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOWHVtVEhZaUVTWWV6LVYzQnlDcU9pcmpLRFphaEZGVmhIR0FYNWV2V2FoNUJoYU5zMVJmZUUwbVQ4Qmx1aTl1ZTB4dEs0TW9CQ2FjNVVjeEYxcGtwUDlCRHE5OWZJcTVsa3I2OHYzRkFRdVAxcXF6bGhVd0xJWVNIQUFnNjhkNkhHMzBBaWNHcmdBZlcwREpnU3NsN3pXcXJZNXBYOWxLX2JQV0MwZjZUUi1DOXZlb1pBU3lQaVRyclQwQ1lmSmR6a0ZDaWRLclo0cVQ5UHJ0aTVqRHpfMlJfaVYtbmtYS3E2Q1ZHSC1kaWg4YjBlcHc0WTJtVHRhNlpmdEJIak03b1h4SUQtSTBSd2hFRkh5djVORE9pbUdzbHVhQkN6YWJxUWJ3d0Y0dXFhQUNEY1N5UE0zR0JFQlZyOERlVkhnaHp2Y2ZRV1pCVFotNDRqUVFVZm5rNllpYXd0T2lRczA5WE9la1U?oc=5",
       "prediction": "Nvidia\u2019s PAC will spend over $5 million in the 2026 election cycle specifically targeting members of committees overseeing the CHIPS Act and AI safety legislation.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "There is no new information regarding the spending totals of Nvidia's PAC for the 2026 election cycle."
     },
     {
       "section": "tech",
       "headline": "Big Tech spends big to quiet growing data center opposition",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc3A4SHR6eXBlRW4wc3g2TXBTM1ZMeFdlNUw3dENMQ3Q3WFU3RkFVeER5SGJsUG5kSU81RnhlVzNVcFFoM0Z3aklqdXRlV3BYbF9kaXpCTG1CZG9GMzl3R1E5NkhtZ2dFdy12RzhSVDQzU3RCeFdaTEtYY1NEbXF0TlQ3ODQxMGRINDVaZEV1MDU5RHRVVjVIRUt0R0FxSE5PNDZ4aHoyR0dSaWpPTlFzVjVCbWp3VGhSNnlEUg?oc=5",
       "prediction": "At least one multi-billion dollar data center project in a high-resistance state like Virginia or Michigan will be officially cancelled or significantly downsized by year-end 2025 due to community litigation.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new information was provided regarding the cancellation or downsizing of data center projects in Virginia or Michigan."
     },
     {
       "section": "tech",
       "headline": "China sets 2030 deadline for quantum computing dominance",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeG1UWW9Sb1ZJa1FHbldIV0duSENmTmpzOTYwOVV0djVuTTAtUEdSUDRlSGVucWQ1b0RGWDRJU01nUG1JOHRBaXEtaExJSFY5MmtLdDVhalEzdUFyNkxEX0lkVGUzaUpvdVloRmJRQTNlcGl3X1RXT0ZPUndVRlhyRjdyMy1GMUxpTFdZRGJFWnJURm0xVFo0bzZybDlNbi1aaVN4WG5YVW91NUhnZmZuY05UM0tlTEVqQlB6cA?oc=5",
       "prediction": "The U.S. will announce a minimum 25% increase in funding for the National Quantum Initiative Act in the next federal budget cycle specifically to counter the 2030 Chinese target.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "The provided headline discusses general tech competition with China but does not mention a specific 25% funding increase for the National Quantum Initiative Act."
     },
     {
       "section": "markets",
       "headline": "Market dips as Fed official warns inflation is still too high",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0o4RVE4bHBXUWhEX1VRVmtvRzlPOEpPZmhWenZqT1ZMOUE3eHpyVXhvTlFWZ1JRalRFSEJ6NkQxcEFWRTZUVGhQT01rSUt1Q0hqNWRSX0M5bVBsdnE3NFZYelh5RG9mTzNQT25SN3hxNjB5U3NNSGRjUEt0cVc0X3g1Zlh2MlhEZ25zaC1sa1dFV1Y0?oc=5",
       "prediction": "The S&P 500 will see a 3-5% correction if the next CPI print comes in even 0.1% above consensus, as the 'Warsh warning' gains market weight.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No fresh data on the CPI print or the resulting S&P 500 performance was provided to evaluate this prediction."
     },
     {
       "section": "markets",
       "headline": "Marvell shares tumble after Google chip deal hits a delay",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObGFMWDg3V3huU1FickI0b3lCTXdsRHhrNHVaa0gzNkdMaWhKZ2lXYXI1WkVsMG5xSmQ0ZEZjZFdfbGdTSFpWZVVpUHBaSnFoRmtBQ2hLeDZScG5pV0J0Q2FGM29pbk5XZXNuRk1sV2pLSWc5R1dCMTNvcmFlMUdhRV9rNC1INThJRVhDaEZselZpOG05?oc=5",
       "prediction": "Marvell will recover at least half of its post-market loss within the next 30 days as institutional buyers capitalize on the valuation gap created by the delay news.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No stock market headlines were provided to track the recovery of Marvell's share price following the reported delay."
     },
     {
       "section": "markets",
