@@ -8,7 +8,7 @@
       "prediction": "At least one major signatory will suffer a high-profile, AI-enabled data breach within the next 12 months, testing the pact's actual information-sharing commitments.",
       "grounded": false,
       "status": "too_early",
-      "note": "No fresh headlines were provided to confirm or deny the occurrence of a high-profile, AI-enabled data breach among the alliance members."
+      "note": "No new headlines are available to confirm or deny the occurrence of a high-profile, AI-enabled data breach among the pact signatories."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "Nvidia\u2019s PAC will spend over $5 million in the 2026 election cycle specifically targeting members of committees overseeing the CHIPS Act and AI safety legislation.",
       "grounded": false,
       "status": "too_early",
-      "note": "There is no new information regarding the spending totals of Nvidia's PAC for the 2026 election cycle."
+      "note": "There is no current information provided regarding Nvidia's PAC spending for the 2026 election cycle."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "At least one multi-billion dollar data center project in a high-resistance state like Virginia or Michigan will be officially cancelled or significantly downsized by year-end 2025 due to community litigation.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new information was provided regarding the cancellation or downsizing of data center projects in Virginia or Michigan."
+      "note": "No fresh headlines were found to indicate whether a major data center project has been cancelled or downsized due to community litigation."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "The U.S. will announce a minimum 25% increase in funding for the National Quantum Initiative Act in the next federal budget cycle specifically to counter the 2030 Chinese target.",
       "grounded": false,
       "status": "too_early",
-      "note": "The provided headline discusses general tech competition with China but does not mention a specific 25% funding increase for the National Quantum Initiative Act."
+      "note": "The provided headline discusses general tech competition with China but does not mention specific federal budget increases for the National Quantum Initiative Act."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The S&P 500 will see a 3-5% correction if the next CPI print comes in even 0.1% above consensus, as the 'Warsh warning' gains market weight.",
       "grounded": true,
       "status": "too_early",
-      "note": "No fresh data on the CPI print or the resulting S&P 500 performance was provided to evaluate this prediction."
+      "note": "A lack of fresh market data or CPI results prevents an assessment of whether the S&P 500 underwent the predicted correction."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "Marvell will recover at least half of its post-market loss within the next 30 days as institutional buyers capitalize on the valuation gap created by the delay news.",
       "grounded": true,
       "status": "too_early",
-      "note": "No stock market headlines were provided to track the recovery of Marvell's share price following the reported delay."
+      "note": "No information regarding Marvell's stock price recovery or institutional buying activity was provided in the fresh headlines."
     },
     {
       "section": "markets",
