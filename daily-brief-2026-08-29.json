@@ -8,7 +8,7 @@
       "prediction": "Meta will announce a dedicated, independent 'Youth Safety' oversight board with veto power over feature releases by Q3 2024.",
       "grounded": true,
       "status": "too_early",
-      "note": "No fresh headlines were provided to confirm or deny the creation of a Youth Safety oversight board at Meta."
+      "note": "No new headlines were found to confirm or deny the establishment of a Meta 'Youth Safety' oversight board."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "Expect China to demonstrate a 500-qubit processor specifically optimized for cryptographic factoring by the end of 2026.",
       "grounded": false,
       "status": "too_early",
-      "note": "There is no new information available regarding China's progress on a 500-qubit cryptographic factoring processor."
+      "note": "No new information is available regarding China's progress on a 500-qubit quantum processor."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "At least four of the smaller firms in this 116-company pact will be acquired by Tier-1 tech giants before the end of 2025.",
       "grounded": true,
       "status": "too_early",
-      "note": "No headlines were found to verify if any smaller firms from the 116-company pact were acquired by Tier-1 tech giants."
+      "note": "There are no fresh headlines confirming acquisitions of smaller firms within the 116-company AI cyber defense pact."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "At least two major US data center projects currently in the pipeline will be cancelled or relocated to a different state due to local resistance before June 2025.",
       "grounded": true,
       "status": "too_early",
-      "note": "While headlines confirm political resistance and capacity debates, they do not specifically confirm the cancellation or relocation of two major projects before June 2025."
+      "note": "While headlines confirm rising political anger and NIMBYism toward data centers, they do not specifically verify the cancellation or relocation of two major projects before June 2025."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The Fed will maintain current interest rates through the end of 2025, delaying any potential cuts until early 2026.",
       "grounded": true,
       "status": "held_up",
-      "note": "Headlines from J.P. Morgan and Reuters confirm the Fed kept rates unchanged through the end of 2025 and into the start of 2026."
+      "note": "Headlines from J.P. Morgan and Reuters confirm the Fed kept rates unchanged through 2025 and into the beginning of 2026."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "The S&P 500 will enter a sideways 'lost year' in 2026, with total returns not exceeding 3% as liquidity is drained by Treasury auctions.",
       "grounded": false,
       "status": "too_early",
-      "note": "No fresh data or headlines were provided to evaluate the S&P 500's total returns for the 2026 calendar year."
+      "note": "No fresh data was provided to evaluate the S&P 500's total returns or market movement for the year 2026."
     },
     {
       "section": "markets",
