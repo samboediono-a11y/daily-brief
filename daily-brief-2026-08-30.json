@@ -1,0 +1,287 @@
+{
+  "date": "2026-08-30",
+  "predictions": [
+    {
+      "section": "tech",
+      "headline": "Nvidia's Massive Profits Prove the AI Boom Isn't Over Yet",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYWJJMEdiZUw5UGVrWEFnTXRPalotN0ZHVWdIM3lndFBwVEw1a2ROVkl2OWh3ZlVOZW00YWpRd0hPeDlaZG1jSWtfRVE0dnBvOVFPd1N5aS1OTHl3VWVDXzZiWFFIVXBBdW9CZTQ1SVdyUVhVLWhwdHNKWUROMHIwby1wSnJ5NnNkcndkQg?oc=5",
+      "prediction": "Watch for Nvidia's gross margins to peak this year as hyperscalers like AWS and Google successfully scale their own in-house AI silicon, reducing their reliance on H100/B200 chips.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "Bill Gates Thinks AI Risks Are Bigger Than Silicon Valley Admits",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpdU40bG1VdWJuMWJGR3NrTTloZzVNV1V2VlBBNTQ1LW40UkxqQUV0cWV5a1NOX2hSLVhWVkladllLaUR6RWZsSXQwZ2hEckhJUUx0c1h3elFrWHN1MXhXMnVxQm9GV1RNaXAwbThoU3JKSTBoeHNVdjNB?oc=5",
+      "prediction": "A major legislative proposal for 'AI Licensing' will be introduced in the U.S. or EU by year-end, explicitly supported by legacy tech firms under the banner of 'safety.'",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "China Targets Quantum Computing in New National Security Plan",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeG1UWW9Sb1ZJa1FHbldIV0duSENmTmpzOTYwOVV0djVuTTAtUEdSUDRlSGVucWQ1b0RGWDRJU01nUG1JOHRBaXEtaExJSFY5MmtLdDVhalEzdUFyNkxEX0lkVGUzaUpvdVloRmJRQTNlcGl3X1RXT0ZPUndVRlhyRjdyMy1GMUxpTFdZRGJFWnJURm0xVFo0bzZybDlNbi1aaVN4WG5YVW91NUhnZmZuY05UM0tlTEVqQlB6cA?oc=5",
+      "prediction": "The U.S. will announce a new set of export controls specifically targeting quantum-relevant cryogenic cooling technologies and laser systems before the next fiscal year.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "Meta's Legal Settlement Could Change How Big Tech Is Policed",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQellBWC1CZXRsVFp0anRWUG9aNEVSVXlweHhWVjdqVE83eXZjWDk4c0tpcEhQeUlKWnNFVVhRLVMwcnpaR29GdkZicjc3aWhfY283ZV94T2VpdXZaa2VlTm5LUTcwd0g1SXhwd0xXalpXRW5vUDVyMGwtNU1oMGgwSm9XN2d6UDE0Vnc?oc=5",
+      "prediction": "Expect at least three other major social platforms (TikTok, Snap, and X) to roll out nearly identical 'safety-by-default' features within the next six months to preempt similar lawsuits.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Stock Market Sinks as Fed Officials Signal Persistent Inflation",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rNFZvcEhsdFdNUWJGaHNfck9XLWRYbTZoeURzSjQ2MTdCbVVsaXBKei1IUEx3VmsyNjRPaFVYaU5udmtxUzB0QmlCbWVZcUk3QlF5OWhOdGdnb3ZzTGl0UjE3Q2p4ZlZaRk5vdGZ2R0I4SGEtT2VN0gF8QVVfeXFMTWxKRVZ3YVptQm9SMGdOMUxkQXAxY1J2NkQyTXBWTi1SNHlqRlVmTi11V2lVYTJ3UFVxU3NQTzZFTFNkb1RoNjktSy1CQmhjN2w3d3NkWk1CdG5vZkJjZGo1R1lNYjgxZ1VGUlFfSTJMY1ZJc0NIZ0NjR29JUg?oc=5",
+      "prediction": "The S&P 500 will test its 200-day moving average before the next FOMC meeting as the 10-year yield remains stubbornly above 4.4%.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "National Debt Reaches $40 Trillion Raising Fears of Stagnant Markets",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSGtuVjE5M3dNeHVzbk9GUmg0U1Y4U29MMmxDWkd6MmJnWGZlekMyT24xTmpMeEp0VmdtdzJhYXFYa2NGWUZ6em56eW1kY0RvSVlIZExIZlNyUU9Hb3FhbFpxWGd0c3Vhc1BKLUtCU3RqNFhtT0dvcmxrS1FFR1U1MW5nOVJSYjlCTVNPUUVuMDdJcFN3bnNoYnUzRldNNHhaVEpBZW5R?oc=5",
+      "prediction": "U.S. net interest expense will surpass the total Department of Defense budget by the end of the 2025 fiscal year.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Investors Hedge Their AI Bets by Piling Into Pharmaceutical Stocks",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRTBkZmJvaW4wUHdYQk4wZjhCWVpoVU13WThlYlpTWFo5dnczWDhGMmk0aUR0akVtZkdnY01manJtSzBIQUlRbXlsWnpXQk82WGpnc0tHZkE3dFNqZEtTTWJYWFJ0Q3p3UmN0OU9JankwdU9PeUVEMGpDbGtCZDVVcjBaZmI?oc=5",
+      "prediction": "The XLV (Health Care ETF) will outperform the QQQ (Nasdaq 100) on a percentage basis over the next six months.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Trade War With Canada Threatens Supply of Critical Battery Metals",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTkczaThjMDgwN2t0TGpkZzBIOWVlNGF6ZHJWYjRKcTl0ZDhiSFNxNVNETEJuY0FtUnVHR19RbGlQdXowZUd2T1E3TUVIMVptdFNkR2s0eGdvLWZERG1sUjQxaGFmek9hVi1vREMwU294R3N5dzFLakgxVHUyYU9zRGRMSThBcVRGaFZsZDRsc1dZQW9HOTQwYkt30gGfAUFVX3lxTFA5b21UZDdNQUtCOUw1Q3AtclpxZ0g1NVNrckdQMEF6eHNGYXNGTkhxa0IyTzg1SlhHekFrTjh4VE1paUNrZ3Z0d1RLelh1dEtVZGwyTWpwQXFscFpHU3FESE5KTDN2dFY2MWVoYlk0Z1I2alpIOUpzTHpXUTRnMFREV1BqY3EzYllfVnR4MktjaXJoMG9DMkRkZE5iNHpUMA?oc=5",
+      "prediction": "Expect a major Canadian mining firm to delay or cancel a planned expansion of a nickel or lithium project before the end of Q3 citing 'trade uncertainty.'",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Warsh Signals Higher Rates as the New Economic Baseline",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONkhEbHctcURRSmZNdFBoS3JJUElXay1PWTA2V0xnSDBFOE5vSlh6ZmlJMlJTMnVRVlVfUjdGMC00QTE0SGdTY3BnNTVlUGNfWDZmei05WldqWjVZdDFCTFdRWDVmNG1wVW5JaTBOT28tM00xRG9xY3dDd2RPX25EdnhDenlSYnkxTVVLUUZRa09uQ0xsanl5U0VHRnhpRFNZaTBBTzJzVWxnWExJR3d3ZVV4U3E5RFFMci15RUlLREJUOXMy?oc=5",
+      "prediction": "The terminal rate for the current cycle will be revised upward in the next 'Dot Plot' as more officials align with the higher baseline.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Geopolitical Tensions Turn Into Profits for the Trump Family",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOHlJX2Y2dzVfWjhITGNMU3ZHZkRrTDBnS0k1TDlpTDVhb1ZfcktXWGg5aXJ4cUV3dDc1Q3h3TDQ2YjR2TWd4cUZpQm83VTJTT1I3b3czSzB0R0RBMnF0TVY0MTZBNHFsd19PTEl1dW9kNzkzSGJMUnJnamRCaVRFREFBamRmRFAyUFVrWWh1TlVDYzM4MkhhTmdLdGVjY3ZYWDhVM0lZMmcwYW5LRW12LWFoQ05TeXBrb0FhN2FickUtTmhUWVZjbFVJamZBS2hl?oc=5",
+      "prediction": "Watch for a major regulatory or congressional inquiry into 'front-running' on prediction markets related to Middle East policy announcements by year-end.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "U.S. Sanctions Hit Egypt's Second Largest Bank",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdVpaa01NWVFQODM2OUxJVE5tSnJSUlhmekJCMDhtTDBxSm9MTmZlV2RDU2w1N2VOaG9id0hrRDFWV2NWR1RnckFuRHZKbkJBMGN5clMwd2l1MnAzVEpEZU45MXZiNGppc1lzTV82bEhJQ0QtUk11ZW1ZaFc4ZDF3OGhFNW9uMVhiRWFOTC1EU1lRRkg1NWpLWWgyM055anJZazY5VlNvYVI1cjjSAbABQVVfeXFMT1RONi1CZGtoZHBkQVJBQVJ5bl8tTzQxN21ibzVBYld1a2VjNlR2dURXai1NVUJvVTlxalBKUmpoTWJqU3J6NlFHcEFHcUNHYVN4YTZzVXNPbGstXzUxcGVNcmJReXRvZDBRTTNkbUZjQzBaMWY0NDA3dlE5djFBMnhldjNmWUxPMHdnc3FHWkw3bllaODRiTVZEMTJBQng3YkpEZ0JhWWVyc01vVWNnUEU?oc=5",
+      "prediction": "Banque Misr will formally apply for a liquidity facility from the BRICS New Development Bank within the next 90 days.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Lawyers Use Anti-Tobacco Strategy to Sue Social Media Platforms",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTWttS2FjbU5oRUxESHJ5cWJKc3NPR3FNSk9jb3R6WHZSQ2JFTTcxODNhRExZSklRSmRhQ1pwNzFUd2Z2cFdwaUZDbkhPbFZ0ZENocXJyZFdrRmRlUzg3SkxzcDZoN1lrVldpanZlSzdMdmxBUGRCMXJiT0EyLUppNkd6c2w5aVNlOTVEWWhIb9IBlAFBVV95cUxOZ3hPRG5IdUNJamFnUVNmZ0pPZFA5VzBvTmFRTXhpZWpnbjBJZXhSSjdRYVdPd193MjhkOFdSZy13ZWoxRV8tQk45ZXpMT1dZOUhWT0R4MG5GSURRdGk2XzY5ci1nMnRJWnJ4c0dQb2s1VnYyeXo3eWFmYnVrVmxUQXBwdWt5MW54eTJQOGdiMFVpSGpY?oc=5",
+      "prediction": "A landmark 'addiction' lawsuit against a major platform will survive a motion to dismiss in a U.S. federal court within the next 12 months, triggering a massive sector-wide sell-off.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia Tightens Government Control Over the National Economy",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNel9idzN6SnptY0owdXl5WHpMM0xqamc0cDhha2JQUk5QNktVRFM0R2xUeElocm9qdE83NGcwMzlFX0o5MGFyNnNuWHNSX0Y4eWE3Q3UzSDJDX3Y3aFIzclV1bF9oYVU4UE82OVJFQTFOc3FWQTZhNmdwYnNsOHB5bTRRNzJPdE5HTk1tQmliYk1lUTBTb0xLRDVn?oc=5",
+      "prediction": "Indonesia will announce a new, mandatory state-run 'clearing house' for all nickel and palm oil exports by the end of the year.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "Interventionist Policies Spark a Crisis in Economic Confidence",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZkpJZUQyb2dua2JwYzlUOGtmVXN1cjRGZUkxYlNkOVRPT0VOWG5PbE1vcGl1OXAwZE9GU3prRHB2WFFacVBVcGNPWkItQkhYV2ZLTDloWURFWGMtaWlxemhQeFNic0RTdDJMR2NaNi1UZnlIVDczRXExel84dFhXbDVSSVB5TUdIQjZNdzZPbUNXMGtYRG5HdkJDQU9JTHQxTWY0a0xldFRwdmY3T3pnbU5R?oc=5",
+      "prediction": "Foreign Direct Investment (FDI) into Indonesia will show a double-digit percentage decline in the next quarterly report as capital shifts to more predictable markets like Vietnam.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Economic Fallout Predicted as Policies Fall Out of Sync",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRTIwZU5HaFBlNkUtNXF6c04zTmFsT1BWT0lVbmN2UkJhOFZUTXBVSlFma2FQZ0hBaWFCVFNETkpoRno2dHVOeXBrVVotREJLOFJDOXMycGVkdzNOV1pCTDhueFl3M2lWTGlZUjlMOUVEcmJINFkwaGlCUTlKV0VEQlkzZkxHdkFwUVppZTRVdUQ2RHhmWHpwaE1iRXNTWDgzc2c?oc=5",
+      "prediction": "At least one major EV battery manufacturer will announce a new facility in India or Thailand that was originally rumored to be destined for Indonesia.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Budget Squeeze Forces Difficult Choices for Indonesian Central Bank",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWkJzY1AwWEJrV0g0eW4xaENjekJwNk9IR2l4eU45NXZMQ1lmVlBDSjNvdnUxclVOYWV5MmR0LWVMSDQ5UzJCLVdvelNsRi1Ga3dPcHFSS2ExMjZVbjdxd0h6MndjX0RkM29vdXNWT3BwalBJRnJYM1oxMDUtLW03UUtqLWpvRXdTZm1LblpjeGhsS1pEbTBzVFp3YmlHSm5K?oc=5",
+      "prediction": "Bank Indonesia will hold rates steady for the next three consecutive meetings, regardless of GDP growth figures, due to fiscal constraints.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin and Gold Surge as Dollar Faces New Pressure",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZjhYLWRvY1c5TnNteV9UUFlJT2dNcVJiS0NtU3lRSDNpblJncGh0aWpKYzgtWDNpOEItTnZic0tHYzBVNnZNVnc5R2M1c0RHQmFDbXR5OTV2cVU1RlAzTF9aRFBOYkxvMHBWSWphNWpuSmg2NFZoUGYyZVNVNUhSQVpSVHU?oc=5",
+      "prediction": "Gold will hit a new all-time high before Bitcoin reaches its previous peak, as the 'safety' trade remains more conservative than the 'crypto' trade.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Trade Wars Send the Canadian Dollar Into a Slump",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZDNpWGVuUzZZbVpTNzNRVFdGMjZRRWt1VHhPVGo0SlNiVnJPN3prWWU2dUdpdDl0UEJ5Y2dFd3pheThRS1VqLVZ3a2lva0lfR095b1g5X1V4UWFDc2U2NEQ4cjRCaWRLelNjUkk2UWYtZ1pIMzZVTG9lSEppZU1sRzBoY2ctelVGTmpvdXRkQQ?oc=5",
+      "prediction": "The USD/CAD pair will break and hold above the 1.40 level through the end of the next fiscal quarter.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin and the Japanese Yen Are Now Moving Together",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5",
+      "prediction": "If the Bank of Japan hikes rates to 1%, expect an immediate 10%+ flash crash in Bitcoin within 24 hours as the carry trade deleverages.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Analysts Cool Down Hopes for One Million Dollar Bitcoin",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbmJZQlpldlM0NlV1US05QnBiaDRFOWM4d0I1UndrNUNpWWV2NEJjUm9EbFBjQmVMVmw4RGJvRWhScHJFV0hYSFJzeFRzUER4dkdCYVFTVk9RbHJBN1p3cWFPMldUb25sTHhSR0ZxRXNKaWJmS2tJU3VIXzMyb2ZOWGZSMGYzVEoyNFhBTmFZT3pySjJabTkzbzd0YjNzN09JQXg0MWEwNjNvREhnMmp5cnZheG9MNk9zblRTTGxTeVZRS1dMd1hvcQ?oc=5",
+      "prediction": "Bitcoin will remain range-bound between $65,000 and $85,000 for the remainder of the year as the 'halving' narrative completely loses its punch.",
+      "grounded": true
+    }
+  ],
+  "stories": [
+    {
+      "section": "tech",
+      "headline": "Nvidia's Massive Profits Prove the AI Boom Isn't Over Yet",
+      "summary": "Nvidia reported a staggering $59.7 billion in profit as tech giants continue to pour money into specialized chips.",
+      "view": "Nvidia\u2019s massive profits confirm its status as the AI era's ultimate 'toll collector,' but the emergence of a 'circular financing web' suggests that a portion of this demand is being manufactured by reinvesting profits into the very startups buying the chips. This creates a feedback loop that inflates valuations across the sector while masking the actual end-user utility of the hardware.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYWJJMEdiZUw5UGVrWEFnTXRPalotN0ZHVWdIM3lndFBwVEw1a2ROVkl2OWh3ZlVOZW00YWpRd0hPeDlaZG1jSWtfRVE0dnBvOVFPd1N5aS1OTHl3VWVDXzZiWFFIVXBBdW9CZTQ1SVdyUVhVLWhwdHNKWUROMHIwby1wSnJ5NnNkcndkQg?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Bill Gates Thinks AI Risks Are Bigger Than Silicon Valley Admits",
+      "summary": "The Microsoft co-founder is sounding the alarm that AI's potential for harm is being downplayed by tech executives.",
+      "view": "Bill Gates\u2019 alarmism is a strategic move to invite regulation that preserves the 'moat' of established giants like Microsoft and OpenAI against leaner, more efficient competitors like DeepSeek. The narrative of 'risk' is being used to raise the barrier to entry for open-source models that threaten to turn AI into a low-margin commodity.",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpdU40bG1VdWJuMWJGR3NrTTloZzVNV1V2VlBBNTQ1LW40UkxqQUV0cWV5a1NOX2hSLVhWVkladllLaUR6RWZsSXQwZ2hEckhJUUx0c1h3elFrWHN1MXhXMnVxQm9GV1RNaXAwbThoU3JKSTBoeHNVdjNB?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "China Targets Quantum Computing in New National Security Plan",
+      "summary": "The Chinese government has designated quantum technology as a top priority in its 2030 cyber industry strategy.",
+      "view": "China is pivoting to quantum computing as a 'leapfrog' strategy to nullify U.S. dominance in traditional semiconductor lithography. By prioritizing quantum in its national security plan, Beijing is signaling that it intends to win the race for 'Q-Day'\u2014the point at which quantum computers can break current encryption\u2014effectively weaponizing the future of global data security.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeG1UWW9Sb1ZJa1FHbldIV0duSENmTmpzOTYwOVV0djVuTTAtUEdSUDRlSGVucWQ1b0RGWDRJU01nUG1JOHRBaXEtaExJSFY5MmtLdDVhalEzdUFyNkxEX0lkVGUzaUpvdVloRmJRQTNlcGl3X1RXT0ZPUndVRlhyRjdyMy1GMUxpTFdZRGJFWnJURm0xVFo0bzZybDlNbi1aaVN4WG5YVW91NUhnZmZuY05UM0tlTEVqQlB6cA?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Meta's Legal Settlement Could Change How Big Tech Is Policed",
+      "summary": "A major settlement by Meta is being viewed as a blueprint for reigning in the power of social media giants.",
+      "view": "Meta\u2019s $17-18 billion settlement represents a fundamental shift where product design for social media is now treated as a public health liability rather than protected speech. This creates a legal 'blueprint' that allows regulators to bypass slow-moving antitrust laws and directly reshape how algorithms interact with younger users.",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQellBWC1CZXRsVFp0anRWUG9aNEVSVXlweHhWVjdqVE83eXZjWDk4c0tpcEhQeUlKWnNFVVhRLVMwcnpaR29GdkZicjc3aWhfY283ZV94T2VpdXZaa2VlTm5LUTcwd0g1SXhwd0xXalpXRW5vUDVyMGwtNU1oMGgwSm9XN2d6UDE0Vnc?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Stock Market Sinks as Fed Officials Signal Persistent Inflation",
+      "summary": "The S&P 500 dropped following comments from Kevin Warsh suggests that interest rates might stay high for longer.",
+      "view": "The market is finally pricing in the 'death of the Fed Put' as officials like Kevin Warsh signal that inflation is too sticky to allow for the rate cuts the market spent the last six months dreaming about. The combination of high rates and escalating Iran sanctions creates a toxic environment for chip stocks and high-growth tech that rely on cheap capital.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rNFZvcEhsdFdNUWJGaHNfck9XLWRYbTZoeURzSjQ2MTdCbVVsaXBKei1IUEx3VmsyNjRPaFVYaU5udmtxUzB0QmlCbWVZcUk3QlF5OWhOdGdnb3ZzTGl0UjE3Q2p4ZlZaRk5vdGZ2R0I4SGEtT2VN0gF8QVVfeXFMTWxKRVZ3YVptQm9SMGdOMUxkQXAxY1J2NkQyTXBWTi1SNHlqRlVmTi11V2lVYTJ3UFVxU3NQTzZFTFNkb1RoNjktSy1CQmhjN2w3d3NkWk1CdG5vZkJjZGo1R1lNYjgxZ1VGUlFfSTJMY1ZJc0NIZ0NjR29JUg?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "National Debt Reaches $40 Trillion Raising Fears of Stagnant Markets",
+      "summary": "Market researchers warn that the massive U.S. debt could lead to a 'lost decade' for stock returns.",
+      "view": "Reaching $40 trillion in debt is the 'event horizon' where debt service payments begin to systematically crowd out private sector investment and R&D. This fiscal drag virtually guarantees a 'lost decade' for stock returns as tax hikes or inflation become the only two viable mechanisms for the government to avoid a credit event.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSGtuVjE5M3dNeHVzbk9GUmg0U1Y4U29MMmxDWkd6MmJnWGZlekMyT24xTmpMeEp0VmdtdzJhYXFYa2NGWUZ6em56eW1kY0RvSVlIZExIZlNyUU9Hb3FhbFpxWGd0c3Vhc1BKLUtCU3RqNFhtT0dvcmxrS1FFR1U1MW5nOVJSYjlCTVNPUUVuMDdJcFN3bnNoYnUzRldNNHhaVEpBZW5R?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Investors Hedge Their AI Bets by Piling Into Pharmaceutical Stocks",
+      "summary": "Pharma companies are seeing a surge in investment as traders look for stable alternatives to volatile tech stocks.",
+      "view": "The rotation into pharmaceutical stocks is a sophisticated hedge against AI volatility, with big players like Stanley Druckenmiller betting that biological engineering is the real 'value' play. While tech is overextended on hype, pharma companies are undervalued relative to their potential to use AI to drastically shorten drug discovery cycles.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRTBkZmJvaW4wUHdYQk4wZjhCWVpoVU13WThlYlpTWFo5dnczWDhGMmk0aUR0akVtZkdnY01manJtSzBIQUlRbXlsWnpXQk82WGpnc0tHZkE3dFNqZEtTTWJYWFJ0Q3p3UmN0OU9JankwdU9PeUVEMGpDbGtCZDVVcjBaZmI?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Trade War With Canada Threatens Supply of Critical Battery Metals",
+      "summary": "New tariffs between the U.S. and Canada are creating chaos for the critical minerals needed for EVs.",
+      "view": "Tariffing Canadian battery metals is a strategic blunder that hands a competitive advantage to Chinese EV manufacturers like BYD. By making the only Western-aligned supply of critical minerals more expensive, the U.S. is effectively subsidizing the very Chinese dominance it claims to be fighting.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTkczaThjMDgwN2t0TGpkZzBIOWVlNGF6ZHJWYjRKcTl0ZDhiSFNxNVNETEJuY0FtUnVHR19RbGlQdXowZUd2T1E3TUVIMVptdFNkR2s0eGdvLWZERG1sUjQxaGFmek9hVi1vREMwU294R3N5dzFLakgxVHUyYU9zRGRMSThBcVRGaFZsZDRsc1dZQW9HOTQwYkt30gGfAUFVX3lxTFA5b21UZDdNQUtCOUw1Q3AtclpxZ0g1NVNrckdQMEF6eHNGYXNGTkhxa0IyTzg1SlhHekFrTjh4VE1paUNrZ3Z0d1RLelh1dEtVZGwyTWpwQXFscFpHU3FESE5KTDN2dFY2MWVoYlk0Z1I2alpIOUpzTHpXUTRnMFREV1BqY3EzYllfVnR4MktjaXJoMG9DMkRkZE5iNHpUMA?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Warsh Signals Higher Rates as the New Economic Baseline",
+      "summary": "Economist Kevin Warsh argues that the bar for lowering interest rates should be much higher than it is now.",
+      "view": "Kevin Warsh is signaling a permanent hawkish shift in the Fed's DNA, moving the 'neutral rate' higher than it has been in decades. This isn't just about fighting current inflation; it's a structural reset that will depress valuations for every long-dated asset in the economy, from real estate to venture capital.",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONkhEbHctcURRSmZNdFBoS3JJUElXay1PWTA2V0xnSDBFOE5vSlh6ZmlJMlJTMnVRVlVfUjdGMC00QTE0SGdTY3BnNTVlUGNfWDZmei05WldqWjVZdDFCTFdRWDVmNG1wVW5JaTBOT28tM00xRG9xY3dDd2RPX25EdnhDenlSYnkxTVVLUUZRa09uQ0xsanl5U0VHRnhpRFNZaTBBTzJzVWxnWExJR3d3ZVV4U3E5RFFMci15RUlLREJUOXMy?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Geopolitical Tensions Turn Into Profits for the Trump Family",
+      "summary": "Reports suggest the Trump family's business interests have benefited significantly during the ongoing conflict with Iran.",
+      "view": "The blurring of private profit and geopolitical strategy\u2014specifically regarding Iran\u2014suggests that foreign policy is being treated as a market-moving event for insiders. The cancellation of the Trump family's crypto venture amid 'ethics concerns' indicates that the legal risk of this 'geopolitical arbitrage' has finally become too high to ignore.",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOHlJX2Y2dzVfWjhITGNMU3ZHZkRrTDBnS0k1TDlpTDVhb1ZfcktXWGg5aXJ4cUV3dDc1Q3h3TDQ2YjR2TWd4cUZpQm83VTJTT1I3b3czSzB0R0RBMnF0TVY0MTZBNHFsd19PTEl1dW9kNzkzSGJMUnJnamRCaVRFREFBamRmRFAyUFVrWWh1TlVDYzM4MkhhTmdLdGVjY3ZYWDhVM0lZMmcwYW5LRW12LWFoQ05TeXBrb0FhN2FickUtTmhUWVZjbFVJamZBS2hl?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "U.S. Sanctions Hit Egypt's Second Largest Bank",
+      "summary": "Banque Misr has been targeted by U.S. sanctions, causing ripples through the Egyptian financial system.",
+      "view": "The sanctions on Banque Misr are a 'financial guillotine' intended to isolate Egypt for its ties to Iran, turning a key regional partner into a financial pariah. This move will accelerate Egypt's pivot toward the BRICS bloc as they seek non-Western liquidity to prevent a total collapse of their banking system.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdVpaa01NWVFQODM2OUxJVE5tSnJSUlhmekJCMDhtTDBxSm9MTmZlV2RDU2w1N2VOaG9id0hrRDFWV2NWR1RnckFuRHZKbkJBMGN5clMwd2l1MnAzVEpEZU45MXZiNGppc1lzTV82bEhJQ0QtUk11ZW1ZaFc4ZDF3OGhFNW9uMVhiRWFOTC1EU1lRRkg1NWpLWWgyM055anJZazY5VlNvYVI1cjjSAbABQVVfeXFMT1RONi1CZGtoZHBkQVJBQVJ5bl8tTzQxN21ibzVBYld1a2VjNlR2dURXai1NVUJvVTlxalBKUmpoTWJqU3J6NlFHcEFHcUNHYVN4YTZzVXNPbGstXzUxcGVNcmJReXRvZDBRTTNkbUZjQzBaMWY0NDA3dlE5djFBMnhldjNmWUxPMHdnc3FHWkw3bllaODRiTVZEMTJBQng3YkpEZ0JhWWVyc01vVWNnUEU?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Lawyers Use Anti-Tobacco Strategy to Sue Social Media Platforms",
+      "summary": "Attorneys are applying the legal playbook used against Big Tobacco to target Meta and other platforms for teen addiction.",
+      "view": "Applying the Big Tobacco legal strategy to social media is the most credible threat to the tech industry\u2019s business model since the inception of the internet. By focusing on 'addiction' rather than 'content,' lawyers are bypassing Section 230 protections and targeting the core algorithmic engagement loops that drive ad revenue.",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTWttS2FjbU5oRUxESHJ5cWJKc3NPR3FNSk9jb3R6WHZSQ2JFTTcxODNhRExZSklRSmRhQ1pwNzFUd2Z2cFdwaUZDbkhPbFZ0ZENocXJyZFdrRmRlUzg3SkxzcDZoN1lrVldpanZlSzdMdmxBUGRCMXJiT0EyLUppNkd6c2w5aVNlOTVEWWhIb9IBlAFBVV95cUxOZ3hPRG5IdUNJamFnUVNmZ0pPZFA5VzBvTmFRTXhpZWpnbjBJZXhSSjdRYVdPd193MjhkOFdSZy13ZWoxRV8tQk45ZXpMT1dZOUhWT0R4MG5GSURRdGk2XzY5ci1nMnRJWnJ4c0dQb2s1VnYyeXo3eWFmYnVrVmxUQXBwdWt5MW54eTJQOGdiMFVpSGpY?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia Tightens Government Control Over the National Economy",
+      "summary": "The state is increasing its influence on key industries, raising concerns about private sector competition.",
+      "view": "President Prabowo is aggressively pursuing a 'State Capitalism' model by centralizing commodity exports and cracking down on independent tycoons. This isn't just about revenue; it\u2019s a consolidation of power that signals the end of the 'free-wheeling' era for Indonesian commodities and the beginning of direct state management of the macroeconomy.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNel9idzN6SnptY0owdXl5WHpMM0xqamc0cDhha2JQUk5QNktVRFM0R2xUeElocm9qdE83NGcwMzlFX0o5MGFyNnNuWHNSX0Y4eWE3Q3UzSDJDX3Y3aFIzclV1bF9oYVU4UE82OVJFQTFOc3FWQTZhNmdwYnNsOHB5bTRRNzJPdE5HTk1tQmliYk1lUTBTb0xLRDVn?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Interventionist Policies Spark a Crisis in Economic Confidence",
+      "summary": "Experts warn that President Prabowo's hands-on approach to the economy is making investors nervous.",
+      "view": "The current 'crisis in economic confidence' is a direct result of Prabowo's interventionist style, which prioritizes nationalistic goals over contract sanctity. Investors are fleeing not because the economy is weak, but because the 'rules of the game' are now subject to the President's personal discretion.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZkpJZUQyb2dua2JwYzlUOGtmVXN1cjRGZUkxYlNkOVRPT0VOWG5PbE1vcGl1OXAwZE9GU3prRHB2WFFacVBVcGNPWkItQkhYV2ZLTDloWURFWGMtaWlxemhQeFNic0RTdDJMR2NaNi1UZnlIVDczRXExel84dFhXbDVSSVB5TUdIQjZNdzZPbUNXMGtYRG5HdkJDQU9JTHQxTWY0a0xldFRwdmY3T3pnbU5R?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Economic Fallout Predicted as Policies Fall Out of Sync",
+      "summary": "Analysts say Indonesia is paying a high price for economic strategies that don't match global market realities.",
+      "view": "Indonesia is making a classic emerging-market mistake by implementing protectionist 'downstreaming' policies just as global supply chains are seeking more open, flexible partners for the 'China+1' strategy. By being difficult to work with, Jakarta is effectively locking itself out of the high-tech manufacturing boom.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRTIwZU5HaFBlNkUtNXF6c04zTmFsT1BWT0lVbmN2UkJhOFZUTXBVSlFma2FQZ0hBaWFCVFNETkpoRno2dHVOeXBrVVotREJLOFJDOXMycGVkdzNOV1pCTDhueFl3M2lWTGlZUjlMOUVEcmJINFkwaGlCUTlKV0VEQlkzZkxHdkFwUVppZTRVdUQ2RHhmWHpwaE1iRXNTWDgzc2c?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Budget Squeeze Forces Difficult Choices for Indonesian Central Bank",
+      "summary": "A tightening national budget is limiting the government's ability to support the economy through traditional spending.",
+      "view": "The budget squeeze has effectively paralyzed the Indonesian Central Bank, as they can neither hike rates to fight inflation without blowing up debt servicing costs nor cut them without further weakening the Rupiah. This 'fiscal dominance' leaves the economy defenseless against any new external shocks.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWkJzY1AwWEJrV0g0eW4xaENjekJwNk9IR2l4eU45NXZMQ1lmVlBDSjNvdnUxclVOYWV5MmR0LWVMSDQ5UzJCLVdvelNsRi1Ga3dPcHFSS2ExMjZVbjdxd0h6MndjX0RkM29vdXNWT3BwalBJRnJYM1oxMDUtLW03UUtqLWpvRXdTZm1LblpjeGhsS1pEbTBzVFp3YmlHSm5K?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin and Gold Surge as Dollar Faces New Pressure",
+      "summary": "Both Bitcoin and gold saw price spikes after bond market interventions caused the U.S. dollar to weaken.",
+      "view": "The massive $7 billion inflow into Bitcoin and gold is a clear signal that institutional 'fear of fiat' is accelerating due to U.S. debt and bond market instability. Bitcoin is finally decoupling from tech stocks and behaving like a true 'digital gold' safe-haven as the dollar faces a credibility crisis.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZjhYLWRvY1c5TnNteV9UUFlJT2dNcVJiS0NtU3lRSDNpblJncGh0aWpKYzgtWDNpOEItTnZic0tHYzBVNnZNVnc5R2M1c0RHQmFDbXR5OTV2cVU1RlAzTF9aRFBOYkxvMHBWSWphNWpuSmg2NFZoUGYyZVNVNUhSQVpSVHU?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Trade Wars Send the Canadian Dollar Into a Slump",
+      "summary": "The 'Loonie' is falling as trade tensions with the U.S. and a hawkish Fed outlook weigh on the currency.",
+      "view": "The Canadian dollar is being crushed by a 'perfect storm' of U.S. protectionism and a hawkish Fed. As a trade-sensitive currency, the Loonie is the market\u2019s favorite proxy for betting against the success of the current trade war negotiations, and there is little the Bank of Canada can do to stop the slide.",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZDNpWGVuUzZZbVpTNzNRVFdGMjZRRWt1VHhPVGo0SlNiVnJPN3prWWU2dUdpdDl0UEJ5Y2dFd3pheThRS1VqLVZ3a2lva0lfR095b1g5X1V4UWFDc2U2NEQ4cjRCaWRLelNjUkk2UWYtZ1pIMzZVTG9lSEppZU1sRzBoY2ctelVGTmpvdXRkQQ?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin and the Japanese Yen Are Now Moving Together",
+      "summary": "The correlation between Bitcoin and the Yen has hit a record high, changing how traders view the crypto asset.",
+      "view": "The record correlation between Bitcoin and the Japanese Yen proves that BTC has become the primary 'liquidity barometer' for the global carry trade. When the Yen moves, it signals a shift in global leverage, and Bitcoin is now the first asset to sell off when that leverage is unwound.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Analysts Cool Down Hopes for One Million Dollar Bitcoin",
+      "summary": "Key market ratios suggest that the most extreme price predictions for Bitcoin are likely unrealistic for now.",
+      "view": "The cooling of 'one million dollar' Bitcoin predictions is a necessary market correction that signals the 'speculative mania' phase is being replaced by 'macro reality.' With Iran de-escalation and Fed hawkishness taking center stage, Bitcoin is being revalued as a macro asset rather than a get-rich-quick scheme.",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbmJZQlpldlM0NlV1US05QnBiaDRFOWM4d0I1UndrNUNpWWV2NEJjUm9EbFBjQmVMVmw4RGJvRWhScHJFV0hYSFJzeFRzUER4dkdCYVFTVk9RbHJBN1p3cWFPMldUb25sTHhSR0ZxRXNKaWJmS2tJU3VIXzMyb2ZOWGZSMGYzVEoyNFhBTmFZT3pySjJabTkzbzd0YjNzN09JQXg0MWEwNjNvREhnMmp5cnZheG9MNk9zblRTTGxTeVZRS1dMd1hvcQ?oc=5"
+    }
+  ]
+}
