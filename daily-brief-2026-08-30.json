@@ -6,42 +6,54 @@
       "headline": "Nvidia profits double as the world chases AI chips",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYWJJMEdiZUw5UGVrWEFnTXRPalotN0ZHVWdIM3lndFBwVEw1a2ROVkl2OWh3ZlVOZW00YWpRd0hPeDlaZG1jSWtfRVE0dnBvOVFPd1N5aS1OTHl3VWVDXzZiWFFIVXBBdW9CZTQ1SVdyUVhVLWhwdHNKWUROMHIwby1wSnJ5NnNkcndkQg?oc=5",
       "prediction": "Nvidia will beat its next earnings revenue guidance by at least $2 billion as supply chain constraints finally begin to ease.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new headlines were found to verify Nvidia's next earnings results against the $2 billion revenue beat prediction."
     },
     {
       "section": "tech",
       "headline": "Global tech coalition unites to build AI security shields",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ga0RXWlJZWVNWbFZBUno5T2hpVW9reTAwT2ZEYktDRmItRnJNMVRKelBjQlpUNWpsbEgwQ0xmd2RzNVdfOG5iWDE1U2F6Z1p3TzFXY2RFYmtPTktUSmhIdl82aXZaNXRCODNxeNIBckFVX3lxTE53NVBDNDRNczJJRk9SZmpDQW5hVEpKdjBRZjFSUGhKSVV3WU90TjdyeUduVzE0ZjVwLTVYM1EtYUg1cjJPdFRYWGlaVXh1cklXc1AzNDM0bWg1UjB5NW5GTDZQc2pIejRuVkx6SEdoTkpMZw?oc=5",
       "prediction": "Expect the first major 'AI vs AI' cyber-insurance dispute to hit the courts within the next 12 months as companies test the limits of these new security pacts.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Legal outlooks for 2026 are noted, but there is no specific report of a major 'AI vs AI' cyber-insurance dispute hitting the courts."
     },
     {
       "section": "tech",
       "headline": "China fast-tracks quantum computing to beat Western sanctions",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeG1UWW9Sb1ZJa1FHbldIV0duSENmTmpzOTYwOVV0djVuTTAtUEdSUDRlSGVucWQ1b0RGWDRJU01nUG1JOHRBaXEtaExJSFY5MmtLdDVhalEzdUFyNkxEX0lkVGUzaUpvdVloRmJRQTNlcGl3X1RXT0ZPUndVRlhyRjdyMy1GMUxpTFdZRGJFWnJURm0xVFo0bzZybDlNbi1aaVN4WG5YVW91NUhnZmZuY05UM0tlTEVqQlB6cA?oc=5",
       "prediction": "China will announce a 1,000-plus qubit processor by the end of 2025, specifically marketed as a breakthrough in 'unbreakable' national encryption.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No fresh information was found regarding China's progress or announcements concerning a 1,000-plus qubit processor."
     },
     {
       "section": "tech",
       "headline": "Meta legal settlement marks a turning point for regulation",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQellBWC1CZXRsVFp0anRWUG9aNEVSVXlweHhWVjdqVE83eXZjWDk4c0tpcEhQeUlKWnNFVVhRLVMwcnpaR29GdkZicjc3aWhfY283ZV94T2VpdXZaa2VlTm5LUTcwd0g1SXhwd0xXalpXRW5vUDVyMGwtNU1oMGgwSm9XN2d6UDE0Vnc?oc=5",
       "prediction": "Meta will implement mandatory, AI-driven biometric age verification for all new users by mid-2025 to permanently insulate themselves from further 'teen safety' litigation.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "There is no updated information regarding Meta's implementation of mandatory AI-driven biometric age verification."
     },
     {
       "section": "markets",
       "headline": "Stocks stumble as Fed signals inflation is still too high",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rNFZvcEhsdFdNUWJGaHNfck9XLWRYbTZoeURzSjQ2MTdCbVVsaXBKei1IUEx3VmsyNjRPaFVYaU5udmtxUzB0QmlCbWVZcUk3QlF5OWhOdGdnb3ZzTGl0UjE3Q2p4ZlZaRk5vdGZ2R0I4SGEtT2VN0gF8QVVfeXFMTWxKRVZ3YVptQm9SMGdOMUxkQXAxY1J2NkQyTXBWTi1SNHlqRlVmTi11V2lVYTJ3UFVxU3NQTzZFTFNkb1RoNjktSy1CQmhjN2w3d3NkWk1CdG5vZkJjZGo1R1lNYjgxZ1VGUlFfSTJMY1ZJc0NIZ0NjR29JUg?oc=5",
       "prediction": "The S&P 500 will test its 200-day moving average before the end of the current quarter as the 'Trump Trade' loses steam.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "While a headline reports a daily market dip, it does not provide enough technical data to confirm if the S&P 500 tested its 200-day moving average."
     },
     {
       "section": "markets",
       "headline": "US-Canada trade war threatens to spike metal prices",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTkczaThjMDgwN2t0TGpkZzBIOWVlNGF6ZHJWYjRKcTl0ZDhiSFNxNVNETEJuY0FtUnVHR19RbGlQdXowZUd2T1E3TUVIMVptdFNkR2s0eGdvLWZERG1sUjQxaGFmek9hVi1vREMwU294R3N5dzFLakgxVHUyYU9zRGRMSThBcVRGaFZsZDRsc1dZQW9HOTQwYkt30gGfAUFVX3lxTFA5b21UZDdNQUtCOUw1Q3AtclpxZ0g1NVNrckdQMEF6eHNGYXNGTkhxa0IyTzg1SlhHekFrTjh4VE1paUNrZ3Z0d1RLelh1dEtVZGwyTWpwQXFscFpHU3FESE5KTDN2dFY2MWVoYlk0Z1I2alpIOUpzTHpXUTRnMFREV1BqY3EzYllfVnR4MktjaXJoMG9DMkRkZE5iNHpUMA?oc=5",
       "prediction": "Aluminum and steel prices will rise by at least 15% in the US domestic market by the end of Q3 as stockpiles dwindle.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new data on metal price fluctuations or US domestic stockpiles is available to evaluate the predicted 15% price increase."
     },
     {
       "section": "markets",
