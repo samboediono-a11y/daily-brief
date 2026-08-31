@@ -8,7 +8,7 @@
       "prediction": "Nvidia will beat its next earnings revenue guidance by at least $2 billion as supply chain constraints finally begin to ease.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new headlines were found to verify Nvidia's next earnings results against the $2 billion revenue beat prediction."
+      "note": "No new information was found regarding Nvidia's next earnings report or revenue performance."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "Expect the first major 'AI vs AI' cyber-insurance dispute to hit the courts within the next 12 months as companies test the limits of these new security pacts.",
       "grounded": true,
       "status": "too_early",
-      "note": "Legal outlooks for 2026 are noted, but there is no specific report of a major 'AI vs AI' cyber-insurance dispute hitting the courts."
+      "note": "The provided headlines cover general AI regulation and a lawsuit involving Anthropic, but do not mention a cyber-insurance dispute involving 'AI vs AI'."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "China will announce a 1,000-plus qubit processor by the end of 2025, specifically marketed as a breakthrough in 'unbreakable' national encryption.",
       "grounded": false,
       "status": "too_early",
-      "note": "No fresh information was found regarding China's progress or announcements concerning a 1,000-plus qubit processor."
+      "note": "No new information was found concerning China's quantum processor developments or a 1,000-plus qubit announcement."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Meta will implement mandatory, AI-driven biometric age verification for all new users by mid-2025 to permanently insulate themselves from further 'teen safety' litigation.",
       "grounded": true,
       "status": "too_early",
-      "note": "There is no updated information regarding Meta's implementation of mandatory AI-driven biometric age verification."
+      "note": "There are no fresh headlines confirming whether Meta has implemented mandatory AI-driven biometric age verification."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The S&P 500 will test its 200-day moving average before the end of the current quarter as the 'Trump Trade' loses steam.",
       "grounded": true,
       "status": "too_early",
-      "note": "While a headline reports a daily market dip, it does not provide enough technical data to confirm if the S&P 500 tested its 200-day moving average."
+      "note": "While headlines show a market rally evaporating, they do not provide enough technical data to confirm if the S&P 500 has tested its 200-day moving average."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "Aluminum and steel prices will rise by at least 15% in the US domestic market by the end of Q3 as stockpiles dwindle.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new data on metal price fluctuations or US domestic stockpiles is available to evaluate the predicted 15% price increase."
+      "note": "No updated data on aluminum or steel price movements was found in the provided headlines."
     },
     {
       "section": "markets",

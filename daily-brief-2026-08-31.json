@@ -1,146 +1,287 @@
 {
   "date": "2026-08-31",
-  "predictions": [],
+  "predictions": [
+    {
+      "section": "tech",
+      "headline": "Local Maryland officials push back against new data centers",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOa3hCcTd5LTdsSUpzN0J0MEhVT2Z4OVYtSnlOZ2Zra3lGdWdlSnVQcWRvVEFtTWYxd2FHaGNYQkt6M0xDY2hhVURjeEdZVXRrOFc4NEFkOFZWbzhzTE1hWlJBaHNFVzlPMHFTVHVYMWRYVGhZRC1QeA?oc=5",
+      "prediction": "At least one major $5B+ data center project in Maryland will be officially canceled or relocated to a neighboring state by Q3 2026.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "Over 100 firms demand better protection from AI attacks",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaW9IYW9rLVYxTndDaWo2UXZBeWZQa0g3aUNjNXVwRV9zc2VPRE5Ib21lM1lmN0hDc1ktV2RKYmxNZ1o3R1BkaS1xQ25IU2FMdVNrQWE3a0RpaDBqbkJBemV1OXNpWF9pX2Y2b3NydzBDZ19QQWVrNVh0dnA5cXlSRlZqbTRzQWwyOGNOZXBYemZ0QQ?oc=5",
+      "prediction": "Cybersecurity spending as a percentage of total IT budgets will hit a record 15% across the S&P 500 by the end of 2026.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "New software keeps lawyers from making AI-based mistakes",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kUmhkX2gwb1I2SHFCYUQyOUhTRGJ4VUlGX1JVVVluSG5HaUhJazdta0paZ1Q1ZkNHYV9zQmJaUGRESTFFN0J0T0psWUFnVk55T1hsMlhpejdUSWdUY0FfRW95U2R1YlJtbXdOUktjVEFGWFBE?oc=5",
+      "prediction": "At least three top-tier US law firms will mandate the use of AI verification software for all court filings before the end of the year.",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "Major tech firms continue cutting staff through 2026",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVU1JMXhsV0UxRzNoSjJDU1pGZFFwYU1NLWxyWEFDN0RyV1dlVW1nTHJNck1lMTllb2VlaG12eTd4MTZCbHcxR0R6X3psOURfaEVsVzd5Nm81eDd4WUttX0d5M2Fob05zX3NFS0hOUHVXOXdqX3kzaXFSeVhqczdGNlRzd05XcE55Q0RhMHNNRG5BV2lMZ2l2cWZwVmtKUV9Rc2V5Q3ZVZnNFOVE0MHljXzFVclVOX2tLOXNtTkJYRV9UQjFEUV9BTkh5TmtnblV0anhpSUF1dXNUTzVVdlMxVk9n?oc=5",
+      "prediction": "Meta will report its highest revenue-per-employee figure in company history during the FY2026 annual report.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Geopolitics and oil prices drag the Dow lower",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMXRCVktYMXh5ak45eDRlN011MF81bHBSSDJ3d1pGbktLdzRvS0U5WGNhOTF0aWJ3Y0xtdjdxWWZNcXU3Vy1UYlJvbjBNV3N0SllLYXJDV0thbzZmT3doT0JFZUZHYmpJRjBzMEdjNnFwSkRjX0x4SXdNYXZ4bEF6Tng2dVpuNFFjbDBtQ3l4STc4dHpwaXF4QkxmRzk4RzlRV1B5cVFSTlo1YmxZc3RyVVg3a1JuX2I1c2tRenA5VVgxcEhEaE1ZQnk0dGJwcTlJTGRZRUVZYw?oc=5",
+      "prediction": "Brent crude will breach and hold above $105 for at least 10 consecutive trading days before the end of Q2 2026.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Why bonds are currently overshadowing the stock market",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rNjdHWnVKUlhtRkFhbm9nVHdKdEQ2X25MSkhsLTRtVTZvak4tSmY1a2QyaG9XaHdzbWxuSEJjelAyWE53ZktYam9hVE45T0kyOWFQWGVXRUZBN3prT3JwMXFsWWZ4UTNTZDZJMjFtY28?oc=5",
+      "prediction": "The 10-year Treasury yield will touch 5% before the S&P 500 sees its next all-time high.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Kevin Warsh\u2019s comments create new headaches for investors",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTGVwbHF4YldTaVludmxPeGxBM0tQMXcyR1JLcVBhcTRUSVpVNXJaeFNSVzZNazFOaExHNUdWbjlDa3FpaUhadjZ2eldfOVA2YnZvU21GLXdOTXJ3eHdvQ1E2dF8ycjBsQ0V0YWttNHFOM3d0bjhqc1B2RFZPLU81ZHVKMXcyT3gtWmZXc3lXOW16cFJ4Sm11UkxSMkR5RVV0clcwN21fVS1lN2ViZkhCc2ZGbHFrMHM?oc=5",
+      "prediction": "The Fed will maintain current interest rates through the next two meetings, defying explicit public requests for cuts from the executive branch.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Warren Buffett issues a cautious warning to investors",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU183U0V5OG1hWm9fWk0yam9YbDdwSGtnQ2hMMW4xV1c0eW1UQUNzSzlTbURpcEZpUzlaTFVfZjQzMTdhVVdmaHR6cUQxSVgtQllhM0JONG1zVUpjNXJPYkViQ3MyM2x5N2xwQ2FuMTFHMFBINWE0QzRLMGljcGswMW0tTzcwRUV3ZVVvdlhlMXhOa2NnQUFpSQ?oc=5",
+      "prediction": "Berkshire Hathaway's cash pile will exceed $350 billion in the next quarterly filing before any major acquisition is announced.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "FTC targets Amazon for allegedly deceiving its advertisers",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVTdfSlBMRDYwWko4RjVDVEZCdWNDM3Zvdi11MWlTSlVxZjcwZDViYWJxMUUzSXR5QmQ2a0p2dHJTY3dpMlVaWmlGUThOS0EwNmlXaU9IWS1zb2lLdjlTUUVQb0RHNGZOWnptVm5OZFNneTFjNWY0c0xHekR3OXJFY2VLb0F2ZV9ubUtHZHBkTXR0LWJO?oc=5",
+      "prediction": "Amazon\u2019s advertising revenue growth will slow by at least 15% year-over-year as companies pause spending amid the litigation.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "US strikes on Iran push oil prices higher",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkxlME9kNGFRUWlyc1k0NW93dnBPbHRkWWtveTVWc19ybnNSV2J2SHZ1MUhZa2VrQWVRaWNWWUQ0ZnE5UmRHcjYtYXl1ZVp4OF9DU0VRdmFEVXJ4MUFnUWkzQkRsNThWbVVXcUVvUDBRYXpoeXpBcnZaX0tXTjd3V3QxNzRBMTAwY3dRSmticTlFQUtITmdqQmpRS1JyUDVS?oc=5",
+      "prediction": "Global shipping insurance rates for tankers in the Persian Gulf will quadruple within the next 30 days.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "A new $480,000 cancer pill sets a pricing record",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ0RnU0xxUi04VnoyUThTcnRlVURaX3FXcjNEM3ZGN3F6RzI0OS1UbXg1SllQVGJBeUNmRGxMaklNbXZOX2FQZk5RRHNZeVkwalRPM0tRQjhjQ1dIMTk1eDFuYU94NHVfMnlFOGhSa2llbnlISUpTV2plbUkxZDJ0eERQeEs?oc=5",
+      "prediction": "A federal bill aiming to cap the launch price of 'precision medicines' will be introduced in Congress before the end of the current session.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "Scott Bessent argues US debt is outperforming expectations",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQVdQeWxUSkdRWFJtRk8zYnQtUXlwckhnUHN1V2pGNVo1YUVaWDhUQ09pMW5kOF90TEo1N0tjTV9CbU10UFNxOUJadC1qcHhJV2ExQWRXQ0hZLTUtV0xYZlZmQ2pGWDQxelRqdFBJSVVZbVJNZFpaS01wN1hXQVZub1J5dnhWRERaNU5DNnMtVHlXNkpnVEM3ZElnM3ZOa1RQNEplUS1XMmJBZkN4azBLeWlPNA?oc=5",
+      "prediction": "Foreign holdings of US Treasury securities will show a net increase in the next Treasury International Capital (TIC) report.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia aims for massive 100GW solar power goal",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS3FvX2hrbVpWeFlHd0tXcG8zQnNsc3lwUUZrVHVOYjhrZEMxY2lmNnkwOVNBYTZOa2VpWG5FZHlnTEstNFVLaHF5UEE4d09pc0lIUndiSWV4bHVKT01aTkZPN0Q2MnFXQk9NLWJwSkdfd3lOdFMtVWxTZXdBZURZcFVxSl9BUTd0TDl4ckd3bVZMeXlnVkFvY2h3Szc?oc=5",
+      "prediction": "Indonesia will sign at least three major MoUs with Tier-1 Chinese solar manufacturers for local factory construction by the end of 2026.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "New US trade deal reshapes Indonesian economic strategy",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaE9kR252ZElMaHRtZVlnVGFSWS1lY0ZxTDlmOG5SWFBxdUpCTHhRRTU3ZE9RWkNmcmtqTWVNZVJxM001ZkdKNlBEeWRnYUhJZk9ZX2gxeV9nUWZKbjJGdjJLQUZobVVUQm9JRlVGeDZYNHFNamJRWXE2NklPMmk2U1N6WXJwS2xLc1FnbnU4a0NhRnNrZWRiRXV2cFZNejJmX2FkZnV0eEVJY21WVjFzSTVDWGRFRHc?oc=5",
+      "prediction": "Indonesian exports of processed nickel to the US will increase by 50% within the first full year of the agreement.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Chinese nickel investment creates a structural shift",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTGNxaHRjdWlmUXB2Vm9GOWRjTTJjTHk3cmN4akNmQUh3dkdfVTEzS0pTa1lhS1RVWFNmV2VwdHJmTkxCanBvVHpMelFSNURVVzhRLWpjSTBSdl8tSk42aUlmN3JBN2k4S0o2d2RTd3B1WUo0VE1ON2FibWZNdmJLRVJBaGZpbnpnVG94VGFzRFpzZ21sLXo5TnpXTDBkY0RPUFNIUEg1MlB4azhNNU5sX3otV25GRnVEZXY5WFFVYm52ckdHa1I0?oc=5",
+      "prediction": "The benchmark price for Indonesian nickel ore will hit a three-year high by mid-2026 due to declining ore grades and rising refining demand.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "Fears of an 'economic confidence' crisis in Jakarta",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZkpJZUQyb2dua2JwYzlUOGtmVXN1cjRGZUkxYlNkOVRPT0VOWG5PbE1vcGl1OXAwZE9GU3prRHB2WFFacVBVcGNPWkItQkhYV2ZLTDloWURFWGMtaWlxemhQeFNic0RTdDJMR2NaNi1UZnlIVDczRXExel84dFhXbDVSSVB5TUdIQjZNdzZPbUNXMGtYRG5HdkJDQU9JTHQxTWY0a0xldFRwdmY3T3pnbU5R?oc=5",
+      "prediction": "The Indonesian Rupiah will weaken against the USD by at least 5% over the next two quarters as foreign equity inflows slow.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin and gold rally as dollar policy shifts",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZjhYLWRvY1c5TnNteV9UUFlJT2dNcVJiS0NtU3lRSDNpblJncGh0aWpKYzgtWDNpOEItTnZic0tHYzBVNnZNVnc5R2M1c0RHQmFDbXR5OTV2cVU1RlAzTF9aRFBOYkxvMHBWSWphNWpuSmg2NFZoUGYyZVNVNUhSQVpSVHU?oc=5",
+      "prediction": "The correlation between Bitcoin and Gold will reach a 24-month high by the end of 2026.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Stablecoins become a lifeline for Argentina\u2019s economy",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42c2I3U0xtOUhBNURESFAwMWRuUzJwbFBEdkdBdGU3N2U1U0duRmRYNk9QTTU2RFBYejRNRjRTaXNSTjhGUTlERnZGcFVkMUlVbUR3eEVYd2Y?oc=5",
+      "prediction": "Stablecoin transaction volume in Argentina will exceed the volume of traditional electronic bank transfers in Pesos by the end of 2026.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin\u2019s strong link to the Yen matters for traders",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5",
+      "prediction": "A 25-basis-point hike by the Bank of Japan will trigger a 10%+ drop in Bitcoin's price within 48 hours.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "The 'Bessent Doctrine' starts to shape global currency",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVcUU1N25HdF9IQ0E5ZEJEcTBWd0pOcDFpV3RNR0tPalNpeFUyeVVjTHBIc0w5UTZOSVFSazZEcUJnN2UzZm1DWjR4QW1PazZhSHREdVZVTGhyOXBRT2FWVG9EWUFkdm9TalpEMjFEM0MtRllzeUU1M1BvVQ?oc=5",
+      "prediction": "The US Dollar Index (DXY) will trade in its tightest 12-month range in a decade as the Bessent Doctrine takes hold.",
+      "grounded": false
+    }
+  ],
   "stories": [
     {
       "section": "tech",
-      "headline": "Local opposition creates a physical bottleneck for the AI boom",
-      "summary": "Tech leaders are warning that Maryland counties blocking data centers could stall regional economic growth and national AI progress.",
-      "view": "The AI revolution is hitting a literal wall of local zoning laws and power grid anxiety. If big tech cannot build the physical infrastructure to house GPUs, the software 'magic' stops. Watch for state governments to step in and strip local towns of their veto power to keep the AI arms race on track.",
+      "headline": "Local Maryland officials push back against new data centers",
+      "summary": "Counties in Maryland are increasingly blocking the construction of data centers despite heavy demand from the tech industry. Tech leaders warn that these local hurdles could stifle regional economic growth and AI development.",
+      "view": "Community pushback has officially transitioned from a local nuisance to a top-tier systemic risk for AI infrastructure. As analysts now rank Nimbyism alongside power constraints, the winners will be 'pro-data' states like Ohio or Texas that can bypass local zoning hurdles to capture the massive capital flight from Maryland.",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOa3hCcTd5LTdsSUpzN0J0MEhVT2Z4OVYtSnlOZ2Zra3lGdWdlSnVQcWRvVEFtTWYxd2FHaGNYQkt6M0xDY2hhVURjeEdZVXRrOFc4NEFkOFZWbzhzTE1hWlJBaHNFVzlPMHFTVHVYMWRYVGhZRC1QeA?oc=5"
     },
     {
       "section": "tech",
-      "headline": "Major tech firms continue workforce cuts despite AI growth",
-      "summary": "Layoffs are persisting across giants like Meta, Apple, and Microsoft as companies pivot resources toward automated technologies.",
-      "view": "This isn't a temporary slump; it's a structural shift where companies are swapping human middle managers for algorithmic efficiency. Investors are rewarding lean operations, but the human cost suggests a cooling in the broader tech labor market. Watch for whether these cuts eventually hit the engineering talent that companies claim to be protecting.",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVU1JMXhsV0UxRzNoSjJDU1pGZFFwYU1NLWxyWEFDN0RyV1dlVW1nTHJNck1lMTllb2VlaG12eTd4MTZCbHcxR0R6X3psOURfaEVsVzd5Nm81eDd4WUttX0d5M2Fob05zX3NFS0hOUHVXOXdqX3kzaXFSeVhqczdGNlRzd05XcE55Q0RhMHNNRG5BV2lMZ2l2cWZwVmtKUV9Rc2V5Q3ZVZnNFOVE0MHljXzFVclVOX2tLOXNtTkJYRV9UQjFEUV9BTkh5TmtnblV0anhpSUF1dXNUTzVVdlMxVk9n?oc=5"
+      "headline": "Over 100 firms demand better protection from AI attacks",
+      "summary": "A large coalition of companies is calling for a unified defense strategy against AI-driven cyberattacks. They are asking for industry-wide standards to prevent hackers from using automation to breach corporate networks.",
+      "view": "The demand for a unified defense is less about altruism and more about an industry-wide budget expansion for cybersecurity. Established players like CrowdStrike and Palo Alto Networks are the clear winners here, as 'standardization' usually results in high-cost enterprise software mandates that smaller competitors can't match.",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaW9IYW9rLVYxTndDaWo2UXZBeWZQa0g3aUNjNXVwRV9zc2VPRE5Ib21lM1lmN0hDc1ktV2RKYmxNZ1o3R1BkaS1xQ25IU2FMdVNrQWE3a0RpaDBqbkJBemV1OXNpWF9pX2Y2b3NydzBDZ19QQWVrNVh0dnA5cXlSRlZqbTRzQWwyOGNOZXBYemZ0QQ?oc=5"
     },
     {
       "section": "tech",
-      "headline": "New software aims to stop AI from lying in court",
-      "summary": "New legal tech tools are launching to prevent 'AI hallucinations' after several lawyers submitted fake case citations generated by chatbots.",
-      "view": "We are seeing the birth of the 'trust but verify' industry. The initial hype of AI doing your work is being replaced by the reality that AI requires expensive oversight. The winners here are specialized software firms that can bridge the gap between LLM speed and professional-grade accuracy.",
+      "headline": "New software keeps lawyers from making AI-based mistakes",
+      "summary": "After several high-profile cases of AI 'hallucinations' appearing in legal filings, tech firms are launching tools to verify citations. These programs act as a specialized fact-checker for legal professionals using generative AI.",
+      "view": "Legal tech is pivoting from creative generation to forensic verification as liability for 'AI hallucinations' becomes a career-ending risk. Tech firms providing these 'fact-checkers' will effectively tax the legal industry, turning every billable hour into a multi-tiered software verification process.",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kUmhkX2gwb1I2SHFCYUQyOUhTRGJ4VUlGX1JVVVluSG5HaUhJazdta0paZ1Q1ZkNHYV9zQmJaUGRESTFFN0J0T0psWUFnVk55T1hsMlhpejdUSWdUY0FfRW95U2R1YlJtbXdOUktjVEFGWFBE?oc=5"
     },
     {
       "section": "tech",
-      "headline": "AI becomes the primary tool for navigating broken supply chains",
-      "summary": "New analysis shows that global tech companies are increasingly using AI to predict and bypass international shipping disruptions.",
-      "view": "Supply chains are no longer just about moving boxes; they are about data supremacy. Companies that can predict a port strike or a canal closure 48 hours early are saving millions, while smaller players get crushed by delays. Watch for a widening gap between 'smart' logistics giants and the rest of the pack.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU2tLOUZfZFFzSF80dkh6UWpSNFVmTTVUWENJTWd4ellYSXJjRjZ5R052UFc3N21MUGhYbzBIcjZod0RSTHpURTBfeXdYMGt2blpVY2E0cXl0endab3pMSzBMdGVDelBlVldsSjdiZXA2YXRRY2t1VjNEbkN1SkFOX1ZTbkNRNU5VZEhGZm4zRXd3VVRxVDRrbXJLcjhETUdNc0Uw?oc=5"
+      "headline": "Major tech firms continue cutting staff through 2026",
+      "summary": "Apple, Meta, and Microsoft are among the giants still trimming their workforces well into 2026. This follows years of shifting priorities toward AI and away from older business segments.",
+      "view": "The 2026 layoff wave is a fundamental re-weighting of the tech workforce, not a cyclical downturn. Meta and Microsoft are aggressively swapping middle management and legacy product roles for high-cost AI talent and GPU clusters, signaling a permanent shift toward leaner, compute-heavy business models.",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVU1JMXhsV0UxRzNoSjJDU1pGZFFwYU1NLWxyWEFDN0RyV1dlVW1nTHJNck1lMTllb2VlaG12eTd4MTZCbHcxR0R6X3psOURfaEVsVzd5Nm81eDd4WUttX0d5M2Fob05zX3NFS0hOUHVXOXdqX3kzaXFSeVhqczdGNlRzd05XcE55Q0RhMHNNRG5BV2lMZ2l2cWZwVmtKUV9Rc2V5Q3ZVZnNFOVE0MHljXzFVclVOX2tLOXNtTkJYRV9UQjFEUV9BTkh5TmtnblV0anhpSUF1dXNUTzVVdlMxVk9n?oc=5"
     },
     {
       "section": "markets",
-      "headline": "Middle East conflict halts the summer stock market rally",
-      "summary": "U.S. markets fell sharply following military strikes against Iranian targets, ending a month of steady gains.",
-      "view": "War is the ultimate 'risk-off' signal because it makes energy costs unpredictable and threatens global trade routes. Investors are ditching high-growth tech stocks and hiding in cash or defense contractors. Watch the price of crude oil; if it stays above $90, the Fed's fight against inflation just got much harder.",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SWllSeGg2NWlpUTZ4M1JrMEFTemY5YlJ0N0ZsTGF1Y1RzN241VFkwR2dYS3AxdU5BcklvSzNRZGhlUldjUGFHOV9ROTh4RzhWbG9Uak5aRnV2WXpfbjljLTRvTU1iNEtCcmdrVkI3THdmMlRCX25J0gF8QVVfeXFMT3Yxanh5VVFSd1UyVTdkTG54azlvMjNOak5TTVZ2a2oybm1PZmh3SXEtMTQtSXllamk3Q3o5azJvemdfYzRHMndUclZEdWxadGZiOHNhNjJWamJVcHpzOXRvemtiOHZiLXZoeVRvRnJGT19XQXpEU1R3WjdvZA?oc=5"
+      "headline": "Geopolitics and oil prices drag the Dow lower",
+      "summary": "The Dow fell 300 points as tensions with Iran pushed Brent oil past $90 and Treasury yields higher. Investors are retreating as the risk of a wider conflict in the Middle East grows.",
+      "view": "The market is finally pricing in a prolonged regional conflict, with $90 oil acting as a tax on the global consumer. While the Dow is suffering from Goldman Sachs' exposure to shifting yields, energy stocks and defense contractors are the only safe harbors in a 'geopolitical whiplash' environment.",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMXRCVktYMXh5ak45eDRlN011MF81bHBSSDJ3d1pGbktLdzRvS0U5WGNhOTF0aWJ3Y0xtdjdxWWZNcXU3Vy1UYlJvbjBNV3N0SllLYXJDV0thbzZmT3doT0JFZUZHYmpJRjBzMEdjNnFwSkRjX0x4SXdNYXZ4bEF6Tng2dVpuNFFjbDBtQ3l4STc4dHpwaXF4QkxmRzk4RzlRV1B5cVFSTlo1YmxZc3RyVVg3a1JuX2I1c2tRenA5VVgxcEhEaE1ZQnk0dGJwcTlJTGRZRUVZYw?oc=5"
     },
     {
       "section": "markets",
-      "headline": "Amazon shares tumble as regulators target hidden advertising fees",
-      "summary": "The FTC is alleging that Amazon used deceptive practices to collect billions in fees from its advertising partners.",
-      "view": "Advertising is Amazon's highest-margin business, effectively subsidizing its low-price shipping. If the FTC successfully limits these fees, Amazon's entire 'flywheel' business model takes a hit to the gut. Watch for a ripple effect across other ad-heavy platforms like Meta and Google.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNGlJUWQyTTBBbU5yZ1hTWDVTcEpGbFVVR1h4Q19BX3l5TWtEdWlfY1d4c29obUdkd1ItVjF1NEktcjNxeTZBUjZvSmtGQTdoVU8wYVlFa19lOHpzTjU1VmVrYzRaa2ZycjY2NnZqRVpieDZXcUtKQ2xxTFN4b1liVTZsbDFtQzkySjlub0V4dW5wQWlQQTVfbXFtREF4R0puTnJqSEd6VzZBX1JxcGRXTDR0bFk0bjhKODVr?oc=5"
-    },
-    {
-      "section": "markets",
-      "headline": "Bond markets reclaim their role as the global economy's pilot",
-      "summary": "Market analysts are shifting focus from volatile stocks to the bond market as the true indicator of economic health.",
-      "view": "While stocks get the headlines, bonds set the price of everything from mortgages to corporate debt. The current 'bond vigilantes' are pushing yields higher, signaling they don't trust the government's spending levels. Watch for a spike in mortgage rates this week, even if the Fed tries to stay quiet.",
+      "headline": "Why bonds are currently overshadowing the stock market",
+      "summary": "Market analysts are shifting focus to the bond market, calling it the most critical driver of current global economics. Rising yields are making it harder for stocks to maintain their high valuations.",
+      "view": "The bond market has regained its role as the 'adult in the room,' with rising yields forcing a brutal re-evaluation of tech stock multiples. Investors are realizing that massive AI spending, like Alphabet's, is a liability when the cost of capital remains high and earnings misses are punished instantly.",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rNjdHWnVKUlhtRkFhbm9nVHdKdEQ2X25MSkhsLTRtVTZvak4tSmY1a2QyaG9XaHdzbWxuSEJjelAyWE53ZktYam9hVE45T0kyOWFQWGVXRUZBN3prT3JwMXFsWWZ4UTNTZDZJMjFtY28?oc=5"
     },
     {
       "section": "markets",
-      "headline": "September jitters return as historical market trends loom",
-      "summary": "Wall Street is bracing for September, a month that has historically been the worst for stock market performance.",
-      "view": "This isn't just superstition; it's when fund managers return from vacation and rebalance their portfolios for the year-end. Combined with today's geopolitical tension, we are seeing a 'sell now, ask questions later' mentality. Watch the volatility index (VIX) to see if this is a minor dip or a systemic slide.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOU9ZbVRfZVlpQVlONExUNUdtU0U4eFVXZFhhZi11S3ZIRVZhRzlRdXBaOG1Yamk0MHZzR3NzNDBsX0tNalUwRl9DcGw0UWw2Y2xNQmN0OFNlSUxYY2tMb2VDM19qZlp5Y2lJLXRXR3k5U29MMW5HMHU1bFlMdUJpZG1kZjZLYXRhY1c0M05MYWE1VlBIQmphdE13LUoxZHcyazZqZERxRW7SAa4BQVVfeXFMUHRjN1Z2RjBENmdtbENBODV6d2RBYTlUMW1RcTdSczc2ZTh3QlliZ0k1RC1iVThldGp0NXd5SmxTa3l4OFRReHJrOWpIdFIzdjlzS3ZYMmZmT081S2NOZ2xKeHp2dkxiRDBEajljdlk0dU1fRG9FellCQTAybVVvUDlJMWkwa2V0YUJKT3JLaDF2VS1abzA0VHNZdGhac2E2dXB1Q0FiZGhVR2VNZFdR?oc=5"
+      "headline": "Kevin Warsh\u2019s comments create new headaches for investors",
+      "summary": "Recent statements from Federal Reserve Chairman Kevin Warsh have introduced new volatility into the market. His stance on inflation and interest rates has traders recalibrating their expectations for the end of the year.",
+      "view": "Warsh is proving to be a much more hawkish Fed Chair than Trump anticipated, creating a 'headache' for those expecting easy money. By holding rates steady despite executive pressure, Warsh is prioritizing the Fed's institutional credibility over the 'Trump trade,' which will keep market volatility high through year-end.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTGVwbHF4YldTaVludmxPeGxBM0tQMXcyR1JLcVBhcTRUSVpVNXJaeFNSVzZNazFOaExHNUdWbjlDa3FpaUhadjZ2eldfOVA2YnZvU21GLXdOTXJ3eHdvQ1E2dF8ycjBsQ0V0YWttNHFOM3d0bjhqc1B2RFZPLU81ZHVKMXcyT3gtWmZXc3lXOW16cFJ4Sm11UkxSMkR5RVV0clcwN21fVS1lN2ViZkhCc2ZGbHFrMHM?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Warren Buffett issues a cautious warning to investors",
+      "summary": "The legendary investor is signaling caution as market indicators sound alarms about overvaluation. Buffett\u2019s moves to hold more cash suggest he sees limited opportunities in the current environment.",
+      "view": "Buffett\u2019s record cash pile is a vote of no-confidence in current equity valuations. He is using 'patience as a weapon,' positioning Berkshire Hathaway to be the sole provider of liquidity when the market eventually buckles under the weight of overvaluation and geopolitical stress.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU183U0V5OG1hWm9fWk0yam9YbDdwSGtnQ2hMMW4xV1c0eW1UQUNzSzlTbURpcEZpUzlaTFVfZjQzMTdhVVdmaHR6cUQxSVgtQllhM0JONG1zVUpjNXJPYkViQ3MyM2x5N2xwQ2FuMTFHMFBINWE0QzRLMGljcGswMW0tTzcwRUV3ZVVvdlhlMXhOa2NnQUFpSQ?oc=5"
     },
     {
       "section": "us_news",
-      "headline": "U.S. weighs energy infrastructure strikes to curb Iranian aggression",
-      "summary": "Military planners are considering strikes on Kharg Island to stop attacks on oil tankers in the Strait of Hormuz.",
-      "view": "This is a high-stakes game of chicken with global energy prices. Kharg Island is the heart of Iran's oil exports; hitting it would crater their economy but could also send global gas prices to record highs. Watch for the Biden-Trump rhetoric to heat up as energy security becomes a central election issue.",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWUV3N3pka3VwNzBqTDlCV19ZZ0QtMXRpOHBLLU9aRjVuMUpLa3hqOWtSdE1uNkRoZHV6QW50dkZDdjUxaUNXWUJxNkhETS1PTW1CREt0b3R0WUdWbU1ZUlhCakN1WTJJVlZCNF9hQm5xdjVaU2dyeEZ1eFRyZF9TRG9aODNGc25JNjBleV82RQ?oc=5"
+      "headline": "FTC targets Amazon for allegedly deceiving its advertisers",
+      "summary": "The Federal Trade Commission is suing Amazon, claiming the retail giant misled companies about how its advertising services work. This is the latest in a string of aggressive antitrust moves against Big Tech.",
+      "view": "The FTC\u2019s lawsuit is a surgical strike on Amazon's highest-margin business: advertising. By attacking the transparency of ad pricing, the FTC is threatening the very mechanism Amazon uses to subsidize its low-margin retail operations, making this a much bigger threat than previous antitrust claims.",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVTdfSlBMRDYwWko4RjVDVEZCdWNDM3Zvdi11MWlTSlVxZjcwZDViYWJxMUUzSXR5QmQ2a0p2dHJTY3dpMlVaWmlGUThOS0EwNmlXaU9IWS1zb2lLdjlTUUVQb0RHNGZOWnptVm5OZFNneTFjNWY0c0xHekR3OXJFY2VLb0F2ZV9ubUtHZHBkTXR0LWJO?oc=5"
     },
     {
       "section": "us_news",
-      "headline": "Trump signals new deals to lower prescription drug costs",
-      "summary": "The former president is reportedly preparing to announce pricing agreements with eleven major pharmaceutical companies.",
-      "view": "This is a classic populist move to win over older voters by bypassing traditional legislative hurdles. By negotiating directly with drugmakers, the administration is forcing a 'price over volume' trade-off for Big Pharma. Watch for pharmaceutical stocks to trade wildly as the specific list of drugs is leaked.",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuT1lnX3ByMXlKZEM1QnphTV9pNGpWM25WS1Q0WWdFeHMyM2xsX3FQWWxhSlFqSFlERzZDUFFGWkFqa3Z2ZWVGWlFpc1FoNVZwSUN5UndoT1lDYzZqMVBPNWFvYWpBNFViZU9PMDJB0gFzQVVfeXFMUFJpNEJ6MU5DSWN1ckpWQkRSdWlDMnlGeG5pVFdJTGoxS3lZeVV6cGRxVk5haXdTdmU1NFN6M2FqQ2lNdW1KR3dEN0pCMWY0SjFhbk5KUFppZnZMX0p6QUd6Z3pRTXc1cC1EckU5VDBQMzNuUQ?oc=5"
+      "headline": "US strikes on Iran push oil prices higher",
+      "summary": "Military action in the Strait of Hormuz has caused oil prices to climb as traders worry about supply disruptions. The move follows a period of escalating rhetoric between the two nations.",
+      "view": "US military strikes in the Strait of Hormuz represent a structural shift in the oil risk premium. This isn't just a temporary spike; it's a fundamental threat to the world's most critical energy chokepoint, ensuring that WTI crude remains elevated regardless of domestic US production levels.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkxlME9kNGFRUWlyc1k0NW93dnBPbHRkWWtveTVWc19ybnNSV2J2SHZ1MUhZa2VrQWVRaWNWWUQ0ZnE5UmRHcjYtYXl1ZVp4OF9DU0VRdmFEVXJ4MUFnUWkzQkRsNThWbVVXcUVvUDBRYXpoeXpBcnZaX0tXTjd3V3QxNzRBMTAwY3dRSmticTlFQUtITmdqQmpRS1JyUDVS?oc=5"
     },
     {
       "section": "us_news",
-      "headline": "Trump backs data centers as essential for American wealth",
-      "summary": "Donald Trump criticized local opponents of data center expansion, arguing they are hurting U.S. competitiveness.",
-      "view": "Energy and tech infrastructure are becoming the new political battleground. By framing data centers as a choice between 'poverty and progress,' Trump is aligning with Silicon Valley's need for massive power. Watch for this to drive a wedge between local environmentalists and pro-growth conservatives.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYV9zQTRxalNBQXctWUtrcFpNdjVmbkNjLXZBdGI2M005V0FBc1NoRHl3VlRNQlVpSy15NDMteWZWN0RBZlBYQkYzSEI2cnVYOGVpUGdtQnRuN2RfaE51YVFTanVBX1cyZzlUUFlJOFFfZ3dtM0ZUdHlnWGhyTHBNX2dwNDA?oc=5"
+      "headline": "A new $480,000 cancer pill sets a pricing record",
+      "summary": "The release of an ultra-expensive cancer treatment is reigniting the debate over pharmaceutical costs in the US. The drug's price tag reflects a 'new normal' for specialized precision medicine.",
+      "view": "The $480,000 price point for a single cancer pill marks the end of the 'free market' era for US drug pricing. This will trigger an aggressive legislative backlash, likely leading to the expansion of Medicare price negotiations to include newly launched precision medicines.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ0RnU0xxUi04VnoyUThTcnRlVURaX3FXcjNEM3ZGN3F6RzI0OS1UbXg1SllQVGJBeUNmRGxMaklNbXZOX2FQZk5RRHNZeVkwalRPM0tRQjhjQ1dIMTk1eDFuYU94NHVfMnlFOGhSa2llbnlISUpTV2plbUkxZDJ0eERQeEs?oc=5"
     },
     {
       "section": "us_news",
-      "headline": "Puzzling U.S.-Venezuela oil deal sparks calls for transparency",
-      "summary": "Experts and lawyers are questioning the lack of clear terms in a new agreement allowing Venezuelan oil into the U.S.",
-      "view": "The U.S. is quietly choosing cheap oil over democratic ideals as the Middle East gets messier. This deal is a lifeline for the Maduro regime but a necessity for U.S. refineries that need heavy crude. Watch for congressional hearings on exactly what the U.S. gave up to get this oil flowing.",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS1RaRjJaenRoMjVSVG16Nmx3Ym0wV3IxVy16WXVFT1NqdVRncm9SQmpMNnhENDRORmRxdkZ2bk51R210NVVvUjNkUGljaUNzYmZPemtSOUVVUmJNVjM1VFJGOEV2bDF1N1owR3hZb3ZBU1NMekNyU182dmxzTEU4aC11NVFTOHBpNk03MVkwOVRsSnBhMGNNazY0UjdzaU9Od0UxUmR2akdBaVdlQXJXcmxpWWQycnExd1dIUExfMVlER3Y1WENTVGZ3?oc=5"
+      "headline": "Scott Bessent argues US debt is outperforming expectations",
+      "summary": "The influential economic advisor highlighted the resilience of the US bond market despite high national debt levels. He remains optimistic about the government's ability to manage its obligations without a crisis.",
+      "view": "Bessent is attempting to 'jawbone' the bond market into stability by projecting confidence in debt management. His optimistic stance suggests the administration will prioritize growth-oriented fiscal policy over austerity, betting that the US can outgrow its debt-to-GDP ratio.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQVdQeWxUSkdRWFJtRk8zYnQtUXlwckhnUHN1V2pGNVo1YUVaWDhUQ09pMW5kOF90TEo1N0tjTV9CbU10UFNxOUJadC1qcHhJV2ExQWRXQ0hZLTUtV0xYZlZmQ2pGWDQxelRqdFBJSVVZbVJNZFpaS01wN1hXQVZub1J5dnhWRERaNU5DNnMtVHlXNkpnVEM3ZElnM3ZOa1RQNEplUS1XMmJBZkN4azBLeWlPNA?oc=5"
     },
     {
       "section": "indonesia",
-      "headline": "Chinese investment dominates Indonesia's critical nickel supply",
-      "summary": "New analysis highlights how Chinese capital is driving Indonesia\u2019s efforts to rebalance its economy around nickel refining.",
-      "view": "Indonesia owns the world's largest nickel reserves, which are essential for EV batteries, and they've effectively chosen China as their lead partner. This puts the U.S. in a difficult spot: they need the nickel but don't want the Chinese influence. Watch to see if Indonesia uses this leverage to demand a free trade deal with Washington.",
+      "headline": "Indonesia aims for massive 100GW solar power goal",
+      "summary": "The Indonesian government is rethinking its energy economics to hit an ambitious target of 100 gigawatts of solar power. This move is part of a broader push to modernize the nation's grid and attract green investment.",
+      "view": "Indonesia's 100GW solar goal is an industrial policy disguised as environmentalism, aimed at attracting Chinese solar manufacturing hubs. The real winner will be PLN (the state utility), which will gain massive leverage over the nation's energy mix while moving away from costly coal imports.",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS3FvX2hrbVpWeFlHd0tXcG8zQnNsc3lwUUZrVHVOYjhrZEMxY2lmNnkwOVNBYTZOa2VpWG5FZHlnTEstNFVLaHF5UEE4d09pc0lIUndiSWV4bHVKT01aTkZPN0Q2MnFXQk9NLWJwSkdfd3lOdFMtVWxTZXdBZURZcFVxSl9BUTd0TDl4ckd3bVZMeXlnVkFvY2h3Szc?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "New US trade deal reshapes Indonesian economic strategy",
+      "summary": "A reciprocal trade agreement between Indonesia and the US is expected to have significant strategic impacts on both nations. The deal focuses on critical minerals and strengthening supply chains away from China.",
+      "view": "This US trade deal is a strategic win for Indonesia's 'non-aligned' diplomacy. By securing access for its critical minerals, Indonesia is effectively making itself indispensable to the US EV supply chain while still maintaining its deep infrastructure ties with China.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaE9kR252ZElMaHRtZVlnVGFSWS1lY0ZxTDlmOG5SWFBxdUpCTHhRRTU3ZE9RWkNmcmtqTWVNZVJxM001ZkdKNlBEeWRnYUhJZk9ZX2gxeV9nUWZKbjJGdjJLQUZobVVUQm9JRlVGeDZYNHFNamJRWXE2NklPMmk2U1N6WXJwS2xLc1FnbnU4a0NhRnNrZWRiRXV2cFZNejJmX2FkZnV0eEVJY21WVjFzSTVDWGRFRHc?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Chinese nickel investment creates a structural shift",
+      "summary": "Massive Chinese investment in Indonesia's nickel industry is forcing a rebalancing of the nation's economy. Nickel has become the centerpiece of Indonesia\u2019s goal to become a global hub for electric vehicle batteries.",
+      "view": "Chinese dominance in Indonesian nickel has created a 'supply crisis' for Western automakers who need IRA-compliant materials. Jakarta is using this leverage to force a rebalancing, essentially telling the US that if it wants the minerals, it must accept Chinese involvement in the processing.",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTGNxaHRjdWlmUXB2Vm9GOWRjTTJjTHk3cmN4akNmQUh3dkdfVTEzS0pTa1lhS1RVWFNmV2VwdHJmTkxCanBvVHpMelFSNURVVzhRLWpjSTBSdl8tSk42aUlmN3JBN2k4S0o2d2RTd3B1WUo0VE1ON2FibWZNdmJLRVJBaGZpbnpnVG94VGFzRFpzZ21sLXo5TnpXTDBkY0RPUFNIUEg1MlB4azhNNU5sX3otV25GRnVEZXY5WFFVYm52ckdHa1I0?oc=5"
     },
     {
       "section": "indonesia",
-      "headline": "Indonesia and India deepen ties to counter regional giants",
-      "summary": "Prabowo and Modi issued a joint statement focusing on economic and political cooperation between the two emerging powers.",
-      "view": "This is the 'Middle Power' strategy in action. By teaming up, India and Indonesia are trying to create a third pole in Asia that isn't dependent on the U.S. or China. Watch for new defense and tech-sharing agreements that could shift the balance of power in the Indian Ocean.",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT084dkFlVVo5ckh4OEZEV0FKbVoxWnJ6TUVlTEt1X0FlTWIxa2pMcERrN1cxX2JpT19YcGgtd3pQV0JvY3F6RlM0R1BnME9qVlhyUWZCU01kdGRZNmFTb3ZTT0JGMlRhXzNxTDh6akMzOXJkN0sxNW1lUWNFQUUzS2xKWmRXOXJjMkpYTUc1VTJQc1E?oc=5"
-    },
-    {
-      "section": "indonesia",
-      "headline": "Fears of economic instability grow under interventionist presidency",
-      "summary": "Economists are warning that increased presidential interference in markets is hurting investor confidence in Indonesia.",
-      "view": "Prabowo is leaning into a 'hands-on' economic style that reminds some investors of the old authoritarian days. While this can get projects built fast, it makes foreign investors nervous about the rule of law. Watch the Indonesian Rupiah; if it starts to slide, it means the big money is heading for the exits.",
+      "headline": "Fears of an 'economic confidence' crisis in Jakarta",
+      "summary": "Analysts are warning of a potential crisis of confidence as the presidency becomes more interventionist in economic matters. Concerns are rising that political goals are overshadowing sound fiscal policy.",
+      "view": "The presidency's interventionist shift is a classic emerging market red flag that usually precedes capital flight. When political goals start dictating fiscal policy, the first casualty is always the currency's stability as foreign investors seek exits to avoid 'intervention risk.'",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZkpJZUQyb2dua2JwYzlUOGtmVXN1cjRGZUkxYlNkOVRPT0VOWG5PbE1vcGl1OXAwZE9GU3prRHB2WFFacVBVcGNPWkItQkhYV2ZLTDloWURFWGMtaWlxemhQeFNic0RTdDJMR2NaNi1UZnlIVDczRXExel84dFhXbDVSSVB5TUdIQjZNdzZPbUNXMGtYRG5HdkJDQU9JTHQxTWY0a0xldFRwdmY3T3pnbU5R?oc=5"
     },
     {
-      "section": "indonesia",
-      "headline": "Indonesia rethinks energy grid to meet massive solar goals",
-      "summary": "The country is overhauling its electricity economics to accommodate a target of 100GW of solar power.",
-      "view": "Indonesia\u2019s grid is currently addicted to cheap coal, and the transition to solar is a massive financial headache for the state power company. If they can\u2019t fix the pricing, the solar goal is just a PR stunt. Watch for new 'carbon taxes' or subsidy cuts for coal to fund this green pivot.",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS3FvX2hrbVpWeFlHd0tXcG8zQnNsc3lwUUZrVHVOYjhrZEMxY2lmNnkwOVNBYTZOa2VpWG5FZHlnTEstNFVLaHF5UEE4d09pc0lIUndiSWV4bHVKT01aTkZPN0Q2MnFXQk9NLWJwSkdfd3lOdFMtVWxTZXdBZURZcFVxSl9BUTd0TDl4ckd3bVZMeXlnVkFvY2h3Szc?oc=5"
-    },
-    {
       "section": "crypto_fx",
-      "headline": "Bitcoin and Gold jump as the U.S. Dollar weakens",
-      "summary": "Hard assets are rallying as a new U.S. fiscal policy, dubbed the 'Bessent doctrine,' puts pressure on the dollar.",
-      "view": "If the U.S. intentionally weakens the dollar to make its exports cheaper, the purchasing power of your cash drops. Investors are treating Bitcoin and Gold as the only 'real' money left in a world of devalued currencies. Watch for other countries to devalue their own currencies in response\u2014a classic 'race to the bottom.'",
+      "headline": "Bitcoin and gold rally as dollar policy shifts",
+      "summary": "Both Bitcoin and gold are seeing price surges as new US Treasury policies impact the dollar's strength. Investors are moving toward these 'hard assets' as a hedge against currency volatility.",
+      "view": "Bitcoin and Gold are now functioning as a singular 'hard-asset' trade against sovereign debasement. As the Treasury uses buybacks to manage the dollar, the market is signaling that it no longer trusts fiat currency as the ultimate store of value, marking a long-term bottom for crypto.",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZjhYLWRvY1c5TnNteV9UUFlJT2dNcVJiS0NtU3lRSDNpblJncGh0aWpKYzgtWDNpOEItTnZic0tHYzBVNnZNVnc5R2M1c0RHQmFDbXR5OTV2cVU1RlAzTF9aRFBOYkxvMHBWSWphNWpuSmg2NFZoUGYyZVNVNUhSQVpSVHU?oc=5"
     },
     {
       "section": "crypto_fx",
-      "headline": "Argentina turns to stablecoins as a lifeline for the Peso",
-      "summary": "A new report shows Argentines are increasingly using dollar-pegged stablecoins to escape their domestic currency's collapse.",
-      "view": "This is 'crypto-ization' in real-time. When a national currency fails, people don't buy volatile Bitcoin; they buy digital dollars (stablecoins). This proves that crypto\u2019s biggest use case right now is acting as a shadow banking system for failing economies. Watch for the IMF to crack down on this 'unregulated' dollarization.",
+      "headline": "Stablecoins become a lifeline for Argentina\u2019s economy",
+      "summary": "A new report shows that Argentina\u2019s crypto market is dominated by stablecoins like USDC and USDT as citizens try to escape local inflation. The peso-to-crypto bridge is now a mainstream financial tool in the country.",
+      "view": "Argentina is the global proving ground for the 'stablecoin-ization' of failing economies. USDC and USDT aren't just 'crypto' there; they are the primary medium of exchange, meaning the future of stablecoin regulation will likely be written in Buenos Aires, not Washington.",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42c2I3U0xtOUhBNURESFAwMWRuUzJwbFBEdkdBdGU3N2U1U0duRmRYNk9QTTU2RFBYejRNRjRTaXNSTjhGUTlERnZGcFVkMUlVbUR3eEVYd2Y?oc=5"
     },
     {
       "section": "crypto_fx",
-      "headline": "Bitcoin\u2019s link to the Japanese Yen creates a new macro signal",
-      "summary": "The correlation between Bitcoin and the USD/JPY exchange rate has hit a record high, signaling a shift in how it's traded.",
-      "view": "Bitcoin is no longer an isolated asset; it\u2019s now a 'liquidity sponge' that reacts to global interest rate trades (the 'carry trade'). When the Yen gets stronger, Bitcoin often falls as investors sell off risky assets to cover their loans. Watch the Bank of Japan\u2019s next move\u2014it might matter more for crypto than any tech news.",
+      "headline": "Bitcoin\u2019s strong link to the Yen matters for traders",
+      "summary": "The correlation between Bitcoin and the Japanese Yen has reached a record high. This means shifts in Japanese monetary policy are now directly impacting the price of digital assets.",
+      "view": "The record-high Bitcoin-Yen correlation means crypto has been co-opted by the global 'carry trade.' Any hawkish move by the Bank of Japan is now a direct threat to Bitcoin liquidity, as traders unwind Yen-funded positions across all risk assets.",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5"
     },
     {
       "section": "crypto_fx",
-      "headline": "BlackRock issues a stark warning on the dollar\u2019s future",
-      "summary": "The world\u2019s largest asset manager is predicting a surge in Bitcoin and Gold as the U.S. debt hits a 'death spiral' threshold.",
-      "view": "When the firm that manages $10 trillion warns about a dollar collapse, it's not a conspiracy theory\u2014it's a portfolio strategy. They are telling their massive institutional clients to hedge against the U.S. government's inability to control its debt. Watch for more pension funds to add 'hard asset' allocations this quarter.",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNWWItUzVVTVVvODFscFd1SHV4a3QxSXBrS2EzUlhzdGluREtFX2dmMGZjWFU5R2Z5RUVQaGE1OUFZRm1yTVgwMWVRczFBOWlJSnVYNHBPWVczYUF4N3BrLVo2SXFJVnZ6Z291MjZJbzRzTkhUUDY0cThSQWtpRnV4X3N1RlZpQTVvMW9GclhZZnNzd2VsMzBETUJPWGYyd0J5WTJnMTBnejRtd3BvMlNxcVl4R2g3aEp0dlU5d0FGMEpZT3gtNGFOOXc0dl92dE5SZFVWMVJPSHFFYVMtSllxaHU3WF83ODB3VHR5Y0N6U0hFMnFwTmlfM3Jfb3E5eHJsa3REazdKU1U5Tk5mam5SLUxBOWFWYXg1OHB0eg?oc=5"
+      "headline": "The 'Bessent Doctrine' starts to shape global currency",
+      "summary": "A new approach to foreign exchange policy, dubbed the 'Bessent Doctrine,' is emerging. It emphasizes using currency stability to manage national debt and inflation more aggressively.",
+      "view": "The 'Bessent Doctrine' is a pivot toward using the dollar as a debt-management tool rather than just an inflationary guardrail. By prioritizing currency stability, the US aims to lower the interest burden on its $34T+ debt, which is fundamentally bullish for the long-term health of the US Treasury market.",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVcUU1N25HdF9IQ0E5ZEJEcTBWd0pOcDFpV3RNR0tPalNpeFUyeVVjTHBIc0w5UTZOSVFSazZEcUJnN2UzZm1DWjR4QW1PazZhSHREdVZVTGhyOXBRT2FWVG9EWUFkdm9TalpEMjFEM0MtRllzeUU1M1BvVQ?oc=5"
     }
   ]
 }
