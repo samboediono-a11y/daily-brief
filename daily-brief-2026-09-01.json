@@ -1,0 +1,287 @@
+{
+  "date": "2026-09-01",
+  "predictions": [
+    {
+      "section": "tech",
+      "headline": "US tells G20 to avoid over-regulating artificial intelligence",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbmFFcTlLcU1BTjFTOXBjTE80ZGFzSUc5ZUtPREdXX2tDcTJZODd4UTNwekU1M3JFdXlZdUhPcFl6Z0RqcWhjQ3VvLW92cmtZMHlLY0ZmTktxNlUtVXJLRlFfTXhWWXpvbGRBTU1Vb0FEY0dVNWE1Y3VNZTJ5SVhoU19hU0lsU0xmUnpoSkJrMVY5T1ZIaHlzTHRBS2JRTjdRU0U0R0tB?oc=5",
+      "prediction": "The US will formally block any attempt by the G20 to establish a binding international AI safety inspectorate before the end of 2025.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "New bill aims to boost US lead in quantum computing",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUTJOTE5sM196T1V6NHREb19wanVIa2xHbWhoa09Ib2xVbVRtcVhhN1BPS2F2TUNwQm1abkxfOHpxdE5lUFpxVHpPQmM2OVVCcEYyVW9kZXZGSWNpM1hRRlZIVHBzSWx3YVpzN296cjRxWTNsQTRjdEk5blR1OHhxVWFvdWR3aUx1Ql9qcDVMSS1VVFdNdDlMOWh4NWx2bzktNGEzc1dqblRnTlVpYnZkS1p3?oc=5",
+      "prediction": "Federal quantum research grants will see a 20% year-over-year increase in the next fiscal budget following the bill's passage.",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "Arm CEO faces backlash over record-breaking pay package",
+      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPdU1FSGJHMVNSQU9CblRKeHBPM09xMDM5WXZrZmZ4SGtMN0dSQ3JscFp3dGhXd0R2WW01aW9fWVRvT0pNaGZuN0ZtODJzV3lJREZCUFVaU0swTzk4aDZURGoydkhxU2FVWlNqUGdFbm4tdFRpYmxfRkRvUkk0aHQ4UG1VVHRiVi14bHE5MlVxT2ZrVEEwemVITU9DQUV2Rm9HS09WY2VXSVJMdWpldnY3ZFktT0JZMEFLRHRyV2ExTGJGZEFJdU5wbUMwNHZXY1IxRGJJNVNGQy15bG81TW1FVUFwZzVFRk9xM0Zub0I5bjV2QU01NE1KZzR5RUhST3lvRVlyT2RVZmdGSi1IQmFMVElTQ29BNXItWlBiM2Q3RzZFVjNiWTh3Yk43bGQwcnZCaDkzZUljUnN6aThYZ281U2NqQmlWcHEtem9xLXZn?oc=5",
+      "prediction": "Institutional proxy advisors will formally recommend a vote against the pay package, forcing a significant restructuring of the bonus milestones by the next annual meeting.",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "Oil and gas industry turns to quantum computing for efficiency",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWEh6TmYzaEp3eUJTX0Jsa2daTEhKNV9wcC1kTUstVWlzSDV4MlBIbTRXQTJoN0MtNS1ERmF1ZFdsUjlKSnlTTEhTaVo0ODNjbDJVZVE3T0NpVFU0WHltUUtianVZQTNZN01YUEpPNlp2YzlZSHE5X3EzLXNpRDlwbWNB?oc=5",
+      "prediction": "At least two supermajors will announce a joint venture with a dedicated quantum hardware provider for carbon sequestration research within 12 months.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Stocks tumble as oil prices and bond yields spike",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOald3VXBlOEFnQTdDa01pSGNQcEtILUJQQTBRYlZOTzloVDBISXA1MzIxMkczUXljVEx6YkdYcTNBWi01eW9WSUZNTDEwNlpDV2w1UEtjNHhCa25DR3hMYVFIdWtsMWhiTkR0d0dLUXF3ZWZYUUtpUTgzNzhDd1hvbVFfd3E0SXBtMGZWYlAwWjNsUF9hSzJ0TElzQmtZclNvZkRydUVsWTQ0RDk0aHQ4?oc=5",
+      "prediction": "The S&P 500 will retest its 200-day moving average before the end of the current quarter.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Shein\u2019s market debut flops as investors fear geopolitical risks",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4YWdLVDQxb2xmbjg4ZzQ4dTFaNHRBZ21zVmFyX1RfSVhJS2JWc1hWV1VjWHdhcExaMXpBUEs3R3FpNnQ5by00bjU3c3FmZFg5SnBERUVHMk9QeEFpczdiQ1hZU1BhV3M0aUlTS3IzZU5QRm1Pc216T9IBfkFVX3lxTE83eU1vdkpFUnRocHpiRUNITDJHNk5PaURXcG9iUlVNZ1dRT2dGc3lwRlg5Q1U3MGw4X21sd3dwMzRBNXY2OVZ4a2RSSTdIZENOX3FXendBbWFISTFfeGstcFZYVzMzVkgzR3oyTnNjQnFudFp5aWRrYXREMXNpdw?oc=5",
+      "prediction": "Shein will officially postpone its pursuit of a secondary London or New York listing until at least late 2026.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "London Stock Exchange struggles as more firms opt for buyouts",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZWdQZHYxYnViRExKXzZsLTdya3B4N1BjVDJoeE5VcG5fT1dSYUpDdWFKclRGVF9nQl9LbC1FdEJYTzg5dlU5cWI5Wkx5djIzZlI4WlAyNnR4T1RzaEtER29fNGk2ZU9XazZ5REhKQXNVcU80ZldUZkluSDl4anhYMTE3bEJQSExRQmJJdGJtN0JuY3RsVWxQMFljVFBxWFd2a1BTeFczVmswVkhqUnNLbFFsX013UXlm?oc=5",
+      "prediction": "At least three more FTSE 250 companies will receive unsolicited private equity takeover bids before year-end.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Geopolitical conflict in Iran sends tech stocks sliding",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObmxMNmlGRzl6UWIxaFpvZWRsbGUxY0hzVDllWUQwbmJHRHN2VVNtX05QUW9kR1lsbHZLUmFPRG5QZ1Exb1EwM2RjNUZrb2JaOFk4MnRsTVRxNFRVaXJKa2pETEJJSFloeUVhUV8tYUNQU196VWRnUlI3X0FQZUdqZDh1Qk9CT0ctR1RycnBYRU5oOWdX?oc=5",
+      "prediction": "Defense ETFs like ITA will outperform the Nasdaq 100 (QQQ) by at least 8% over the next 30 days.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "US military launches strikes to protect Strait of Hormuz shipping",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14emhLdERqMDNXajliUVR1S29GSEZOUUhkTjBzNXR2TG91aWk0M2F4YnB5U0d1UzRMQ2RnM1pYd1Jlc3VLUDdpNlctejloOVN4aC12NndlbFBjWjdQYkg3QThxZW9PQW9ZdlZJWjk0WG51OUww?oc=5",
+      "prediction": "Brent crude will sustain a price floor above $95 as long as the US blockade of Iranian ports remains in place.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "The Pentagon is now facilitating Venezuelan oil deals",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5weXFVbGRSZ2NxRWk5QVNsOURLNjFOT3lZNzBYTm5CdVVySU5BT0lMaUFqbWhJVVdJTHl0WXFrRkxxaWhXeHZkdFV2TGpONnFnWlFGU2xzVU1JbHJyS3daSk9VMGFKZnB6Wk1TdGJucHJ0YVBRZnR4YVN3ZTN1YkU?oc=5",
+      "prediction": "Venezuelan crude exports to the US will reach their highest level since 2018 within the next six months.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "Iran offers ceasefire terms contingent on US cooperation",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdlc2ODRWbzc4Ujc2bkpMYWU2dGtJU3JNdk1UeHhYbThocGhLbG9WdDVGd3JpdlIxLUNRZFhWZU80TXhRMWk2RFVaYmVwRXhVdG9fcUl3Zk5Pd0Q1SHpzT0w1aURMQVVxUURyR2lZYTZGbjNfT18yTlBMRml2bTZGM3dDaWNKNmNfelRuLXlsWmw1SlIwNHY0c3ljY2cwc0pma0tId2VtUjBpVWQ4OE5TeE90QVFrWFI5UTZ5eV9HeWhVQ09WUGc?oc=5",
+      "prediction": "Expect no formal ceasefire agreement; instead, a series of 'quiet' backchannel de-escalations will occur if oil exceeds $110.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Apple enters new era as John Ternus replaces Tim Cook",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNkVwc3NNT2k1QzV2blM0bXBjZDZoaTJ5d2FzazViTGgwVllxcVN3RVpqTlh1U1FPeXU2TDh4ajVxTk9tb2c1cTNGcTE0dzdsSmJNZnpoYmcyVDMwWTZJUVkxRkZjTllmQ2JQX3g5TlRIbEhtMHpsbjFFWVJBTlNXNHdsR1AwTkRBTkxUSTZHVjdNa1h3TkF4VmNERjdKQWRJcE9qWXNJTmY3ejRMclVVeGg4SQ?oc=5",
+      "prediction": "Apple will announce its first 'AI-native' hardware device, moving beyond the traditional iPhone form factor, within the first 18 months of Ternus's tenure.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "Chinese investment in nickel shifts Indonesia\u2019s economic balance",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTGNxaHRjdWlmUXB2Vm9GOWRjTTJjTHk3cmN4akNmQUh3dkdfVTEzS0pTa1lhS1RVWFNmV2VwdHJmTkxCanBvVHpMelFSNURVVzhRLWpjSTBSdl8tSk42aUlmN3JBN2k4S0o2d2RTd3B1WUo0VE1ON2FibWZNdmJLRVJBaGZpbnpnVG94VGFzRFpzZ21sLXo5TnpXTDBkY0RPUFNIUEg1MlB4azhNNU5sX3otV25GRnVEZXY5WFFVYm52ckdHa1I0?oc=5",
+      "prediction": "Indonesia will fail to sign a limited Free Trade Agreement with the US for critical minerals due to the high level of Chinese equity in its smelting operations.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "New US-Indonesia trade deal tests Jakarta's neutrality",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaE9kR252ZElMaHRtZVlnVGFSWS1lY0ZxTDlmOG5SWFBxdUpCTHhRRTU3ZE9RWkNmcmtqTWVNZVJxM001ZkdKNlBEeWRnYUhJZk9ZX2gxeV9nUWZKbjJGdjJLQUZobVVUQm9JRlVGeDZYNHFNamJRWXE2NklPMmk2U1N6WXJwS2xLc1FnbnU4a0NhRnNrZWRiRXV2cFZNejJmX2FkZnV0eEVJY21WVjFzSTVDWGRFRHc?oc=5",
+      "prediction": "Indonesia will sign a major infrastructure deal with a Chinese state-owned firm within 90 days of finalizing this US trade agreement.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "Government intervention threatens investor confidence in Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZkpJZUQyb2dua2JwYzlUOGtmVXN1cjRGZUkxYlNkOVRPT0VOWG5PbE1vcGl1OXAwZE9GU3prRHB2WFFacVBVcGNPWkItQkhYV2ZLTDloWURFWGMtaWlxemhQeFNic0RTdDJMR2NaNi1UZnlIVDczRXExel84dFhXbDVSSVB5TUdIQjZNdzZPbUNXMGtYRG5HdkJDQU9JTHQxTWY0a0xldFRwdmY3T3pnbU5R?oc=5",
+      "prediction": "GoTo (GOTO:JK) will report its widest quarterly net loss in a year as the new fee caps take effect.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "Central bank faces dilemma as budget pressures mount",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWkJzY1AwWEJrV0g0eW4xaENjekJwNk9IR2l4eU45NXZMQ1lmVlBDSjNvdnUxclVOYWV5MmR0LWVMSDQ5UzJCLVdvelNsRi1Ga3dPcHFSS2ExMjZVbjdxd0h6MndjX0RkM29vdXNWT3BwalBJRnJYM1oxMDUtLW03UUtqLWpvRXdTZm1LblpjeGhsS1pEbTBzVFp3YmlHSm5K?oc=5",
+      "prediction": "Bank Indonesia will maintain its current interest rate through at least the next three policy meetings.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Argentina embraces stablecoins as local currency loses value",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uMzlRQ1FlWHQ0TDVSel9VTm1vcEl2Z2xjTVltNG15SGowQnlNR2JNcTNJZW5qZHJHM2ZnU3R4UTBtcXpRSy1Nb08zcFcwVVdLN2lOYzZ6REtlbllTcG1IWENEWnJEUU9faFNtdDRfVk1PY0U3?oc=5",
+      "prediction": "Stablecoin-based commerce in Argentina will grow by another 50% in volume by the end of 2025, regardless of official government policy.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "BlackRock warns of dollar 'death spiral,' favoring Bitcoin",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNWWItUzVVTVVvODFscFd1SHV4a3QxSXBrS2EzUlhzdGluREtFX2dmMGZjWFU5R2Z5RUVQaGE1OUFZRm1yTVgwMWVRczFBOWlJSnVYNHBPWVczYUF4N3BrLVo2SXFJVnZ6Z291MjZJbzRzTkhUUDY0cThSQWtpRnV4X3N1RlZpQTVvMW9GclhZZnNzd2VsMzBETUJPWGYyd0J5WTJnMTBnejRtd3BvMlNxcVl4R2g3aEp0dlU5d0FGMEpZT3gtNGFOOXc0dl92dE5SZFVWMVJPSHFFYVMtSllxaHU3WF83ODB3VHR5Y0N6U0hFMnFwTmlfM3Jfb3E5eHJsa3REazdKU1U5Tk5mam5SLUxBOWFWYXg1OHB0eg?oc=5",
+      "prediction": "BlackRock's IBIT will become the largest Bitcoin fund in the world by AUM before the end of Q1 2025.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Indian Rupee holds steady on strong domestic growth",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObGdJRHhpX291SWZXS1pfSFlpeGtiSGNJeWttd0NuZUxnYWNrX1lmVXJrYTg5bDBxZGdweWVlWkcxcHI5Qk1aNlhPQmcyY2RyODFYRG1TakZOV1hRWkxhVE9UWG1HTE5kMkJPekxUeWl2VTd6UFI4YjJWbXgwOW5EWnYzVQ?oc=5",
+      "prediction": "The USD/INR pair will stay within a tight 83.00-84.50 range for the remainder of the year despite global currency volatility.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin\u2019s tight link to the Yen changes the trading game",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5",
+      "prediction": "Bitcoin will drop by at least 7% within 48 hours of the next Bank of Japan interest rate hike.",
+      "grounded": false
+    }
+  ],
+  "stories": [
+    {
+      "section": "tech",
+      "headline": "US tells G20 to avoid over-regulating artificial intelligence",
+      "summary": "American officials urged international partners at the G20 tech summit to maintain a light regulatory touch on AI development.",
+      "view": "The US is prioritizing the dominance of its domestic AI titans over global safety standards, pushing for 'light-touch' regulation to prevent EU-style compliance from slowing down OpenAI and Google. This strategy aims to outpace China's open-weight model advancements, even as the White House privately weighs internal vetting for the most powerful models.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbmFFcTlLcU1BTjFTOXBjTE80ZGFzSUc5ZUtPREdXX2tDcTJZODd4UTNwekU1M3JFdXlZdUhPcFl6Z0RqcWhjQ3VvLW92cmtZMHlLY0ZmTktxNlUtVXJLRlFfTXhWWXpvbGRBTU1Vb0FEY0dVNWE1Y3VNZTJ5SVhoU19hU0lsU0xmUnpoSkJrMVY5T1ZIaHlzTHRBS2JRTjdRU0U0R0tB?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "New bill aims to boost US lead in quantum computing",
+      "summary": "Congressman Langworthy introduced the American Quantum Competitiveness Act to protect and accelerate domestic quantum research.",
+      "view": "This bill is a tactical move to ringfence the US quantum ecosystem and prevent the leakage of dual-use technology to China. By treating quantum as a matter of national security rather than just pure science, the winners will be US-based hardware firms like IonQ and IBM who will gain streamlined access to federal defense contracts.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUTJOTE5sM196T1V6NHREb19wanVIa2xHbWhoa09Ib2xVbVRtcVhhN1BPS2F2TUNwQm1abkxfOHpxdE5lUFpxVHpPQmM2OVVCcEYyVW9kZXZGSWNpM1hRRlZIVHBzSWx3YVpzN296cjRxWTNsQTRjdEk5blR1OHhxVWFvdWR3aUx1Ql9qcDVMSS1VVFdNdDlMOWh4NWx2bzktNGEzc1dqblRnTlVpYnZkS1p3?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Arm CEO faces backlash over record-breaking pay package",
+      "summary": "Shareholders are revolting against an $800 million compensation plan for Arm\u2019s CEO that hinges on a $2 trillion valuation.",
+      "view": "Arm's massive pay package is a desperate attempt by SoftBank to justify a $2 trillion valuation that the company hasn't yet earned in the data center market. Shareholders are right to revolt; the CEO is being compensated for 'AI hype' rather than the tangible execution of moving beyond mobile architecture.",
+      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPdU1FSGJHMVNSQU9CblRKeHBPM09xMDM5WXZrZmZ4SGtMN0dSQ3JscFp3dGhXd0R2WW01aW9fWVRvT0pNaGZuN0ZtODJzV3lJREZCUFVaU0swTzk4aDZURGoydkhxU2FVWlNqUGdFbm4tdFRpYmxfRkRvUkk0aHQ4UG1VVHRiVi14bHE5MlVxT2ZrVEEwemVITU9DQUV2Rm9HS09WY2VXSVJMdWpldnY3ZFktT0JZMEFLRHRyV2ExTGJGZEFJdU5wbUMwNHZXY1IxRGJJNVNGQy15bG81TW1FVUFwZzVFRk9xM0Zub0I5bjV2QU01NE1KZzR5RUhST3lvRVlyT2RVZmdGSi1IQmFMVElTQ29BNXItWlBiM2Q3RzZFVjNiWTh3Yk43bGQwcnZCaDkzZUljUnN6aThYZ281U2NqQmlWcHEtem9xLXZn?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Oil and gas industry turns to quantum computing for efficiency",
+      "summary": "Energy companies are starting to use quantum processors to model complex chemical reactions and optimize resource extraction.",
+      "view": "Oil and gas companies are using quantum computing as a 'efficiency alpha' to maximize the lifespan of existing fossil fuel assets. By modeling complex chemical reactions for carbon capture and optimizing extraction, Big Oil is positioning itself to remain competitive even under stricter environmental mandates.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWEh6TmYzaEp3eUJTX0Jsa2daTEhKNV9wcC1kTUstVWlzSDV4MlBIbTRXQTJoN0MtNS1ERmF1ZFdsUjlKSnlTTEhTaVo0ODNjbDJVZVE3T0NpVFU0WHltUUtianVZQTNZN01YUEpPNlp2YzlZSHE5X3EzLXNpRDlwbWNB?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Stocks tumble as oil prices and bond yields spike",
+      "summary": "The Dow, S&P 500, and Nasdaq all finished lower as rising energy costs and interest rates spooked investors.",
+      "view": "The market is undergoing a painful 'reality re-pricing' where higher energy costs act as a tax on the consumer while rising yields crush growth stock valuations. This isn't just a technical correction; it\u2019s a fundamental shift as investors realize the 'soft landing' narrative is incompatible with sustained $90+ oil.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOald3VXBlOEFnQTdDa01pSGNQcEtILUJQQTBRYlZOTzloVDBISXA1MzIxMkczUXljVEx6YkdYcTNBWi01eW9WSUZNTDEwNlpDV2w1UEtjNHhCa25DR3hMYVFIdWtsMWhiTkR0d0dLUXF3ZWZYUUtpUTgzNzhDd1hvbVFfd3E0SXBtMGZWYlAwWjNsUF9hSzJ0TElzQmtZclNvZkRydUVsWTQ0RDk0aHQ4?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Shein\u2019s market debut flops as investors fear geopolitical risks",
+      "summary": "The fast-fashion giant\u2019s shares dropped 9% on their first day of trading in Hong Kong.",
+      "view": "Shein's flop is a clear signal that the 'China discount' is now permanent for any firm with significant mainland supply chain ties. Investors are prioritizing geopolitical safety over fast-fashion margins, effectively killing the appetite for any major US or HK listing of Chinese-founded firms for the foreseeable future.",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4YWdLVDQxb2xmbjg4ZzQ4dTFaNHRBZ21zVmFyX1RfSVhJS2JWc1hWV1VjWHdhcExaMXpBUEs3R3FpNnQ5by00bjU3c3FmZFg5SnBERUVHMk9QeEFpczdiQ1hZU1BhV3M0aUlTS3IzZU5QRm1Pc216T9IBfkFVX3lxTE83eU1vdkpFUnRocHpiRUNITDJHNk5PaURXcG9iUlVNZ1dRT2dGc3lwRlg5Q1U3MGw4X21sd3dwMzRBNXY2OVZ4a2RSSTdIZENOX3FXendBbWFISTFfeGstcFZYVzMzVkgzR3oyTnNjQnFudFp5aWRrYXREMXNpdw?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "London Stock Exchange struggles as more firms opt for buyouts",
+      "summary": "The LSE is set to lose three more companies following successful private takeover bids.",
+      "view": "The London Stock Exchange is suffering from a 'valuation trap' where UK companies are so cheap they are more valuable to private equity firms than to public markets. This exodus of high-quality firms to private hands will further drain liquidity, turning the LSE into a secondary regional exchange for 'old economy' stocks.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZWdQZHYxYnViRExKXzZsLTdya3B4N1BjVDJoeE5VcG5fT1dSYUpDdWFKclRGVF9nQl9LbC1FdEJYTzg5dlU5cWI5Wkx5djIzZlI4WlAyNnR4T1RzaEtER29fNGk2ZU9XazZ5REhKQXNVcU80ZldUZkluSDl4anhYMTE3bEJQSExRQmJJdGJtN0JuY3RsVWxQMFljVFBxWFd2a1BTeFczVmswVkhqUnNLbFFsX013UXlm?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Geopolitical conflict in Iran sends tech stocks sliding",
+      "summary": "Renewed tensions between the US and Iran caused a sharp sell-off in the Nasdaq.",
+      "view": "Tech stocks are being used as the market's 'liquidity spigot' to fund a flight to safety in defense and energy. The Nasdaq is particularly vulnerable because its high-multiple valuations cannot withstand the twin shocks of rising geopolitical risk premiums and soaring oil prices.",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObmxMNmlGRzl6UWIxaFpvZWRsbGUxY0hzVDllWUQwbmJHRHN2VVNtX05QUW9kR1lsbHZLUmFPRG5QZ1Exb1EwM2RjNUZrb2JaOFk4MnRsTVRxNFRVaXJKa2pETEJJSFloeUVhUV8tYUNQU196VWRnUlI3X0FQZUdqZDh1Qk9CT0ctR1RycnBYRU5oOWdX?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "US military launches strikes to protect Strait of Hormuz shipping",
+      "summary": "The Pentagon confirmed fresh military action in the Middle East to secure critical trade routes.",
+      "view": "The US has transitioned from defensive patrols to an active blockade strategy to deny Iran leverage over global energy markets. By directly striking Iranian assets, the US is betting that Tehran is too economically fragile to escalate into a full-scale regional war, even while oil prices spike on the news.",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14emhLdERqMDNXajliUVR1S29GSEZOUUhkTjBzNXR2TG91aWk0M2F4YnB5U0d1UzRMQ2RnM1pYd1Jlc3VLUDdpNlctejloOVN4aC12NndlbFBjWjdQYkg3QThxZW9PQW9ZdlZJWjk0WG51OUww?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "The Pentagon is now facilitating Venezuelan oil deals",
+      "summary": "A new Trump administration policy involves the US military in managing Venezuelan oil exports.",
+      "view": "The US is turning to 'Commodity Realpolitik,' using the Pentagon to secure Venezuelan oil flows as a hedge against Middle Eastern instability. This is a massive win for US refiners on the Gulf Coast who are desperate for heavy crude, effectively using the military as a logistics and insurance provider.",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5weXFVbGRSZ2NxRWk5QVNsOURLNjFOT3lZNzBYTm5CdVVySU5BT0lMaUFqbWhJVVdJTHl0WXFrRkxxaWhXeHZkdFV2TGpONnFnWlFGU2xzVU1JbHJyS3daSk9VMGFKZnB6Wk1TdGJucHJ0YVBRZnR4YVN3ZTN1YkU?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Iran offers ceasefire terms contingent on US cooperation",
+      "summary": "Iran's president stated a willingness to return to a ceasefire if the US agrees to match their commitment.",
+      "view": "Iran's ceasefire offer is a tactical maneuver designed to buy time while their export terminals are under threat. They are testing the US administration's appetite for an oil-driven inflation crisis, using the Strait of Hormuz as a 'choke point' for diplomatic leverage.",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdlc2ODRWbzc4Ujc2bkpMYWU2dGtJU3JNdk1UeHhYbThocGhLbG9WdDVGd3JpdlIxLUNRZFhWZU80TXhRMWk2RFVaYmVwRXhVdG9fcUl3Zk5Pd0Q1SHpzT0w1aURMQVVxUURyR2lZYTZGbjNfT18yTlBMRml2bTZGM3dDaWNKNmNfelRuLXlsWmw1SlIwNHY0c3ljY2cwc0pma0tId2VtUjBpVWQ4OE5TeE90QVFrWFI5UTZ5eV9HeWhVQ09WUGc?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Apple enters new era as John Ternus replaces Tim Cook",
+      "summary": "Tim Cook has officially handed over the CEO role to Ternus as Apple navigates a competitive AI landscape.",
+      "view": "Ternus is taking the helm with a mandate to fix Apple's perceived lag in generative AI. While Cook optimized the supply chain and services, Ternus must prove that Apple can integrate AI at the hardware level in a way that sparks a global iPhone super-cycle, rather than just playing catch-up to Google.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNkVwc3NNT2k1QzV2blM0bXBjZDZoaTJ5d2FzazViTGgwVllxcVN3RVpqTlh1U1FPeXU2TDh4ajVxTk9tb2c1cTNGcTE0dzdsSmJNZnpoYmcyVDMwWTZJUVkxRkZjTllmQ2JQX3g5TlRIbEhtMHpsbjFFWVJBTlNXNHdsR1AwTkRBTkxUSTZHVjdNa1h3TkF4VmNERjdKQWRJcE9qWXNJTmY3ejRMclVVeGg4SQ?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Chinese investment in nickel shifts Indonesia\u2019s economic balance",
+      "summary": "A new report highlights how Chinese capital is reshaping Indonesia's structural economy through nickel mining.",
+      "view": "China has successfully 'captured' the Indonesian nickel supply chain, building a vertical monopoly that allows them to dominate the global EV battery market. This 'green surplus' strategy makes Indonesia a vassal for Chinese industrial policy, effectively locking them out of US IRA-compliant subsidies.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTGNxaHRjdWlmUXB2Vm9GOWRjTTJjTHk3cmN4akNmQUh3dkdfVTEzS0pTa1lhS1RVWFNmV2VwdHJmTkxCanBvVHpMelFSNURVVzhRLWpjSTBSdl8tSk42aUlmN3JBN2k4S0o2d2RTd3B1WUo0VE1ON2FibWZNdmJLRVJBaGZpbnpnVG94VGFzRFpzZ21sLXo5TnpXTDBkY0RPUFNIUEg1MlB4azhNNU5sX3otV25GRnVEZXY5WFFVYm52ckdHa1I0?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "New US-Indonesia trade deal tests Jakarta's neutrality",
+      "summary": "A reciprocal trade agreement between the two nations is raising questions about Indonesia's strategic independence.",
+      "view": "Jakarta is playing a brilliant double game, accepting US trade concessions to bolster its economy while maintaining its ideological independence on Middle Eastern and regional security. This deal won't pull Indonesia into the US orbit; it just gives them more capital to play both sides against each other.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaE9kR252ZElMaHRtZVlnVGFSWS1lY0ZxTDlmOG5SWFBxdUpCTHhRRTU3ZE9RWkNmcmtqTWVNZVJxM001ZkdKNlBEeWRnYUhJZk9ZX2gxeV9nUWZKbjJGdjJLQUZobVVUQm9JRlVGeDZYNHFNamJRWXE2NklPMmk2U1N6WXJwS2xLc1FnbnU4a0NhRnNrZWRiRXV2cFZNejJmX2FkZnV0eEVJY21WVjFzSTVDWGRFRHc?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Government intervention threatens investor confidence in Indonesia",
+      "summary": "Analysts warn that the presidency's interventionist economic policies could trigger a confidence crisis.",
+      "view": "Government intervention in ride-hailing fees is a populist move that signals a deteriorating environment for foreign tech investment. By capping profits for Grab and GoTo, the administration is prioritizing social stability over the financial health of its biggest tech 'unicorns,' which will lead to a significant valuation discount.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZkpJZUQyb2dua2JwYzlUOGtmVXN1cjRGZUkxYlNkOVRPT0VOWG5PbE1vcGl1OXAwZE9GU3prRHB2WFFacVBVcGNPWkItQkhYV2ZLTDloWURFWGMtaWlxemhQeFNic0RTdDJMR2NaNi1UZnlIVDczRXExel84dFhXbDVSSVB5TUdIQjZNdzZPbUNXMGtYRG5HdkJDQU9JTHQxTWY0a0xldFRwdmY3T3pnbU5R?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Central bank faces dilemma as budget pressures mount",
+      "summary": "Indonesia\u2019s monetary policy is being squeezed between a tight national budget and global currency fluctuations.",
+      "view": "Bank Indonesia is in a 'policy vice,' unable to cut rates to support the budget because it must defend the Rupiah against Middle East-driven volatility. The result will be a period of stagnant growth as high borrowing costs stifle domestic investment to prevent a currency freefall.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWkJzY1AwWEJrV0g0eW4xaENjekJwNk9IR2l4eU45NXZMQ1lmVlBDSjNvdnUxclVOYWV5MmR0LWVMSDQ5UzJCLVdvelNsRi1Ga3dPcHFSS2ExMjZVbjdxd0h6MndjX0RkM29vdXNWT3BwalBJRnJYM1oxMDUtLW03UUtqLWpvRXdTZm1LblpjeGhsS1pEbTBzVFp3YmlHSm5K?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Argentina embraces stablecoins as local currency loses value",
+      "summary": "Stablecoins now account for 94% of the crypto volume traded against the Argentine Peso.",
+      "view": "Argentina is the world's most advanced 'shadow dollar' economy, where stablecoins have effectively replaced the local currency for large-scale commerce. This isn't about crypto speculation; it's a survival mechanism that has permanently decoupled the Argentine middle class from the central bank's failed monetary policy.",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uMzlRQ1FlWHQ0TDVSel9VTm1vcEl2Z2xjTVltNG15SGowQnlNR2JNcTNJZW5qZHJHM2ZnU3R4UTBtcXpRSy1Nb08zcFcwVVdLN2lOYzZ6REtlbllTcG1IWENEWnJEUU9faFNtdDRfVk1PY0U3?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "BlackRock warns of dollar 'death spiral,' favoring Bitcoin",
+      "summary": "The world's largest asset manager cautioned that US debt levels could trigger a massive shift toward gold and Bitcoin.",
+      "view": "BlackRock is pivoting its narrative to frame Bitcoin as a 'debasement hedge' to attract institutional capital that is increasingly worried about US debt sustainability. By calling out a 'death spiral,' they are creating the very fear that will drive inflows into their own Bitcoin spot ETF.",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNWWItUzVVTVVvODFscFd1SHV4a3QxSXBrS2EzUlhzdGluREtFX2dmMGZjWFU5R2Z5RUVQaGE1OUFZRm1yTVgwMWVRczFBOWlJSnVYNHBPWVczYUF4N3BrLVo2SXFJVnZ6Z291MjZJbzRzTkhUUDY0cThSQWtpRnV4X3N1RlZpQTVvMW9GclhZZnNzd2VsMzBETUJPWGYyd0J5WTJnMTBnejRtd3BvMlNxcVl4R2g3aEp0dlU5d0FGMEpZT3gtNGFOOXc0dl92dE5SZFVWMVJPSHFFYVMtSllxaHU3WF83ODB3VHR5Y0N6U0hFMnFwTmlfM3Jfb3E5eHJsa3REazdKU1U5Tk5mam5SLUxBOWFWYXg1OHB0eg?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Indian Rupee holds steady on strong domestic growth",
+      "summary": "The Rupee gained support against the dollar as analysts highlighted India's robust economic outlook.",
+      "view": "The Rupee is the 'cleanest shirt in the hamper' for emerging markets, backed by a central bank with a massive FX chest and a growth story that isn't dependent on China. This resilience is a win for Indian corporates, as it keeps import costs (including oil) more predictable than for their peers.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObGdJRHhpX291SWZXS1pfSFlpeGtiSGNJeWttd0NuZUxnYWNrX1lmVXJrYTg5bDBxZGdweWVlWkcxcHI5Qk1aNlhPQmcyY2RyODFYRG1TakZOV1hRWkxhVE9UWG1HTE5kMkJPekxUeWl2VTd6UFI4YjJWbXgwOW5EWnYzVQ?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin\u2019s tight link to the Yen changes the trading game",
+      "summary": "The correlation between Bitcoin and the USD/JPY pair has strengthened to a significant -0.90.",
+      "view": "The extreme negative correlation between Bitcoin and the Yen proves that BTC is the ultimate 'carry trade' proxy. When the Yen strengthens, it signals a global liquidity withdrawal, and Bitcoin\u2014as the most liquid 'non-essential' asset\u2014is the first thing to be sold to cover Yen-denominated debt.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5"
+    }
+  ]
+}

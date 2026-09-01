@@ -6,42 +6,54 @@
       "headline": "Local Maryland officials push back against new data centers",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOa3hCcTd5LTdsSUpzN0J0MEhVT2Z4OVYtSnlOZ2Zra3lGdWdlSnVQcWRvVEFtTWYxd2FHaGNYQkt6M0xDY2hhVURjeEdZVXRrOFc4NEFkOFZWbzhzTE1hWlJBaHNFVzlPMHFTVHVYMWRYVGhZRC1QeA?oc=5",
       "prediction": "At least one major $5B+ data center project in Maryland will be officially canceled or relocated to a neighboring state by Q3 2026.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "Over 100 firms demand better protection from AI attacks",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaW9IYW9rLVYxTndDaWo2UXZBeWZQa0g3aUNjNXVwRV9zc2VPRE5Ib21lM1lmN0hDc1ktV2RKYmxNZ1o3R1BkaS1xQ25IU2FMdVNrQWE3a0RpaDBqbkJBemV1OXNpWF9pX2Y2b3NydzBDZ19QQWVrNVh0dnA5cXlSRlZqbTRzQWwyOGNOZXBYemZ0QQ?oc=5",
       "prediction": "Cybersecurity spending as a percentage of total IT budgets will hit a record 15% across the S&P 500 by the end of 2026.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "New software keeps lawyers from making AI-based mistakes",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kUmhkX2gwb1I2SHFCYUQyOUhTRGJ4VUlGX1JVVVluSG5HaUhJazdta0paZ1Q1ZkNHYV9zQmJaUGRESTFFN0J0T0psWUFnVk55T1hsMlhpejdUSWdUY0FfRW95U2R1YlJtbXdOUktjVEFGWFBE?oc=5",
       "prediction": "At least three top-tier US law firms will mandate the use of AI verification software for all court filings before the end of the year.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "Major tech firms continue cutting staff through 2026",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVU1JMXhsV0UxRzNoSjJDU1pGZFFwYU1NLWxyWEFDN0RyV1dlVW1nTHJNck1lMTllb2VlaG12eTd4MTZCbHcxR0R6X3psOURfaEVsVzd5Nm81eDd4WUttX0d5M2Fob05zX3NFS0hOUHVXOXdqX3kzaXFSeVhqczdGNlRzd05XcE55Q0RhMHNNRG5BV2lMZ2l2cWZwVmtKUV9Rc2V5Q3ZVZnNFOVE0MHljXzFVclVOX2tLOXNtTkJYRV9UQjFEUV9BTkh5TmtnblV0anhpSUF1dXNUTzVVdlMxVk9n?oc=5",
       "prediction": "Meta will report its highest revenue-per-employee figure in company history during the FY2026 annual report.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
       "headline": "Geopolitics and oil prices drag the Dow lower",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMXRCVktYMXh5ak45eDRlN011MF81bHBSSDJ3d1pGbktLdzRvS0U5WGNhOTF0aWJ3Y0xtdjdxWWZNcXU3Vy1UYlJvbjBNV3N0SllLYXJDV0thbzZmT3doT0JFZUZHYmpJRjBzMEdjNnFwSkRjX0x4SXdNYXZ4bEF6Tng2dVpuNFFjbDBtQ3l4STc4dHpwaXF4QkxmRzk4RzlRV1B5cVFSTlo1YmxZc3RyVVg3a1JuX2I1c2tRenA5VVgxcEhEaE1ZQnk0dGJwcTlJTGRZRUVZYw?oc=5",
       "prediction": "Brent crude will breach and hold above $105 for at least 10 consecutive trading days before the end of Q2 2026.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
       "headline": "Why bonds are currently overshadowing the stock market",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rNjdHWnVKUlhtRkFhbm9nVHdKdEQ2X25MSkhsLTRtVTZvak4tSmY1a2QyaG9XaHdzbWxuSEJjelAyWE53ZktYam9hVE45T0kyOWFQWGVXRUZBN3prT3JwMXFsWWZ4UTNTZDZJMjFtY28?oc=5",
       "prediction": "The 10-year Treasury yield will touch 5% before the S&P 500 sees its next all-time high.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
