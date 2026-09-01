@@ -8,7 +8,7 @@
       "prediction": "At least one major $5B+ data center project in Maryland will be officially canceled or relocated to a neighboring state by Q3 2026.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "No fresh headlines were found regarding the cancellation or relocation of Maryland data center projects."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "Cybersecurity spending as a percentage of total IT budgets will hit a record 15% across the S&P 500 by the end of 2026.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "The provided headlines do not mention cybersecurity spending as a percentage of IT budgets for S&P 500 companies."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "At least three top-tier US law firms will mandate the use of AI verification software for all court filings before the end of the year.",
       "grounded": false,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "While headlines discuss AI law predictions and governance, they do not confirm specific mandates for AI verification software at top-tier law firms."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Meta will report its highest revenue-per-employee figure in company history during the FY2026 annual report.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "Meta's FY2026 annual report is not yet available, and the Q2 results provided do not contain the final revenue-per-employee figure."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "Brent crude will breach and hold above $105 for at least 10 consecutive trading days before the end of Q2 2026.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "The provided headlines do not include Brent crude price data for the second quarter of 2026 to verify if the $105 threshold was met."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "The 10-year Treasury yield will touch 5% before the S&P 500 sees its next all-time high.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "The fresh headlines mention market drift and simmering risks but do not provide specific data on 10-year Treasury yields or S&P 500 all-time highs."
     },
     {
       "section": "markets",
