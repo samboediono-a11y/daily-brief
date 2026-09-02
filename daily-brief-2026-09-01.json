@@ -6,42 +6,54 @@
       "headline": "US tells G20 to avoid over-regulating artificial intelligence",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbmFFcTlLcU1BTjFTOXBjTE80ZGFzSUc5ZUtPREdXX2tDcTJZODd4UTNwekU1M3JFdXlZdUhPcFl6Z0RqcWhjQ3VvLW92cmtZMHlLY0ZmTktxNlUtVXJLRlFfTXhWWXpvbGRBTU1Vb0FEY0dVNWE1Y3VNZTJ5SVhoU19hU0lsU0xmUnpoSkJrMVY5T1ZIaHlzTHRBS2JRTjdRU0U0R0tB?oc=5",
       "prediction": "The US will formally block any attempt by the G20 to establish a binding international AI safety inspectorate before the end of 2025.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new information was found to confirm or deny the US blocking of a G20 AI safety inspectorate."
     },
     {
       "section": "tech",
       "headline": "New bill aims to boost US lead in quantum computing",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUTJOTE5sM196T1V6NHREb19wanVIa2xHbWhoa09Ib2xVbVRtcVhhN1BPS2F2TUNwQm1abkxfOHpxdE5lUFpxVHpPQmM2OVVCcEYyVW9kZXZGSWNpM1hRRlZIVHBzSWx3YVpzN296cjRxWTNsQTRjdEk5blR1OHhxVWFvdWR3aUx1Ql9qcDVMSS1VVFdNdDlMOWh4NWx2bzktNGEzc1dqblRnTlVpYnZkS1p3?oc=5",
       "prediction": "Federal quantum research grants will see a 20% year-over-year increase in the next fiscal budget following the bill's passage.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "The provided headlines focus on energy policy and Florida politics, offering no data on quantum research grant increases."
     },
     {
       "section": "tech",
       "headline": "Arm CEO faces backlash over record-breaking pay package",
       "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPdU1FSGJHMVNSQU9CblRKeHBPM09xMDM5WXZrZmZ4SGtMN0dSQ3JscFp3dGhXd0R2WW01aW9fWVRvT0pNaGZuN0ZtODJzV3lJREZCUFVaU0swTzk4aDZURGoydkhxU2FVWlNqUGdFbm4tdFRpYmxfRkRvUkk0aHQ4UG1VVHRiVi14bHE5MlVxT2ZrVEEwemVITU9DQUV2Rm9HS09WY2VXSVJMdWpldnY3ZFktT0JZMEFLRHRyV2ExTGJGZEFJdU5wbUMwNHZXY1IxRGJJNVNGQy15bG81TW1FVUFwZzVFRk9xM0Zub0I5bjV2QU01NE1KZzR5RUhST3lvRVlyT2RVZmdGSi1IQmFMVElTQ29BNXItWlBiM2Q3RzZFVjNiWTh3Yk43bGQwcnZCaDkzZUljUnN6aThYZ281U2NqQmlWcHEtem9xLXZn?oc=5",
       "prediction": "Institutional proxy advisors will formally recommend a vote against the pay package, forcing a significant restructuring of the bonus milestones by the next annual meeting.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "There are no fresh headlines regarding the Arm CEO's pay package or the recommendations of proxy advisors."
     },
     {
       "section": "tech",
       "headline": "Oil and gas industry turns to quantum computing for efficiency",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWEh6TmYzaEp3eUJTX0Jsa2daTEhKNV9wcC1kTUstVWlzSDV4MlBIbTRXQTJoN0MtNS1ERmF1ZFdsUjlKSnlTTEhTaVo0ODNjbDJVZVE3T0NpVFU0WHltUUtianVZQTNZN01YUEpPNlp2YzlZSHE5X3EzLXNpRDlwbWNB?oc=5",
       "prediction": "At least two supermajors will announce a joint venture with a dedicated quantum hardware provider for carbon sequestration research within 12 months.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No updates were provided concerning joint ventures between oil supermajors and quantum hardware providers for carbon sequestration."
     },
     {
       "section": "markets",
       "headline": "Stocks tumble as oil prices and bond yields spike",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOald3VXBlOEFnQTdDa01pSGNQcEtILUJQQTBRYlZOTzloVDBISXA1MzIxMkczUXljVEx6YkdYcTNBWi01eW9WSUZNTDEwNlpDV2w1UEtjNHhCa25DR3hMYVFIdWtsMWhiTkR0d0dLUXF3ZWZYUUtpUTgzNzhDd1hvbVFfd3E0SXBtMGZWYlAwWjNsUF9hSzJ0TElzQmtZclNvZkRydUVsWTQ0RDk0aHQ4?oc=5",
       "prediction": "The S&P 500 will retest its 200-day moving average before the end of the current quarter.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The headlines indicate market volatility and declines but do not provide specific technical data regarding the S&P 500's 200-day moving average."
     },
     {
       "section": "markets",
       "headline": "Shein\u2019s market debut flops as investors fear geopolitical risks",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4YWdLVDQxb2xmbjg4ZzQ4dTFaNHRBZ21zVmFyX1RfSVhJS2JWc1hWV1VjWHdhcExaMXpBUEs3R3FpNnQ5by00bjU3c3FmZFg5SnBERUVHMk9QeEFpczdiQ1hZU1BhV3M0aUlTS3IzZU5QRm1Pc216T9IBfkFVX3lxTE83eU1vdkpFUnRocHpiRUNITDJHNk5PaURXcG9iUlVNZ1dRT2dGc3lwRlg5Q1U3MGw4X21sd3dwMzRBNXY2OVZ4a2RSSTdIZENOX3FXendBbWFISTFfeGstcFZYVzMzVkgzR3oyTnNjQnFudFp5aWRrYXREMXNpdw?oc=5",
       "prediction": "Shein will officially postpone its pursuit of a secondary London or New York listing until at least late 2026.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No new information is available to determine the status of Shein's listing plans or potential postponements."
     },
     {
       "section": "markets",
