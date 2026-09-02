@@ -8,7 +8,7 @@
       "prediction": "The US will formally block any attempt by the G20 to establish a binding international AI safety inspectorate before the end of 2025.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new information was found to confirm or deny the US blocking of a G20 AI safety inspectorate."
+      "note": "No new information was found to confirm or deny the US's actions regarding a G20 AI safety inspectorate."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "Federal quantum research grants will see a 20% year-over-year increase in the next fiscal budget following the bill's passage.",
       "grounded": false,
       "status": "too_early",
-      "note": "The provided headlines focus on energy policy and Florida politics, offering no data on quantum research grant increases."
+      "note": "The provided headlines do not mention quantum research grants or the specific bill, leaving the status of the budget increase unknown."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "Institutional proxy advisors will formally recommend a vote against the pay package, forcing a significant restructuring of the bonus milestones by the next annual meeting.",
       "grounded": false,
       "status": "too_early",
-      "note": "There are no fresh headlines regarding the Arm CEO's pay package or the recommendations of proxy advisors."
+      "note": "No fresh headlines were available to track the response of proxy advisors or changes to Arm's executive pay structure."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "At least two supermajors will announce a joint venture with a dedicated quantum hardware provider for carbon sequestration research within 12 months.",
       "grounded": false,
       "status": "too_early",
-      "note": "No updates were provided concerning joint ventures between oil supermajors and quantum hardware providers for carbon sequestration."
+      "note": "No new information is available regarding joint ventures between oil supermajors and quantum hardware providers for carbon research."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The S&P 500 will retest its 200-day moving average before the end of the current quarter.",
       "grounded": true,
       "status": "too_early",
-      "note": "The headlines indicate market volatility and declines but do not provide specific technical data regarding the S&P 500's 200-day moving average."
+      "note": "Headlines discuss market declines and rallies but do not specifically state if the S&P 500 hit its 200-day moving average."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "Shein will officially postpone its pursuit of a secondary London or New York listing until at least late 2026.",
       "grounded": false,
       "status": "too_early",
-      "note": "No new information is available to determine the status of Shein's listing plans or potential postponements."
+      "note": "There is no new evidence provided to confirm if Shein has officially postponed its secondary listing plans."
     },
     {
       "section": "markets",
