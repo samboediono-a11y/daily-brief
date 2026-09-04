@@ -6,42 +6,54 @@
       "headline": "The government sides with AI giants in major copyright battle",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0dkWmwxWFVnc2QzNnprVzNMLVRkVjVLOGZ0NUQwVEw0VHZ3dWlPSmJYUnptSGJfM0FrZURMTzV5SWRxSUZUa0dpR0ZFNWZkSE1GUUw4eXBnU05OVUNIZHF2OGtnUWFBNHB2bk1saUJMZWRrRjNJVUZNQVBDUXVXR0JRTnpCUDJ6WUFJWGdVY1Y3NFY4ZVRWa3RTTFJIa1IxNFVZSlBfd3BnTThR?oc=5",
       "prediction": "The court will dismiss at least one major 'unfair competition' claim by the NYT before the end of Q3 2024, significantly narrowing the financial risk for AI developers.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No new headlines were provided to confirm whether the court dismissed the NYT's claims."
     },
     {
       "section": "tech",
       "headline": "China's chip-making technology remains decades behind the West",
       "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOUzZtRFhBODZSYXZMT2FhMVZHcU5yVW41b21oWGx5YmFQN1F4M1RuNEpNOGFkZkNPZ2dWbldhYWM3cm9SekZUSDg2SGl1bjZwenJsSjBIMDhRUHpsTlFGd1g2a056dWhqX1ViVWM2TWFTTkdmTkZuRW00VEZheHhJemd5cFc5WTJ5ZDJ6d1J0RXo4WkdMWVVva1VERUZOanR1WHJqZ2FLWF9LakppUWh2ZUZsS1lYQTB5R2c3cjBqRE42c1ZBQUFHcElkemF6Zmd0YXJKUkNnLWlsX0hRTE14cnJEaUpzN1ZaWEVkLXNaRm9YUnVkQ21kM0oyVE1GdGdZU05HUGVrQ3ZxM0FsaHZiWjdYWk1UcjZUU09xVGRjYmFDQQ?oc=5",
       "prediction": "SMIC will announce a meaningful yield improvement in its 7nm process using 100% domestic immersion DUV tools by mid-2025.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No fresh information is available regarding SMIC's manufacturing yields or domestic tool integration."
     },
     {
       "section": "tech",
       "headline": "Meta pays $18 billion to settle massive child safety claims",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mcDFQQkk5VU4zZXl5Vmp5MmZMdzJYSGJmT3ZHdmxZZXU2WXRpZWFTN1JJcFNRRTZ2bkxlTmphd2c2WkQzYld4MUxEWWRoYWpsdDFMXzNJUWc3RzYzcjluc0V4cURCLUhqaUt1bE54UlB4OGNfZVVVN295bw?oc=5",
       "prediction": "At least three other major social platforms will be forced to adopt 'teen default' settings similar to Meta's within the next six months to avoid copycat state lawsuits.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The provided headline about general 2025 concerns does not mention social media platform safety settings."
     },
     {
       "section": "tech",
       "headline": "United States fights for light-touch AI rules at G20",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVmNEZEtiMUprakFZdzJZc1ByWHZFSDBOWk1PUlZzdjRnLUhRajdvVHQ3LWQ4YkVTcDFDTmVGc2FiSTQ1Q2lqRU0tR0xfYVN3QXVwQWN3Z0E1RURlTVhzWU1fbHBLbURkQksyWjdseTdqUFRDbkxjZWswUzdNalNPcm9peVBuUjRldjlTZU9rZkRraWFNbVNFT3QtSEdaLWFDSjBYS2pyTnY2OTFGWUxvag?oc=5",
       "prediction": "The final G20 communiqu\u00e9 on AI will contain purely 'non-binding' language regarding safety, a major win for the US delegation's 'pro-innovation' stance.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "There are no new headlines concerning the G20 communiqu\u00e9 or the US delegation's influence on AI safety language."
     },
     {
       "section": "markets",
       "headline": "Stocks jump as the Fed hints at pausing rate hikes",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMUdabU83WGZ0SlI5MFIyLXpfd094QWVxdktrYWJJa3lsX2RJY2ZIYVp2bHhZMkMxVjdzMFM5emxUbDNHaVhCdHZOMmNiVmtTRndQam5mbXdfaVhWaDBjYzB2anNhZ3dPT2RQOXR1TklIY1lYc2lJQXMxY0lMMGxLb29CaHIzMEJIT1dLMzA5SXZTVUU0N3ltbUxLVGFkbzhmalRoZHlNMjNXUGZUOXF1Z0F4V3R2R3NLQjVnVWMzZ3E?oc=5",
       "prediction": "The S&P 500 will sustain these gains through the next FOMC meeting provided monthly inflation prints remain below 0.3%.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The provided headlines mention general market volatility but lack the specific inflation metrics and FOMC timing required to verify the prediction."
     },
     {
       "section": "markets",
       "headline": "The world enters a permanent era of high interest rates",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPODYyTS1UeWV3S0FaLTJsZlNWZWMzd3IwYmE3blFsRUluOUhlZzdNRy13Y3ZUWFlUSTlBQk9NemZuSm5UWnczTzN1NnR2NGJNUmNDNlZVdzIxOXBpajBHMjcwZVdFaEpYbTBLMlJNUUI3Y3RiQU83aXJGblc2OFhSS2xhNEQxNVZoemFv0gGQAUFVX3lxTE5uVE5QLS1yaGxLc0s0b1k2S21VMjYxLW9wVGNLeDR2UmFKNGZjbGhkWnpKaGJwWU81V2MwdGpVYnlTUVVhOU1jRmIzbEV4WW1QVDI0enhVODFmRkxKLTVZU0ZPYjZZb0FOV3ZzMkxfRjludk1DWF91Mndxcm1BQ2ozdDJ3LU5BQVdFbzB4SFFhYg?oc=5",
       "prediction": "Gold prices will hit a new all-time high in 2025 as central banks continue to diversify away from debt-heavy fiat currencies.",
-      "grounded": true
+      "grounded": true,
+      "status": "held_up",
+      "note": "Headlines reporting gold reaching $5,000 and becoming the world's largest foreign reserve asset in 2026 confirm the metal hit significant new all-time highs."
     },
     {
       "section": "markets",
