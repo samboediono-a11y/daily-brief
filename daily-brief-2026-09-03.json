@@ -8,7 +8,7 @@
       "prediction": "The court will dismiss at least one major 'unfair competition' claim by the NYT before the end of Q3 2024, significantly narrowing the financial risk for AI developers.",
       "grounded": false,
       "status": "too_early",
-      "note": "No new headlines were provided to confirm whether the court dismissed the NYT's claims."
+      "note": "No fresh headlines were provided to confirm whether the NYT copyright claims were dismissed as predicted."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "SMIC will announce a meaningful yield improvement in its 7nm process using 100% domestic immersion DUV tools by mid-2025.",
       "grounded": true,
       "status": "too_early",
-      "note": "No fresh information is available regarding SMIC's manufacturing yields or domestic tool integration."
+      "note": "There is no new information available in the fresh headlines regarding SMIC's yield improvements or domestic tool usage."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "At least three other major social platforms will be forced to adopt 'teen default' settings similar to Meta's within the next six months to avoid copycat state lawsuits.",
       "grounded": true,
       "status": "too_early",
-      "note": "The provided headline about general 2025 concerns does not mention social media platform safety settings."
+      "note": "The provided headline from Pew Research does not contain information regarding social platforms adopting 'teen default' settings."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "The final G20 communiqu\u00e9 on AI will contain purely 'non-binding' language regarding safety, a major win for the US delegation's 'pro-innovation' stance.",
       "grounded": false,
       "status": "too_early",
-      "note": "There are no new headlines concerning the G20 communiqu\u00e9 or the US delegation's influence on AI safety language."
+      "note": "No fresh information was provided regarding the G20's communique on AI or the nature of its language."
     },
     {
       "section": "markets",
@@ -43,8 +43,8 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMUdabU83WGZ0SlI5MFIyLXpfd094QWVxdktrYWJJa3lsX2RJY2ZIYVp2bHhZMkMxVjdzMFM5emxUbDNHaVhCdHZOMmNiVmtTRndQam5mbXdfaVhWaDBjYzB2anNhZ3dPT2RQOXR1TklIY1lYc2lJQXMxY0lMMGxLb29CaHIzMEJIT1dLMzA5SXZTVUU0N3ltbUxLVGFkbzhmalRoZHlNMjNXUGZUOXF1Z0F4V3R2R3NLQjVnVWMzZ3E?oc=5",
       "prediction": "The S&P 500 will sustain these gains through the next FOMC meeting provided monthly inflation prints remain below 0.3%.",
       "grounded": true,
-      "status": "too_early",
-      "note": "The provided headlines mention general market volatility but lack the specific inflation metrics and FOMC timing required to verify the prediction."
+      "status": "missed",
+      "note": "Fresh headlines indicate the S&P 500 is currently slipping and rate hike odds remain significant, contradicting the prediction of sustained gains."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "Gold prices will hit a new all-time high in 2025 as central banks continue to diversify away from debt-heavy fiat currencies.",
       "grounded": true,
       "status": "held_up",
-      "note": "Headlines reporting gold reaching $5,000 and becoming the world's largest foreign reserve asset in 2026 confirm the metal hit significant new all-time highs."
+      "note": "Multiple headlines report gold prices hitting or being poised for record-breaking levels, including figures as high as $5,000."
     },
     {
       "section": "markets",
