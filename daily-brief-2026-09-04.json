@@ -6,42 +6,54 @@
       "headline": "Massive layoffs hit tech giants as industry faces 2026 correction",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVWo2SU1IWVhIRFJfM2hSd25aM1hLb0VDYmpxaUNCWS1iTzFHT0JwNC1QNWN4blI3TFhiZjVMeEFSUUpxcmpDdG42aEpINmlYOGF0Zmk2TnRCTGJoNnpnSnZPa1Z6U1ZqQlVsbUxFQ1JaZXBQT3ExNFFtVEJXRkttdnhyVlpHbzI4MEVCajBvc1ozWXhReVVfVHNnOTFQVkZoVXZIUzQ0bzQ2aVRxVWQzMU1feDNYWUlyazl4MFk2WGYxcTBPdThWU2xvX1RfVmZrVkxhVVpjVHlmU2FsQUh2MkdjZE1QS1Ny?oc=5",
       "prediction": "At least two 'Magnificent Seven' companies will report record-high revenue-per-employee figures by Q4 2026 as headcount continues to shrink during the AI transition.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No fresh headlines were found regarding revenue-per-employee or headcount changes at tech giants."
     },
     {
       "section": "tech",
       "headline": "Sam Altman admits OpenAI failed to sell the public on AI",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOXzk2S3B4RUZXU01Ib1dmNVl0WXdIZE5BZUNiQmthVTFzcTJJYkRGVEJuSU1KMDFUaTBWemhFMFVrOEtKVGhOdkxLMjh2bVV1UVlmTGszTUhkMHRMQ0ZLdTZZRndaSWo1WXdkQVA2NksydktNOXZUUEZoTTJRSU1vMk9HVDYzMFdXMXA5c1VNWW1TWFc3aGdTTUdaT0IxVk5DRnpsMjN1TnotSjIwUUYwNXlNZlg?oc=5",
       "prediction": "Apple will announce a strategic move away from OpenAI\u2019s backend in favor of an in-house model or a Google partnership by the next WWDC.",
-      "grounded": true
+      "grounded": true,
+      "status": "held_up",
+      "note": "Headlines reporting that Apple is moving closer to a Google Gemini integration support the predicted strategic shift toward a Google partnership."
     },
     {
       "section": "tech",
       "headline": "Taiwan and SEEQC partner to build out quantum chip supply",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWmEwaW5Jc3UyN2R6LVR3Uk12SEVxMnduT3R1dWVTeW1DUFRBeDUydDRpR3VEeGVNNW90VThLMWZCbHl1TFJ1LWV4RXBXRDJINkZDN3dOcGFqZXVKRzhQTjRUMk9QSjNBcG01cG5NVlhQMkg5QXBId0VHR1Z6dUtNVTFiQU9sdDJhSDRPWmVSOG1jX05PclgxdjUxTlFLMTFHdU13ZjNId1ZPRWMwSEk3LVNTV1YtR1RRY2Z2VWtCd3BMRjlqNHZnU0pfQ0IxZURWV0tOOXJ6UdIB3AFBVV95cUxOYWJqRmVCOHQwVlBYbzdwMEFhX1NUU216SmVyaGJzOGpfaWZQUHVnbkNER0tMaHdaSGRsWVhQQTZ0T094MUpvYVBkZHhQT0luNER4OW90NXE2VG9jSlpZLUxNckJLazlXLWlkWXM2ckJmRGUxblF4UFFHTW1iXzBMYXBLWGdmdWZtQ0MyQlg5RkRfV20wS21jSjBveWc5a3IyOWlMREx2dkoxOUJtZjVpZ0VoM3YwWVNTcW1GZ2Z2Rm11dHl2eTB6cEN5VDFIaF9PbVBxODNaOTJHUWZL?oc=5",
       "prediction": "TSMC will formally announce a dedicated quantum fabrication pilot line before the end of 2026.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "The available global IC fabs report does not provide details on a TSMC quantum fabrication pilot line announcement."
     },
     {
       "section": "tech",
       "headline": "Saudi Arabia bets billions to dominate the global water tech market",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUnE2WnQ2Smk2Y0hJMU1hNzFwcEJHSGhjZHNFcUpGMWJoNm5GTElUTjRxVzExU2Nsc212LWxOemdYSHdTc1diazBQb216a3BIYzJuSWxpbzNUamFvdVVPOHlxZ0hCbUlZRWJXMHJvN1pQZlc1QmJCSEpRLUJtc0VCSkpEY0RxaTcyX0VBTEs0R18weWRxNHlza2oxN3ZoX05yMENjZkJuQ0FXOERq?oc=5",
       "prediction": "Saudi Arabia will sign its first major international water-tech export contract with a neighboring GCC country by mid-2027.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No fresh headlines were found regarding Saudi Arabian water-tech export contracts."
     },
     {
       "section": "markets",
       "headline": "Dow falls as strong jobs data kills hopes for rate cuts",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mNWp4VDc2ak1DN1JLX3cteTNHNlZVVFhrbl9tajVGNEpTSTR6bm9rWDJDcW5GbVhLQmktLWhqdUpMb0Q4Z1hhdW9LcjNGVk5kQkJkX29EUUFGWGI5VVhhN1Z0azc1WjlnMERMd3FDLUFVNzFLMHA40gF8QVVfeXFMTVVoemFpTmFxdjFvOGJsc1pRYk95LWh4R1VoNGdvNno4aG9SNmphZnVWTExaaGhIUnpra0ZtUUNMVXVWYWhHUUg0RUJ5OTA0OVVsb2YtZXp5Qno0TlVrd29Gd2lKVXhjU2prMkpFMnpkM2xacFRpTzVNMWJiNA?oc=5",
       "prediction": "The 10-year Treasury yield will test 4.75% before the end of the current quarter as 2026 rate-cut expectations are further dialed back.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new data was provided to confirm the movement of the 10-year Treasury yield toward the 4.75% target."
     },
     {
       "section": "markets",
       "headline": "Lululemon stock crumbles after product strategy misses the mark",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeG55bXZQdEdZeTVYcDJmWi1RU1hfTjg4RzVrM3dIUWoybVBQX3p4cTkxbnBJM2tHRDJ3Smk3NWRrM2JZc1BXb2Zub2p5M1Fscy1pSFdFNVZseEhia1VrRlFkOEdHZWRRODhhcm1USlBXbDRMc2Y0bmNsSEY2VnVCMTRXUTlLUWp6R0Q3RlF4MVRxTXlTUV8wMUxoRzVhMmljWDFZVnRJejRVOFhOR1hMcm1rQl8zNHlWNUVHdnVaU24tbUVsemV5emtRS0s0YWlkZ3RpeDdLdW1pRE45NnZuVmtmTEpGZnY3SWlkcFV3QVRZZw?oc=5",
       "prediction": "Lululemon will announce a leadership shakeup in its design or merchandising department within the next 90 days.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No fresh headlines were found regarding leadership changes in Lululemon's design or merchandising departments."
     },
     {
       "section": "markets",
