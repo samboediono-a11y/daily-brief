@@ -8,7 +8,7 @@
       "prediction": "At least two 'Magnificent Seven' companies will report record-high revenue-per-employee figures by Q4 2026 as headcount continues to shrink during the AI transition.",
       "grounded": true,
       "status": "too_early",
-      "note": "No fresh headlines were found regarding revenue-per-employee or headcount changes at tech giants."
+      "note": "No fresh headlines were found to confirm or deny changes in revenue-per-employee for the Magnificent Seven."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "Apple will announce a strategic move away from OpenAI\u2019s backend in favor of an in-house model or a Google partnership by the next WWDC.",
       "grounded": true,
       "status": "held_up",
-      "note": "Headlines reporting that Apple is moving closer to a Google Gemini integration support the predicted strategic shift toward a Google partnership."
+      "note": "Today's headlines explicitly mention Apple moving closer to bringing Google Gemini AI to iPhones, supporting the prediction of a shift toward a Google partnership."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "TSMC will formally announce a dedicated quantum fabrication pilot line before the end of 2026.",
       "grounded": false,
       "status": "too_early",
-      "note": "The available global IC fabs report does not provide details on a TSMC quantum fabrication pilot line announcement."
+      "note": "The general report on global IC fabs does not contain specific information regarding a TSMC quantum fabrication pilot line."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Saudi Arabia will sign its first major international water-tech export contract with a neighboring GCC country by mid-2027.",
       "grounded": false,
       "status": "too_early",
-      "note": "No fresh headlines were found regarding Saudi Arabian water-tech export contracts."
+      "note": "No new information was found regarding Saudi Arabia's international water-tech export contracts."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The 10-year Treasury yield will test 4.75% before the end of the current quarter as 2026 rate-cut expectations are further dialed back.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new data was provided to confirm the movement of the 10-year Treasury yield toward the 4.75% target."
+      "note": "There are no fresh headlines reporting on current 10-year Treasury yield levels to verify this prediction."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "Lululemon will announce a leadership shakeup in its design or merchandising department within the next 90 days.",
       "grounded": false,
       "status": "too_early",
-      "note": "No fresh headlines were found regarding leadership changes in Lululemon's design or merchandising departments."
+      "note": "No new headlines were found concerning leadership or design department changes at Lululemon."
     },
     {
       "section": "markets",
