@@ -7,8 +7,8 @@
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbzh6TjFyV3FHbS1tM1daUnh4c1VSZWU3LUxiRVJqSlduRjUtT1FaazYya095SmhDWW9ORTVHT2pPMDAyQ0l2SzJOdUNiYVl1SWJ1dEhiOWlZRUVJZVJKal9FR3l0R0d4cGtkSXprMjNtdDBkRm5abHRtWGs3VWJlMERES2xYbmZZZVB6bzI2akFHOTZCUlFza2hDZV9lQk84WENNcDFScGFySHUydGhwbFp1bUEzbUJGalVHR3MtdVN6ZEZ2ajNZOTlUV1JiOEJVY2lNZQ?oc=5",
       "prediction": "High-bandwidth memory (HBM) prices will remain 20% or more above their five-year historical averages through the end of 2026.",
       "grounded": true,
-      "status": "held_up",
-      "note": "Headlines confirm a memory crunch in 2026 with RAM prices up 89% and Nvidia paying premiums for memory, which supports HBM prices staying above historical averages."
+      "status": "too_early",
+      "note": "Today's headlines report both a massive memory price surge and a subsequent bust, with no data on the five-year average required to verify the prediction."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "Taiwan's Ministry of Economic Affairs will announce a dedicated $1 billion subsidy program for 'Post-Silicon Logistics' by Q4 2026.",
       "grounded": false,
       "status": "too_early",
-      "note": "No new information was found regarding Taiwan's Ministry of Economic Affairs or any post-silicon logistics subsidy programs."
+      "note": "No headlines were found regarding the Taiwanese government's subsidy plans for post-silicon logistics."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "OpenAI will announce a major 'AI OS' partnership with a leading global smartphone or PC manufacturer before the end of 2026 to embed 'value' directly into hardware.",
       "grounded": true,
       "status": "too_early",
-      "note": "Headlines discuss AI power and hardware leaders but do not mention an OpenAI 'AI OS' partnership with hardware manufacturers."
+      "note": "The provided news mentions NVIDIA and Apple but contains no information about an OpenAI partnership for hardware-integrated AI software."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Total tech sector headcount among S&P 500 companies will end 2026 lower than it started, despite projected record-breaking revenue for the year.",
       "grounded": true,
       "status": "too_early",
-      "note": "While record market highs and an earnings bubble are mentioned, there is no headcount data for the tech sector among the fresh headlines."
+      "note": "Fresh headlines discuss stock market performance but provide no data on total tech sector headcount changes for 2026."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The Dow will see a 1,000-point single-day drop if the next two employment reports show job growth exceeding 250,000.",
       "grounded": true,
       "status": "too_early",
-      "note": "A 1,000-point drop is reported, but since the condition of job growth exceeding 250,000 has not yet been met, it is too early to evaluate the prediction."
+      "note": "The reported Dow drop and job numbers occur in July/August 2026, preceding the prediction and leaving the impact of future reports unknown."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "The CSI 300 will trade at a P/E discount of at least 30% relative to the S&P 500 through the end of 2026.",
       "grounded": false,
       "status": "too_early",
-      "note": "No data is provided on the CSI 300's P/E ratio or how its valuation compares to the S&P 500."
+      "note": "No information was provided regarding the CSI 300's performance or its valuation compared to the S&P 500."
     },
     {
       "section": "markets",
