@@ -8,7 +8,7 @@
       "prediction": "At least one major US-based hardware or cloud division within a 'Big Five' tech firm will successfully hold a formal union vote by the end of Q1 2025.",
       "grounded": false,
       "status": "too_early",
-      "note": "No headlines were found to confirm or deny whether a formal union vote occurred within a 'Big Five' tech division by the Q1 2025 deadline."
+      "note": "No headlines were found regarding union votes at major US-based hardware or cloud divisions, making it impossible to verify the status."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "Meta and Microsoft will report higher net income in the next earnings cycle despite lower total headcount compared to the same period last year.",
       "grounded": false,
       "status": "too_early",
-      "note": "While Meta booked a large charge, the headlines lack specific net income figures for Microsoft and headcount data for either company to verify the prediction."
+      "note": "While Meta reported a $16B charge, the headlines do not provide the specific net income or headcount data for Meta or Microsoft needed for a year-over-year comparison."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "By mid-2025, over 60% of new Fortune 500 AI implementations will be built on open-source weights rather than closed-source APIs.",
       "grounded": false,
       "status": "too_early",
-      "note": "The provided headlines discuss general AI trends and customer stories but do not provide statistical data on Fortune 500 open-source adoption rates."
+      "note": "The provided headlines do not contain statistical data regarding the percentage of Fortune 500 AI implementations using open-source weights."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "OpenAI will launch a specific 'ROI Dashboard' or productivity-tracking suite for Enterprise users before the end of 2024 to combat the 'failing AI project' narrative.",
       "grounded": true,
       "status": "too_early",
-      "note": "There is no mention of an OpenAI ROI Dashboard or specific productivity tracking suite in the fresh headlines provided."
+      "note": "No information was provided regarding the launch of an OpenAI ROI Dashboard or specific productivity-tracking suite for Enterprise users."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The 10-year Treasury yield will test the 4.5% level before the next FOMC meeting as traders price out 2024 rate cuts.",
       "grounded": true,
       "status": "too_early",
-      "note": "The fresh headlines focus on 2026 interest rate expectations and do not provide the historical 10-year Treasury yield data needed to verify the 2024 prediction."
+      "note": "The headlines report the 2-Year Treasury yield and Fed rate sentiments but do not mention the 10-Year Treasury yield testing the 4.5% level."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "Shein will be forced to either delay its public debut until 2025 or accept a valuation at least 25% lower than its private peak of $100 billion.",
       "grounded": false,
       "status": "held_up",
-      "note": "The headline confirming Shein's public debut and a 'punctured valuation' supports the prediction that the company would accept a lower valuation upon going public."
+      "note": "The headline regarding Shein's Hong Kong debut and 'punctured' valuation mirage supports the prediction of a lower valuation during its public entry."
     },
     {
       "section": "markets",

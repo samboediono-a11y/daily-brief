@@ -1,146 +1,287 @@
 {
   "date": "2026-09-07",
-  "predictions": [],
+  "predictions": [
+    {
+      "section": "tech",
+      "headline": "Blacklisted Chinese firms find ways to buy top American chips",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGJVMENwVzZKeENMYzdyR0hpejg2azdLMUVKSW5lRXl5N1BiN1otTU80Sk1YLW9sUXlpOEljb3pBR3FkU3QyUGRSa214em9vcVhwRnJKWWtCa2ZLZEFwd3dRRWxSZUJIZi0yakhRQ0N1VngySkplLWxZb19iMXVKeg?oc=5",
+      "prediction": "The US Commerce Department will add at least three more 'distributor' entities to the Entity List by the end of 2025 to save face after these leaks.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "Big business is ditching paid AI for free open-source versions",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV2FXaWpJTHFhTkJaSmNqeWxrTVo0TTNQNE1saFp5SDFUbmJRZ05vUWRJaXl2cnZmZE0zc2huMzhDVHZHaGYxSEdQNFVrcnFaMThtWl85UkxIWm1HZkdoa19QbVF1cG5halo1ZEVtLUotTE9US0wteXZ0RnU2STBfaWRXLTJYRm5FUWc?oc=5",
+      "prediction": "At least one major Fortune 500 company will publicly announce the termination of its enterprise-wide OpenAI contract in favor of local hosting before Q2 2026.",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "Saudi Arabia bets three billion on homegrown water technology",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUnE2WnQ2Smk2Y0hJMU1hNzFwcEJHSGhjZHNFcUpGMWJoNm5GTElUTjRxVzExU2Nsc212LWxOemdYSHdTc1diazBQb216a3BIYzJuSWxpbzNUamFvdVVPOHlxZ0hCbUlZRWJXMHJvN1pQZlc1QmJCSEpRLUJtc0VCSkpEY0RxaTcyX0VBTEs0R18weWRxNHlza2oxN3ZoX05yMENjZkJuQ0FXOERq?oc=5",
+      "prediction": "Saudi Arabia will sign its first water technology export agreement with a North African nation by the end of 2026.",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "Israel's tech sector pivots almost entirely to artificial intelligence",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nbWNmWlI0WmFCSUtycnJOcU9Vbk5UZ3pxcnU2a2F1YkgtQ3I0b1NITjNnQjhNNXp0RlJkY2V4NVEwYTRDOXhjQ2RyYURuR1piY0VfWUtLOGJwVVJCbnpvVUF4N1dqZWs?oc=5",
+      "prediction": "At least two Israeli AI 'unicorns' will announce NASDAQ IPO filings within the next 12 months to provide an exit for nervous VCs.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Tesla stock stumbles as driverless cab reveal fails to impress",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ3Z1VlV1aGNMc3dTSGx2VWo0Uk5zZkN5LUtzOUNJWlhoRXBCTHFNRmt3SzluY1RrUFpSZmpPY1NBOGVUWW8wV3ExQUxBTUFoSENCVWJVRDcxWjBra2pscFVxeUVaYmNLTGJURGdWUEI5cXBoakY3dWptZnZiUE83dW5DQV8xQ21vdUFlY25tRFpfektYQVQ4bnNzLW1LLTMyemhPR1NMV1lTaTRN?oc=5",
+      "prediction": "Tesla stock will underperform the QQQ by at least 10% over the next quarter as market focus shifts back to declining EV delivery margins.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Elite university endowments are currently beating the S&P 500",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUUd3U2k0WFZPemZJd0J1LWpaTEtFSzJTSlMyaGhsa212VDdBMmdvR3dIMjZJeDlla0YwM1VEa0ZSdG9veldWVGRGTDhyVnAxYUV4aUhYcmY2Z3J6YnVQZWxaZFlURTl1ZGdrV1dNUXE4YzdDaEo0cndsVVZNNWQ4RFZTSVA?oc=5",
+      "prediction": "At least one Ivy League endowment will report a 15%+ return for the fiscal year ending June 2025, significantly outpacing the broader market.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Inflation data looms as the next test for stock resilience",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmozU1NxU09fN21uOVJ0NlhuSFdOaWlOc21yWlF5ZEVDdGRzRXhpVG9hWUxIalkzcVBzajF0Q2ZFWnBwZ0RuWnUxd2YwYUFULW1rUTlJX1pmZ29nS0kydjJFQ25KdktkeGN0b3FldVhRTERfLU16NlpIS1hsdkozcXdtc29PVDJOaVExT1ItT3dEQlBkRnkzY3NjU0tUTEEycC1ZZlhMQTRjcHpVUXk0cXVhcw?oc=5",
+      "prediction": "The 10-year Treasury yield will spike above 4.5% if the next CPI print shows a 0.1% surprise to the upside.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Rising oil prices drag down European stock gains",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTG0yNmpRcVhUMEtpTlVEZFoxaE9DVS0yX0hRbTQyamFBQW9JejQyNnhfdEFGRGJhc1Y0dlhsTkt3M2NwN2JSaUN4dTFJUDRCZlNkWTVSdzI4QW1ZRDVhUUVYZzBFZnB0RDFmZFBZR0Vnb3BzcXJzMVYwSU53YUpqS0lDelBpd2JiempVcnNnXzVpVWE2?oc=5",
+      "prediction": "Brent crude will trade consistently above $85 per barrel through the end of the year if the Strait of Hormuz remains a focus of political rhetoric.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Canada fires back with tariffs as trade tensions escalate",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb015UGswWm1Na0pCWTRkc1B6bUR6Q2FrdndPNTdkdDlITkFEQmtTRV8xZGFlbDhRWmVFWUhLZ1dZblNjbzhSZlMzYVJJdE9ld3dKcFByQ2J4R2dXejZlVE01N1dnSW5jWi0xLUNudFMzYkdoaEtkV2RCNmo2eHkyQXhTUTVjNk9VNUFN?oc=5",
+      "prediction": "Expect a temporary 'negotiation pause' and a rollback of specific tariffs on consumer goods before the December holiday season to avoid voter backlash.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Bankers predict two more interest rate hikes for 2026",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNXNXbFhiR0xaOTliU21YN051SmZxSndRR1d0WkFHUEFBbHRsSS1EdE1zMUJ6ZlQ2NFRwNFZFWVlSMGx5WUc5RFVhYmE0WnNpTWJfbXRraUVTemlyU0U3ZFMzSGxwZDdMWVloTERkSkdfa2NiX3N2cThqbkRIUzhSVGNaRl9wak9YZVV2YXg0UVVZRWtXaG9PYUllRnl6dnNoY0NIQlZwNkRwVEpDOHIw?oc=5",
+      "prediction": "The Federal Reserve will revise its 'dot plot' upward in the next quarterly summary of economic projections.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Iran threatens vital energy shipping route as prices climb",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbVJza1YxaXdiMHRhZU1XaHpDTFE2emZ0UDhJWkQ3LWdnOG1YZkNRUndZcTJJdW9UZFdsOUI2eldad0pmR1JKS1JUM1p2MUhOdllOd1Y0X2tTUDh2aXFvQ3Z0Sk5XYkNiSzM5VEVHM3VEaWdPdlpIM2hUamVqeVhxTVU2cjh6OXo2eVJzcG1aQXNHQQ?oc=5",
+      "prediction": "Oil prices will briefly touch $95 per barrel if Iran conducts even a 'training exercise' within the Strait before next month.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "A new rocket rival finally challenges the SpaceX monopoly",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS3RrTEI3WGZWNmhSMWU3YnNiRHBaNE1vdzlSLWJGWUZZdzNwQ0hEWFRDZkpJWkdKYjdfa1R1eDF4Y0dFbWRRbTBfbWJnVjVrNEF1WW1yMTlqZ3l4LTBYN0dmc2lqV1pyVGl3UkI1ZU82dWkwdjVkcWxLdnFwclpfeDJCa3fSAYoBQVVfeXFMUGN5V2JLOVpDVjNTRXVPQ2pfRUtyTFpSMnhQbllJODV5NlI1cVVMZXhNMGdCMnEyVGp0UlhsOHBoLTQwT0VyTzdJaXhOR3BTRThIblE3MmxkLWpmenNlc0FnLUVBYjlHT0RxcGh4WHU5OHQwZlNrcGgteEd3M3ZENG50dVM5bHZ4UUNn?oc=5",
+      "prediction": "The startup will announce a multi-launch contract with a major telecommunications firm by mid-2026 to prove it can scale.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia's nickel strategy needs more than just protectionism",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdTBsU3M4OFg0RDNBVlJCUDh2NGRUcUFqcEgycU9QSnpCOGZMMzNnUXFRTkdvdzU5TDd0bWY5LTNqRy1SclFnbUtOcFRnODVXN0lxZzM3ZXdtZXpNUFJUWnBjYl9NVWt6QlNySTlncm5xTl9qaGZ2QWdBVXktSndwOHVseUtDS085d0E?oc=5",
+      "prediction": "Indonesia will sign a major critical minerals partnership with a non-Chinese Western power (likely the US or EU) by Q3 2025 to diversify its 'OPEC' image.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "Markets demand a non-political leader for the central bank",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaGRiNHVFTW9PdTY2cENsU1ZLSVlSXzc0X2ExUWtiWUZHWkwyTERNN2gyRWFoVVRQV181dWNBU1g4ZUJVTGN4azNET2lxMEdIWTdDOGVEYUNVU3o0bEpPajBlTE8yQUZOR3F1R0J6ZGRQYlRsYnQ0dHNxQmJlbkh4Tko2aExIaURjc1EyX3NjZzc2RFVoX0Q5ZlJEWFRUTDM2YklR?oc=5",
+      "prediction": "The Indonesian Rupiah (IDR) will rally 2-3% within 48 hours if a respected, independent economist is nominated for the Bank Indonesia governorship.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "A tightening budget creates a headache for interest rates",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWkJzY1AwWEJrV0g0eW4xaENjekJwNk9IR2l4eU45NXZMQ1lmVlBDSjNvdnUxclVOYWV5MmR0LWVMSDQ5UzJCLVdvelNsRi1Ga3dPcHFSS2ExMjZVbjdxd0h6MndjX0RkM29vdXNWT3BwalBJRnJYM1oxMDUtLW03UUtqLWpvRXdTZm1LblpjeGhsS1pEbTBzVFp3YmlHSm5K?oc=5",
+      "prediction": "Bank Indonesia will hold interest rates steady through its next two meetings despite significant government pressure for 'pro-growth' monetary moves.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Conflicting economic policies are hurting Indonesia's global standing",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRTIwZU5HaFBlNkUtNXF6c04zTmFsT1BWT0lVbmN2UkJhOFZUTXBVSlFma2FQZ0hBaWFCVFNETkpoRno2dHVOeXBrVVotREJLOFJDOXMycGVkdzNOV1pCTDhueFl3M2lWTGlZUjlMOUVEcmJINFkwaGlCUTlKV0VEQlkzZkxHdkFwUVppZTRVdUQ2RHhmWHpwaE1iRXNTWDgzc2c?oc=5",
+      "prediction": "Indonesia's Foreign Direct Investment (FDI) growth rate will dip in the next semi-annual report as major projects are put on hold.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin and gold rise as the dollar loses its grip",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZjhYLWRvY1c5TnNteV9UUFlJT2dNcVJiS0NtU3lRSDNpblJncGh0aWpKYzgtWDNpOEItTnZic0tHYzBVNnZNVnc5R2M1c0RHQmFDbXR5OTV2cVU1RlAzTF9aRFBOYkxvMHBWSWphNWpuSmg2NFZoUGYyZVNVNUhSQVpSVHU?oc=5",
+      "prediction": "Bitcoin will reach a new all-time high before gold does in the next 12 months, as it absorbs more 'speculative' debasement capital.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin is now moving in perfect sync with the Yen",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5",
+      "prediction": "Expect a Bitcoin price drop of more than 5% on any day the Japanese Yen strengthens by more than 1% against the USD.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin price drops as political hype finally wears off",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNEtqckFZRzZHclBKMzh2MEc2WnNIN1RsRVY1c1poeVY5d1lMcmVsQUk0aTMzdGYtOUpnbWs4X2JiZ1otZFd5a2h6bjhzUEI0Y1RWLVd0NEtPcEZYWV8wTW1pTVhPN1FRaTdiMDM1T2pyTFVYSl8zZThfZENpQ3I5LWpMdVNkNzQxdHd2QWpINmtQRnAtVDFpcV9FYnJnOWZSbnBVcDNEYl81aFZKZWhjVjU5c093SEnSAbwBQVVfeXFMTlZLOHN2NEJGdWIwcm5WeXRhaTZMbVJ1N2Y0VjhGMkhkb2JCNmpYZ2VJSmhyVjdqMDVuYUZUbGdtU1ZWY3FMWWxhdU1FRmNXcEhZNTBrNDFBWFIzR20wZUZHdDJqWGxrZG1TYXFHV0paSDl6Qk0wX2ZjUE5xQjN5Qk8yTDdQOUpiZWR1dVNhOUlscVF3c3FZTXFQR2ZyaC1ubnNDeDBCQ25PNDlaYmhSQlJmQks4LUYyZFdxQmY?oc=5",
+      "prediction": "Bitcoin will trade in a sideways range between $62,000 and $68,000 for the next month as it waits for a fresh macroeconomic catalyst.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "U.S. inflation data is now the biggest driver of crypto",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ1lya1lkRlFlcEJYeHNVUHNQbGtaQ2FIMEJIWFN5UEVPWklnMnNfRDIyeUFiRElnejliX0I5QnhJdTZ3VEhtNUxURjRVOEN2LVlpVVpMM0IzYnZQTjg5UmtYU21tNnJET1Jid0JfUVZucUNlbjNrOUIwTmE2THZ1V1RZeWN1V2xQM0hhcGxRZGJkSjVGZGFmMXhwWGZGSi0zeGVVVEJHckFjMXJVVUFua0xBOXEtbk1yUDBuaDlxVkI2cFFhN2huOEs0Y1haWGVrTlZoX0lmc0hFa2o3SjRkSVNWWVRfam5qVW9r?oc=5",
+      "prediction": "The volatility of BTC will be 2x higher during the hour of the next PCE release compared to any other period in that trading day.",
+      "grounded": true
+    }
+  ],
   "stories": [
     {
       "section": "tech",
-      "headline": "Chinese tech giants find ways to buy restricted American AI chips",
-      "summary": "Reports show that blacklisted Chinese companies are successfully bypassing U.S. export controls to acquire high-end artificial intelligence hardware.",
-      "view": "This highlights the massive 'leak' in the U.S. strategy to freeze China\u2019s AI progress. It suggests that as long as there is a middleman willing to take a fee, these chips will move, making the current sanctions more of a speed bump than a wall. Watch for the U.S. to broaden its 'entity list' to include smaller logistics hubs in the Middle East and SE Asia.",
+      "headline": "Blacklisted Chinese firms find ways to buy top American chips",
+      "summary": "Despite strict U.S. export bans, Chinese tech giants have reportedly continued to acquire high-end American AI hardware through third-party intermediaries.",
+      "view": "The US export ban on high-end chips is effectively a tax, not a blockade. By leveraging intermediaries like Aivres/Inspur, Chinese tech giants ensure their AI development doesn't stall while American firms like Nvidia maintain shadow revenue streams through third parties. The ultimate loser is the US Bureau of Industry and Security, which is losing a game of whack-a-mole against a globalized supply chain.",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGJVMENwVzZKeENMYzdyR0hpejg2azdLMUVKSW5lRXl5N1BiN1otTU80Sk1YLW9sUXlpOEljb3pBR3FkU3QyUGRSa214em9vcVhwRnJKWWtCa2ZLZEFwd3dRRWxSZUJIZi0yakhRQ0N1VngySkplLWxZb19iMXVKeg?oc=5"
     },
     {
       "section": "tech",
-      "headline": "Big companies are ditching private AI for open-source alternatives",
-      "summary": "Major U.S. corporations are increasingly building their AI tools on open-source code rather than paying for closed systems like OpenAI.",
-      "view": "This is a direct blow to the 'walled garden' business model of the major AI labs. Companies want to own their data and lower their monthly bills, which favors Meta's strategy over OpenAI's. Watch to see if enterprise subscription prices start to crater as big firms realize they can do it themselves for cheaper.",
+      "headline": "Big business is ditching paid AI for free open-source versions",
+      "summary": "Major U.S. corporations are moving away from expensive, proprietary AI models in favor of open-source software they can run on their own terms.",
+      "view": "The 'moat' for closed models like GPT-4 is evaporating as enterprises realize Llama-based models offer equivalent utility for zero recurring licensing costs. Companies like Meta win by commoditizing the underlying model, while OpenAI and Anthropic will be forced into a margin-crushing price war to retain their enterprise seats. This isn't about saving money; it's about avoiding vendor lock-in.",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV2FXaWpJTHFhTkJaSmNqeWxrTVo0TTNQNE1saFp5SDFUbmJRZ05vUWRJaXl2cnZmZE0zc2huMzhDVHZHaGYxSEdQNFVrcnFaMThtWl85UkxIWm1HZkdoa19QbVF1cG5halo1ZEVtLUotTE9US0wteXZ0RnU2STBfaWRXLTJYRm5FUWc?oc=5"
     },
     {
       "section": "tech",
-      "headline": "Saudi Arabia pours three billion into local water tech industry",
-      "summary": "The Kingdom is investing nearly $3 billion to build a homegrown industry for water treatment and desalination technology.",
-      "view": "This isn't just about thirst; it's about national survival and industrial independence. By owning the tech instead of just buying the water, Saudi Arabia becomes a regional exporter of essential infrastructure. Watch for Saudi-backed firms to start outbidding European and American engineering giants on global water projects.",
+      "headline": "Saudi Arabia bets three billion on homegrown water technology",
+      "summary": "The Kingdom is investing $2.93 billion to create a local industry focused on desalination and water management tech.",
+      "view": "Saudi Arabia is weaponizing its sovereign wealth to secure its most existential resource: water. By localizing desalination tech through a $3 billion investment, the Kingdom moves from being a buyer of foreign expertise to a regional exporter, reducing long-term dependence on European engineering firms like Veolia. This is a strategic play to lower the breakeven cost of their new desert 'giga-projects'.",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUnE2WnQ2Smk2Y0hJMU1hNzFwcEJHSGhjZHNFcUpGMWJoNm5GTElUTjRxVzExU2Nsc212LWxOemdYSHdTc1diazBQb216a3BIYzJuSWxpbzNUamFvdVVPOHlxZ0hCbUlZRWJXMHJvN1pQZlc1QmJCSEpRLUJtc0VCSkpEY0RxaTcyX0VBTEs0R18weWRxNHlza2oxN3ZoX05yMENjZkJuQ0FXOERq?oc=5"
     },
     {
       "section": "tech",
-      "headline": "AI startups now command nearly all high-tech investment in Israel",
-      "summary": "Artificial intelligence companies captured 89% of all tech funding in Israel, totaling over $11 billion this year.",
-      "view": "This is a massive concentration of risk. While it shows Israel's dominance in the AI niche, it means every other sector\u2014from biotech to fintech\u2014is being starved of capital. Watch for a talent drain or a bubble burst if these AI startups fail to turn their massive funding into actual profits soon.",
+      "headline": "Israel's tech sector pivots almost entirely to artificial intelligence",
+      "summary": "AI companies now attract nearly 90% of all high-tech investment in Israel, totaling over $11 billion in recent funding.",
+      "view": "Israel's pivot is a survival mechanism to keep global capital flowing amidst high regional instability. High-tech firms are rebranding their defense-tech DNA as 'AI-native' to attract VC funds that are cooling on generic SaaS but remain thirsty for deep tech. The military-industrial complex in Israel is now effectively the world's largest AI incubator.",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nbWNmWlI0WmFCSUtycnJOcU9Vbk5UZ3pxcnU2a2F1YkgtQ3I0b1NITjNnQjhNNXp0RlJkY2V4NVEwYTRDOXhjQ2RyYURuR1piY0VfWUtLOGJwVVJCbnpvVUF4N1dqZWs?oc=5"
     },
     {
       "section": "markets",
-      "headline": "Tesla stock drops as investors shrug off the new Cybercab",
-      "summary": "Tesla shares fell significantly after the market found the reveal of its long-promised autonomous taxi to be underwhelming.",
-      "view": "The market is losing patience with 'vaporware' and futuristic promises that don't have a clear timeline. Tesla is priced like a tech company, but it needs to produce real revenue from software to keep that premium, and investors didn't see a clear path to that here. Watch for a shift in investor focus back to Tesla\u2019s core car-selling margins.",
+      "headline": "Tesla stock stumbles as driverless cab reveal fails to impress",
+      "summary": "Tesla shares dropped sharply after investors walked away from the 'Cybercab' launch event feeling the company lacked a clear, near-term business plan.",
+      "view": "Investors have finally stopped trading Tesla on Musk's 'tomorrow' and started pricing it on today's lack of regulatory clarity. The 'Cybercab' is a vaporware product without a steering wheel in a world where full autonomy is still years away from being legal; retail sentiment is finally decoupling from the 'genius' premium.",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ3Z1VlV1aGNMc3dTSGx2VWo0Uk5zZkN5LUtzOUNJWlhoRXBCTHFNRmt3SzluY1RrUFpSZmpPY1NBOGVUWW8wV3ExQUxBTUFoSENCVWJVRDcxWjBra2pscFVxeUVaYmNLTGJURGdWUEI5cXBoakY3dWptZnZiUE83dW5DQV8xQ21vdUFlY25tRFpfektYQVQ4bnNzLW1LLTMyemhPR1NMV1lTaTRN?oc=5"
     },
     {
       "section": "markets",
-      "headline": "University endowments are currently beating the S&P 500",
-      "summary": "Major university investment funds are outperforming the broader stock market index by leaning into private equity and alternative assets.",
-      "view": "This proves that in a volatile market, 'insider' access to private deals is more valuable than simple index tracking. While retail investors are stuck with public market swings, these massive funds are finding growth in companies that haven't gone public yet. Watch for more pressure on these institutions to justify their tax-exempt status as their wealth grows faster than the market.",
+      "headline": "Elite university endowments are currently beating the S&P 500",
+      "summary": "The largest U.S. university funds have outperformed the broader stock market index by leaning into private equity and niche investments.",
+      "view": "University endowments are outperforming because they have the 'infinite' time horizon required to harvest the illiquidity premium in private markets. While the S&P 500 is top-heavy and sensitive to interest rates, niche private equity and credit investments allow these funds to manufacture alpha through active restructuring that retail investors cannot access.",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUUd3U2k0WFZPemZJd0J1LWpaTEtFSzJTSlMyaGhsa212VDdBMmdvR3dIMjZJeDlla0YwM1VEa0ZSdG9veldWVGRGTDhyVnAxYUV4aUhYcmY2Z3J6YnVQZWxaZFlURTl1ZGdrV1dNUXE4YzdDaEo0cndsVVZNNWQ4RFZTSVA?oc=5"
     },
     {
       "section": "markets",
-      "headline": "Warren Buffett issues a cautious warning to stock market investors",
-      "summary": "The legendary investor signaled that current market valuations might be overstretched, suggesting a more defensive posture.",
-      "view": "When Buffett gets cautious, he usually starts hoarding cash, which often signals a market peak. It's a sentiment shift that could cause other large institutional players to pull back on risk. Watch his cash pile in the next quarterly filing\u2014if it keeps growing, a market correction is likely on the horizon.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYlF5UmxQS0V0M3BXRldhN0dCRmoyamI4UERJZjZYNkhzS0Z1czRpVUlLM3J4MnJaRkplXzhPMnYzdXM3Q0E1NjE5XzFsR216VkJtSjd6a1lQSTdENFF0WC0zSnl2OTQyeTRBWWw0c2RRODc5ZkRyTzNsZG0yMm4xSlZ5VG8yMndDSXVQUGVzcFFKSFAweWxjcA?oc=5"
-    },
-    {
-      "section": "markets",
-      "headline": "Stock market faces its next big test with inflation data",
-      "summary": "After surviving a volatile jobs report, investors are now bracing for inflation figures to see if the Fed will stay the course.",
-      "view": "The 'soft landing' narrative is fragile. If inflation stays sticky while the job market cools, we enter the 'stagflation' zone where the Fed can't easily cut rates to save the economy. Watch the bond market; if yields spike on the news, stocks will likely take a beating as debt becomes more expensive.",
+      "headline": "Inflation data looms as the next test for stock resilience",
+      "summary": "After surviving a volatile jobs report, investors are bracing for new inflation figures to see if the economy is truly cooling.",
+      "view": "The 'Goldilocks' narrative in the US economy is incredibly fragile; any uptick in CPI will immediately force the Fed into a hawkish corner, crushing the current rally. Markets are currently mispricing the risk of sticky services inflation by assuming the disinflation trend is linear.",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmozU1NxU09fN21uOVJ0NlhuSFdOaWlOc21yWlF5ZEVDdGRzRXhpVG9hWUxIalkzcVBzajF0Q2ZFWnBwZ0RuWnUxd2YwYUFULW1rUTlJX1pmZ29nS0kydjJFQ25KdktkeGN0b3FldVhRTERfLU16NlpIS1hsdkozcXdtc29PVDJOaVExT1ItT3dEQlBkRnkzY3NjU0tUTEEycC1ZZlhMQTRjcHpVUXk0cXVhcw?oc=5"
     },
     {
+      "section": "markets",
+      "headline": "Rising oil prices drag down European stock gains",
+      "summary": "European markets saw their early progress erased as climbing crude oil prices stoked fears of renewed inflation and higher costs for industry.",
+      "view": "Europe is the primary victim of Middle East volatility due to its chronic lack of domestic energy security. Higher oil prices act as a direct tax on German industrial manufacturing, ensuring the ECB stays cautious even if the Fed continues to cut. Trump's threats toward Iran only exacerbate the risk premium that European industry has to pay.",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTG0yNmpRcVhUMEtpTlVEZFoxaE9DVS0yX0hRbTQyamFBQW9JejQyNnhfdEFGRGJhc1Y0dlhsTkt3M2NwN2JSaUN4dTFJUDRCZlNkWTVSdzI4QW1ZRDVhUUVYZzBFZnB0RDFmZFBZR0Vnb3BzcXJzMVYwSU53YUpqS0lDelBpd2JiempVcnNnXzVpVWE2?oc=5"
+    },
+    {
       "section": "us_news",
-      "headline": "Canada fires back with tariffs as trade tensions with Trump rise",
-      "summary": "Canada is implementing retaliatory taxes on U.S. goods in response to new tariff threats from the Trump administration.",
-      "view": "This is the start of a classic trade war where everyone loses, but consumers lose first. Expect prices for cars and consumer staples to rise on both sides of the border as supply chains are hit with new costs. Watch for which U.S. industries lobby for exemptions, as they'll be the ones hurting the most.",
+      "headline": "Canada fires back with tariffs as trade tensions escalate",
+      "summary": "The Canadian government has implemented retaliatory taxes on U.S. goods following new trade threats from the American administration.",
+      "view": "This is a classic 'tit-for-tat' trade war that only ends in higher consumer prices for both sides. Canada is using 15-50% tariffs to signal to the US administration that they aren't a pushover, but the real losers are Canadian grocers and consumers who will see an immediate inflationary spike on over 700 goods.",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb015UGswWm1Na0pCWTRkc1B6bUR6Q2FrdndPNTdkdDlITkFEQmtTRV8xZGFlbDhRWmVFWUhLZ1dZblNjbzhSZlMzYVJJdE9ld3dKcFByQ2J4R2dXejZlVE01N1dnSW5jWi0xLUNudFMzYkdoaEtkV2RCNmo2eHkyQXhTUTVjNk9VNUFN?oc=5"
     },
     {
       "section": "us_news",
-      "headline": "Iran threatens vital oil shipping lanes as energy prices climb",
-      "summary": "Tehran says it will expand its presence in the Strait of Hormuz, a move that is already pushing global oil and gas prices higher.",
-      "view": "This is a direct threat to global energy stability. The Strait is a chokepoint for 20% of the world's oil; even a slight disruption moves prices everywhere. Watch the 'risk premium' in oil futures\u2014if this escalates, gas prices at the pump will jump regardless of what the Fed does with interest rates.",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbVJza1YxaXdiMHRhZU1XaHpDTFE2emZ0UDhJWkQ3LWdnOG1YZkNRUndZcTJJdW9UZFdsOUI2eldad0pmR1JKS1JUM1p2MUhOdllOd1Y0X2tTUDh2aXFvQ3Z0Sk5XYkNiSzM5VEVHM3VEaWdPdlpIM2hUamVqeVhxTVU2cjh6OXo2eVJzcG1aQXNHQQ?oc=5"
-    },
-    {
-      "section": "us_news",
-      "headline": "UBS predicts more Fed rate hikes due to strong jobs",
-      "summary": "Analysts at UBS now expect the Federal Reserve to raise interest rates twice more in 2026 following an unexpectedly hot labor market.",
-      "view": "This flips the script on the expectation that rates would stay flat or fall. A 'too-strong' economy is actually bad for borrowers because it forces the Fed to keep the brakes on. Watch for a slowdown in the housing market, as mortgage rates will likely stay elevated for much longer than expected.",
+      "headline": "Bankers predict two more interest rate hikes for 2026",
+      "summary": "UBS analysts adjusted their forecast to include two Federal Reserve rate increases following a surprisingly strong employment report.",
+      "view": "UBS is correctly calling out the 'strong employment' elephant in the room that the Fed cannot ignore forever. If the labor market doesn't cool, the 2024/2025 cuts will be seen as premature, and 2026 will be the year of the 'correction' hike to prevent a 1970s-style second wave of inflation.",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNXNXbFhiR0xaOTliU21YN051SmZxSndRR1d0WkFHUEFBbHRsSS1EdE1zMUJ6ZlQ2NFRwNFZFWVlSMGx5WUc5RFVhYmE0WnNpTWJfbXRraUVTemlyU0U3ZFMzSGxwZDdMWVloTERkSkdfa2NiX3N2cThqbkRIUzhSVGNaRl9wak9YZVV2YXg0UVVZRWtXaG9PYUllRnl6dnNoY0NIQlZwNkRwVEpDOHIw?oc=5"
     },
     {
       "section": "us_news",
-      "headline": "Range Rover maker cuts 4,000 jobs citing tariff pressures",
-      "summary": "JLR (Jaguar Land Rover) announced significant layoffs, blaming the economic impact of new international trade barriers.",
-      "view": "This is the 'collateral damage' of protectionist policy. When it becomes too expensive to move parts and finished cars across borders, manufacturers simply shrink their footprint. Watch for other European automakers to follow suit, which could trigger a broader manufacturing recession in the EU.",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMDg0RVNBdGpUakJuRjZGN2NKU0JwXzJncDk4QmpGMHFhcG1XX3VxM2Y0NHN1TW0yNXRhQ3NxMnBrV2JSMlZIYVNRaVY2SUhRNS04M3EzSUZCd2ZPLWZ3WUV6YlJZNzhmUHdPYXVfRzdoWWVaWmwtd3duN3VSQmVNUE1SRW4wbWJ6eER1T1g0TTdkYmFlekd5ejhpNmFMaVA5SUlvT0dTblM2U0N4dGxEVDVEWU1lWDFTTUR5QXhobEU?oc=5"
+      "headline": "Iran threatens vital energy shipping route as prices climb",
+      "summary": "Tehran signaled it may increase control over the Strait of Hormuz, a move that sent oil and gas prices higher on global markets.",
+      "view": "Threatening the Strait of Hormuz is Iran's ultimate leverage card to force the US into a diplomatic corner. By signaling control over the world's most critical energy chokepoint, they ensure that any US escalation carries the political death sentence of record-high domestic gas prices.",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbVJza1YxaXdiMHRhZU1XaHpDTFE2emZ0UDhJWkQ3LWdnOG1YZkNRUndZcTJJdW9UZFdsOUI2eldad0pmR1JKS1JUM1p2MUhOdllOd1Y0X2tTUDh2aXFvQ3Z0Sk5XYkNiSzM5VEVHM3VEaWdPdlpIM2hUamVqeVhxTVU2cjh6OXo2eVJzcG1aQXNHQQ?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "A new rocket rival finally challenges the SpaceX monopoly",
+      "summary": "A startup competitor successfully launched its first rocket, claiming the satellite industry is 'desperate' for more options besides Elon Musk\u2019s SpaceX.",
+      "view": "The SpaceX 'monopoly' is finally facing legitimate price competition, which will benefit satellite constellations like Amazon\u2019s Kuiper. However, SpaceX wins in the long run because its reusability cadence and Starship scale remain years ahead of any startup doing 'first launches.'",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS3RrTEI3WGZWNmhSMWU3YnNiRHBaNE1vdzlSLWJGWUZZdzNwQ0hEWFRDZkpJWkdKYjdfa1R1eDF4Y0dFbWRRbTBfbWJnVjVrNEF1WW1yMTlqZ3l4LTBYN0dmc2lqV1pyVGl3UkI1ZU82dWkwdjVkcWxLdnFwclpfeDJCa3fSAYoBQVVfeXFMUGN5V2JLOVpDVjNTRXVPQ2pfRUtyTFpSMnhQbllJODV5NlI1cVVMZXhNMGdCMnEyVGp0UlhsOHBoLTQwT0VyTzdJaXhOR3BTRThIblE3MmxkLWpmenNlc0FnLUVBYjlHT0RxcGh4WHU5OHQwZlNrcGgteEd3M3ZENG50dVM5bHZ4UUNn?oc=5"
     },
     {
       "section": "indonesia",
-      "headline": "Indonesia warned its nickel strategy needs more than just control",
-      "summary": "Experts argue that Indonesia's plan to dominate the global nickel market must focus on industry growth rather than just dividing existing spoils.",
-      "view": "Indonesia is playing a dangerous game of resource nationalism. If they make nickel too expensive or hard to get, EV makers will simply switch to batteries that don't use it, leaving Indonesia with a mountain of metal no one wants. Watch for a rise in 'LFP' battery adoption as a sign that Indonesia's leverage is slipping.",
+      "headline": "Indonesia's nickel strategy needs more than just protectionism",
+      "summary": "Analysts warn that Indonesia's plan to dominate the electric vehicle battery supply chain requires more international cooperation to succeed.",
+      "view": "Indonesia\u2019s downstreaming policy is a masterclass in resource nationalism that works as long as the world remains desperate for EV batteries. By acting as the 'OPEC of nickel,' they are forcing Western OEMs to choose between Chinese-backed Indonesian nickel or no nickel at all, effectively holding the supply chain hostage.",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdTBsU3M4OFg0RDNBVlJCUDh2NGRUcUFqcEgycU9QSnpCOGZMMzNnUXFRTkdvdzU5TDd0bWY5LTNqRy1SclFnbUtOcFRnODVXN0lxZzM3ZXdtZXpNUFJUWnBjYl9NVWt6QlNySTlncm5xTl9qaGZ2QWdBVXktSndwOHVseUtDS085d0E?oc=5"
     },
     {
       "section": "indonesia",
-      "headline": "Markets demand independence as Bank Indonesia picks new leader",
-      "summary": "Investors are closely watching the selection of the next central bank governor, prioritizing institutional independence over political ties.",
-      "view": "The central bank is the last line of defense for the Indonesian Rupiah. If a political 'yes-man' gets the job, international investors will flee, fearing that the government will print money to cover its debts. Watch for any sudden drops in the Rupiah's value immediately following the appointment announcement.",
+      "headline": "Markets demand a non-political leader for the central bank",
+      "summary": "Investors are signaling that they want an independent expert, not a political appointee, to lead Bank Indonesia in the next term.",
+      "view": "Investors are terrified of the 'Erdoganization' of Bank Indonesia. Appointing a political ally would trigger a massive capital flight from the IDR, as investors would price in an immediate loss of inflation-fighting credibility and institutional independence.",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaGRiNHVFTW9PdTY2cENsU1ZLSVlSXzc0X2ExUWtiWUZHWkwyTERNN2gyRWFoVVRQV181dWNBU1g4ZUJVTGN4azNET2lxMEdIWTdDOGVEYUNVU3o0bEpPajBlTE8yQUZOR3F1R0J6ZGRQYlRsYnQ0dHNxQmJlbkh4Tko2aExIaURjc1EyX3NjZzc2RFVoX0Q5ZlJEWFRUTDM2YklR?oc=5"
     },
     {
       "section": "indonesia",
-      "headline": "New U.S. trade deal could reshape Indonesia\u2019s economic alliances",
-      "summary": "A new reciprocal trade agreement with the U.S. is being viewed as a strategic move to balance Indonesia's heavy reliance on China.",
-      "view": "This is a win for diversification. By cozying up to the U.S. on trade, Indonesia gains a hedge against China\u2019s slowing economy and secures a market for its critical minerals. Watch to see if China responds with its own set of trade sweeteners or threats to keep Indonesia in its orbit.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaE9kR252ZElMaHRtZVlnVGFSWS1lY0ZxTDlmOG5SWFBxdUpCTHhRRTU3ZE9RWkNmcmtqTWVNZVJxM001ZkdKNlBEeWRnYUhJZk9ZX2gxeV9nUWZKbjJGdjJLQUZobVVUQm9JRlVGeDZYNHFNamJRWXE2NklPMmk2U1N6WXJwS2xLc1FnbnU4a0NhRnNrZWRiRXV2cFZNejJmX2FkZnV0eEVJY21WVjFzSTVDWGRFRHc?oc=5"
-    },
-    {
-      "section": "indonesia",
-      "headline": "Tight budget puts Indonesia\u2019s central bank in a tough spot",
-      "summary": "A shrinking national budget is complicating monetary policy, making it harder for the central bank to manage both growth and inflation.",
-      "view": "When the government can't spend to boost the economy, the pressure falls entirely on interest rates. This usually leads to 'policy paralysis' where the bank is afraid to move in either direction. Watch for a stagnation in GDP growth as both the government and the central bank run out of ammunition.",
+      "headline": "A tightening budget creates a headache for interest rates",
+      "summary": "Government spending cuts are making it harder for the central bank to manage inflation and support the national currency.",
+      "view": "Fiscal austerity in Indonesia is a double-edged sword: it protects the credit rating but kills domestic growth. Bank Indonesia is stuck in a trap; they cannot cut rates to boost growth because they must keep them high to defend the currency while the government pulls back spending.",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWkJzY1AwWEJrV0g0eW4xaENjekJwNk9IR2l4eU45NXZMQ1lmVlBDSjNvdnUxclVOYWV5MmR0LWVMSDQ5UzJCLVdvelNsRi1Ga3dPcHFSS2ExMjZVbjdxd0h6MndjX0RkM29vdXNWT3BwalBJRnJYM1oxMDUtLW03UUtqLWpvRXdTZm1LblpjeGhsS1pEbTBzVFp3YmlHSm5K?oc=5"
     },
     {
+      "section": "indonesia",
+      "headline": "Conflicting economic policies are hurting Indonesia's global standing",
+      "summary": "Experts suggest that 'out-of-sync' moves between different government departments are confusing foreign investors.",
+      "view": "Internal government friction is the 'hidden risk' for Indonesia's FDI. When the Ministry of Trade and Ministry of Investment aren't on the same page, foreign investors stall their projects to wait for a clear, unified regulatory signal that currently doesn't exist.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRTIwZU5HaFBlNkUtNXF6c04zTmFsT1BWT0lVbmN2UkJhOFZUTXBVSlFma2FQZ0hBaWFCVFNETkpoRno2dHVOeXBrVVotREJLOFJDOXMycGVkdzNOV1pCTDhueFl3M2lWTGlZUjlMOUVEcmJINFkwaGlCUTlKV0VEQlkzZkxHdkFwUVppZTRVdUQ2RHhmWHpwaE1iRXNTWDgzc2c?oc=5"
+    },
+    {
       "section": "crypto_fx",
-      "headline": "Bitcoin and gold rise as bond market intervention hurts dollar",
-      "summary": "Government moves to control bond yields have weakened the dollar, sending investors into 'hard assets' like Bitcoin and gold.",
-      "view": "This confirms Bitcoin\u2019s status as a 'debasement hedge.' When the government manipulates the price of debt (bonds), savvy investors flee to assets that can't be printed. Watch if Bitcoin begins to trade in lockstep with gold, which would signal its final transition from a 'tech play' to 'digital bullion.'",
+      "headline": "Bitcoin and gold rise as the dollar loses its grip",
+      "summary": "Both Bitcoin and gold surged as investors moved away from the U.S. dollar following new government interventions in the bond market.",
+      "view": "This is the 'debasement trade' in action. As the US government interferes with bond markets to manage its ballooning debt, the dollar's status as a store of value is being questioned, driving capital into assets with fixed or scarce supplies like Bitcoin and gold.",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZjhYLWRvY1c5TnNteV9UUFlJT2dNcVJiS0NtU3lRSDNpblJncGh0aWpKYzgtWDNpOEItTnZic0tHYzBVNnZNVnc5R2M1c0RHQmFDbXR5OTV2cVU1RlAzTF9aRFBOYkxvMHBWSWphNWpuSmg2NFZoUGYyZVNVNUhSQVpSVHU?oc=5"
     },
     {
       "section": "crypto_fx",
-      "headline": "Bitcoin price slides below key pre-Trump second term levels",
-      "summary": "The cryptocurrency has given back all of its recent gains, falling below the $67,000 mark as political momentum fades.",
-      "view": "The 'Trump Trade'\u2014the idea that a second term would mean a crypto-friendly deregulation spree\u2014is running out of steam. It shows that crypto is still highly sensitive to political hype rather than just fundamental use. Watch $60,000 as a psychological floor; if it breaks, the 'crypto winter' might return.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNEtqckFZRzZHclBKMzh2MEc2WnNIN1RsRVY1c1poeVY5d1lMcmVsQUk0aTMzdGYtOUpnbWs4X2JiZ1otZFd5a2h6bjhzUEI0Y1RWLVd0NEtPcEZYWV8wTW1pTVhPN1FRaTdiMDM1T2pyTFVYSl8zZThfZENpQ3I5LWpMdVNkNzQxdHd2QWpINmtQRnAtVDFpcV9FYnJnOWZSbnBVcDNEYl81aFZKZWhjVjU5c093SEnSAbwBQVVfeXFMTlZLOHN2NEJGdWIwcm5WeXRhaTZMbVJ1N2Y0VjhGMkhkb2JCNmpYZ2VJSmhyVjdqMDVuYUZUbGdtU1ZWY3FMWWxhdU1FRmNXcEhZNTBrNDFBWFIzR20wZUZHdDJqWGxrZG1TYXFHV0paSDl6Qk0wX2ZjUE5xQjN5Qk8yTDdQOUpiZWR1dVNhOUlscVF3c3FZTXFQR2ZyaC1ubnNDeDBCQ25PNDlaYmhSQlJmQks4LUYyZFdxQmY?oc=5"
-    },
-    {
-      "section": "crypto_fx",
-      "headline": "Bitcoin is now moving in almost perfect opposition to the Yen",
-      "summary": "A strong negative correlation has developed between Bitcoin and the Japanese Yen, reflecting a shift in global carry trades.",
-      "view": "This is a sophisticated macro signal. It suggests that traders are using Bitcoin as a high-risk bet against traditional 'safe' currencies. When the Yen gets stronger, it usually means global trouble, and now that seems to be the cue for Bitcoin to sell off. Watch the Bank of Japan's interest rate moves to predict Bitcoin's next swing.",
+      "headline": "Bitcoin is now moving in perfect sync with the Yen",
+      "summary": "The correlation between Bitcoin and the Japanese Yen has reached an extreme level, changing how traders view the asset.",
+      "view": "The correlation between Bitcoin and the Yen confirms that BTC is being used as a carry trade proxy. When the Yen is weak and liquidity is high, BTC thrives; when the Yen carry trade unwinds, BTC gets liquidated to cover margins, proving it is currently a macro liquidity sponge rather than digital gold.",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5"
     },
     {
       "section": "crypto_fx",
-      "headline": "Fed liquidity and dollar weakness to decide Bitcoin\u2019s fate",
-      "summary": "Analysts suggest that the amount of cash the Fed pumps into the system will be the primary driver for Bitcoin's price in the coming months.",
-      "view": "This admits that Bitcoin isn't independent of the system; it\u2019s a 'liquidity sponge.' If the Fed tightens the money supply to fight inflation, Bitcoin will suffer regardless of how many people use it. Watch the Fed\u2019s balance sheet\u2014if it starts shrinking again, expect crypto prices to head south.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLWowck9uTTBPRi11WjBMQ1czLWVxTm1qVjZzOTVNNlo1LXdKekp5SG1HbjRidzlhMEFDbVZYb2QzQjZMa0d4X285ZVJJem1KNUctbFpyTUgyd0dXYjROeWRfTzRteEVoOWY0R1JMTTJTTGMyZXRDajVEamFFYXlCc0V2cVIwVzRfNW5NQ0NGczNoQl9VeWVCaS05ampPdjc4dWo5WHZ3MGRSWDNEZ2VHcmZ2RVFNZi1PNnprNUpB?oc=5"
+      "headline": "Bitcoin price drops as political hype finally wears off",
+      "summary": "Bitcoin has fallen below the price levels seen during the height of political campaign promises, now trading under $67,000.",
+      "view": "The recent drop is a classic 'sell the news' event. The political promises made during the campaign were never backed by legislative reality, and now that the hype is cooling, Bitcoin is reverting to its mean, driven by actual liquidity rather than rhetoric.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNEtqckFZRzZHclBKMzh2MEc2WnNIN1RsRVY1c1poeVY5d1lMcmVsQUk0aTMzdGYtOUpnbWs4X2JiZ1otZFd5a2h6bjhzUEI0Y1RWLVd0NEtPcEZYWV8wTW1pTVhPN1FRaTdiMDM1T2pyTFVYSl8zZThfZENpQ3I5LWpMdVNkNzQxdHd2QWpINmtQRnAtVDFpcV9FYnJnOWZSbnBVcDNEYl81aFZKZWhjVjU5c093SEnSAbwBQVVfeXFMTlZLOHN2NEJGdWIwcm5WeXRhaTZMbVJ1N2Y0VjhGMkhkb2JCNmpYZ2VJSmhyVjdqMDVuYUZUbGdtU1ZWY3FMWWxhdU1FRmNXcEhZNTBrNDFBWFIzR20wZUZHdDJqWGxrZG1TYXFHV0paSDl6Qk0wX2ZjUE5xQjN5Qk8yTDdQOUpiZWR1dVNhOUlscVF3c3FZTXFQR2ZyaC1ubnNDeDBCQ25PNDlaYmhSQlJmQks4LUYyZFdxQmY?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "U.S. inflation data is now the biggest driver of crypto",
+      "summary": "Macroeconomic factors like interest rates and liquidity have become more important to Bitcoin's price than any actual crypto-specific news.",
+      "view": "Bitcoin has been fully 'financialized' and absorbed into the macro landscape. It no longer responds to protocol upgrades or 'halvings' as much as it does to PCE and CPI prints; it is effectively a 24/7 high-beta play on US dollar liquidity.",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ1lya1lkRlFlcEJYeHNVUHNQbGtaQ2FIMEJIWFN5UEVPWklnMnNfRDIyeUFiRElnejliX0I5QnhJdTZ3VEhtNUxURjRVOEN2LVlpVVpMM0IzYnZQTjg5UmtYU21tNnJET1Jid0JfUVZucUNlbjNrOUIwTmE2THZ1V1RZeWN1V2xQM0hhcGxRZGJkSjVGZGFmMXhwWGZGSi0zeGVVVEJHckFjMXJVVUFua0xBOXEtbk1yUDBuaDlxVkI2cFFhN2huOEs0Y1haWGVrTlZoX0lmc0hFa2o3SjRkSVNWWVRfam5qVW9r?oc=5"
     }
   ]
 }
