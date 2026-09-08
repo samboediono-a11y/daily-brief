@@ -8,7 +8,7 @@
       "prediction": "The US Commerce Department will add at least three more 'distributor' entities to the Entity List by the end of 2025 to save face after these leaks.",
       "grounded": true,
       "status": "too_early",
-      "note": "While headlines mention sanctions on Chinese units of a US chip company, they do not confirm the addition of three specific distributor entities to the Entity List."
+      "note": "The headlines mention sanctions on Chinese units of a US chip company but do not confirm the addition of three specific distributor entities to the Entity List."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "At least one major Fortune 500 company will publicly announce the termination of its enterprise-wide OpenAI contract in favor of local hosting before Q2 2026.",
       "grounded": false,
       "status": "too_early",
-      "note": "The provided headline regarding AI chip makers offers no information on Fortune 500 companies terminating OpenAI contracts in favor of local hosting."
+      "note": "The provided headline discusses AI chip makers and does not mention any Fortune 500 company terminating an OpenAI contract."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "Saudi Arabia will sign its first water technology export agreement with a North African nation by the end of 2026.",
       "grounded": false,
       "status": "too_early",
-      "note": "Headlines cover Saudi deals with Veolia and AI developments in Egypt, but do not mention a Saudi water technology export agreement with a North African nation."
+      "note": "Headlines mention water deals within Saudi Arabia involving a French firm but do not mention a water technology export agreement with a North African country."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "At least two Israeli AI 'unicorns' will announce NASDAQ IPO filings within the next 12 months to provide an exit for nervous VCs.",
       "grounded": false,
       "status": "too_early",
-      "note": "No fresh headlines were found to provide information regarding NASDAQ IPO filings for Israeli AI unicorns."
+      "note": "No fresh headlines were provided to confirm if any Israeli AI unicorns have filed for an IPO."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "Tesla stock will underperform the QQQ by at least 10% over the next quarter as market focus shifts back to declining EV delivery margins.",
       "grounded": true,
       "status": "too_early",
-      "note": "The provided headline is dated January 2026, which predates the September 2026 prediction and cannot confirm performance for the following quarter."
+      "note": "The provided market update headline from early 2026 does not contain performance data for the period following the September 2026 prediction."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "At least one Ivy League endowment will report a 15%+ return for the fiscal year ending June 2025, significantly outpacing the broader market.",
       "grounded": false,
       "status": "too_early",
-      "note": "No fresh headlines were found to confirm or contradict the reported returns of Ivy League endowments for the fiscal year ending June 2025."
+      "note": "No new information is available to determine the fiscal year returns for Ivy League endowments."
     },
     {
       "section": "markets",
