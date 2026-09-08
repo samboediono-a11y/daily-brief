@@ -6,42 +6,54 @@
       "headline": "Blacklisted Chinese firms find ways to buy top American chips",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGJVMENwVzZKeENMYzdyR0hpejg2azdLMUVKSW5lRXl5N1BiN1otTU80Sk1YLW9sUXlpOEljb3pBR3FkU3QyUGRSa214em9vcVhwRnJKWWtCa2ZLZEFwd3dRRWxSZUJIZi0yakhRQ0N1VngySkplLWxZb19iMXVKeg?oc=5",
       "prediction": "The US Commerce Department will add at least three more 'distributor' entities to the Entity List by the end of 2025 to save face after these leaks.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "While headlines mention sanctions on Chinese units of a US chip company, they do not confirm the addition of three specific distributor entities to the Entity List."
     },
     {
       "section": "tech",
       "headline": "Big business is ditching paid AI for free open-source versions",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV2FXaWpJTHFhTkJaSmNqeWxrTVo0TTNQNE1saFp5SDFUbmJRZ05vUWRJaXl2cnZmZE0zc2huMzhDVHZHaGYxSEdQNFVrcnFaMThtWl85UkxIWm1HZkdoa19QbVF1cG5halo1ZEVtLUotTE9US0wteXZ0RnU2STBfaWRXLTJYRm5FUWc?oc=5",
       "prediction": "At least one major Fortune 500 company will publicly announce the termination of its enterprise-wide OpenAI contract in favor of local hosting before Q2 2026.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "The provided headline regarding AI chip makers offers no information on Fortune 500 companies terminating OpenAI contracts in favor of local hosting."
     },
     {
       "section": "tech",
       "headline": "Saudi Arabia bets three billion on homegrown water technology",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUnE2WnQ2Smk2Y0hJMU1hNzFwcEJHSGhjZHNFcUpGMWJoNm5GTElUTjRxVzExU2Nsc212LWxOemdYSHdTc1diazBQb216a3BIYzJuSWxpbzNUamFvdVVPOHlxZ0hCbUlZRWJXMHJvN1pQZlc1QmJCSEpRLUJtc0VCSkpEY0RxaTcyX0VBTEs0R18weWRxNHlza2oxN3ZoX05yMENjZkJuQ0FXOERq?oc=5",
       "prediction": "Saudi Arabia will sign its first water technology export agreement with a North African nation by the end of 2026.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Headlines cover Saudi deals with Veolia and AI developments in Egypt, but do not mention a Saudi water technology export agreement with a North African nation."
     },
     {
       "section": "tech",
       "headline": "Israel's tech sector pivots almost entirely to artificial intelligence",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nbWNmWlI0WmFCSUtycnJOcU9Vbk5UZ3pxcnU2a2F1YkgtQ3I0b1NITjNnQjhNNXp0RlJkY2V4NVEwYTRDOXhjQ2RyYURuR1piY0VfWUtLOGJwVVJCbnpvVUF4N1dqZWs?oc=5",
       "prediction": "At least two Israeli AI 'unicorns' will announce NASDAQ IPO filings within the next 12 months to provide an exit for nervous VCs.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No fresh headlines were found to provide information regarding NASDAQ IPO filings for Israeli AI unicorns."
     },
     {
       "section": "markets",
       "headline": "Tesla stock stumbles as driverless cab reveal fails to impress",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ3Z1VlV1aGNMc3dTSGx2VWo0Uk5zZkN5LUtzOUNJWlhoRXBCTHFNRmt3SzluY1RrUFpSZmpPY1NBOGVUWW8wV3ExQUxBTUFoSENCVWJVRDcxWjBra2pscFVxeUVaYmNLTGJURGdWUEI5cXBoakY3dWptZnZiUE83dW5DQV8xQ21vdUFlY25tRFpfektYQVQ4bnNzLW1LLTMyemhPR1NMV1lTaTRN?oc=5",
       "prediction": "Tesla stock will underperform the QQQ by at least 10% over the next quarter as market focus shifts back to declining EV delivery margins.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The provided headline is dated January 2026, which predates the September 2026 prediction and cannot confirm performance for the following quarter."
     },
     {
       "section": "markets",
       "headline": "Elite university endowments are currently beating the S&P 500",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUUd3U2k0WFZPemZJd0J1LWpaTEtFSzJTSlMyaGhsa212VDdBMmdvR3dIMjZJeDlla0YwM1VEa0ZSdG9veldWVGRGTDhyVnAxYUV4aUhYcmY2Z3J6YnVQZWxaZFlURTl1ZGdrV1dNUXE4YzdDaEo0cndsVVZNNWQ4RFZTSVA?oc=5",
       "prediction": "At least one Ivy League endowment will report a 15%+ return for the fiscal year ending June 2025, significantly outpacing the broader market.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No fresh headlines were found to confirm or contradict the reported returns of Ivy League endowments for the fiscal year ending June 2025."
     },
     {
       "section": "markets",
