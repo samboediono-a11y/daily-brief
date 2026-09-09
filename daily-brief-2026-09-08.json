@@ -6,42 +6,54 @@
       "headline": "America struggles to break China's grip on the battery industry",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTzhYamVUcFlaMWpQOHZ1WGQ5ZW1zekdQWF9MRmViX1RGaWs0cmhPZXJ0X3hPY0tKZXRIZWdWZGlzWG0yQ3BlLVVvUzRCUXFyYWVwSk44M1ZIRXpXXzVjWDE4SUVOeXdRZ0pWTHR3aHFtUGtoeTJQaExaVnpDME5wQjRVTXhycEN6cXp0M2pUNlgwdkdZQU4wMNIBngFBVV95cUxOWXpIOWxJQjJnWGlON3pRUDF1bHJDMWY0dEM0X0w5SFVmRGtqc3NDYlhkaHlLSEU4VXBsSnBDM1hzLTFlM21tdUJ4VzFiYnJFYmlOLVJzdjg4WnNnbnVuNXdMTEM0dERCb2daNWxvWmdoTVZsbWlmLUVPaE1BdldMVmM3ZlZaWllRRllaYVJNNEdGQ1ZEYVBrcGNQb2E1UQ?oc=5",
       "prediction": "The U.S. will be forced to ease 'Foreign Entity of Concern' (FEOC) rules for battery components by year-end to prevent a total collapse in domestic EV adoption rates.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "While headlines mention industry disruption and a new law affecting clean energy, there is no specific mention of the U.S. easing FEOC rules for battery components."
     },
     {
       "section": "tech",
       "headline": "A lack of construction workers is stalling the AI revolution",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdHRENkd5LTYyYVprZkY2MHJQbkVtdGhJS1phekgtMmlxOWEyaEE3QnViM2VnN25iajNVYUV5bkowM1ljTy1QSDhzNVZrR19SSlZLaE9jbHRkd3lzUzVnUlB4Q2hhQzZJbUtBRk1KSkRWLWxCZWpUeWlLTmRBYnJVcUZsLTJROEwzdmsxNmV1TzRUYTljZWlTZUJGQ0paMF90UTJlS3RyT08tVFY2aEFQcUlhQXc5eU1fNk9OX1lMamxxcVh0ZWpxVQ?oc=5",
       "prediction": "Construction labor costs in Tier 1 data center markets like Northern Virginia and Dallas will rise by at least 15% over the next 12 months.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Headlines confirm record demand and construction bottlenecks in the data center market, but do not provide the specific labor cost percentage increases for the Virginia and Dallas markets."
     },
     {
       "section": "tech",
       "headline": "Chinese firms find loopholes to keep buying banned American chips",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGJVMENwVzZKeENMYzdyR0hpejg2azdLMUVKSW5lRXl5N1BiN1otTU80Sk1YLW9sUXlpOEljb3pBR3FkU3QyUGRSa214em9vcVhwRnJKWWtCa2ZLZEFwd3dRRWxSZUJIZi0yakhRQ0N1VngySkplLWxZb19iMXVKeg?oc=5",
       "prediction": "The U.S. Department of Commerce will announce a sweeping 'know your customer' (KYC) requirement for cloud providers and third-party distributors by the end of Q4.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new headlines were found to confirm or deny the introduction of KYC requirements by the Department of Commerce."
     },
     {
       "section": "tech",
       "headline": "The tech world shifts from scarcity to a massive supply glut",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbzh6TjFyV3FHbS1tM1daUnh4c1VSZWU3LUxiRVJqSlduRjUtT1FaazYya095SmhDWW9ORTVHT2pPMDAyQ0l2SzJOdUNiYVl1SWJ1dEhiOWlZRUVJZVJKal9FR3l0R0d4cGtkSXprMjNtdDBkRm5abHRtWGs3VWJlMERES2xYbmZZZVB6bzI2akFHOTZCUlFza2hDZV9lQk84WENNcDFScGFySHUydGhwbFp1bUEzbUJGalVHR3MtdVN6ZEZ2ajNZOTlUV1JiOEJVY2lNZQ?oc=5",
       "prediction": "Expect significant inventory write-downs from at least three major PC or semiconductor component manufacturers during the upcoming earnings cycle.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "The headlines provide conflicting signals of both a memory shortage and an inventory correction, without naming specific manufacturers that have taken significant write-downs."
     },
     {
       "section": "markets",
       "headline": "Stocks tumble as trade wars and rising oil prices collide",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMkxvUk5WMHlpUV9fRkVwNlhrcGJ3QVdleGh0LThTbHZmWjFVTENnWW1GTWQxc2JtM3R3ZkdBZWZZbWNJRkxTSUF3dnpNVl95ZHNVTnFwczJ4QktvdThRdHc1TlBJYW1KYThqeGdhN3FBLXQ0dWJlbi1jMW8xWjhoeW5CSFdNckl2WXEzc1ViZGZlTGNGNnkwdmRIcUJ0cWhFOXNTQjFRMjlXREYwQW84?oc=5",
       "prediction": "Brent crude will test $95 before the end of the quarter, forcing a defensive rotation out of growth tech and into the energy sector.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new information was found regarding Brent crude reaching $95 or a market rotation into the energy sector."
     },
     {
       "section": "markets",
       "headline": "Investors wonder how much longer the stock market can defy gravity",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeVhZcEJvZ3BfMlcxazNWZFlTdUdaN0RZUk16aGh4TndmTTRFMnVrejJnbHA3eTRONzRrOXNlZ2ZrRG1sQlB0dFJqMlVPNzRNVG1PT0RvaDF4bGM0WFhrR2U5dS16VWlnNlUtb2tpWXhHdGVmTW1VdGJWR3dGVFlja0ln?oc=5",
       "prediction": "The S&P 500 will see a 5% to 8% 'healthy' correction before the next major leg up, likely triggered by a lackluster earnings report from a Magnificent Seven laggard.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No new information was found concerning an S&P 500 correction or the impact of Magnificent Seven earnings reports."
     },
     {
       "section": "markets",
