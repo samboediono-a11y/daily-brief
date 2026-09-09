@@ -8,7 +8,7 @@
       "prediction": "The U.S. will be forced to ease 'Foreign Entity of Concern' (FEOC) rules for battery components by year-end to prevent a total collapse in domestic EV adoption rates.",
       "grounded": true,
       "status": "too_early",
-      "note": "While headlines mention industry disruption and a new law affecting clean energy, there is no specific mention of the U.S. easing FEOC rules for battery components."
+      "note": "Today's headlines mention new legislation affecting battery and clean energy investment but do not explicitly confirm the easing of FEOC rules."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "Construction labor costs in Tier 1 data center markets like Northern Virginia and Dallas will rise by at least 15% over the next 12 months.",
       "grounded": false,
       "status": "too_early",
-      "note": "Headlines confirm record demand and construction bottlenecks in the data center market, but do not provide the specific labor cost percentage increases for the Virginia and Dallas markets."
+      "note": "While data center construction is reported to be declining due to grid bottlenecks, there is no specific evidence of a 15% increase in labor costs."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "The U.S. Department of Commerce will announce a sweeping 'know your customer' (KYC) requirement for cloud providers and third-party distributors by the end of Q4.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new headlines were found to confirm or deny the introduction of KYC requirements by the Department of Commerce."
+      "note": "No fresh headlines were found regarding the implementation of 'know your customer' requirements for cloud providers."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Expect significant inventory write-downs from at least three major PC or semiconductor component manufacturers during the upcoming earnings cycle.",
       "grounded": false,
       "status": "too_early",
-      "note": "The headlines provide conflicting signals of both a memory shortage and an inventory correction, without naming specific manufacturers that have taken significant write-downs."
+      "note": "Fresh headlines offer conflicting market signals, including a record memory shortage and an inventory correction, but do not name specific manufacturer write-downs."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "Brent crude will test $95 before the end of the quarter, forcing a defensive rotation out of growth tech and into the energy sector.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new information was found regarding Brent crude reaching $95 or a market rotation into the energy sector."
+      "note": "No new headlines were found to confirm whether Brent crude prices reached the $95 target or if a sectoral rotation occurred."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "The S&P 500 will see a 5% to 8% 'healthy' correction before the next major leg up, likely triggered by a lackluster earnings report from a Magnificent Seven laggard.",
       "grounded": false,
       "status": "too_early",
-      "note": "No new information was found concerning an S&P 500 correction or the impact of Magnificent Seven earnings reports."
+      "note": "There is no information provided regarding an S&P 500 correction or the impact of lackluster earnings from Magnificent Seven companies."
     },
     {
       "section": "markets",
