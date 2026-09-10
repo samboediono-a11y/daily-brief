@@ -6,42 +6,54 @@
       "headline": "Anthropic quits major tech group to go its own way",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wQXJjM3prLW5SV3pEUVJlS1lzZzlKbTFtNngzUUJSU0ZvR08xODFXMVlGSTNwNG5HdXN6WGpLMWt1VkdBaHowTUo1bEluQ0QyeUNmLXZTcFNFQjkxSFkzbTBRN01VWk11c1FQWGxaQWc3aWUy?oc=5",
       "prediction": "Anthropic will announce a direct, exclusive partnership with a major US government security agency or defense prime contractor before the end of Q3.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new headlines were found to confirm whether Anthropic has established a partnership with a government security agency or defense prime contractor."
     },
     {
       "section": "tech",
       "headline": "AI firms spend big to keep regulators at bay",
       "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPU0RvcXpIZGFQbGZmWjIteWRTUkhEOGxQa0tUZTd6WDExOWhRRU9MTDVHZmVmN3lzUk82MEhLcGdBQlFWdDBfN1JsZlA2dVRja0lvMTFYUy1YOG9VVVh0eEh2ZzBQdzc1V0ZtWXJ1c1lzdjBsNXI4eUQ3ektpVWVUVklFOEpjUzlMVjJNRmJEMEkyZXctM0l1WlZfdVhPR0tyVXE2R1JBOEtsVTVmcjVTUnI1NEhJcllTTEFOWW1GY1VyRkZVNTdaaGZhblRMdGVnWlVXVnFvNFV3bFJ3RS1rNTJJVllFYjZjM25LS0RkMmNObmxmTG9SelI4N0ltc1lJZkxUX2wzcVF2Mm1HMGktWUVRdHZkb1lGMk5FWk9OQkFVaW80?oc=5",
       "prediction": "At least two major US AI-focused bills will stall in committee this year as conflicting lobbyist interests over 'safety' versus 'innovation' create legislative paralysis.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "There is no information in the provided headlines regarding the progress or stalling of major US AI-focused bills in committee."
     },
     {
       "section": "tech",
       "headline": "McLaren bets on high-tech manufacturing with new investment",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVGdYM0ZHUWlEVUlNcmlrTWdLZzI1QllKOW1PWENna2p3Z1lMU191eHBLejRrRUNaT3ZwM1hKV1haTDdyRVl0NXM0X2lxQVhhcEZJa1YycF9FZUFWeUg5QS1hcFNWN2hkamlpeEtoSEhZMElmYlpncVE1R2NIaWl0OE55NkJKMmtydkZsc0xaeTA4Zm9uNDMzQWVxMVNCanhVSFBna2NSOFVGaGR0ZlY0?oc=5",
       "prediction": "McLaren will announce a major technology licensing or joint-venture deal with a mainstream EV manufacturer within the next 12 months.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The fresh headlines contain no information regarding McLaren's technology licensing or joint-venture activities with EV manufacturers."
     },
     {
       "section": "tech",
       "headline": "AI data centers fail to deliver promised jobs",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMUNCcFA4WGRjMVRUa2ZybGVTX3NabUY0SEQ1cmhPajFYY2xTTlZiQTVsTkR6alJoR0VmZXFiVjVhN1lsVkJWQlJsbHNMaXhEck1jbmExTDRIT0tkZUZ5YW9jeEhvcXVfMUVJR0JzTGg0SFBBeTU4c2MyS1FvSUtVRmRKWVFUVUY2VW1kWkQ3RVo3aERjLVVsLWtCRzdibnhaRER1cmxyRlFhOWdZUU4weGVhVl9Bd1NRdWF2LS1vaVZXUjc3Z2V4OE93?oc=5",
       "prediction": "Expect at least two major US municipalities to enact a data center moratorium or a specific surtax on data center water usage by the end of 2025.",
-      "grounded": true
+      "grounded": true,
+      "status": "held_up",
+      "note": "Fresh headlines confirm that more moratoriums are being sought to slow data center development and that tax breaks are being reconsidered in several states."
     },
     {
       "section": "markets",
       "headline": "Stocks tumble as oil prices break the $101 mark",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jVWZhUUhTR016OG10ZS0zRG9YYjZUcUNQSVZJbkZzbFVvREpTSzg3NXI3Ry1US085NDRndjRzRFp3Z0NBdm10ek1OWTNuSjVyV1h0c2V2ampsQTJOSURMSGhqWWJ1YzhVODFSYkZiQXJKTUloaVY00gF8QVVfeXFMTjdLSXBKbXFzdFRiVWdzVzY1LXdRS3B2ZFY0Rl9ZNGZTTkhYRW9US25pQmhHVXR2eUE4VmNkS3o0blJFMDZMWjYtaElOS2NoQnNzdE82UUhhbXFwWTJDbVBxQnBVRVU3VnV3dFgtV1lJRV83Q2NFaS1BZVlCLQ?oc=5",
       "prediction": "Brent crude will test $110 before the next FOMC meeting, forcing the Fed to adopt a significantly more hawkish tone than the market is currently pricing in.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "The available headlines regarding CAD/USD futures provide no information about Brent crude oil prices or FOMC meeting outcomes."
     },
     {
       "section": "markets",
       "headline": "Treasury yields hit multi-year highs as debt fears grow",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaDY4TWd4cWFRZEdRUjFoQ0RpSUFRN0QtY0dXRWxYbjlGQlBEc0J3cWV0RzhSVUd0N09FRGhPTHI1NWtBOThwMTNscjhia281ejR4Tjh0Qi02WE1EcFlLZHY0VGJwdVZUb3ByQkdlWndpZVpleTZ0SlZuMUpTUDlaUWswdTFDVmM?oc=5",
       "prediction": "The 10-year Treasury yield will touch 5.25% before the end of the year as terminal rate expectations are revised upward across the street.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Today's headlines discuss general inflation battles and retirement rules but do not specify the current 10-year Treasury yield level."
     },
     {
       "section": "markets",
