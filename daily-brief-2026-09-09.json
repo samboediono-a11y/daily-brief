@@ -8,7 +8,7 @@
       "prediction": "Anthropic will announce a direct, exclusive partnership with a major US government security agency or defense prime contractor before the end of Q3.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new headlines were found to confirm whether Anthropic has established a partnership with a government security agency or defense prime contractor."
+      "note": "No new information was found regarding Anthropic's partnerships with government agencies or defense prime contractors."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "At least two major US AI-focused bills will stall in committee this year as conflicting lobbyist interests over 'safety' versus 'innovation' create legislative paralysis.",
       "grounded": false,
       "status": "too_early",
-      "note": "There is no information in the provided headlines regarding the progress or stalling of major US AI-focused bills in committee."
+      "note": "There are no fresh headlines indicating whether major US AI bills have stalled or progressed in committee."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "McLaren will announce a major technology licensing or joint-venture deal with a mainstream EV manufacturer within the next 12 months.",
       "grounded": true,
       "status": "too_early",
-      "note": "The fresh headlines contain no information regarding McLaren's technology licensing or joint-venture activities with EV manufacturers."
+      "note": "No updates were found regarding McLaren entering technology licensing or joint-venture deals with mainstream EV manufacturers."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Expect at least two major US municipalities to enact a data center moratorium or a specific surtax on data center water usage by the end of 2025.",
       "grounded": true,
       "status": "held_up",
-      "note": "Fresh headlines confirm that more moratoriums are being sought to slow data center development and that tax breaks are being reconsidered in several states."
+      "note": "Today's headlines confirm that more moratoriums are being sought to slow data center development and that tax breaks are being reconsidered in various states."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "Brent crude will test $110 before the next FOMC meeting, forcing the Fed to adopt a significantly more hawkish tone than the market is currently pricing in.",
       "grounded": false,
       "status": "too_early",
-      "note": "The available headlines regarding CAD/USD futures provide no information about Brent crude oil prices or FOMC meeting outcomes."
+      "note": "The provided headline concerning currency futures does not contain data regarding Brent crude prices or FOMC policy shifts."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "The 10-year Treasury yield will touch 5.25% before the end of the year as terminal rate expectations are revised upward across the street.",
       "grounded": true,
       "status": "too_early",
-      "note": "Today's headlines discuss general inflation battles and retirement rules but do not specify the current 10-year Treasury yield level."
+      "note": "While headlines discuss the Fed slowing rate hikes, they do not provide evidence that the 10-year Treasury yield has reached the predicted 5.25% mark."
     },
     {
       "section": "markets",
