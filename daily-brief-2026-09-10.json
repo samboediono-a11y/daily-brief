@@ -6,42 +6,54 @@
       "headline": "AI giant Anthropic ditches trade group over hardware regulation rules",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wQXJjM3prLW5SV3pEUVJlS1lzZzlKbTFtNngzUUJSU0ZvR08xODFXMVlGSTNwNG5HdXN6WGpLMWt1VkdBaHowTUo1bEluQ0QyeUNmLXZTcFNFQjkxSFkzbTBRN01VWk11c1FQWGxaQWc3aWUy?oc=5",
       "prediction": "Anthropic leadership will testify in support of a specific hardware-level monitoring bill in the US Senate within the next six months.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No new information was found regarding Anthropic's Senate testimony or hardware-level monitoring bills."
     },
     {
       "section": "tech",
       "headline": "Beijing orders an AI makeover for China's legacy industrial base",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTmtlTkhMUWRBOFRMOU02QlY3ZEdCczQtbmR5U1FjMGFieDg2NFl5TC12dTFTcVFzdDRFUjRodXFjRnpwakYxM1p5MmFjc3FPWFpaaG9oaERzTGJzbjc4WUZScngzcUxlbjlQR2c2VnA4UjE4WHRqV3BzMWVOUnpndHlGZFJXVmJHdFEtcG95TUFxVlZsVDFJbm1ROHVuS1NXUGhIYi1YSjZPT21oUDRXRlJLTlN6em5KX3UxRTBNYXV4S1g3Q2x2M0FienBDY3hSM0hzX1Nn?oc=5",
       "prediction": "At least three major Chinese 'legacy' provinces, like Hebei or Liaoning, will announce mandatory AI-adoption quotas for state-owned factories by Q1 2025.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No evidence was provided in today's headlines to confirm or deny mandatory AI-adoption quotas in Chinese provinces like Hebei or Liaoning."
     },
     {
       "section": "tech",
       "headline": "War in Ukraine triggers massive consolidation of domestic drone firms",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZHhjSldxcXZySEw2ckYxdWwyTVZqNndpSlBVd016WDJyRWw4a1Azd29GODZwTHFNTm5QVG5CVlluSEtuLVNaWEo1NEc3dFdncnNCUXV0ZmhTaW9HZ1pFc2s2c2VhaV9JOF9VSENrbVNFQlJDWGlRN2I4QncyaDBwMERrOUVtaGpiSVlIWW1KUnJlSGFhX1JoSi1hdXBLeEJZbHNjek5Uazk?oc=5",
       "prediction": "The top three consolidated drone entities in Ukraine will capture 70% of government defense procurement contracts by year-end.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "There are no fresh headlines regarding Ukrainian drone firm consolidation or their share of defense procurement contracts."
     },
     {
       "section": "tech",
       "headline": "Tech giants fear 'distillation' is the ultimate shortcut for AI rivals",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTmJpSnBnWjh6ZEM1bHVVTGl1M0NyZW9zdlVyenpQSkFaWVhMalBua0p0X3RYdlE0dUd2Qk9CbVpWMlhwM0dfVHpNXzRJcEc3b3dzS3F6VTZGclpfU2NTd0tjZTFRWFdkanlCN1FpaEdtZEw0NzJrLXA3YTBlOElZQkg4SmlLUHMtcGNxd3lkcC1nSHhtZ1ZPQ2xkRWNmNmRQZHNBNkhvR2VBRC1CdlNGVXhB?oc=5",
       "prediction": "A major US AI lab will file a copyright lawsuit against a competitor specifically for 'training on model outputs' before the end of 2024.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Headlines mention the NY Times copyright case and general AI legal risks, but do not mention a specific lawsuit between AI labs regarding model distillation or training on outputs."
     },
     {
       "section": "markets",
       "headline": "Yields hit 5% as markets brace for a major stock correction",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNWhYNWluSHhKN0lxNXpPRk1PMnRWSnVDYk1vUzZIN0ZjMTRCcWd6TzlPMVVRNWhmd1RBeXhNOUF5Zmlhc1pPd3hnbXJOQzhnUlNLbVZVdDdvNE5aZlBGR21hRnVENVhHZFVHWUdzQ0VoZm1MVmo1TGhldVBMNnlpNHRCT1NEcnppMWdjWlo4eVBYU1JpQjUtVGpPSElNQjBEY1h4WC1TWmM3TEpL?oc=5",
       "prediction": "The S&P 500 will see a peak-to-trough correction of at least 8% before the 10-year Treasury yield settles below 4.5%.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No data regarding S&P 500 performance or Treasury yield levels was provided in the fresh headlines."
     },
     {
       "section": "markets",
       "headline": "China slams the brakes on low-quality public stock listings",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUDU4N0lPaHhfQ3BEYmRVNlFacGpaOGVVcVhydTM2a21oa095MXBMX0RCSW1YdG5Jem8wLWQwYkV6aXVUVDlXM2ZEN3JMQ3lxbmRxbzNTMWFYSTBWZC1QbmI0a0VTaWhBMEJQTUFEb0NORDJjb29uVVJvSmhWMU13VjFodU4?oc=5",
       "prediction": "IPO volume on the Shanghai and Shenzhen exchanges will hit a five-year low in the second half of 2024.",
-      "grounded": false
+      "grounded": false,
+      "status": "missed",
+      "note": "Fresh headlines report that Chinese AI and chip firms are driving an onshore IPO rebound, which contradicts the prediction of a five-year low in IPO volume."
     },
     {
       "section": "markets",
