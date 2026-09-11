@@ -8,7 +8,7 @@
       "prediction": "Anthropic leadership will testify in support of a specific hardware-level monitoring bill in the US Senate within the next six months.",
       "grounded": false,
       "status": "too_early",
-      "note": "No new information was found regarding Anthropic's Senate testimony or hardware-level monitoring bills."
+      "note": "No fresh headlines were found regarding Anthropic's Senate testimony or hardware-level monitoring legislation."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "At least three major Chinese 'legacy' provinces, like Hebei or Liaoning, will announce mandatory AI-adoption quotas for state-owned factories by Q1 2025.",
       "grounded": false,
       "status": "too_early",
-      "note": "No evidence was provided in today's headlines to confirm or deny mandatory AI-adoption quotas in Chinese provinces like Hebei or Liaoning."
+      "note": "There is no information available in the fresh headlines to confirm or deny mandatory AI-adoption quotas in Chinese provinces."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "The top three consolidated drone entities in Ukraine will capture 70% of government defense procurement contracts by year-end.",
       "grounded": false,
       "status": "too_early",
-      "note": "There are no fresh headlines regarding Ukrainian drone firm consolidation or their share of defense procurement contracts."
+      "note": "No new data was provided concerning the consolidation or contract capture of drone firms in Ukraine."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "A major US AI lab will file a copyright lawsuit against a competitor specifically for 'training on model outputs' before the end of 2024.",
       "grounded": false,
       "status": "too_early",
-      "note": "Headlines mention the NY Times copyright case and general AI legal risks, but do not mention a specific lawsuit between AI labs regarding model distillation or training on outputs."
+      "note": "The provided headlines reference a lawsuit from the New York Times but do not confirm a copyright lawsuit between competing AI labs regarding model distillation."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The S&P 500 will see a peak-to-trough correction of at least 8% before the 10-year Treasury yield settles below 4.5%.",
       "grounded": true,
       "status": "too_early",
-      "note": "No data regarding S&P 500 performance or Treasury yield levels was provided in the fresh headlines."
+      "note": "No fresh market data was provided to evaluate the performance of the S&P 500 relative to the 10-year Treasury yield."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "IPO volume on the Shanghai and Shenzhen exchanges will hit a five-year low in the second half of 2024.",
       "grounded": false,
       "status": "missed",
-      "note": "Fresh headlines report that Chinese AI and chip firms are driving an onshore IPO rebound, which contradicts the prediction of a five-year low in IPO volume."
+      "note": "Fresh headlines report an 'onshore IPO rebound' and listings hitting five-year highs, which contradicts the prediction of a five-year low in volume."
     },
     {
       "section": "markets",
