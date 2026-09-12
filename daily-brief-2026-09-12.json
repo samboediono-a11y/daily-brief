@@ -1,0 +1,287 @@
+{
+  "date": "2026-09-12",
+  "predictions": [
+    {
+      "section": "tech",
+      "headline": "Nvidia proves the AI gold rush is still accelerating",
+      "link": "",
+      "prediction": "Nvidia will exceed its revenue guidance for the next two quarters as enterprise-level Blackwell demand creates a multi-quarter backlog.",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "Microsoft replaces the PC with an AI-first 'Copilot' machine",
+      "link": "",
+      "prediction": "Within 12 months, local AI performance benchmarks will replace traditional CPU clock speeds as the primary marketing metric for laptop OEMs.",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "Google's search overhaul triggers massive panic for website owners",
+      "link": "",
+      "prediction": "Media publishers will see a 20-30% drop in organic search referrals by year-end, leading to a wave of new licensing lawsuits against Alphabet.",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "Apple finally strikes a deal to put ChatGPT into iPhones",
+      "link": "",
+      "prediction": "Apple will announce a dedicated 'AI App Store' or a revenue-sharing model for premium AI services at its next major developer conference.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Fed minutes reveal officials are getting nervous about sticky inflation",
+      "link": "",
+      "prediction": "No rate cuts will occur before the November election as the Fed remains hypersensitive to any appearance of political interference.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Target's sales slump suggests the American consumer is finally tapped out",
+      "link": "",
+      "prediction": "Target will report another quarter of declining comparable-store sales in its next earnings release as consumers continue to prioritize needs over wants.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Copper prices hit record highs as the world goes green",
+      "link": "",
+      "prediction": "Copper will break $12,000 per metric ton before the end of 2024 as global inventories remain at historic lows.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "The 10-year Treasury yield is creeping back toward 4.5 percent",
+      "link": "",
+      "prediction": "The 10-year yield will touch 4.75% before it touches 4.0% again.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "Home insurance costs are becoming the new housing crisis",
+      "link": "",
+      "prediction": "Total home insurance premiums in the US will rise by another double-digit percentage in 2024, outpacing general inflation by a wide margin.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "New rules will finally force airlines to give automatic cash refunds",
+      "link": "",
+      "prediction": "We will see a measurable uptick in ticket prices for the most delay-prone regional routes by the peak summer travel season.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "The US national debt is growing by $1 trillion every 100 days",
+      "link": "",
+      "prediction": "Interest payments on the federal debt will exceed $1.1 trillion for the current fiscal year, becoming the single largest government expenditure.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "Regional banks are still struggling with empty office buildings",
+      "link": "",
+      "prediction": "At least three more regional banks with assets over $50 billion will require forced mergers or FDIC assistance within the next 18 months.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Elon Musk launches Starlink in Indonesia to bridge the digital divide",
+      "link": "",
+      "prediction": "Starlink will capture over 20% of the enterprise satellite market in Indonesia's mining and plantation sectors by the end of 2025.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Prabowo's 'free lunch' program starts to worry budget watchers",
+      "link": "",
+      "prediction": "The 2025 budget proposal will show a deficit widening dangerously close to the 3% legal limit, causing a spike in Indonesian bond yields.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesian nickel miners face a 'survival of the fittest' moment",
+      "link": "",
+      "prediction": "At least two major non-Chinese funded nickel projects in Indonesia will be mothballed or delayed before year-end due to unprofitability.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Bank Indonesia hikes rates to defend the Rupiah against the Dollar",
+      "link": "",
+      "prediction": "The Rupiah will stabilize near 16,000 per USD through the next quarter, provided the Fed does not hike again.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Ethereum prices skyrocket as SEC pivot nears ETF approval",
+      "link": "",
+      "prediction": "Spot Ethereum ETFs will begin trading within the next 90 days, leading to over $5 billion in inflows within the first month.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Japan\u2019s Yen is trapped in a losing battle with the Dollar",
+      "link": "",
+      "prediction": "The Yen will test the 160 level against the Dollar again before the end of the summer.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Stablecoins are now moving more money than major payment networks",
+      "link": "",
+      "prediction": "Stablecoin settlement volume will officially surpass Visa's annual total by the end of 2025.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin 'whales' are accumulating as the halving jitters fade",
+      "link": "",
+      "prediction": "Bitcoin will reach a new all-time high before the end of Q3 2024.",
+      "grounded": false
+    }
+  ],
+  "stories": [
+    {
+      "section": "tech",
+      "headline": "Nvidia proves the AI gold rush is still accelerating",
+      "summary": "Nvidia reported a massive jump in revenue and profits, blowing past even the highest Wall Street expectations.",
+      "view": "Nvidia isn't just selling chips; they are taxing the entire AI infrastructure build-out. Their moat is shifting from hardware to the proprietary CUDA software ecosystem, making it nearly impossible for cloud providers to churn to internal silicon without suffering massive performance penalties.",
+      "link": ""
+    },
+    {
+      "section": "tech",
+      "headline": "Microsoft replaces the PC with an AI-first 'Copilot' machine",
+      "summary": "Microsoft unveiled new laptops designed specifically to run AI models locally rather than in the cloud.",
+      "view": "This is the most significant architectural shift in the PC market since the transition to x64, finally giving Microsoft the hardware-software vertical integration they have envied in Apple. By prioritizing NPUs, they are forcing a massive hardware refresh cycle that will disproportionately benefit Qualcomm over Intel in the near term.",
+      "link": ""
+    },
+    {
+      "section": "tech",
+      "headline": "Google's search overhaul triggers massive panic for website owners",
+      "summary": "Google is rolling out 'AI Overviews' that answer questions directly, meaning users don't need to click on websites anymore.",
+      "view": "Google is intentionally cannibalizing its ad-supported search traffic to prevent user leakage to ChatGPT and Perplexity. The big losers are mid-tier informational sites that rely on SEO traffic, while Google cements its role as the final destination rather than a gateway.",
+      "link": ""
+    },
+    {
+      "section": "tech",
+      "headline": "Apple finally strikes a deal to put ChatGPT into iPhones",
+      "summary": "Apple is nearing a partnership with OpenAI to integrate advanced AI features into the next version of iOS.",
+      "view": "Apple is outsourcing the 'intelligence' risk to OpenAI to avoid the PR liability of LLM hallucinations while they quietly perfect their own on-device models. This move instantly makes Siri relevant again and forces hundreds of millions of users into the OpenAI ecosystem overnight.",
+      "link": ""
+    },
+    {
+      "section": "markets",
+      "headline": "Fed minutes reveal officials are getting nervous about sticky inflation",
+      "summary": "The latest meeting notes show central bank officials are willing to keep rates high for much longer than expected.",
+      "view": "The Fed is boxed in by a resilient labor market and fiscal spending that effectively cancels out their tightening. They won't cut until they see a genuine spike in unemployment, which the current data suggests is nowhere near a tipping point.",
+      "link": ""
+    },
+    {
+      "section": "markets",
+      "headline": "Target's sales slump suggests the American consumer is finally tapped out",
+      "summary": "Target reported a drop in quarterly sales as shoppers prioritize groceries over clothing and home decor.",
+      "view": "Target is the 'canary in the coal mine' for the middle-class squeeze. While Walmart wins on essentials, Target\u2019s reliance on discretionary categories like home decor makes it the biggest loser as real disposable income is eaten by housing and insurance costs.",
+      "link": ""
+    },
+    {
+      "section": "markets",
+      "headline": "Copper prices hit record highs as the world goes green",
+      "summary": "The price of copper has surged to all-time highs due to supply shortages and massive demand from EV and power grid projects.",
+      "view": "Copper is the new oil, and the structural deficit is real. You cannot build a green economy\u2014from EVs to AI data centers\u2014without it, and the lead time for new mines to come online is now exceeding 10 years.",
+      "link": ""
+    },
+    {
+      "section": "markets",
+      "headline": "The 10-year Treasury yield is creeping back toward 4.5 percent",
+      "summary": "Government bond yields are rising again as investors accept that interest rates will stay high.",
+      "view": "The bond market is finally pricing in a world of persistent 3% inflation and massive US deficits. The 4.5% level is just a pit stop; we are heading toward a long-term equilibrium where the 'risk-free' rate is significantly higher than the post-2008 average.",
+      "link": ""
+    },
+    {
+      "section": "us_news",
+      "headline": "Home insurance costs are becoming the new housing crisis",
+      "summary": "A spike in natural disasters is causing insurance premiums to skyrocket, making homeownership unaffordable for many.",
+      "view": "This is a slow-motion collapse of the Sunbelt real estate model. As insurers pull out, the 'hidden cost' of ownership is becoming a dealbreaker, which will eventually force a correction in home prices as buyers can no longer secure mortgages without coverage.",
+      "link": ""
+    },
+    {
+      "section": "us_news",
+      "headline": "New rules will finally force airlines to give automatic cash refunds",
+      "summary": "The DOT is implementing a rule requiring airlines to refund passengers in cash for significant flight delays or cancellations.",
+      "view": "This is a massive win for consumer sentiment but a drag on airline liquidity. Carriers like Frontier and Spirit, who rely on low-margin flights with high delay rates, will see their operating margins squeezed as they can no longer trap consumer cash in credits.",
+      "link": ""
+    },
+    {
+      "section": "us_news",
+      "headline": "The US national debt is growing by $1 trillion every 100 days",
+      "summary": "Recent data shows the pace of government borrowing is accelerating at an unprecedented rate during peacetime.",
+      "view": "The interest expense on the debt is now larger than the defense budget, creating a 'crowding out' effect. Neither political party has the stomach for austerity, meaning the only path forward is 'financial repression'\u2014keeping rates below inflation for a decade.",
+      "link": ""
+    },
+    {
+      "section": "us_news",
+      "headline": "Regional banks are still struggling with empty office buildings",
+      "summary": "Smaller banks continue to report losses as the value of commercial office space remains depressed by remote work.",
+      "view": "We are in the 'extend and pretend' phase of the commercial real estate crisis. Smaller banks with high concentrations of office loans are zombies; they cannot sell the assets without realizing losses that would wipe out their capital.",
+      "link": ""
+    },
+    {
+      "section": "indonesia",
+      "headline": "Elon Musk launches Starlink in Indonesia to bridge the digital divide",
+      "summary": "SpaceX's satellite internet service is now officially available in Indonesia, targeting remote islands and rural areas.",
+      "view": "Starlink's entry is a death knell for the expansion plans of local telcos like Telkomsel in the outer islands. SpaceX can deliver high-speed connectivity with zero local ground infrastructure, giving them a natural monopoly on the resource-rich but remote areas.",
+      "link": ""
+    },
+    {
+      "section": "indonesia",
+      "headline": "Prabowo's 'free lunch' program starts to worry budget watchers",
+      "summary": "The incoming president's signature policy is raising questions about how the country will maintain its fiscal discipline.",
+      "view": "This is the biggest fiscal risk in Southeast Asia. Prabowo is prioritizing populist spending over the 3% budget deficit cap that has been the bedrock of Indonesia's stability for decades, which will eventually trigger credit rating downgrades.",
+      "link": ""
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesian nickel miners face a 'survival of the fittest' moment",
+      "summary": "A global glut of nickel, largely driven by Chinese-funded mines in Indonesia, has crashed prices.",
+      "view": "Indonesia's 'downstreaming' success is becoming its own worst enemy. By flooding the market with cheap nickel, they have killed the global price, ensuring only the most efficient Chinese-backed operations survive while local and Western players go bust.",
+      "link": ""
+    },
+    {
+      "section": "indonesia",
+      "headline": "Bank Indonesia hikes rates to defend the Rupiah against the Dollar",
+      "summary": "The central bank surprised markets by raising interest rates to stop the local currency from sliding too far.",
+      "view": "This was a proactive strike to prevent capital flight as US yields rose. Bank Indonesia is signaling that they value currency stability over domestic growth, which will hurt local consumption but protect the country's external debt position.",
+      "link": ""
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Ethereum prices skyrocket as SEC pivot nears ETF approval",
+      "summary": "The SEC has suddenly signaled a more favorable stance toward approving an Ethereum Exchange Traded Fund (ETF).",
+      "view": "The SEC's pivot is purely political, aimed at neutralizing crypto as a campaign issue. The approval of an ETH ETF will trigger a massive rotation out of Bitcoin and into Ethereum as institutional investors look for the 'smart contract' utility play.",
+      "link": ""
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Japan\u2019s Yen is trapped in a losing battle with the Dollar",
+      "summary": "Despite government intervention, the Yen remains near multi-decade lows as US interest rates stay high.",
+      "view": "Intervention is a fool's errand as long as the interest rate differential between the US and Japan is over 500 basis points. The Bank of Japan is burning through reserves to buy time for a Fed pivot that isn't coming.",
+      "link": ""
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Stablecoins are now moving more money than major payment networks",
+      "summary": "New data shows that monthly transaction volumes for stablecoins like USDC and USDT are rivaling Visa's levels.",
+      "view": "Stablecoins are the 'killer app' for crypto because they provide a 24/7 global settlement layer that bypasses the antiquated SWIFT system. Their volume proves that crypto's real utility is acting as a superior rail for the US Dollar.",
+      "link": ""
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin 'whales' are accumulating as the halving jitters fade",
+      "summary": "Large investors have resumed buying Bitcoin following the recent dip, suggesting a new floor has been established.",
+      "view": "The current accumulation by whales suggests we are in the 'quiet before the storm.' Large holders are taking advantage of post-ETF hype exhaustion to lock up supply before the next global liquidity cycle begins.",
+      "link": ""
+    }
+  ]
+}

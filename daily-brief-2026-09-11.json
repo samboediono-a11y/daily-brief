@@ -6,42 +6,54 @@
       "headline": "California tightens the leash on selling children's data",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa2NqRXZSZ1BXdmp4Ql9CdEI0VXQtOGtYZWk5RE1rcnZ3aWZMUVI1Ty1zcEYxRXczMDNrNlMtN2hRNXdaS3hxcTlfZ3FrSHRmWkM2cEdPdzlQV3RUUzlPZlI4MEUzR3JRYlZ5aDU5RzlGcXpkTldMdV9tTGhQWmlZbw?oc=5",
       "prediction": "Expect at least two major social media platforms to report a measurable decline in California-specific 'Average Revenue Per User' (ARPU) by Q4 2025.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No fresh headlines were found to evaluate the impact on California-specific ARPU for social media platforms."
     },
     {
       "section": "tech",
       "headline": "AI leader Anthropic ditches the tech industry's main chip group",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wQXJjM3prLW5SV3pEUVJlS1lzZzlKbTFtNngzUUJSU0ZvR08xODFXMVlGSTNwNG5HdXN6WGpLMWt1VkdBaHowTUo1bEluQ0QyeUNmLXZTcFNFQjkxSFkzbTBRN01VWk11c1FQWGxaQWc3aWUy?oc=5",
       "prediction": "Anthropic will announce a direct, multi-year strategic partnership for 'custom silicon optimization' with a specific hardware manufacturer within the next six months.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "There is no new information regarding Anthropic's strategic hardware partnerships for custom silicon."
     },
     {
       "section": "tech",
       "headline": "Zoox\u2019s unique self-driving vehicles take to San Francisco streets",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOWU4QTJrc3E1QkphbFFmY3NmM3dNaThGM0tVNGJrdVFrclp3bjNaeUpQV01yNjNCTWtuQkloNWdMTUgxUDNWbU9pR0FPNVJicHJadVBBck1FeUt2VUE2YmdHSmdwOTUxb2Q2dnhEeDRXUWpzN1Y0QXBoWkxvZ1QySA?oc=5",
       "prediction": "Zoox will report more 'miles-per-disengagement' than Cruise\u2019s final SF average during its first 90 days of operation.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No fresh data has been found to compare Zoox's disengagement metrics against Cruise's historical averages."
     },
     {
       "section": "tech",
       "headline": "Pentagon urges tech firms to share more financial risk",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc0VsN1lxaGwxSVNWU3YxeGtpcVFsV05VUjVsTnU2SHB4NnFMa285TXF4RXcxNjFKYkc3TUZNWTBYOTZUOWNqZmQ0WXpvcnRLTmJxSnVON1hjLTA3OU10RzNZYTktSnY4cXRsUEZwZlRscjBSd0MtRXJzRWdmWkNZM2IzQjR4d3NDTGlUdUU3eVEtMEVBU3poWGt6dXYwakQ5cUE?oc=5",
       "prediction": "At least one 'Tier 1' defense contractor will report a 50-basis-point margin contraction in their defense segment by the end of 2025 as risk-sharing contracts become the new standard.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No recent reports provide data on defense contractor margin contractions resulting from risk-sharing contracts."
     },
     {
       "section": "markets",
       "headline": "Dow jumps 500 points despite sticky inflation data",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83bDk1cW5ZeENGMDhRcU5zRzhWX1c4ekdSRlJXcWRxTlZ3dzUxTVY4WVdlMmd3RDcxUGJ1ODgxZTd1UnZHdHcyS1VrTlV4NHdaS3dEWlpDVDEzVFMtTENOb2dIOThDQWx2ci0xekQxczdnazNtbnJ30gF8QVVfeXFMTVB0OHYyRENzdjdtVUFoel9GNkY4MVBmWXh5Y01wdUZVeEZtVC1UMi1rWEhtN05XbkYyOTBsdXJVVDVOVzMwTl90Q2ZjdkI4S25yNHM1UFRtX0tSZVNTQ1U3RFVjQlhaZWpEZFk4Qjd5enRGNlBaLXBQWEhmQQ?oc=5",
       "prediction": "The Dow will outperform the Nasdaq by at least 2% over the next 30 days as capital rotates into energy-sensitive 'old economy' cyclicals.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Lack of new market headlines makes it impossible to verify the relative performance of the Dow and Nasdaq."
     },
     {
       "section": "markets",
       "headline": "Oil hits triple digits as bond yields spook investors",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMDlCY1VNamhWVXRqN1lXemNvTmh5UER1cjFrRWlRckN6V0lvdHhqQi1ISzlVYTNlaEh2T2tuUTAtdnpCMWpNWXZCSW1vbVZZTWgtSjk2bURWRjBMVE5mUHRHY1JWc1RELWJFamRyWjRBMS1jYzV3VUY3bmhrQUJhd1pvUW5PUGZNWmRPeUJnOElMX1VYMWpNRU9aWWZSTUR2QzNFaWZmQVNOdw?oc=5",
       "prediction": "The S&P 500 Energy sector will be the only positive-performing sector if the 10-year Treasury yield closes above 5% for three consecutive days.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No information was found regarding recent 10-year Treasury yield levels or S&P 500 Energy sector performance."
     },
     {
       "section": "markets",
