@@ -8,7 +8,7 @@
       "prediction": "Anthropic will announce a partnership with a custom chip designer like Broadcom or Marvell for a proprietary NPU within the next six months.",
       "grounded": false,
       "status": "too_early",
-      "note": "The provided headline is a general industry list and does not mention any specific hardware partnership between Anthropic and Broadcom or Marvell."
+      "note": "The fresh headline is a general list of AI chip makers and does not mention a specific Anthropic partnership with Broadcom or Marvell."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "At least two major social media platforms will introduce 'Under-18' paid subscription tiers specifically for California users by Q4 2025.",
       "grounded": false,
       "status": "too_early",
-      "note": "The fresh headlines provided do not contain information about social media subscription tiers or California-specific data privacy regulations."
+      "note": "Today's headlines cover unrelated industries like dating apps and fast food, offering no information on California's data privacy laws or social media subscriptions."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "Expect Qwen-specific hardware optimizations to show a 20% performance lead over Nvidia-run equivalents within China-based data centers by year-end.",
       "grounded": false,
       "status": "too_early",
-      "note": "A general list of AI chip makers does not provide the performance data or benchmarks needed to verify Qwen-specific hardware optimizations."
+      "note": "The provided list of chip makers does not contain specific performance data or benchmark comparisons for Qwen-specific hardware."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "A major federal AI safety bill will be significantly diluted in the Senate during the next legislative session, directly following this lobbying push.",
       "grounded": false,
       "status": "too_early",
-      "note": "Headlines discuss Big Tech's lobbying efforts against AI regulation, but do not confirm if a federal safety bill has been diluted in the Senate."
+      "note": "While headlines indicate active lobbying regarding AI, they do not explicitly state that a federal bill was diluted in the Senate as a result."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "Anthropic will secure a major federal defense or intelligence contract within two quarters, specifically citing their security-first architecture.",
       "grounded": false,
       "status": "too_early",
-      "note": "No fresh headlines were found to confirm or deny whether Anthropic secured a major federal defense or intelligence contract."
+      "note": "No new information was provided regarding Anthropic securing any federal defense or intelligence contracts."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "The Dow will test and sustain the 40,000 level before the end of the month as the 'aggressive Fed' narrative provides a floor for sentiment.",
       "grounded": true,
       "status": "too_early",
-      "note": "No fresh headlines were found to track the Dow's performance or its ability to sustain the 40,000 level."
+      "note": "There are no fresh headlines regarding the Dow Jones Industrial Average to confirm if it tested or sustained the 40,000 level."
     },
     {
       "section": "markets",
