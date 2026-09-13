@@ -6,42 +6,54 @@
       "headline": "Anthropic breaks ranks with tech giants over hardware strategy",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wQXJjM3prLW5SV3pEUVJlS1lzZzlKbTFtNngzUUJSU0ZvR08xODFXMVlGSTNwNG5HdXN6WGpLMWt1VkdBaHowTUo1bEluQ0QyeUNmLXZTcFNFQjkxSFkzbTBRN01VWk11c1FQWGxaQWc3aWUy?oc=5",
       "prediction": "Anthropic will announce a partnership with a custom chip designer like Broadcom or Marvell for a proprietary NPU within the next six months.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "The provided headline is a general industry list and does not mention any specific hardware partnership between Anthropic and Broadcom or Marvell."
     },
     {
       "section": "tech",
       "headline": "California moves to shut down the market for kids' data",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa2NqRXZSZ1BXdmp4Ql9CdEI0VXQtOGtYZWk5RE1rcnZ3aWZMUVI1Ty1zcEYxRXczMDNrNlMtN2hRNXdaS3hxcTlfZ3FrSHRmWkM2cEdPdzlQV3RUUzlPZlI4MEUzR3JRYlZ5aDU5RzlGcXpkTldMdV9tTGhQWmlZbw?oc=5",
       "prediction": "At least two major social media platforms will introduce 'Under-18' paid subscription tiers specifically for California users by Q4 2025.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "The fresh headlines provided do not contain information about social media subscription tiers or California-specific data privacy regulations."
     },
     {
       "section": "tech",
       "headline": "New AI benchmarks reveal a 'splintered' global computing economy",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQLTRLblRwYjZXQVNzOU9WNXNfY2NpVnNyZGhvdVBVMWRkYjIyLXJFc04yekxUODZyZlMzWkxlQUtsY1pid01hRXl1dE9Kc0sxdkZ2ak01eHdpNHRicTZ6VUk0RkwyVHJUMjMyWnNERGtnT0NZcWZJZjd6eU9hSk5mN3JmU3FqNi1zYWtvbTJNSVNuNHpyNEREUy1hUGszNk43NXBEb3k4b0lrUTY5RVNJWllwLVJxZHMxSUdha2ZvbElBVVdtbl9Lem1kNkNrVzlwczBmaEZqeXItZHhlQ3FHaUFzV1RzT1VyaVlNQmVVUkJQNFQ2cEZ6OHNMSk5lZw?oc=5",
       "prediction": "Expect Qwen-specific hardware optimizations to show a 20% performance lead over Nvidia-run equivalents within China-based data centers by year-end.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "A general list of AI chip makers does not provide the performance data or benchmarks needed to verify Qwen-specific hardware optimizations."
     },
     {
       "section": "tech",
       "headline": "Bernie Sanders slams $300 million AI lobbying blitz",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY1dTMjk2N3p1VVZkRzk1TzhROEgxRGtoUF9CckJCUUZHU0RDRENpQ2pkc1kxWkZSTmhHNXFuVVhzSjQwWFFOUjIwN3NrcVkxUzJuT0UyeDN1d1VVUXdpTFY3VUN4cVdWYklhZWZoYWdsLTNoSjBnU05XVmFDTWhqVUk5ZDg2N3BaQ3FPWG55Y3Fxenc?oc=5",
       "prediction": "A major federal AI safety bill will be significantly diluted in the Senate during the next legislative session, directly following this lobbying push.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Headlines discuss Big Tech's lobbying efforts against AI regulation, but do not confirm if a federal safety bill has been diluted in the Senate."
     },
     {
       "section": "markets",
       "headline": "Anthropic CEO urges caution following major AI security breaches",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV3djYUNvOU9EeHkwRGJsb1lGNWZubUVUWWZUMm05WDFnVlEyMkNYTjRTTUdtUHVSMENDTlA1ZmZ1aU96YWJUc2VyV3V2MUh5TE1wTWdrNE9lT3h2WmZBUk9sS3ZORmdxWU56dGF6cTVaQTBJOFd5UnlHc0x3VFRIdi1raTM3TWhFdVFsWVJVbnl0MElFZXcwN243QmRJNUJRRVhXdllOU1NNbExwY0F1VVo3aXZjMkZiaVNiNEFtLXhEVG1kMkE?oc=5",
       "prediction": "Anthropic will secure a major federal defense or intelligence contract within two quarters, specifically citing their security-first architecture.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No fresh headlines were found to confirm or deny whether Anthropic secured a major federal defense or intelligence contract."
     },
     {
       "section": "markets",
       "headline": "Dow jumps 500 points as traders bet on higher rates",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORzJRNTdMeWZaNzgybTBpVlVuaGJfT0ozeHVzXy13Sm1XVGVJcmxvbUxyT20xeVVaeThJRTd0ZGVPdW5wMUhoVzZpZjFyTmhMSjFjOFVucW9WQmY5c0pJOXkyQWNzbUdwVUVYT2FmMW9TRV9YQmdDcjhaQnFkblpvcGh2a21YdkQybnN1YTBQRjF1cDF3U1BlOVg3OFBQRl93NnBPS2RsMHNMNU5SSFpiSjl5N1hzRHZRTzdoVQ?oc=5",
       "prediction": "The Dow will test and sustain the 40,000 level before the end of the month as the 'aggressive Fed' narrative provides a floor for sentiment.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No fresh headlines were found to track the Dow's performance or its ability to sustain the 40,000 level."
     },
     {
       "section": "markets",
