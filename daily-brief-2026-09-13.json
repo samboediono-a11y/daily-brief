@@ -8,7 +8,7 @@
       "prediction": "Expect no major federal AI safety legislation to pass before the 2024 election, leaving companies to define their own compliance standards.",
       "grounded": false,
       "status": "held_up",
-      "note": "The lack of federal legislative headlines and the focus on 2025/2026 regulatory outlooks confirm that no major federal AI safety law was passed prior to the 2024 election."
+      "note": "Regulatory trackers from 2025 and 2026 suggest that AI governance remains a landscape of fragmented litigation and evolving risk rather than a settled federal law passed in 2024."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "Anthropic will announce a proprietary hardware optimization deal or custom silicon roadmap with a major cloud provider within the next six months.",
       "grounded": false,
       "status": "too_early",
-      "note": "Fresh headlines focus on NVIDIA and Google silicon developments but provide no information regarding a specific Anthropic hardware deal or roadmap."
+      "note": "Recent headlines focus on advancements by Nvidia and Google's TPUs but provide no information regarding a custom silicon deal or roadmap from Anthropic."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "Ad revenue growth for youth-heavy social platforms will see a 2-4% contraction in the first full quarter after implementation due to degraded targeting capabilities.",
       "grounded": true,
       "status": "too_early",
-      "note": "No fresh headlines were found to provide financial data or impact analysis on youth-heavy social platform ad revenues following the California law."
+      "note": "No headlines were provided to evaluate the financial impact of California's youth data privacy law on social platform ad revenues."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "We will see at least one major AI firm 'voluntarily' pause a public release of a frontier model citing these warnings before year-end to gain PR favor.",
       "grounded": false,
       "status": "too_early",
-      "note": "The provided headlines include general warnings about AI but do not report on any specific firm voluntarily pausing a frontier model release."
+      "note": "The provided headlines include an opinion piece regarding AI concerns but do not mention any specific instances of a major firm pausing a model release for PR favor."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "Oil (WTI) will find a floor at $75 per barrel by the end of the month as OPEC+ signals potential production cuts to defend prices.",
       "grounded": true,
       "status": "missed",
-      "note": "The prediction of OPEC+ production cuts to defend a $75 floor is contradicted by the headline reporting a 'surprise oil production boost' instead."
+      "note": "The report of a 'surprise oil production boost' by OPEC contradicts the prediction that the group would signal production cuts to defend a price floor."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "The S&P 500 will see a 10% drawdown within 48 hours if any one of the top three AI leaders misses earnings growth targets by more than 5%.",
       "grounded": true,
       "status": "too_early",
-      "note": "Headlines mention market dips and earnings warnings, but do not confirm a 10% drawdown specifically triggered by a top AI leader's earnings miss."
+      "note": "Market updates from 2026 mention general dips and warnings, but do not confirm a 10% drawdown occurring within a 48-hour window due to specific AI earnings misses."
     },
     {
       "section": "markets",
