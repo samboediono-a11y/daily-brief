@@ -6,42 +6,54 @@
       "headline": "Washington puts AI safety responsibility squarely on tech companies",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90cEw1YlVDYVFfZHQ4eFpvdk1tYUhVcE0yYkRmWkZ5ci1EWGUwY1pfY2FlN0ZaZmVZa1djVF9Td25oZDJTUUtkSUVmNU9McEt5bGs4T0k2VXhnM3Ztc1poTklWLWY3ZVoxRC03aTYwaGhuaEV5VWVlTFNrdU0?oc=5",
       "prediction": "Expect no major federal AI safety legislation to pass before the 2024 election, leaving companies to define their own compliance standards.",
-      "grounded": false
+      "grounded": false,
+      "status": "held_up",
+      "note": "The lack of federal legislative headlines and the focus on 2025/2026 regulatory outlooks confirm that no major federal AI safety law was passed prior to the 2024 election."
     },
     {
       "section": "tech",
       "headline": "Anthropic splits from tech coalition over specialized chip disputes",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wQXJjM3prLW5SV3pEUVJlS1lzZzlKbTFtNngzUUJSU0ZvR08xODFXMVlGSTNwNG5HdXN6WGpLMWt1VkdBaHowTUo1bEluQ0QyeUNmLXZTcFNFQjkxSFkzbTBRN01VWk11c1FQWGxaQWc3aWUy?oc=5",
       "prediction": "Anthropic will announce a proprietary hardware optimization deal or custom silicon roadmap with a major cloud provider within the next six months.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Fresh headlines focus on NVIDIA and Google silicon developments but provide no information regarding a specific Anthropic hardware deal or roadmap."
     },
     {
       "section": "tech",
       "headline": "California passes strict new law to stop selling children's data",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa2NqRXZSZ1BXdmp4Ql9CdEI0VXQtOGtYZWk5RE1rcnZ3aWZMUVI1Ty1zcEYxRXczMDNrNlMtN2hRNXdaS3hxcTlfZ3FrSHRmWkM2cEdPdzlQV3RUUzlPZlI4MEUzR3JRYlZ5aDU5RzlGcXpkTldMdV9tTGhQWmlZbw?oc=5",
       "prediction": "Ad revenue growth for youth-heavy social platforms will see a 2-4% contraction in the first full quarter after implementation due to degraded targeting capabilities.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No fresh headlines were found to provide financial data or impact analysis on youth-heavy social platform ad revenues following the California law."
     },
     {
       "section": "tech",
       "headline": "AI pioneers issue urgent warning on the pace of development",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTk40dU5BRzRyeUN1ajlFb0Zfb053UXBaZTdiMlJZejJIOVhKWGc3Y3RuV3I3UHUwV0hQWjZ6c0NBOWV5cXA5V1JoQ0p2SjBObmhjWlB1UUJZWkdTUnBFb284bFN0Q2RSOTZMcjJHUnM5Q3ZfMkdZcHo0ZTNYem16WlJzSGVOd1dqRXdPV0RmZjBVM1BVRnM3M19sYlFDSy1QcE1YOGkzZjhiQlFl?oc=5",
       "prediction": "We will see at least one major AI firm 'voluntarily' pause a public release of a frontier model citing these warnings before year-end to gain PR favor.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "The provided headlines include general warnings about AI but do not report on any specific firm voluntarily pausing a frontier model release."
     },
     {
       "section": "markets",
       "headline": "Dow bounces back as cooling oil prices relieve inflation fears",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83bDk1cW5ZeENGMDhRcU5zRzhWX1c4ekdSRlJXcWRxTlZ3dzUxTVY4WVdlMmd3RDcxUGJ1ODgxZTd1UnZHdHcyS1VrTlV4NHdaS3dEWlpDVDEzVFMtTENOb2dIOThDQWx2ci0xekQxczdnazNtbnJ30gF8QVVfeXFMTVB0OHYyRENzdjdtVUFoel9GNkY4MVBmWXh5Y01wdUZVeEZtVC1UMi1rWEhtN05XbkYyOTBsdXJVVDVOVzMwTl90Q2ZjdkI4S25yNHM1UFRtX0tSZVNTQ1U3RFVjQlhaZWpEZFk4Qjd5enRGNlBaLXBQWEhmQQ?oc=5",
       "prediction": "Oil (WTI) will find a floor at $75 per barrel by the end of the month as OPEC+ signals potential production cuts to defend prices.",
-      "grounded": true
+      "grounded": true,
+      "status": "missed",
+      "note": "The prediction of OPEC+ production cuts to defend a $75 floor is contradicted by the headline reporting a 'surprise oil production boost' instead."
     },
     {
       "section": "markets",
       "headline": "The S&P 500 has essentially become a massive AI bet",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUEVZMjc5OU5rM3hYZlAyZUZwYmhNMDJuTkQwcEtfTEI5dVdkd0RGMHJFSmdNWGxtWlpmMGFLc0k4ZElQaXd6dHhmZVNOWDk2OUNhaGZiY3pUS2xzOHUzZlc4RFp4ZF9QTTV5SS1UaGpBWXpKQ3FNRE1pczBmc012aDFPLXozSm9aODFMTUVydDQ0YnZDMTBVOS1QQVQ2SWxzdHY3ZU9CZkhCYi1vN1VzYWVfdll3QUo1Y1BpYjhLZW41eGVoTUE?oc=5",
       "prediction": "The S&P 500 will see a 10% drawdown within 48 hours if any one of the top three AI leaders misses earnings growth targets by more than 5%.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Headlines mention market dips and earnings warnings, but do not confirm a 10% drawdown specifically triggered by a top AI leader's earnings miss."
     },
     {
       "section": "markets",
