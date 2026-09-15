@@ -6,42 +6,54 @@
       "headline": "AI pioneers ask to pull the emergency brake",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4teEhEV3lFNEY0RGNiYTR1LWZ2TFlya2dVeGZaS2JkSEhtWnBpQmRIU2FzT2YyY1V0TnNGMXZwYXlQZzlyWDRMY2Q0QVBnVUgybW5mRzEyazNjZl84WEFSai1nTnFtUGJDV2dhNWV2NS0?oc=5",
       "prediction": "Expect a formal legislative proposal for an 'AI Licensing Board' to be introduced in the US Senate within the next 90 days.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "California shuts the door on selling kids' data",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa2NqRXZSZ1BXdmp4Ql9CdEI0VXQtOGtYZWk5RE1rcnZ3aWZMUVI1Ty1zcEYxRXczMDNrNlMtN2hRNXdaS3hxcTlfZ3FrSHRmWkM2cEdPdzlQV3RUUzlPZlI4MEUzR3JRYlZ5aDU5RzlGcXpkTldMdV9tTGhQWmlZbw?oc=5",
       "prediction": "Meta will announce a mandatory identity verification system for all California users under 18 before the end of Q3.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "The junior developer is becoming an endangered species",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMlh3TmhqR0hlN19SVFNmc2ZDU0wxVEtrS3NTYmI2UFJjLWRqX0t4MHB6cVBvdTllYXNyV2lVQjVNbDE4QkMydTF1endwam1aZlBPdTNQcy1GWVZIQkpST2RtMnNYWWJEWWZuZlF3eGFfd1RRNmUzS0ZBTTVPd1VRZVhRUHJRNmViQjZqVkdRX0w?oc=5",
       "prediction": "Computer Science enrollment at mid-tier US universities will drop by at least 15% in the 2025-2026 academic year.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "Trump says no limits on AI to beat China",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZGZMV1NBQVZtcXcwX2xBRnJRY1h1cWlEN2Z6NWg2MWZmT1Y4T05INC1qc1VkZFJDNVloSHg5YTNmX0F6NDR5V1FCTE1fQU5xbm14S1ZleXMtYVZ4bGViUmEwN0lvRXBHQ3RpNWxaOFRpZDMwTXo5T25SdDdjUjIzX2NEMXFMcmVVd1E2d0twN3dpTkdjZS1rSmNWV2hhZ0dkTnNjaXhkVUVpQmNJS2N6alpWMNIBuAFBVV95cUxQMnJOMXpzUXZiVVU4bGQwR2VGTGJRYXdpaUZDTUU0Mno0U2VYc0RtN2tmelBHXzNpbGNKVEFvZmszOExFRzQtRDlFa2N5dG1vY1dTTlFNazNYYXlxUzVnUUlTQ0VDSzFVQ3lseXVxS0NHRE5DeldFRnBiQkdHRTBtejFYOXdrRFo1aUtqZHJVQk1OQmN4WGZVbWhoLURYcUtMVkdVWVZmZWlfN2gtZWlNX3d0ZldZdjNG?oc=5",
       "prediction": "Existing AI safety executive orders will be formally rescinded or neutered within the first 100 days of a potential second Trump term.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
       "headline": "Bond yields hit a scary 17-year milestone",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91dmcwS01EcUI0YWxEZ3JjZFJKSXlPUXVVNE12b3NMd0FtX0p5ckVmRHhEdTNYMUpNSVVfT0ZqVjNkZUhkTWVrSGloV2dJY3JhYWw5bEtrZy0xd3NXTVdJbXR0RFllMEJCbWRyOHFkOXdpR0Fzb0E?oc=5",
       "prediction": "At least two mid-sized regional banks will announce emergency capital raises or 'strategic reviews' before the next FOMC meeting.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
       "headline": "Expensive oil and high rates crush global stocks",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOXzFkaEptQk9Gc2REWUZ3MHpYU1ZjbFpqSVp2cFV6b21TMU9pSUNnRWlqajdrYnAwN2FZTzRvNzJvUVlSTkYzcWxDMFlVZ1Ftb2V6OVhURC1haHFyS0NLcnRZUHhpSFRCb3VuQUt4SFFGTHJnVEg4eW0wSHgxcVlmR0JoRQ?oc=5",
       "prediction": "Brent crude will breach $95 per barrel and sustain that level for at least three consecutive trading weeks.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
