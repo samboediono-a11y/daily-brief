@@ -8,7 +8,7 @@
       "prediction": "Expect Nvidia to recover 50% of this news-driven dip within 30 days as upcoming earnings reports prove that actual hardware orders are not being canceled.",
       "grounded": true,
       "status": "too_early",
-      "note": "No fresh headlines were found to provide information on Nvidia's stock recovery or hardware orders."
+      "note": "No fresh headlines were found to verify if Nvidia's stock recovered from its dip or if hardware orders remained stable."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "At least three 'software-first' Tier-1 VC firms will announce dedicated 'Deep Tech' or 'Hard Tech' sub-funds before the end of the year.",
       "grounded": false,
       "status": "too_early",
-      "note": "No fresh headlines were found regarding venture capital firms announcing new 'Hard Tech' or 'Deep Tech' sub-funds."
+      "note": "No new information was provided regarding Tier-1 VC firm fund announcements or the creation of dedicated 'Hard Tech' sub-funds."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "No comprehensive federal AI regulation will pass the House or Senate before the 2026 midterm elections.",
       "grounded": false,
       "status": "held_up",
-      "note": "Fresh headlines indicate that AI regulation is still in the proposal phase and major bills are failing, supporting the prediction that no comprehensive law has passed before the midterms."
+      "note": "Fresh headlines mention only legislative proposals and frameworks, confirming that no comprehensive federal AI regulation has passed as of late 2026."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "A top-three U.S. beef processor will launch a 100% 'tech-tracked' sustainable brand by the end of 2025 to capture higher retail margins.",
       "grounded": false,
       "status": "too_early",
-      "note": "The provided headlines focus on retail giants and banking forecasts rather than developments in the beef processing industry."
+      "note": "The available headlines discuss general retail and banking trends for 2025 but contain no news about tech-tracked branding from beef processors."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The 10-year Treasury yield will touch 5.25% before the end of the current quarter.",
       "grounded": true,
       "status": "too_early",
-      "note": "The available headlines discuss Federal Reserve interest rate hikes but do not provide data on the 10-year Treasury yield."
+      "note": "The provided headline confirms a Fed interest rate hike but contains no specific data regarding the movement of the 10-year Treasury yield."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "The Fed will deliver at least one more 25-basis-point hike in the next meeting to solidify its hawkish stance.",
       "grounded": true,
       "status": "too_early",
-      "note": "Today's reports show conflicting analyst expectations and polls regarding future rate hikes, with no confirmed action for the next meeting yet."
+      "note": "There are conflicting reports from market analysts and Reuters polls regarding whether the Fed will deliver another hike or hold rates steady."
     },
     {
       "section": "markets",
