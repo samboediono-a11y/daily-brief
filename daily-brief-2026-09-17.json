@@ -6,42 +6,54 @@
       "headline": "Silicon Valley Returns to Its Roots in Physical Hardware",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS3J3Tk8zYkxocmtZVklSQ3VHSGliODR6VUV5cjBTWlJoOF83S1Nwbnh2ckV1MVdGQm9MZC1QUWZTei1ocHVGV29HR2NSaUk3M2NOc3VxOEVtS1FIUXIxbDM4YjlaVW1ZOFVzRGdTdm1oSmJydW5aRmZSbHJoWmh1aHR1R0hvWDMzcm5RZ2lfTm9OLTVFdGkxWGtmcE84Z2lKdHpDLUlNRnBINGY3anc?oc=5",
       "prediction": "We will see at least three major 'software-first' VC firms announce dedicated hardware or 'industrial tech' sub-funds by the end of Q3 2026.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "The fresh headline lists chip manufacturers but does not mention software-first VC firms launching hardware sub-funds."
     },
     {
       "section": "tech",
       "headline": "Big Tech Battles Over Pausing AI Development",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcVUxMGdxcHlEQXczN3d2eFU0ZEZ0TFd0cm1zaS02NWdmTWdZazVMVTFHa2lkcjlabkRCVHpRUTY5SVhfWV84dkYwR3pTR3ljWHNSVnowUU9qekwtRmRhaFZZZHFhOVJtLU94a3Q5dXNjSTNhd0dwS3B1S0VwUUFna0M3OFFsZmZEaFdpUGdWX3J5dEhmRUhFUEttZWM2UzFZWXc?oc=5",
       "prediction": "No formal multi-company pause will be signed; instead, expect a series of toothless 'voluntary safety frameworks' that do nothing to slow compute scaling through 2026.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No fresh headlines were provided to confirm the status of AI development pauses or safety frameworks."
     },
     {
       "section": "tech",
       "headline": "McKinsey Report Says Industrial AI Is the New Growth Engine",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS0wzb1RmNmZPeVB4QjdSZTVmcmxMVUwyT2pSYVliQVQwZ25mUFpoWlFXdGFpWnNJLVdmMncwc0twU2pxSmplU2k0WGFuRWlIT1BFQ1FzWVlCbWc2MWpzamF0LU51NVBSNURBeWhUN0VxYlA1VjMzUk16eHlBQlJ2R3F2TXAzaW9SczJId2hn?oc=5",
       "prediction": "Industrial AI spending will outpace Consumer AI software spend in the S&P 500 by a margin of 2-to-1 in the next 12 months.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Headlines mention 2026 market trends but lack specific spending figures to verify the predicted 2-to-1 ratio of industrial versus consumer AI software."
     },
     {
       "section": "tech",
       "headline": "Tech Leaders Fail the Public on AI Explanations",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tbmxSQU9NbE02d2QyYXNhSkVEN2FOYWZRY1hUS0JRSWxYT1R3amFnaHNGSWJrdDh0eEhRdUhqaU02VTZYRVdTTXIxRTZkamNhWUZIdV9hV0lCLUx5aHJhV3MwTDBDS0lZRmQ2SUc0SlhIeHdNV1BEMVhrTTFBZ9IBgwFBVV95cUxQS2MyUFFHcVBhVGVMRTFwUWRaYThQTU1ZZVRBdU5Xdkl2WFNtUF9oOEN4ZlpacHY2S2JyblBJS0VNVVlxRE00T0djbGY4NXBHbGRLT2Via1RGM0VpaHp2dk85ZnVIbWpCUWQ4QkRlRFBwcHMxLWxiQ09fSktkTHV2NHhUbw?oc=5",
       "prediction": "Public trust scores for AI companies will hit a new low in the next major Pew Research survey, triggering a fresh round of FTC consumer protection inquiries before year-end.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No fresh information was provided regarding public trust scores or FTC consumer protection inquiries."
     },
     {
       "section": "markets",
       "headline": "Dow Plunges After Fed Delivers Harsh Rate Hike",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUE5oTVluRXJXSEZFTGp6UUpwcjluaGhVUlpsbGJ1WnFnVU05MDhSNDMwT3ZleW5fQnhia1ZYbFZ0SzN3dFNkSzRnV1lxbUpyREtpSnZlYndsRFM1RW5GeW1WcTdvRnZfNVh1TXAzWWVBVEZPZnAtYm9JLXNick5YZA?oc=5",
       "prediction": "The 10-year Treasury yield will touch 5.25% before the Dow Jones Industrial Average recovers its recent 600-point loss.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The fresh headline regarding the GIFT Nifty does not contain information about US Treasury yields or Dow Jones performance."
     },
     {
       "section": "markets",
       "headline": "SEC Greenlights Tokenized Trading for Traditional Stocks",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WbEJwRlVidnkyZVN0WXJTRWtmZGFZcmVSTGdhQzdVSUNVMVp2ZW5feE9ua3F0TlBMZmprdGtKbWl5X1I5X0xCZmVNZzBTaDQ2RGpYUVVyLU1WM0dzcVY1WktTd0RFSVJTNE9iVjZISHI?oc=5",
       "prediction": "At least one 'Magnificent Seven' stock will have a tokenized trading volume exceeding 5% of its total daily volume by the end of 2026.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "General market updates from August 2026 do not provide data on tokenized trading volume for any Magnificent Seven stocks."
     },
     {
       "section": "markets",

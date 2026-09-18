@@ -1,0 +1,287 @@
+{
+  "date": "2026-09-18",
+  "predictions": [
+    {
+      "section": "tech",
+      "headline": "California moves to mandate emergency off-switches for major AI models",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVTQ3ejdRYU1ZWlcwbjQtV2o3Sm10R1l3WFpKdmpLMVMzb2h3QTAtY3ZYSlRveHpFYktaOVc4V0JzQlE2eVdkWTkzY010T3owcm53RmlNMW1tdGdXX25TUkdiY0NsVjdQdVFqWE96ajRmSm4ydmpZenY4YXM3QXEzY1hhLWxwT1FwOVpGSmItcG1NS2QwS2xKR1F2NWctMlJTUGl1UElIMTlwV0NJLTVj?oc=5",
+      "prediction": "At least two mid-sized AI research labs will announce headquarters relocations out of California before the mandate's official implementation date.",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "Top industry insiders call for a strategic pause in AI development",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE1BV1Q4UUYxLVRfaDNJVXVRbnNaQmdUMjBzbWJWRWtTcjlROWZqUjAtVGlob2NHVlB1NHVfRU5FY1dWT1UxR3RHakpVUTdzSGdvRmR2UFR2dzZxdHJ0ZXlMb0NsMVd1MDM1aUZ2VlpPeG9zSDZxRFpFWjNhQ0psM2RVYW8tM0ZKdTdDdG93?oc=5",
+      "prediction": "No major AI lab will actually halt production code updates or training runs for more than 30 consecutive days within the next year.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "Major tech firms continue cutting staff despite the AI boom",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPS25rUTR2dk15UURqOTVyWDFad1hZbFd5dWpLT08wYUlFN28tcjBsZTg1ajVSc1l3LTJMeldsdjVwZUJ4QVJVYXZkYkEySWVIZzlpNHVpT29CaDAxY0U0c09JZm5lMHF0c2JFX1NTZXRIbWxQRTRuNnNudGFlQmtjakRwR0dqUG5YeTM2R041S3FKRGFESWNKU0hQbGtnV0twa0Q3Zjl1RDcyUGM5NDdRSVRhcndJUUhIRk5LXzZCZEc0anBBcjJtMVY5d0U5REoyeWdwdVFmQVdtUXFLVlBRTGVtbWRWbU5DMjM4NGJkUWdpcElzYUt6UFV6Zw?oc=5",
+      "prediction": "Aggregate headcount at the top five tech firms will end the fiscal year lower than it started, despite all five reporting record revenue.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "Hardware makes a comeback as Silicon Valley rediscovers physical engineering",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS3J3Tk8zYkxocmtZVklSQ3VHSGliODR6VUV5cjBTWlJoOF83S1Nwbnh2ckV1MVdGQm9MZC1QUWZTei1ocHVGV29HR2NSaUk3M2NOc3VxOEVtS1FIUXIxbDM4YjlaVW1ZOFVzRGdTdm1oSmJydW5aRmZSbHJoWmh1aHR1R0hvWDMzcm5RZ2lfTm9OLTVFdGkxWGtmcE84Z2lKdHpDLUlNRnBINGY3anc?oc=5",
+      "prediction": "Venture capital funding for semiconductor and physical data center startups will grow by at least 25% year-over-year in the next four quarters.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Yields hit 5% as oil prices break the triple-digit barrier",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbTl3alo5ZGhnMDh2WnJQX0lGNklVT0FZOFlBdk1PUkh5VDFKUmlyazc3UHJILUpRZVhqTS1XcGRBUUMwbEFtZ0ZFWXlheEw5T2Q4ekVhRjhKODZpSXBZSzVHQXJsME9Fb3MyNm9WODhRT04xS1daMm90Z2hLWWdTSWtOT2dpMGlCOF96aTFVTUZIVnprSHpmYTV3Sm9pd2xUQ1k5TWtNVHdVUTBhT0JaZDJHeENUSW1QUTRsbVczQlZldjJYb0trZ2E4WVBWSW1ESnlPZUhR?oc=5",
+      "prediction": "The S&P 500 will experience a correction of at least 7% before the end of the current quarter as the 'higher for longer' reality sinks in.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Warren Buffett exits the stage as Berkshire Hathaway names successor",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORGlCeGs2aTdQd1ZqU0ZiTThWUU9jWnVBN01ZYVNEN05GeE5WbzBYMkx6Mk9sWUpEN002SVJNbFBFd1JZVWRCVFFlLXNTNWRKLVE3OWllY19CS3BHZHlEX1NEUEtMZXlGM1JRaHhjSHhzLXlkYk9fZWNrWTRvQmsxMVBzaUZOUjJFb3RB0gGQAUFVX3lxTFBnakFqQmtmRV9xcHlYMFY3d2ZvemVubnVNYUtoZEEzRjZEa2FsYzgzaXFUTmFsY0wyLUtKT21BejV2ejNXMy1rZTBnQUJLUmduSGdZa1MzUUVsNTR3SXd0b3R6czh1UW1aVE5EQnlaMEcwdjhFdE11QUpBZjV0X0ZNc1hLNzQtOGY2OXdHSnNCVw?oc=5",
+      "prediction": "Berkshire Hathaway's B-shares will underperform the S&P 500 over the twelve months following the official leadership handover.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "India prepares for its largest-ever stock exchange public debut",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12WllINEpBanJxS2xaWXlVUjFqVnZycUp2akdfN0R5VXRkNjhsVGVfWS1tazQ0VkdVRUN1dTk5TVJqblp6QTJ3X1lXVlhyLW5wMWFkRUdaYTMtRG8?oc=5",
+      "prediction": "The NSE IPO will be oversubscribed by at least 3x, but retail participation will far outpace foreign institutional interest.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Global investors pile into Vietnam ahead of major market upgrade",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaHVpajJINGk2TFRUNDZoNWl0T2hodnJPc040VUlzWHhmRXdnVU9ndWpydUpWVlIxb2xFcHlBTmhyc3lCWFJLQU9OTzVJNVZ4bjZsYVlvRExTTWJzZlFYazdLTWc0MWE5M3hrak5xa1hsRFRPLUJRdjVTOC1ESjBtaW8wMUoyc0k3ejhKQnA2V19RdFBYY2FQXzJKNGJGOEpaS0p2VlgzSGludnA4R2o2TFNIOGMwVmth?oc=5",
+      "prediction": "The VN-Index will gain at least 15% in the six-month window leading up to the official FTSE/MSCI upgrade announcement.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "Iranian strike on oil tanker raises stakes in the Middle East",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWdlRjU5QTRNU0tfUUpTVW1iYUNBQ3hWejBlMVBaWTFEbFh1MkVtM1QzamhsY240NFQ3aW1vTUdMb0JaVUk2QWY1WE9SZWNqLUpzWVI4OFpyWlN1b0pXTW5vZzNEc3ZqZV9wdVowMGpzeHJub1ZFTWtoZGRyRklIbnR2d19mOVhhWG5GdkxTdTB1bktBRHFMSlVGbEZ5Mk0?oc=5",
+      "prediction": "Brent crude will maintain a floor above $95 per barrel for at least 30 consecutive days due to the heightened maritime risk premium.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Japan raises interest rates under pressure from U.S. markets",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42NWZYazNucmllcUJxbUZPdHIxZmF2NDBtdjRaXzNmcU9GcEdWX2dHX3NnSmhtTkI1d2JIWjdtMGlOUVdEMm8xMXFDTVh0c3QyNEFIV2U3bDZVY2czRUZDb29ISm15dUNVTDdjMktzckViV2kwLUE1Wg?oc=5",
+      "prediction": "The USD/JPY pair will break below 140 before the end of the next quarter as the interest rate differential finally begins to narrow.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Early voting begins for pivotal midterms with Congress at stake",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc2VsMHJiektCOFpBYUVsRFBRYVlMamd4NVJkSlcyaEN4RkxxcE43a05zVkhhSS1YNGZraE1OVXY2Q0loUERISzVsRmRrd2tyZ2dLalhVRGpSMm5LN1c3TjlFbHpQYXU4Y3I1QXFPNkUxZHBwM1g4N3ZsMm0weEcxT2plQVQyNFZibVJQWHRZU1lQWGRz?oc=5",
+      "prediction": "At least three 'safe' House seats will flip unexpectedly due to localized surges in early voting turnout among first-time voters.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "Disney installs first-ever CTO to navigate the streaming era",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BcXF5bUF4LVdfTzg5MFBLVDBGS3NjT0cwalNiRGlLMWFlRGlmX3VKbjVyN1dkSXNNTVYzb1RQeFJkY2ZlMnI3dEhLdV9ZTVZvM0lsRjNWRzRZSjRTWThJYlR30gFnQVVfeXFMUGtJdWs0UWZvZFRrYVRrelJ3UUdKemZoY2hVeGdMaVhhWlR0U0xYQlJrT0pGU1BUSEFTdmhXUWpwU3pBUFkyZ0RlbkZZd2lFaERpQWJMME0tN3ltTE9pdUdlQXFqTnQycw?oc=5",
+      "prediction": "Disney will announce a major overhaul of its streaming recommendation engine or its ad-targeting tech within two earnings cycles of the CTO's start date.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Prabowo fires finance minister in major cabinet shakeup",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeFRZWGdlVzNySWZaLVB6QXBBNGZmNG9wSDk0N2tKemQ1Nkp3SmFjbDdQcG8xSTFac1Y0aldZRUNnMjJTSTBwNnJld3dpNWgtOTljSnlKTWhFTk9VSWpiQlBLMlZSTFJNa3A5dWJLQzQwQkw3aEQ5a0xPQWF2OXkzNXZNYVZiVlMzSmZSZEQ2UFIzdGxrWk91OWpIWmc5SVRzWTZkaExJWXd5QjhrZWZQR2x3?oc=5",
+      "prediction": "The Indonesian Rupiah (IDR) will trade above 16,000 per USD for the remainder of the current month as capital flight continues.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesian Navy adds its first aircraft carrier to the fleet",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSk4tRmdmMjJwRzU4b2JtaVBKWEhaYUNTYnRsZTh4TXAxdUFHTnEwWkdTaEdfMlNHbHhkbnN0b0hGRUFXUi1ZM3lQWHlGV2xZYmx0ODRmUGozT1ZzS2FpZnRoZzJwTUE4b21IcE5jUXIwSUJURzFBZDlYMjhJaE1mLUNvX2xITF9PakNZU09zb3M2cktnMmcwYTRKd1c4Q1pINERIVTRGeXBQbnNyQS1EZmp6cDhTQkV5T09uX3QtcGVmYThsY0FMQg?oc=5",
+      "prediction": "Indonesia will conduct its first multi-national naval exercise featuring the new carrier within the next 12 months.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "Markets demand central bank independence amid political turmoil",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaGRiNHVFTW9PdTY2cENsU1ZLSVlSXzc0X2ExUWtiWUZHWkwyTERNN2gyRWFoVVRQV181dWNBU1g4ZUJVTGN4azNET2lxMEdIWTdDOGVEYUNVU3o0bEpPajBlTE8yQUZOR3F1R0J6ZGRQYlRsYnQ0dHNxQmJlbkh4Tko2aExIaURjc1EyX3NjZzc2RFVoX0Q5ZlJEWFRUTDM2YklR?oc=5",
+      "prediction": "Foreign holdings of Indonesian government bonds will decrease by at least 5% by the time the new BI leadership is officially confirmed.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "New U.S.-Indonesia trade pact targets critical mineral supply chains",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaE9kR252ZElMaHRtZVlnVGFSWS1lY0ZxTDlmOG5SWFBxdUpCTHhRRTU3ZE9RWkNmcmtqTWVNZVJxM001ZkdKNlBEeWRnYUhJZk9ZX2gxeV9nUWZKbjJGdjJLQUZobVVUQm9JRlVGeDZYNHFNamJRWXE2NklPMmk2U1N6WXJwS2xLc1FnbnU4a0NhRnNrZWRiRXV2cFZNejJmX2FkZnV0eEVJY21WVjFzSTVDWGRFRHc?oc=5",
+      "prediction": "Indonesia will introduce new domestic 'downstreaming' requirements for nickel and copper within 12 months to ensure local value-add under the new pact.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin and gold rally as government bond interventions weaken dollar",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZjhYLWRvY1c5TnNteV9UUFlJT2dNcVJiS0NtU3lRSDNpblJncGh0aWpKYzgtWDNpOEItTnZic0tHYzBVNnZNVnc5R2M1c0RHQmFDbXR5OTV2cVU1RlAzTF9aRFBOYkxvMHBWSWphNWpuSmg2NFZoUGYyZVNVNUhSQVpSVHU?oc=5",
+      "prediction": "Bitcoin and Gold will maintain a price correlation above 0.70 for the next 90 days as the 'anti-fiat' trade dominates institutional flows.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin's tie to the Japanese Yen reaches record highs",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5",
+      "prediction": "Any 1% intraday move in the USD/JPY pair will trigger a corresponding 3-5% move in Bitcoin price within a 24-hour window.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Weak jobs data sends Bitcoin price climbing to $64,000",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EelVDNUdyODJHWmtfTnJ3RUNWcXdfSER4WVlpX1J3R0RSM3FPMnFPNUFib1AwYTFKc2ZTR296Rm81YzNUZmZLdDRJZHNITVh1cFltVi1mQ3pQbUpzSDlxaHFaalpZWUZRSkRzWA?oc=5",
+      "prediction": "Bitcoin will hit a new all-time high if the next two consecutive monthly U.S. payroll reports come in below 100,000 new jobs.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Treasury policy shifts crush traders betting against Bitcoin",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQmRPOWlVTUNrTGZROWNmYmZveWlvb3MweTdtOFQxQklHNUI2eE55Vy1SU3pEeHYwNzhpTXoyZHdkc0liTl8ybWZEeTFLX2tacjlnaVVwX25RQ2hucFhKVkJRUUlycWxOU2hZY1RsZ3NMSHR2bE5IcTgtOGRwaTR5TjUxeVRyekE?oc=5",
+      "prediction": "Total liquidations of Bitcoin short positions will exceed $500 million in a single 48-hour window before the end of this month.",
+      "grounded": false
+    }
+  ],
+  "stories": [
+    {
+      "section": "tech",
+      "headline": "California moves to mandate emergency off-switches for major AI models",
+      "summary": "Governor Gavin Newsom is pushing for legislation that would require AI developers to include a 'kill switch' to prevent catastrophic safety failures.",
+      "view": "California's mandate creates a massive compliance moat that benefits established giants like OpenAI while potentially strangling the open-source ecosystem. By requiring a 'kill switch,' the state effectively shifts legal liability for AI behavior from the end-user to the developer, incentivizing more restrictive and less innovative model deployments.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVTQ3ejdRYU1ZWlcwbjQtV2o3Sm10R1l3WFpKdmpLMVMzb2h3QTAtY3ZYSlRveHpFYktaOVc4V0JzQlE2eVdkWTkzY010T3owcm53RmlNMW1tdGdXX25TUkdiY0NsVjdQdVFqWE96ajRmSm4ydmpZenY4YXM3QXEzY1hhLWxwT1FwOVpGSmItcG1NS2QwS2xKR1F2NWctMlJTUGl1UElIMTlwV0NJLTVj?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Top industry insiders call for a strategic pause in AI development",
+      "summary": "High-ranking executives at major AI firms are surprisingly urging a coordinated slowdown to assess the long-term impacts of generative technology.",
+      "view": "The 'strategic pause' is a calculated move for regulatory capture by current industry leaders who have already secured their compute advantage. As noted in industry commentary, the timing is far too convenient, serving to freeze the competitive landscape and prevent smaller challengers from closing the gap under the guise of safety.",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE1BV1Q4UUYxLVRfaDNJVXVRbnNaQmdUMjBzbWJWRWtTcjlROWZqUjAtVGlob2NHVlB1NHVfRU5FY1dWT1UxR3RHakpVUTdzSGdvRmR2UFR2dzZxdHJ0ZXlMb0NsMVd1MDM1aUZ2VlpPeG9zSDZxRFpFWjNhQ0psM2RVYW8tM0ZKdTdDdG93?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Major tech firms continue cutting staff despite the AI boom",
+      "summary": "Companies including Microsoft, Meta, and Oracle are executing fresh rounds of layoffs to prioritize efficiency and high-margin AI projects.",
+      "view": "Tech giants are using AI-driven 'efficiency' as a convenient narrative to mask a permanent structural shift toward leaner, higher-margin operations. According to McKinsey and other analyses, this represents a 'forever layoff' cycle where human labor is systematically replaced by automated workflows to appease margin-hungry shareholders regardless of rising profits.",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPS25rUTR2dk15UURqOTVyWDFad1hZbFd5dWpLT08wYUlFN28tcjBsZTg1ajVSc1l3LTJMeldsdjVwZUJ4QVJVYXZkYkEySWVIZzlpNHVpT29CaDAxY0U0c09JZm5lMHF0c2JFX1NTZXRIbWxQRTRuNnNudGFlQmtjakRwR0dqUG5YeTM2R041S3FKRGFESWNKU0hQbGtnV0twa0Q3Zjl1RDcyUGM5NDdRSVRhcndJUUhIRk5LXzZCZEc0anBBcjJtMVY5d0U5REoyeWdwdVFmQVdtUXFLVlBRTGVtbWRWbU5DMjM4NGJkUWdpcElzYUt6UFV6Zw?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Hardware makes a comeback as Silicon Valley rediscovers physical engineering",
+      "summary": "Investment is shifting back toward physical infrastructure and hardware as software reaches a saturation point.",
+      "view": "The software-defined era has hit a physical wall, making custom silicon and specialized data center infrastructure the new primary source of alpha. Companies specializing in power management and liquid cooling are the real winners here, as AI demand now exceeds the capacity of generic cloud infrastructure.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS3J3Tk8zYkxocmtZVklSQ3VHSGliODR6VUV5cjBTWlJoOF83S1Nwbnh2ckV1MVdGQm9MZC1QUWZTei1ocHVGV29HR2NSaUk3M2NOc3VxOEVtS1FIUXIxbDM4YjlaVW1ZOFVzRGdTdm1oSmJydW5aRmZSbHJoWmh1aHR1R0hvWDMzcm5RZ2lfTm9OLTVFdGkxWGtmcE84Z2lKdHpDLUlNRnBINGY3anc?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Yields hit 5% as oil prices break the triple-digit barrier",
+      "summary": "The 10-year Treasury yield returned to 5% while oil prices held steady above $100, dragging down major stock indices.",
+      "view": "We are entering a stagflationary trap where $100 oil keeps inflation sticky and 5% yields crush equity valuations simultaneously. The primary losers are regional banks and over-leveraged tech firms that can no longer use cheap debt to hide poor operational cash flow.",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbTl3alo5ZGhnMDh2WnJQX0lGNklVT0FZOFlBdk1PUkh5VDFKUmlyazc3UHJILUpRZVhqTS1XcGRBUUMwbEFtZ0ZFWXlheEw5T2Q4ekVhRjhKODZpSXBZSzVHQXJsME9Fb3MyNm9WODhRT04xS1daMm90Z2hLWWdTSWtOT2dpMGlCOF96aTFVTUZIVnprSHpmYTV3Sm9pd2xUQ1k5TWtNVHdVUTBhT0JaZDJHeENUSW1QUTRsbVczQlZldjJYb0trZ2E4WVBWSW1ESnlPZUhR?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Warren Buffett exits the stage as Berkshire Hathaway names successor",
+      "summary": "Warren Buffett has officially stepped down as chairman, with his son Howard taking the lead of the legendary investment firm.",
+      "view": "The transition to Howard Buffett marks the transition of Berkshire from a 'cult of personality' to a standard, albeit massive, diversified conglomerate. Investors are rightfully uneasy because the 'Buffett premium' on the stock price is likely to erode as the market tests Howard\u2019s willingness to stick to his father\u2019s rigid capital allocation principles.",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORGlCeGs2aTdQd1ZqU0ZiTThWUU9jWnVBN01ZYVNEN05GeE5WbzBYMkx6Mk9sWUpEN002SVJNbFBFd1JZVWRCVFFlLXNTNWRKLVE3OWllY19CS3BHZHlEX1NEUEtMZXlGM1JRaHhjSHhzLXlkYk9fZWNrWTRvQmsxMVBzaUZOUjJFb3RB0gGQAUFVX3lxTFBnakFqQmtmRV9xcHlYMFY3d2ZvemVubnVNYUtoZEEzRjZEa2FsYzgzaXFUTmFsY0wyLUtKT21BejV2ejNXMy1rZTBnQUJLUmduSGdZa1MzUUVsNTR3SXd0b3R6czh1UW1aVE5EQnlaMEcwdjhFdE11QUpBZjV0X0ZNc1hLNzQtOGY2OXdHSnNCVw?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "India prepares for its largest-ever stock exchange public debut",
+      "summary": "The National Stock Exchange of India is launching a massive IPO, signaling a new chapter for the world's fastest-growing economy.",
+      "view": "The NSE India IPO is the definitive litmus test for whether India can truly replace China as the global growth engine, but it faces the ghost of the Paytm flop. As analysts have noted with previous large Indian debuts, the risk is that the valuation is priced for perfection, leaving no room for the inevitable volatility of an emerging market.",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12WllINEpBanJxS2xaWXlVUjFqVnZycUp2akdfN0R5VXRkNjhsVGVfWS1tazQ0VkdVRUN1dTk5TVJqblp6QTJ3X1lXVlhyLW5wMWFkRUdaYTMtRG8?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Global investors pile into Vietnam ahead of major market upgrade",
+      "summary": "Foreign capital is flowing into Vietnamese stocks as the country nears an official upgrade to 'emerging market' status.",
+      "view": "Vietnam's upgrade to emerging market status will trigger a massive mechanical rebalancing of global passive index funds, forcing billions into a relatively illiquid market. Local banking and real estate sectors will be the primary beneficiaries as they are the first destination for this new institutional 'forced' buying.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaHVpajJINGk2TFRUNDZoNWl0T2hodnJPc040VUlzWHhmRXdnVU9ndWpydUpWVlIxb2xFcHlBTmhyc3lCWFJLQU9OTzVJNVZ4bjZsYVlvRExTTWJzZlFYazdLTWc0MWE5M3hrak5xa1hsRFRPLUJRdjVTOC1ESjBtaW8wMUoyc0k3ejhKQnA2V19RdFBYY2FQXzJKNGJGOEpaS0p2VlgzSGludnA4R2o2TFNIOGMwVmth?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Iranian strike on oil tanker raises stakes in the Middle East",
+      "summary": "Iran has claimed responsibility for a strike on a tanker in the Strait of Hormuz, threatening global energy supply lines.",
+      "view": "Iran is escalating in the Strait of Hormuz to test international naval resolve and inflate energy prices as a form of leverage against U.S. economic sanctions. This move signals that Tehran's hardliners are increasingly viewing direct disruption as their most effective tool for forcing a diplomatic reset.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWdlRjU5QTRNU0tfUUpTVW1iYUNBQ3hWejBlMVBaWTFEbFh1MkVtM1QzamhsY240NFQ3aW1vTUdMb0JaVUk2QWY1WE9SZWNqLUpzWVI4OFpyWlN1b0pXTW5vZzNEc3ZqZV9wdVowMGpzeHJub1ZFTWtoZGRyRklIbnR2d19mOVhhWG5GdkxTdTB1bktBRHFMSlVGbEZ5Mk0?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Japan raises interest rates under pressure from U.S. markets",
+      "summary": "In a rare move, Japan increased interest rates to stabilize its currency as U.S. inflation remains stubborn.",
+      "view": "The Bank of Japan was backed into a corner by a crashing Yen and stubborn U.S. inflation, effectively ending the global 'free money' carry trade. This rate hike will trigger a massive repatriation of Japanese capital, which will paradoxically put further upward pressure on U.S. Treasury yields as Japanese investors sell foreign bonds.",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42NWZYazNucmllcUJxbUZPdHIxZmF2NDBtdjRaXzNmcU9GcEdWX2dHX3NnSmhtTkI1d2JIWjdtMGlOUVdEMm8xMXFDTVh0c3QyNEFIV2U3bDZVY2czRUZDb29ISm15dUNVTDdjMktzckViV2kwLUE1Wg?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Early voting begins for pivotal midterms with Congress at stake",
+      "summary": "Voters are heading to the polls early in a midterm election cycle that could flip the balance of power in Washington.",
+      "view": "Early voting trends will likely show a significant incumbency advantage in districts where local economic sentiment is stabilizing, despite national headlines suggesting a 'wave' election. Ground-game efficiency in swing states has become a more reliable predictor of the final seat count than late-cycle television advertising spends.",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc2VsMHJiektCOFpBYUVsRFBRYVlMamd4NVJkSlcyaEN4RkxxcE43a05zVkhhSS1YNGZraE1OVXY2Q0loUERISzVsRmRrd2tyZ2dLalhVRGpSMm5LN1c3TjlFbHpQYXU4Y3I1QXFPNkUxZHBwM1g4N3ZsMm0weEcxT2plQVQyNFZibVJQWHRZU1lQWGRz?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Disney installs first-ever CTO to navigate the streaming era",
+      "summary": "The media giant has named its first Chief Technology Officer to lead its transformation into a tech-first entertainment company.",
+      "view": "Disney\u2019s appointment of a CTO is a long-overdue admission that it is now a tech-first software delivery company rather than just a content studio. The new executive's primary mission will be using AI and data-driven personalization to solve the Disney+ churn problem, which is currently the biggest drag on the company's valuation.",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BcXF5bUF4LVdfTzg5MFBLVDBGS3NjT0cwalNiRGlLMWFlRGlmX3VKbjVyN1dkSXNNTVYzb1RQeFJkY2ZlMnI3dEhLdV9ZTVZvM0lsRjNWRzRZSjRTWThJYlR30gFnQVVfeXFMUGtJdWs0UWZvZFRrYVRrelJ3UUdKemZoY2hVeGdMaVhhWlR0U0xYQlJrT0pGU1BUSEFTdmhXUWpwU3pBUFkyZ0RlbkZZd2lFaERpQWJMME0tN3ltTE9pdUdlQXFqTnQycw?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Prabowo fires finance minister in major cabinet shakeup",
+      "summary": "President Prabowo has removed Finance Minister Thomas Purbaya, replacing him with his deputy as investor skepticism grows.",
+      "view": "The removal of Thomas Purbaya signals that President Prabowo is prioritizing political loyalty and spending flexibility over the fiscal discipline that global investors demand. This move will almost certainly weaken the Rupiah as markets price in a higher risk of deficit spending and the end of technocratic oversight.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeFRZWGdlVzNySWZaLVB6QXBBNGZmNG9wSDk0N2tKemQ1Nkp3SmFjbDdQcG8xSTFac1Y0aldZRUNnMjJTSTBwNnJld3dpNWgtOTljSnlKTWhFTk9VSWpiQlBLMlZSTFJNa3A5dWJLQzQwQkw3aEQ5a0xPQWF2OXkzNXZNYVZiVlMzSmZSZEQ2UFIzdGxrWk91OWpIWmc5SVRzWTZkaExJWXd5QjhrZWZQR2x3?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesian Navy adds its first aircraft carrier to the fleet",
+      "summary": "Indonesia has acquired a former Italian warship, marking a massive upgrade to its maritime power in the region.",
+      "view": "Acquiring an aircraft carrier is a massive status symbol that signals Indonesia\u2019s intent to be the dominant maritime power in the South China Sea. However, the immense operational and maintenance costs will likely cannibalize the budgets for the smaller, more nimble littoral vessels that are actually needed for daily maritime security.",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSk4tRmdmMjJwRzU4b2JtaVBKWEhaYUNTYnRsZTh4TXAxdUFHTnEwWkdTaEdfMlNHbHhkbnN0b0hGRUFXUi1ZM3lQWHlGV2xZYmx0ODRmUGozT1ZzS2FpZnRoZzJwTUE4b21IcE5jUXIwSUJURzFBZDlYMjhJaE1mLUNvX2xITF9PakNZU09zb3M2cktnMmcwYTRKd1c4Q1pINERIVTRGeXBQbnNyQS1EZmp6cDhTQkV5T09uX3QtcGVmYThsY0FMQg?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Markets demand central bank independence amid political turmoil",
+      "summary": "Investors are closely watching the leadership search for Bank Indonesia, fearing political interference in interest rate decisions.",
+      "view": "Any perceived threat to Bank Indonesia's independence is a classic emerging market red flag that typically precedes a currency crisis. Investors are right to be wary, as political interference in interest rate decisions almost always leads to an 'uncertainty premium' that drives up borrowing costs for the entire country.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaGRiNHVFTW9PdTY2cENsU1ZLSVlSXzc0X2ExUWtiWUZHWkwyTERNN2gyRWFoVVRQV181dWNBU1g4ZUJVTGN4azNET2lxMEdIWTdDOGVEYUNVU3o0bEpPajBlTE8yQUZOR3F1R0J6ZGRQYlRsYnQ0dHNxQmJlbkh4Tko2aExIaURjc1EyX3NjZzc2RFVoX0Q5ZlJEWFRUTDM2YklR?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "New U.S.-Indonesia trade pact targets critical mineral supply chains",
+      "summary": "A reciprocal trade agreement focuses on the strategic exchange of minerals needed for the green energy transition.",
+      "view": "The U.S.-Indonesia trade pact is a strategic masterstroke for the U.S. to secure critical minerals like nickel away from Chinese control. However, critics are right that this risks being 'extractive colonialism' if Indonesia fails to use the pact as a lever to build its own domestic processing and EV battery industries.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaE9kR252ZElMaHRtZVlnVGFSWS1lY0ZxTDlmOG5SWFBxdUpCTHhRRTU3ZE9RWkNmcmtqTWVNZVJxM001ZkdKNlBEeWRnYUhJZk9ZX2gxeV9nUWZKbjJGdjJLQUZobVVUQm9JRlVGeDZYNHFNamJRWXE2NklPMmk2U1N6WXJwS2xLc1FnbnU4a0NhRnNrZWRiRXV2cFZNejJmX2FkZnV0eEVJY21WVjFzSTVDWGRFRHc?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin and gold rally as government bond interventions weaken dollar",
+      "summary": "Alternative assets are surging as new bond market policies lead investors to question the long-term strength of the U.S. dollar.",
+      "view": "The rally past $80,000 confirms Bitcoin has decoupled from tech stocks and is now functioning as the primary hedge against dollar debasement. The Treasury's bond buyback plan was the true catalyst, signaling to the market that the government will prioritize liquidity and bond market stability over a strong currency.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZjhYLWRvY1c5TnNteV9UUFlJT2dNcVJiS0NtU3lRSDNpblJncGh0aWpKYzgtWDNpOEItTnZic0tHYzBVNnZNVnc5R2M1c0RHQmFDbXR5OTV2cVU1RlAzTF9aRFBOYkxvMHBWSWphNWpuSmg2NFZoUGYyZVNVNUhSQVpSVHU?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin's tie to the Japanese Yen reaches record highs",
+      "summary": "The correlation between Bitcoin and the USD/JPY pair has hit -0.90, making crypto a proxy for Japanese currency moves.",
+      "view": "Bitcoin has effectively become the 'volatility sponge' for the Yen carry trade, with a -0.90 correlation that makes it a liquid exit ramp for Japanese currency moves. When the Yen is squeezed by BOJ hikes or bond market instability, capital is fleeing into Bitcoin as a neutral, high-liquidity asset.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Weak jobs data sends Bitcoin price climbing to $64,000",
+      "summary": "Slowing employment growth in the U.S. has fueled a rally in crypto as investors bet on future interest rate cuts.",
+      "view": "The market has shifted to a 'bad news is good news' regime for crypto, where weak jobs data is seen as a guarantee of more aggressive Fed rate cuts. This makes Bitcoin the fastest horse in the race toward lower real interest rates, as it benefits directly from the resulting dollar weakness.",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EelVDNUdyODJHWmtfTnJ3RUNWcXdfSER4WVlpX1J3R0RSM3FPMnFPNUFib1AwYTFKc2ZTR296Rm81YzNUZmZLdDRJZHNITVh1cFltVi1mQ3pQbUpzSDlxaHFaalpZWUZRSkRzWA?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Treasury policy shifts crush traders betting against Bitcoin",
+      "summary": "Unexpected moves from the U.S. Treasury disrupted short-sellers who expected Bitcoin to stay below $67,000.",
+      "view": "The Treasury's policy shift is a targeted liquidity injection that is destroying short-sellers who were betting on a period of dollar strength. This is a massive 'short squeeze' driven by sovereign macro plumbing rather than retail sentiment, proving that government fiscal policy is now the dominant driver of the crypto market.",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQmRPOWlVTUNrTGZROWNmYmZveWlvb3MweTdtOFQxQklHNUI2eE55Vy1SU3pEeHYwNzhpTXoyZHdkc0liTl8ybWZEeTFLX2tacjlnaVVwX25RQ2hucFhKVkJRUUlycWxOU2hZY1RsZ3NMSHR2bE5IcTgtOGRwaTR5TjUxeVRyekE?oc=5"
+    }
+  ]
+}
