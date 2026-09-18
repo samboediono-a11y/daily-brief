@@ -8,7 +8,7 @@
       "prediction": "We will see at least three major 'software-first' VC firms announce dedicated hardware or 'industrial tech' sub-funds by the end of Q3 2026.",
       "grounded": false,
       "status": "too_early",
-      "note": "The fresh headline lists chip manufacturers but does not mention software-first VC firms launching hardware sub-funds."
+      "note": "The headline about AI chip manufacturers does not contain information regarding software-first VC firms announcing industrial tech sub-funds."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "No formal multi-company pause will be signed; instead, expect a series of toothless 'voluntary safety frameworks' that do nothing to slow compute scaling through 2026.",
       "grounded": false,
       "status": "too_early",
-      "note": "No fresh headlines were provided to confirm the status of AI development pauses or safety frameworks."
+      "note": "No new headlines were provided to evaluate the status of multi-company AI safety frameworks or compute scaling pauses."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "Industrial AI spending will outpace Consumer AI software spend in the S&P 500 by a margin of 2-to-1 in the next 12 months.",
       "grounded": true,
       "status": "too_early",
-      "note": "Headlines mention 2026 market trends but lack specific spending figures to verify the predicted 2-to-1 ratio of industrial versus consumer AI software."
+      "note": "The available headlines discuss broad AI market trends but lack the specific S&P 500 spending data required to compare industrial and consumer AI software."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Public trust scores for AI companies will hit a new low in the next major Pew Research survey, triggering a fresh round of FTC consumer protection inquiries before year-end.",
       "grounded": true,
       "status": "too_early",
-      "note": "No fresh information was provided regarding public trust scores or FTC consumer protection inquiries."
+      "note": "No evidence was found in the fresh headlines to confirm or deny changes in public trust scores or FTC consumer protection inquiries."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The 10-year Treasury yield will touch 5.25% before the Dow Jones Industrial Average recovers its recent 600-point loss.",
       "grounded": true,
       "status": "too_early",
-      "note": "The fresh headline regarding the GIFT Nifty does not contain information about US Treasury yields or Dow Jones performance."
+      "note": "The provided headline concerning the GIFT Nifty index does not contain data on the 10-year Treasury yield or the Dow Jones Industrial Average."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "At least one 'Magnificent Seven' stock will have a tokenized trading volume exceeding 5% of its total daily volume by the end of 2026.",
       "grounded": true,
       "status": "too_early",
-      "note": "General market updates from August 2026 do not provide data on tokenized trading volume for any Magnificent Seven stocks."
+      "note": "Recent stock market updates provided do not detail tokenized trading volumes for Magnificent Seven companies."
     },
     {
       "section": "markets",
