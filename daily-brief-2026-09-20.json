@@ -6,42 +6,54 @@
       "headline": "OpenAI security breach reveals deep industry vulnerabilities",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM19yZG9CWkxLRGFEaVVfeGNTMFRZY3h3eW5uQTQ1VThHbmF5TFZSMTBNSWhIRG1ialpDTlVDWW5zZjgwQzNaRkxIZTVTQ2Y5blFWcGpfd3I5dUN5dElTbGt4dEZiQU04aG1fQm9yUi1qTUlOWXA1enBnUmhCdjFhNmJMYjR5NGhUMHBWZm1IQVRKUjI3NkRkdHQtWHBibmhYY1p5T1hVeXBaQllRNUx4WWdhN295d2M?oc=5",
       "prediction": "OpenAI will announce a partnership with a major cybersecurity firm or hire a high-profile ex-NSA official as their new Chief Information Security Officer within the next 90 days.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No fresh headlines were found to confirm a new cybersecurity partnership or the hiring of a high-profile CISO at OpenAI."
     },
     {
       "section": "tech",
       "headline": "Trump proposes AI Force and new regulatory czar",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWpMdlgxOFkzTjJRSld4OE1Xb2JZY1ZDdjFGSC1vUFctZTR2cUtSdDJEWU53YVcyeE1abkNIWndBcHJVaVB2VjhVY09KanpZUm1TUjVZeV9mSHNvWFJFakhCZ3RQQl9FNWNQUmtpN1FXMWNFSTZxNWxMXzBmaTZyV1FSN3BucTh6eE5Dd1VxRllMX05WQlZiaWZHeVp1TGZyQzRMaUQyRGVQZU1LeHhKSnpB?oc=5",
       "prediction": "The administration will name a high-profile Silicon Valley venture capitalist or founder as the 'AI Czar' within the first 100 days to signal a pro-innovation stance.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Headlines indicate engagement with Silicon Valley figures like David Sacks, but do not confirm an official appointment to an 'AI Czar' role."
     },
     {
       "section": "tech",
       "headline": "California moves to mandate a remote AI kill switch",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVTQ3ejdRYU1ZWlcwbjQtV2o3Sm10R1l3WFpKdmpLMVMzb2h3QTAtY3ZYSlRveHpFYktaOVc4V0JzQlE2eVdkWTkzY010T3owcm53RmlNMW1tdGdXX25TUkdiY0NsVjdQdVFqWE96ajRmSm4ydmpZenY4YXM3QXEzY1hhLWxwT1FwOVpGSmItcG1NS2QwS2xKR1F2NWctMlJTUGl1UElIMTlwV0NJLTVj?oc=5",
       "prediction": "At least one major AI lab will announce it is pausing data center expansion in California in protest of this mandate before year-end.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "The provided Time Magazine headline does not mention AI labs pausing data center expansion in California in response to the mandate."
     },
     {
       "section": "tech",
       "headline": "Tech workers claim AI is the largest labor theft ever",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdjJISmtEZlhmekd2TjBndTBlcUNSZmR5VjBPaGR1bXRSTU5yZ293Ulk0YUhpdHlHY0hyUTNweTFqSmdMc1JjWVJkQXZ5MmVpdHozLTJQVk5jcVJtN1M1RWc5dFdMZTJrM2hLbnVGemVCX0JtRGRGbEtNZG14cDJtOU5tZmhUa1RlVTlmYXRHMVM?oc=5",
       "prediction": "A landmark lawsuit will be filed by a group of former Big Tech engineers against OpenAI or Microsoft specifically regarding 'synthetic data training' before the end of the next earnings cycle.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Fresh headlines discuss Microsoft's success stories and general AI concepts rather than a landmark lawsuit regarding synthetic data training."
     },
     {
       "section": "markets",
       "headline": "Dow tumbles as 10-year Treasury yields hit 5%",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zb1FPNjVUSjZxQjBrLTQtUmxMUk1DZVlPcmMyZDk4cy10VXJ1djlDNVJKUVRJcUdQN0t1N1VMZl9pNUdNT3ZLRXpyZkhESDRjdlR0T2EwUFYzSEVyR3ZsaEQzbTlUVno5UzRBTTJCckt4N09xb1h30gF8QVVfeXFMTkNJQ1JtdXJ5cnhhZnB4OERzOFBZS0tkaFNCLTR5TUVGR1VwWEM2cEVKT2dNN0RXRW9BNXJwYl9oN00wSm14b196ZEZoMnpoOVc5NDB6T2UwQ21yV2pVYzZFRWFlTC1YRE1SeC1wLVhEMWU2VGZ1eUZVel9IbA?oc=5",
       "prediction": "The Philadelphia Semiconductor Index (SOX) will finish the month down at least 8% as capital rotates out of high-growth tech into short-duration debt.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new information was found regarding the performance of the Philadelphia Semiconductor Index (SOX) for the specified period."
     },
     {
       "section": "markets",
       "headline": "Houthi attacks on Riyadh send Gulf stocks sliding",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZnFXQ1lvNTg5TnJvazhfY3VXa0hrVms4RW1mdVBpR0k4QXZkempjX0h4Y2JIaGNvSm04YVJkTHRDTWpESVFDakhJMExiNGZSSktLcVFsM3VlM3ZibDQwVlE3czF4OEdLdXdnU0FPaUN1aHFLVWN3cW9uVHRTTDdDU1BNaUNMd3NQMlY5VGZPYzA5ODlMQi1rcWVDXzhFZHJWUF9tQjJqUUtzQW1yc0tYNw?oc=5",
       "prediction": "The Saudi Tadawul index will experience intraday swings of at least 2% for the next five trading sessions until a formal de-escalation is confirmed.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "There is no current data or headline available to track the intraday swings of the Saudi Tadawul index following the attacks."
     },
     {
       "section": "markets",
