@@ -8,7 +8,7 @@
       "prediction": "OpenAI will announce a partnership with a major cybersecurity firm or hire a high-profile ex-NSA official as their new Chief Information Security Officer within the next 90 days.",
       "grounded": false,
       "status": "too_early",
-      "note": "No fresh headlines were found to confirm a new cybersecurity partnership or the hiring of a high-profile CISO at OpenAI."
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "The administration will name a high-profile Silicon Valley venture capitalist or founder as the 'AI Czar' within the first 100 days to signal a pro-innovation stance.",
       "grounded": true,
       "status": "too_early",
-      "note": "Headlines indicate engagement with Silicon Valley figures like David Sacks, but do not confirm an official appointment to an 'AI Czar' role."
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "At least one major AI lab will announce it is pausing data center expansion in California in protest of this mandate before year-end.",
       "grounded": false,
       "status": "too_early",
-      "note": "The provided Time Magazine headline does not mention AI labs pausing data center expansion in California in response to the mandate."
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "A landmark lawsuit will be filed by a group of former Big Tech engineers against OpenAI or Microsoft specifically regarding 'synthetic data training' before the end of the next earnings cycle.",
       "grounded": true,
       "status": "too_early",
-      "note": "Fresh headlines discuss Microsoft's success stories and general AI concepts rather than a landmark lawsuit regarding synthetic data training."
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The Philadelphia Semiconductor Index (SOX) will finish the month down at least 8% as capital rotates out of high-growth tech into short-duration debt.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new information was found regarding the performance of the Philadelphia Semiconductor Index (SOX) for the specified period."
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "The Saudi Tadawul index will experience intraday swings of at least 2% for the next five trading sessions until a formal de-escalation is confirmed.",
       "grounded": true,
       "status": "too_early",
-      "note": "There is no current data or headline available to track the intraday swings of the Saudi Tadawul index following the attacks."
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
