@@ -6,42 +6,54 @@
       "headline": "New ultra-fast chips arrive to break the AI data bottleneck",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSWlERV9RTG5qM0RKNE80dUFkaFdVUFNNTzFWSG41RVQweEhTN1E3X0N3aU9xLW1CZjdYMnpPZkZPWmNqYzE3ckFMdnF1WU5JcC12UE5ZVkE1MVhUN1pRRkFPT0FsRnFmanQ1anZYYkRhN0hwMGQ2TngzYXNQQm9pQjM3RTNZRFhaY2FsUTVmMnlNVlhIRGgzX0J1ZHRudjBVZDR5dE9yeUF4akVhdWxyX1JEU2dtUQ?oc=5",
       "prediction": "Marvell will secure at least two major hyperscaler 'design wins' for optical chiplets by the end of Q4 2026.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "The White House plans a federal 'AI Force' and Czar",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWpMdlgxOFkzTjJRSld4OE1Xb2JZY1ZDdjFGSC1vUFctZTR2cUtSdDJEWU53YVcyeE1abkNIWndBcHJVaVB2VjhVY09KanpZUm1TUjVZeV9mSHNvWFJFakhCZ3RQQl9FNWNQUmtpN1FXMWNFSTZxNWxMXzBmaTZyV1FSN3BucTh6eE5Dd1VxRllMX05WQlZiaWZHeVp1TGZyQzRMaUQyRGVQZU1LeHhKSnpB?oc=5",
       "prediction": "The AI Czar will issue a formal directive classifying 'GPU clusters over 10^25 FLOPs' as critical national infrastructure within the first 100 days.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "Google is writing the rules for its own AI regulation",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcnRCNjZod1BNNFhUVzU4WWJfWW90VnE3VDc5Q08wQjYzTkp6M3ZBa21XQWR3Zk9HN0NBazZvWEUxZ3U2Y0JDNHBveTBZc1FqUG4zWkNEU3diXzdWTTB5NVlOY01jd0twUlYxN0g4VjNrVmNKd0oyVW9oYzFsdlRwR203dWVELVBO?oc=5",
       "prediction": "At least three US states will pass AI governance bills by mid-2027 that contain verbatim paragraphs from Google's proposed frameworks.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "High-paying tech jobs continue to vanish despite the AI boom",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPS05sRzVaTWZ2Vjd3UUpPTm9MRHYwQk5SSVJidkxEV0dOSHA3MzlGZkloVHV5b3VUYUdUU0pzTTQ1RlpIVHY5Vy13RHVmX0ZjeXhpUHNETUg1MjdxSnFsMEdwazMzYl96cVdxS0t3emx2b1VEUm9rMkYtRnQwWU4wQXVvRE5SeE1ZUmZwY0JpRUxKbmtyaHVEdVhma3pENVdINlB3RXNuNTRVUWlJeVpvcDk0UXlUbkprQWJZSnhxNTZjOWdBZHZlUlBqS0RhZmlpNlU1ZDdQajg5VC1SUHB2WTZZZjNKbjFoVzc4UTJSX2c4LVUzaHdVV3Zxdm1pdDQ?oc=5",
       "prediction": "Total headcount at 'Magnificent Seven' firms will end 2026 lower than it started, despite record-breaking revenue and AI deployment.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
       "headline": "AMD joins the exclusive $1 trillion club as AI fever grows",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SaGJvMThYUVlDY2hQVmVIQlRtMFR5YTBROTJhTW0weGRsYTlyQmJjNTF6UlE1MUE0UTFvZGtTQnNOMk9jUVR4WVZrYzI1X09CT29EU2ZDbUZ4QmFzOGdpbGJxaTZrODcybUE5Qm95cGbSAXZBVV95cUxOWmpqeFFKbWUwd04ybDU0MmFRdW9GVHpEN3pkUmkyR3M2SlBKeWo0Ti1TRUJGaHB4ZGRCSmQzUXhudEUxUVBmdEp0X2ttQmp4QmhwQXdNZ0JIZ0RIMWFXSm1MUG1hRXJWVVZfMDA2d2UyRFprMGpR?oc=5",
       "prediction": "AMD will maintain a $1T+ market cap through its next two earnings reports as AI chip revenue guidance is revised upward.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
       "headline": "The stock market boom is funding a massive 'retirement party'",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ3JPSHdETnJXclRUUmFwdUE3NFF3TDYtekR4MWgzNlUxbjZCLTBTcTBqbzJ1U2dNQmxsZ2xrUm5hWFhiQTFLd21QS0d3WUI4bjFLT045R1MtOEFOTUlRN2NScUpReUNpYzIwR0ZuTlh3MEZ5V25xaE00ZzUzY0ZUeFh5M0FKcF9SOE40RUJZaW5XdTdBNjJ3aUVIQ1bSAaIBQVVfeXFMTzdTVzVxd2J5SERkc1dQOE1ROTV0TVIyWHQ3eC1JMmpTemtOY3gtUmthSWM1NmpOdUxoMHkzWnNpVmlOeU10b3FSSUlDcnlDUktJMjRvRUZQVTFUQkVyeU9iWjdNODI4WVdCUHFOVUFNSnVmWXdybENGZUNFa3hucUVheWlleWNhaXpLOGlYUGlBM28tbF9RX0JndF92Qk43aGFn?oc=5",
       "prediction": "US labor force participation for the 55-64 demographic will drop by at least 150 basis points by the end of 2026.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
