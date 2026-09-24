@@ -8,7 +8,7 @@
       "prediction": "Marvell will secure at least two major hyperscaler 'design wins' for optical chiplets by the end of Q4 2026.",
       "grounded": false,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "While Q3 2026 earnings and analyst reports show strength in AI data infrastructure, they do not specifically confirm the status of the two required hyperscaler design wins."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "The AI Czar will issue a formal directive classifying 'GPU clusters over 10^25 FLOPs' as critical national infrastructure within the first 100 days.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "No headlines were provided regarding the creation of an AI Force or the specific classification of infrastructure based on FLOPs."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "At least three US states will pass AI governance bills by mid-2027 that contain verbatim paragraphs from Google's proposed frameworks.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "There is no information provided about the passage of state-level AI bills or their textual similarities to Google's proposed frameworks."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Total headcount at 'Magnificent Seven' firms will end 2026 lower than it started, despite record-breaking revenue and AI deployment.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "The headline provided regarding memory cycles contains no data on the 2026 headcount changes for 'Magnificent Seven' firms."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "AMD will maintain a $1T+ market cap through its next two earnings reports as AI chip revenue guidance is revised upward.",
       "grounded": false,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "Today's headlines focus on Nvidia and industry-wide capital expenditures, leaving AMD's market cap and revenue guidance unaddressed."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "US labor force participation for the 55-64 demographic will drop by at least 150 basis points by the end of 2026.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "The provided headline regarding SNAP benefits does not contain information on labor force participation rates for the 55-64 demographic."
     },
     {
       "section": "markets",
