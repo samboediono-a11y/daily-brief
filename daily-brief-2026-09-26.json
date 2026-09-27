@@ -8,7 +8,7 @@
       "prediction": "Look for a joint 'AI Safety Manifesto' signed by the leaders of the top three AI labs to be published by the end of Q3.",
       "grounded": false,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "No new information was provided regarding the publication of a joint AI Safety Manifesto."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "European tech stocks will underperform the Nasdaq by at least 4% over the next two quarters as regulatory uncertainty halts training cycles.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "The provided headline is dated prior to the prediction and lacks specific comparative data for European versus Nasdaq tech stocks."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "At least one 'Magnificent 7' member will announce a headcount reduction of 10% or more by the 2026 annual report cycle.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "No fresh headlines were found regarding headcount reductions or layoffs at Magnificent 7 companies."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Expect a 30% spike in 'O-1' visa applications within 90 days as firms scramble to bypass the H-1B fee for top-tier talent.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "There is no new information available concerning O-1 visa application volumes or H-1B fee impacts."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The Dow will see a 2% volatility swing within 48 hours of the next official State Department briefing on the '10-day' timeline.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "No headlines were provided regarding State Department briefings or subsequent Dow volatility related to Iran."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "Foreign ownership of the S&P 500 will hit a fresh record high in the next Federal Reserve flow-of-funds report.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "Headlines discuss high foreign investment and a 'Sell America' trend, but do not confirm the specific results of the next Federal Reserve flow-of-funds report."
     },
     {
       "section": "markets",
