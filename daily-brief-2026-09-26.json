@@ -6,42 +6,54 @@
       "headline": "AI Pioneers Say Don't Fear the Robot Apocalypse",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CTHB1M2F2YVhYbDN1eC1TOG52TkZ5QVJpZmpWbGEzeGxSWEJIZzhkOFNXYVNTd0R2VFJtdF8tNnNvbl9sQVQ5Sk1xaVRIcTdnRnN3MFBYbkh4eGc?oc=5",
       "prediction": "Look for a joint 'AI Safety Manifesto' signed by the leaders of the top three AI labs to be published by the end of Q3.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "European Leaders Push for an AI Development Slowdown",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTVFDMjRoZm1iZG9ZNmxhdWh5YnZtaWtIMlphUjZkcHVPTDQ3NTY5VkF0SkdaZWRYakxVMnRudlRoVW1BbmNhbEEwdzZhMGFKcUhZdTR2ZncxamJNWjN2Mlk3bTEzbzc0RlppNmEtRXRwdE5xTmFPVlZrMTF5MG56emxEYkxvNmg1aUVFU3JDRzkxbDlMVU5NVGctM0RVX3VaVXI3THY3VERNSmppQ0t4VmN2TnlEci1qeFBWSUlTeEc?oc=5",
       "prediction": "European tech stocks will underperform the Nasdaq by at least 4% over the next two quarters as regulatory uncertainty halts training cycles.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "Major Tech Players Continue Shedding Jobs in 2026",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNFlNaFV5cWQ3bUJRZWZUVkhDLTNjX2I2Y1Z4WHRBeFc3cDNEWFpneXRadjB4d3JhaDVnNVI4cm1ZUzlUZ2dWektUQzBvam5kQ1dkeFptbHJOd215aTNoZzNDMXJuTEtRVjlTbkVVb09faGRDNUNLMUkwUS1fZ2VqVURLTnpBaEdCT3NaLVZhcTdTbXZqTEFVRmRyR0FlaHo0ckZ4blFpRWhZRU54aG0zQnViMkkwSDRTbm82UDBxZ1NiT0NaT2FWN3k4X05iTkNSVXg1OV90LVQ2dkM0VEk2WnNUbnlaUzE5R1FrdmN2VjBLZWJDN2hpVg?oc=5",
       "prediction": "At least one 'Magnificent 7' member will announce a headcount reduction of 10% or more by the 2026 annual report cycle.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "New H-1B Visa Fees Hit Six Figures Per Hire",
       "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNOWNSSnV3Z2NGbE5VcW1FS1JnYllXd1k3NVUzMURhWW5IenV1Qm5xLUhvUmIta2FvWlVjV3dIRWJobWRJVHZnY3k3UFN6ZjhPSk5uaGxpc0lzY0VZYjVJdS1KTFdnUDR1c195WHRxZmNoTy0wVkh2TU5pNkptNFlkR1lNcXd2dU1xbk9abEVDTk5uSzlFeG9BZms1dkNlS2NEMHczaEczc0FWWGFYWTJWZzMtMG9MT2daUnhrX2VIa3dLWEhhRHpiQzFieEZJVF8ySk9ubTE0bXp2TDVjSHVYV1ppbVN4LWl5QzA3S3R2dm5wY3FzbEt6VExBcGk0T1ZtVTZTbnduWFM1LWFSaTJzcC1CdXV6eERRZVhmV0xOeGlQd9IBpwJBVV95cUxNWW5sYUVOc1hIaC1YX1ZfWTJrZTU0bjJMX1Q4OGREUEZNdmk2dDJNN2l5MGNzZGhaVnNpa00yZ216NHMtWkxzeGpTUmdFY3ptekZubWp4R0ZDRjcyMkszRzgwV29pd0Z5N2MtQmpEdDdFd1hOSnRudjFvMXlTcEN0Q2hlMy1BSkF0ZzJwOFBoWW5XZFI0di1ubzVGVVhIU1c4TGNNUXQ5bTNrSDB2aFg4alZ1bng2UzBYUDBfZVplVFNtaGFJS0xkLU8zdUo5dEhWT0ROOXFHSTlXY1F1VGRmY1QybjIzemFGVkdIb3dIa1VDRnpud2RPNmR3Vmo2WmN0TzBhdEpJcHp3QjhsTUxXd2pVS2tmbGstUGkyMnIwU1J4UWRaR3A4?oc=5",
       "prediction": "Expect a 30% spike in 'O-1' visa applications within 90 days as firms scramble to bypass the H-1B fee for top-tier talent.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
       "headline": "Peace Hopes in Iran Send Dow Up 450 Points",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUt4anAzd1ZIM3QwazRETDFQblluVGJRMzA4Qkl5MFZwYXFZaWtxWmotY05JYmtpQ1BZUDl3XzVsRHJ5c243RkdtOWRHVDBidUNsRFdFV1VtWXdkRnhTcW1jVjdCaGE2TGs0c2lEVnFSRTh1OUhuLXV1OXVaVFk3Wi1KaC1oNGpiLUdVY3pxYWFRYlZfZTFSV3hiUUJrNW15N3d0VXdCVFJlS1g5amp4ekxZN0pnb2s?oc=5",
       "prediction": "The Dow will see a 2% volatility swing within 48 hours of the next official State Department briefing on the '10-day' timeline.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
       "headline": "Foreign Cash Floods US Stocks at Record Pace",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR3M3ckgzUlJNU0tHclZub1BfQXFCWlJpNnNUbWZMcGJXLTFLM3dZbE1TVWczMDNRMGFfZ3k0SzdKeFhrUHJOV2QyazhCV1hqTFZkZk9ySU51bWt2WFpGZlFNMXhnU29PNVVBWVdwcnBsbzJxTm05bzlubUludnQtNjJPdWI?oc=5",
       "prediction": "Foreign ownership of the S&P 500 will hit a fresh record high in the next Federal Reserve flow-of-funds report.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
