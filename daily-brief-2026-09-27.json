@@ -8,7 +8,7 @@
       "prediction": "Expect a double-digit increase in Canadian satellite office expansions by major U.S. tech firms before the end of 2026.",
       "grounded": true,
       "status": "too_early",
-      "note": "The provided headlines regarding energy and general economic forecasts do not mention U.S. tech satellite office expansions in Canada."
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "Meta or TikTok will report record revenue-per-employee metrics in their next annual report, outperforming 2021 levels by at least 20%.",
       "grounded": false,
       "status": "too_early",
-      "note": "General social media and marketing reports for 2026 are present, but they lack specific revenue-per-employee data for Meta or TikTok."
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "No binding AI 'timeout' will be adopted by the EU Commission, but a new 'AI Safety Levy' on non-EU providers will be proposed by Q3.",
       "grounded": false,
       "status": "too_early",
-      "note": "No new information was found to determine the status of the EU Commission's stance on an AI timeout or a proposed Safety Levy."
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Toyota will outperform pure-play EV competitors in stock growth through 2025 as their hybrid-heavy lineup maximizes cash flow.",
       "grounded": true,
       "status": "too_early",
-      "note": "The single headline provided focuses on Ford and does not contain comparative stock performance or hybrid sales data for Toyota."
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "Retail trading volume as a percentage of total US market volume will drop to its lowest level since 2019 by year-end.",
       "grounded": false,
       "status": "too_early",
-      "note": "Fresh headlines cover consumer themes and used vehicles but do not provide data on the retail share of total U.S. market trading volume."
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
@@ -52,8 +52,8 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR3M3ckgzUlJNU0tHclZub1BfQXFCWlJpNnNUbWZMcGJXLTFLM3dZbE1TVWczMDNRMGFfZ3k0SzdKeFhrUHJOV2QyazhCV1hqTFZkZk9ySU51bWt2WFpGZlFNMXhnU29PNVVBWVdwcnBsbzJxTm05bzlubUludnQtNjJPdWI?oc=5",
       "prediction": "Foreign net purchases of U.S. equities will hit another record high in the next semi-annual reporting period.",
       "grounded": true,
-      "status": "held_up",
-      "note": "Headlines from the Financial Times and Seoul Economic Daily explicitly confirm that foreign net purchases of U.S. equities hit record highs."
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
