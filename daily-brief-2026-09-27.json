@@ -6,42 +6,54 @@
       "headline": "Tech giants panic as visa fees skyrocket to six figures",
       "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNOWNSSnV3Z2NGbE5VcW1FS1JnYllXd1k3NVUzMURhWW5IenV1Qm5xLUhvUmIta2FvWlVjV3dIRWJobWRJVHZnY3k3UFN6ZjhPSk5uaGxpc0lzY0VZYjVJdS1KTFdnUDR1c195WHRxZmNoTy0wVkh2TU5pNkptNFlkR1lNcXd2dU1xbk9abEVDTk5uSzlFeG9BZms1dkNlS2NEMHczaEczc0FWWGFYWTJWZzMtMG9MT2daUnhrX2VIa3dLWEhhRHpiQzFieEZJVF8ySk9ubTE0bXp2TDVjSHVYV1ppbVN4LWl5QzA3S3R2dm5wY3FzbEt6VExBcGk0T1ZtVTZTbnduWFM1LWFSaTJzcC1CdXV6eERRZVhmV0xOeGlQd9IBpwJBVV95cUxNWW5sYUVOc1hIaC1YX1ZfWTJrZTU0bjJMX1Q4OGREUEZNdmk2dDJNN2l5MGNzZGhaVnNpa00yZ216NHMtWkxzeGpTUmdFY3ptekZubWp4R0ZDRjcyMkszRzgwV29pd0Z5N2MtQmpEdDdFd1hOSnRudjFvMXlTcEN0Q2hlMy1BSkF0ZzJwOFBoWW5XZFI0di1ubzVGVVhIU1c4TGNNUXQ5bTNrSDB2aFg4alZ1bng2UzBYUDBfZVplVFNtaGFJS0xkLU8zdUo5dEhWT0ROOXFHSTlXY1F1VGRmY1QybjIzemFGVkdIb3dIa1VDRnpud2RPNmR3Vmo2WmN0TzBhdEpJcHp3QjhsTUxXd2pVS2tmbGstUGkyMnIwU1J4UWRaR3A4?oc=5",
       "prediction": "Expect a double-digit increase in Canadian satellite office expansions by major U.S. tech firms before the end of 2026.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The provided headlines regarding energy and general economic forecasts do not mention U.S. tech satellite office expansions in Canada."
     },
     {
       "section": "tech",
       "headline": "Efficiency over headcount remains the 2026 tech mantra",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNFlNaFV5cWQ3bUJRZWZUVkhDLTNjX2I2Y1Z4WHRBeFc3cDNEWFpneXRadjB4d3JhaDVnNVI4cm1ZUzlUZ2dWektUQzBvam5kQ1dkeFptbHJOd215aTNoZzNDMXJuTEtRVjlTbkVVb09faGRDNUNLMUkwUS1fZ2VqVURLTnpBaEdCT3NaLVZhcTdTbXZqTEFVRmRyR0FlaHo0ckZ4blFpRWhZRU54aG0zQnViMkkwSDRTbm82UDBxZ1NiT0NaT2FWN3k4X05iTkNSVXg1OV90LVQ2dkM0VEk2WnNUbnlaUzE5R1FrdmN2VjBLZWJDN2hpVg?oc=5",
       "prediction": "Meta or TikTok will report record revenue-per-employee metrics in their next annual report, outperforming 2021 levels by at least 20%.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "General social media and marketing reports for 2026 are present, but they lack specific revenue-per-employee data for Meta or TikTok."
     },
     {
       "section": "tech",
       "headline": "European tech leaders call for a deliberate AI timeout",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTVFDMjRoZm1iZG9ZNmxhdWh5YnZtaWtIMlphUjZkcHVPTDQ3NTY5VkF0SkdaZWRYakxVMnRudlRoVW1BbmNhbEEwdzZhMGFKcUhZdTR2ZncxamJNWjN2Mlk3bTEzbzc0RlppNmEtRXRwdE5xTmFPVlZrMTF5MG56emxEYkxvNmg1aUVFU3JDRzkxbDlMVU5NVGctM0RVX3VaVXI3THY3VERNSmppQ0t4VmN2TnlEci1qeFBWSUlTeEc?oc=5",
       "prediction": "No binding AI 'timeout' will be adopted by the EU Commission, but a new 'AI Safety Levy' on non-EU providers will be proposed by Q3.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No new information was found to determine the status of the EU Commission's stance on an AI timeout or a proposed Safety Levy."
     },
     {
       "section": "tech",
       "headline": "Car makers retreat from pure electric to hybrid bets",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wS05QQW1RemlBaEY5TXMydkROd3dzQ0xBVndpRTAyZkpVblNTM0ltRFZCdDRRb0dkNE54bUN0RXZ2c2E0aERhQmotdjh1WVNPZlVrVXFEb0czWUpCaWlCN0ZZdktSNTNMejZ5OW8ydUFVVl8yb2t6YlBsONIBgAFBVV95cUxNUDE5REZobnBEZS16VmNwSWdhd21DSjBlQmxudTY5V0JFcVoyeEoyZllMX3VlbkE4OWtCOEpoX2lEdTJ6Mk41U1F5Y00zU1VUZFVKaWlyYUk2Qk9zR2t0ZjBlUS1iVkl4MndqNmUwS2IxeGhQMzF5TTkwTVV3WkJQQQ?oc=5",
       "prediction": "Toyota will outperform pure-play EV competitors in stock growth through 2025 as their hybrid-heavy lineup maximizes cash flow.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The single headline provided focuses on Ford and does not contain comparative stock performance or hybrid sales data for Toyota."
     },
     {
       "section": "markets",
       "headline": "Professional money managers reclaim control from retail crowds",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOHBKUmRybGt2SXBxRE9PS21SR2RtYzdRcUtMWldYRmRrdXBFVWhZRDFIUTdaVzd4czRFZkxoQkpPcnYxMjItdVBIZ1dVc2Q0aEtyMFh4clFremphUWVoOGQtRVdSVzRtbkhrN2tTQzg4em43WnVocHd5UUFMRTl5bkZiN0NqcDZuRC01TURoRHpUX3RJLUHSAZsBQVVfeXFMUFN0NTBJc2dyX0ZhSmhFNjNETDBDNWVGNFBINnB5aUozdEhWbFBNQ3FjZWowZS1ha1pya3Y5M2hWTW9tSEN1NjA2T3RaOGlpTnowLWRWQlRmU2JjMlNnRm9keS1KRXozZFlBNkNpUUtvODFUUk9yVnFxUVE1NnJxdUZGSVlHMjVKRlcyZVlSdE5WcUY0TWNTdVJ2dHc?oc=5",
       "prediction": "Retail trading volume as a percentage of total US market volume will drop to its lowest level since 2019 by year-end.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Fresh headlines cover consumer themes and used vehicles but do not provide data on the retail share of total U.S. market trading volume."
     },
     {
       "section": "markets",
       "headline": "Foreign investors pour record cash into American stocks",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR3M3ckgzUlJNU0tHclZub1BfQXFCWlJpNnNUbWZMcGJXLTFLM3dZbE1TVWczMDNRMGFfZ3k0SzdKeFhrUHJOV2QyazhCV1hqTFZkZk9ySU51bWt2WFpGZlFNMXhnU29PNVVBWVdwcnBsbzJxTm05bzlubUludnQtNjJPdWI?oc=5",
       "prediction": "Foreign net purchases of U.S. equities will hit another record high in the next semi-annual reporting period.",
-      "grounded": true
+      "grounded": true,
+      "status": "held_up",
+      "note": "Headlines from the Financial Times and Seoul Economic Daily explicitly confirm that foreign net purchases of U.S. equities hit record highs."
     },
     {
       "section": "markets",
