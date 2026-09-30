@@ -8,7 +8,7 @@
       "prediction": "At least two major global semiconductor players will announce new fabrication joint ventures in India by the end of Q4 2025.",
       "grounded": false,
       "status": "too_early",
-      "note": "Headlines discuss India's tech policy planning but do not provide updates on the status of semiconductor fabrication joint ventures."
+      "note": "While headlines discuss India's tech policy planning, they do not mention any specific semiconductor joint venture announcements."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "A new ISO-style certification for 'Agentic AI Safety' will become a mandatory requirement for Fortune 500 tech procurement by mid-2026.",
       "grounded": true,
       "status": "too_early",
-      "note": "No news was found regarding the development or requirement of an 'Agentic AI Safety' certification for tech procurement."
+      "note": "No fresh headlines were found regarding the creation or implementation of an 'Agentic AI Safety' certification."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "S&P 500 tech sector margins will reach a 5-year high by the end of 2025 as headcount-to-revenue ratios continue to plummet.",
       "grounded": true,
       "status": "too_early",
-      "note": "Headlines confirm that tech layoffs persist into 2026, but provide no specific information on S&P 500 tech sector margins."
+      "note": "The provided headlines offer general stock market outlooks for 2026 but do not contain specific data on S&P 500 tech sector margins or headcount-to-revenue ratios."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Ukrainian defense-tech startups will secure over $500M in Western venture capital funding by the end of 2025.",
       "grounded": true,
       "status": "too_early",
-      "note": "The fresh headlines do not mention funding levels for Ukrainian defense-tech startups, focusing instead on French and U.S. companies."
+      "note": "Headlines discuss a general defense boom and drone manufacturer valuations but do not provide specific venture capital funding figures for Ukrainian startups."
     },
     {
       "section": "markets",
@@ -43,8 +43,8 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQODhVaklOeWxwTzlmNzFhOVNJbklKakh1cnBSQWdqX2lEbWZldjlCOWhmaWEtb0FzaE9hTkV0SWpfVUR1cjlVNzROWUhlNDE2SnJmclFfWGRtT3FESmNrb05ENWxHZnJSYWswcHFPdGVpa3FPOTY5WjFzQmtubFd4OEY5MVBXMmtZUWhNN0Vzd3Npcm5S?oc=5",
       "prediction": "The 10-year Treasury yield will test and exceed 5.5% before the end of the current fiscal year.",
       "grounded": true,
-      "status": "held_up",
-      "note": "Reports of the 10-year yield breaking 5% and hitting a 19-year high support the prediction that rates are on track to test 5.5%."
+      "status": "too_early",
+      "note": "Fresh headlines indicate the 10-year yield is reaching its highest level since 2007 and suggest bracing for 5%, which is still below the predicted 5.5% threshold."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "Anthropic will announce a major partnership to integrate Claude into a Tier-1 legacy ERP provider (like SAP or Oracle) within the next six months.",
       "grounded": false,
       "status": "too_early",
-      "note": "There is no information in the fresh headlines regarding a partnership between Anthropic and legacy ERP providers like SAP or Oracle."
+      "note": "There is no new information available in the fresh headlines regarding partnerships between Anthropic and legacy ERP providers."
     },
     {
       "section": "markets",
