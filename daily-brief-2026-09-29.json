@@ -6,42 +6,54 @@
       "headline": "India earmarks $25 billion to join the deep tech race",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaGlZbkRnLVIxY1JlNTFFMTRPRjA2V3FGRW9mT0pqNHhBeFVuTm1lbWNrNUJUb1VRdDkxd3dqNVp1Mm9Yd2JwTVpQTms4NW80elRVMW9aa1REeUtES2Fxd0VUc0FXbnloakVHN19sdzdJRXNLUURzWVQyQV9hYWJ3ZDRNOENnZw?oc=5",
       "prediction": "At least two major global semiconductor players will announce new fabrication joint ventures in India by the end of Q4 2025.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Headlines discuss India's tech policy planning but do not provide updates on the status of semiconductor fabrication joint ventures."
     },
     {
       "section": "tech",
       "headline": "Tech giants form alliance to secure autonomous AI agents",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdHE0d2gzM01iemFhOXdLNVRvSFduVDhrS1JfdHNIQXhUZXpSeEpybExTTDZJRzIwNUFLTUFqd2M4UXhuYjdzbTRmZkZhc1pIWHIwejVWaEgzT0EwTGwxdTJNWHJtVEl5blV1M09xcmFVb1RuY0FMaWVCcExUcGp6ZnFfU1AzT1VQT2c1dXdENHhtZDV2M081ZHBncHlxVXBtbGR2NWJUblJvOFczYVZqcXJNcUM0Zw?oc=5",
       "prediction": "A new ISO-style certification for 'Agentic AI Safety' will become a mandatory requirement for Fortune 500 tech procurement by mid-2026.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No news was found regarding the development or requirement of an 'Agentic AI Safety' certification for tech procurement."
     },
     {
       "section": "tech",
       "headline": "Tech layoffs persist into 2026 across major industry players",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeFpNZ3dBa3BXenpibDJuVnlxR3N3UlpHeS1ONkpIcTVGdy14UXFJR0U3NkRadUJsN3ZxM003LXlVZ2NMM2pmR1pHcGdxQ3pJanBDUWRRbkMzOFkzenM1TlQ1dVRobE5aTlR2Z21LV1ZfYXd6a0RISUl6V0J4V1ZoZ1FUZUxrWFFvUVFtLWx4d1Bpc3F5TVk5dEZNRWM5OHhvc1kzNzBlaGd3eDVVN2VFSHh1ejNVejZGTXVjVlJiQWdPckxkWHdqOFc5ZmpjUEwtTUowMnNnVXVDMkVIRmZvaUdVbG9MSDhuUU5qbkNoUXNpaHZZ?oc=5",
       "prediction": "S&P 500 tech sector margins will reach a 5-year high by the end of 2025 as headcount-to-revenue ratios continue to plummet.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Headlines confirm that tech layoffs persist into 2026, but provide no specific information on S&P 500 tech sector margins."
     },
     {
       "section": "tech",
       "headline": "Ukraine\u2019s resilient tech sector becomes a global defense laboratory",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSE15OVE2WnVRcHdSa3dyV3ZUY3pBa1BiX0JfRmxJdzJRTDQ5cjVUTnd0bU1NOUw2NEMydDJVbWF2RzNxMWRxaXJ1dm0tdXNUZVlOX2xObDV0TWRUVHBpZEMyb2c1THFRaEdVdmZJc1N6TE8wT3RmUzhYMk5MTEd5Mkd4VnBpRTdL?oc=5",
       "prediction": "Ukrainian defense-tech startups will secure over $500M in Western venture capital funding by the end of 2025.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The fresh headlines do not mention funding levels for Ukrainian defense-tech startups, focusing instead on French and U.S. companies."
     },
     {
       "section": "markets",
       "headline": "Long-term bond yields surge to 24-year highs",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQODhVaklOeWxwTzlmNzFhOVNJbklKakh1cnBSQWdqX2lEbWZldjlCOWhmaWEtb0FzaE9hTkV0SWpfVUR1cjlVNzROWUhlNDE2SnJmclFfWGRtT3FESmNrb05ENWxHZnJSYWswcHFPdGVpa3FPOTY5WjFzQmtubFd4OEY5MVBXMmtZUWhNN0Vzd3Npcm5S?oc=5",
       "prediction": "The 10-year Treasury yield will test and exceed 5.5% before the end of the current fiscal year.",
-      "grounded": true
+      "grounded": true,
+      "status": "held_up",
+      "note": "Reports of the 10-year yield breaking 5% and hitting a 19-year high support the prediction that rates are on track to test 5.5%."
     },
     {
       "section": "markets",
       "headline": "Anthropic reaches $2 trillion valuation despite broader market jitters",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVGttNkJwVThQcXBWSFJCbnQxUGtpVFRBa3N0MEZWMlFscGhJdlRXQ2g1MFhScXRUc1JNYmxmU0VOeGR5b19QTFF4WTNtNjZsengzT244MkZxOWRMMldoVWVsMW4xSUlUT2FRdk5wYlJadnlEMy1nem5vQVN0RWNLZDMzZ0kyWFBsV0o5dlVEcWg3bldlVmpr?oc=5",
       "prediction": "Anthropic will announce a major partnership to integrate Claude into a Tier-1 legacy ERP provider (like SAP or Oracle) within the next six months.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "There is no information in the fresh headlines regarding a partnership between Anthropic and legacy ERP providers like SAP or Oracle."
     },
     {
       "section": "markets",
