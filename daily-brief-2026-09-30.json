@@ -8,7 +8,7 @@
       "prediction": "Expect at least three major federal land-use or power-grid fast-track approvals for AI data centers to be announced before year-end.",
       "grounded": true,
       "status": "too_early",
-      "note": "Fresh headlines discuss datacenter moratoriums and project freezes in Texas, providing no evidence of the predicted federal fast-track approvals."
+      "note": "Fresh headlines discuss state-level moratoriums and audits rather than confirming federal fast-track approvals for AI data centers."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "India will sign at least two major semiconductor or advanced materials joint ventures with global partners by the end of Q1 2025.",
       "grounded": false,
       "status": "too_early",
-      "note": "Headlines discuss India's semiconductor ambitions and global trade updates but do not reference the signing of two specific joint ventures by Q1 2025."
+      "note": "Headlines discuss India's semiconductor ambitions and global competitiveness but do not mention the signing of specific joint ventures."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "Anthropic's S-1 filing will reveal a net loss for the trailing twelve months exceeding $2 billion, forcing a downward revision of its private valuation.",
       "grounded": true,
       "status": "too_early",
-      "note": "The provided news discusses Anthropic's profitability path and private fund estimates but does not mention an S-1 filing or a $2 billion loss."
+      "note": "The provided headlines analyze Anthropic's path toward profit but do not mention an S-1 filing or a $2 billion net loss."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Apple Intelligence will be the primary driver of a record-breaking Q4 iPhone revenue surprise, exceeding current analyst consensus by at least 5%.",
       "grounded": false,
       "status": "too_early",
-      "note": "No fresh headlines were provided to evaluate Apple's Q4 iPhone revenue or the impact of Apple Intelligence."
+      "note": "The fresh headline is a general investment comparison and does not contain information regarding Apple's Q4 iPhone revenue."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The S&P 500 will hit a new all-time high before the November election, followed by a sharp 'sell the news' correction.",
       "grounded": true,
       "status": "too_early",
-      "note": "While headlines mention market risks and warnings for 2026, they do not confirm a pre-election all-time high or a subsequent 'sell the news' correction."
+      "note": "Headlines warn of market drawdowns and technical warnings in 2026 but do not confirm if the S&P 500 reached a new high before the election."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "Oura will announce a major strategic partnership with a global insurer or a big-tech firm like Google by Q2 2025 to bolster its 'healthcare platform' credentials.",
       "grounded": false,
       "status": "too_early",
-      "note": "No information was provided regarding Oura's strategic partnerships or its development as a healthcare platform."
+      "note": "No fresh headlines were provided to provide information on Oura's strategic partnerships."
     },
     {
       "section": "markets",
