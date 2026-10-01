@@ -6,42 +6,54 @@
       "headline": "Trump and AI leaders agree to voluntary industry safety rules",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbnRqUzdYZGRGeF82aU9Kc3BzNk9rLWZwTjJBNWhVNTRfcXU1UEtWWC1XNndCWGNHZDZhekREX2k4bUg1VjNNLUpMSV82U281RTJqMUZjMjFVRzhXaGZ1Q1B0TG9XWG9OVFBHSGZlZnZmX3lBcHp0a2Nrb3daZGliamtZY2kwNUEtRm9Mb092bDVxemtaVGlRME5WM2xXRHZOX25IQWk2cURXc09paHJVNEdmT1Q4UTg?oc=5",
       "prediction": "Expect at least three major federal land-use or power-grid fast-track approvals for AI data centers to be announced before year-end.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Fresh headlines discuss datacenter moratoriums and project freezes in Texas, providing no evidence of the predicted federal fast-track approvals."
     },
     {
       "section": "tech",
       "headline": "India launches $25 billion fund to fight for tech dominance",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaGlZbkRnLVIxY1JlNTFFMTRPRjA2V3FGRW9mT0pqNHhBeFVuTm1lbWNrNUJUb1VRdDkxd3dqNVp1Mm9Yd2JwTVpQTms4NW80elRVMW9aa1REeUtES2Fxd0VUc0FXbnloakVHN19sdzdJRXNLUURzWVQyQV9hYWJ3ZDRNOENnZw?oc=5",
       "prediction": "India will sign at least two major semiconductor or advanced materials joint ventures with global partners by the end of Q1 2025.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Headlines discuss India's semiconductor ambitions and global trade updates but do not reference the signing of two specific joint ventures by Q1 2025."
     },
     {
       "section": "tech",
       "headline": "AI startup Anthropic prepares for a landmark public offering",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX052MC1jLUZIY3dvZFMzWmdrMnFTa1RFWjJkUlhtV0dlZkV2NS1ocnRFbkUyRHJtQVE4clRJdUZsVVk0MHF3Y2oyUVVRczhGcGl5dlVxdGlfSTFTOUNlSTZLR2U0VmdsckhFLVpwLUlyOXUweUF6c0xvci1rY1RpdjVJV0NPeDNxWjMxRmpsa1VHUElRaGdNOXBwaw?oc=5",
       "prediction": "Anthropic's S-1 filing will reveal a net loss for the trailing twelve months exceeding $2 billion, forcing a downward revision of its private valuation.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The provided news discusses Anthropic's profitability path and private fund estimates but does not mention an S-1 filing or a $2 billion loss."
     },
     {
       "section": "tech",
       "headline": "Apple\u2019s slow AI strategy was a calculated move, not a delay",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYTYxRklueFlSaXR6SWs1OGI3VHpuLXVZQW5yVEVXM3hKb1dSZFVHU0FwSGdpUTk4cmNtbTlPODZNV3RmbWVtcVdOaUg4dXJYVVc0RWZTcUJqSWdTakZtYVdRU244eHB1UDhoWWFoMV9iTHpjNngtRVBVUGNEUHgxMHJpMDJvd0g3bFZDQUszTTd2Y2F5LWxCV2Zla3BjMFFJZXdDNw?oc=5",
       "prediction": "Apple Intelligence will be the primary driver of a record-breaking Q4 iPhone revenue surprise, exceeding current analyst consensus by at least 5%.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No fresh headlines were provided to evaluate Apple's Q4 iPhone revenue or the impact of Apple Intelligence."
     },
     {
       "section": "markets",
       "headline": "Strong GDP data and cooling inflation send stocks higher",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYnlmOHNxMElwZWFLb2pRei1URmtINlR1aS1PVWRPMmhEdmZPRnBBRFBaMXBGMjhPbE9fRVVoMnMtMFNVZ0NFd3I5dGk5c19oS1JUQy1QTGZQbTl3b3liUzJiSmlVd2Y4OTZkT2hYSDZVWnBiVmhOdmV6Qk5zMWtQd0RoWk5FRjA?oc=5",
       "prediction": "The S&P 500 will hit a new all-time high before the November election, followed by a sharp 'sell the news' correction.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "While headlines mention market risks and warnings for 2026, they do not confirm a pre-election all-time high or a subsequent 'sell the news' correction."
     },
     {
       "section": "markets",
       "headline": "Health-tech giant Oura cancels its $15 billion market debut",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1paE1zYkNVYjlJWFprMFhIT1lleEtMY1NPdW1iZUEybElCdkRraFRpU3dzY2dfd0F4NGU3SE9DM2ZBVjBuWlp3X0pUc1E5cERWUEx0c3B1V3NoVDQ?oc=5",
       "prediction": "Oura will announce a major strategic partnership with a global insurer or a big-tech firm like Google by Q2 2025 to bolster its 'healthcare platform' credentials.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No information was provided regarding Oura's strategic partnerships or its development as a healthcare platform."
     },
     {
       "section": "markets",
