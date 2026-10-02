@@ -8,7 +8,7 @@
       "prediction": "Two $10B+ hyperscale data center site approvals will be announced in 'red states' within the next 90 days.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new headlines were found to confirm or contradict the announcement of $10B+ data center sites in red states."
+      "note": "No new headlines were found regarding data center site approvals or the deal mentioned in the original headline."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "Major tech firms (FAANG level) will report record-high operating margins in the next two earnings cycles despite single-digit revenue growth.",
       "grounded": false,
       "status": "too_early",
-      "note": "Fresh headlines discuss specific company fundamentals and the broader AI boom but do not provide operating margin or revenue growth data for FAANG-level firms."
+      "note": "While headlines discuss strong fundamentals for firms like Netflix and Micron, they do not provide specific data on operating margins or revenue growth for FAANG-level companies."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "At least three more Massachusetts-based clean-tech firms will file for Chapter 11 by the end of Q1 2026.",
       "grounded": false,
       "status": "too_early",
-      "note": "Headlines mention biotech layoffs and retail store closures but provide no information on Massachusetts-based clean-tech bankruptcies."
+      "note": "The fresh headlines mention general retail closures and biotech layoffs, but contain no information about Massachusetts-based clean-tech bankruptcy filings."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "No major US retailer will report more than 5% of GMV generated via 'autonomous' shopping bots during the upcoming holiday season.",
       "grounded": false,
       "status": "too_early",
-      "note": "The provided headlines discuss the potential of AI agents in commerce but do not contain specific GMV reports from major US retailers."
+      "note": "Headlines discuss the future potential of agentic commerce and AI use cases in retail, but do not provide specific GMV figures from autonomous bots for the holiday season."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The S&P 500 will test its all-time high before the end of the month, provided the 10-year yield remains below 4.5%.",
       "grounded": true,
       "status": "held_up",
-      "note": "Headlines from PBS and ABF Journal confirm the S&P 500 hit record highs, fulfilling the prediction that the index would test all-time highs."
+      "note": "A fresh headline confirms that 'Wall Street hits record as S&P 500 continues 2-week rally,' indicating the index successfully tested its all-time high."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "The Nifty 50 index will drop another 5-7% before finding a stable bottom later this quarter.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new information was found regarding the performance or bottoming of the Nifty 50 index."
+      "note": "No new information was found regarding the movement of the Nifty 50 index or its stabilization."
     },
     {
       "section": "markets",
