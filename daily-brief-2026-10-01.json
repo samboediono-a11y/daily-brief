@@ -6,42 +6,54 @@
       "headline": "White House and AI Chiefs Strike Data Center Deal",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbnRqUzdYZGRGeF82aU9Kc3BzNk9rLWZwTjJBNWhVNTRfcXU1UEtWWC1XNndCWGNHZDZhekREX2k4bUg1VjNNLUpMSV82U281RTJqMUZjMjFVRzhXaGZ1Q1B0TG9XWG9OVFBHSGZlZnZmX3lBcHp0a2Nrb3daZGliamtZY2kwNUEtRm9Mb092bDVxemtaVGlRME5WM2xXRHZOX25IQWk2cURXc09paHJVNEdmT1Q4UTg?oc=5",
       "prediction": "Two $10B+ hyperscale data center site approvals will be announced in 'red states' within the next 90 days.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new headlines were found to confirm or contradict the announcement of $10B+ data center sites in red states."
     },
     {
       "section": "tech",
       "headline": "Tech Job Cuts Surge Past 165,000 This Year",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVUhtZVNXTTdodkIwaXVQOHVqZGFWV1NXSU8wa2dFc1NrVW1menZuMGg4MlJ2YXB5eHdqdjFkT3RHN3ZwYTdUaGt3VkVzUDJER0ZxQzdma3Z2ckdmX0JlVGhwbTk4UF9ELVV0WGVadkdIT0M2NkZJVnl3SEpJWE9tR21wa2NKaWNOV0EtSTRJcS1XSnBKM3R4d2pB?oc=5",
       "prediction": "Major tech firms (FAANG level) will report record-high operating margins in the next two earnings cycles despite single-digit revenue growth.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Fresh headlines discuss specific company fundamentals and the broader AI boom but do not provide operating margin or revenue growth data for FAANG-level firms."
     },
     {
       "section": "tech",
       "headline": "Green Energy Darling Goes Bust as Capital Dries Up",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PVlkzOEpfUlRnbDJqMGhDNnpvRm1YZG9sX1NVeHVaOHotV0wwbm9ydjRYbGoyalI5c0hOU3NuUjdJSTMzX1VaTmRmOWpsdE12eUJ2RGZLMTZ5ZFRyTm5rcWh5VlZMNXJLOVhtZWtxRWNsUE0wUjh0bQ?oc=5",
       "prediction": "At least three more Massachusetts-based clean-tech firms will file for Chapter 11 by the end of Q1 2026.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Headlines mention biotech layoffs and retail store closures but provide no information on Massachusetts-based clean-tech bankruptcies."
     },
     {
       "section": "tech",
       "headline": "AI Shopping Assistants Are Still Mostly Hype",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSmhMdDlTMl9fUzhlcXJ2RUt0ckdQSm83SG83SFcwVUU4RHZGdnZ6bzR2bnBTTTVTWmphRmI2bDhqbWtnTDAzME1BS0R2OFBJMEc2YkVobmM5ZFQtckZseWsxM3FkcjIxMkFwVWZCRTN6Vlg1b1MtLXI5emlBeGEyYWdScm5NdmVRNzRLZDRZUGxNUWFHWEtybC1USTdtQXR3YUw5eHRwUVlaU3dYY0JpWUZHRHQxNnJkMXhWY0R3?oc=5",
       "prediction": "No major US retailer will report more than 5% of GMV generated via 'autonomous' shopping bots during the upcoming holiday season.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "The provided headlines discuss the potential of AI agents in commerce but do not contain specific GMV reports from major US retailers."
     },
     {
       "section": "markets",
       "headline": "Stocks Bounce Back as Government Borrowing Costs Dip",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93ZklidXJsMkhSOG1wdXNvSzlyV0pLZmFBcnd2WWdmQXhFSmxVYzVkM1lkeHI0d3pyQmxIZFBwSXBjeFctMHNGMUh5ZTNZT2RDTjF4RmFIamxETFZHdWpNRlVnSGhWQkY2Z1M4alRPV29IMXlnamVj0gF8QVVfeXFMTU13b1AxdktDTlg5TjFGdE1HTGhmU1kzOXlZWGhLN1pMLVZuLTR4WTRFME55ell3VjhhZEh1Y0JoUE8zejFxZHlLaDIxY25LcFFrQnVPWDlEU0d6TmlRUWpXMnRuTzAxQ0dleFIyM3FrR1RhMlAzSDVFSzFTaQ?oc=5",
       "prediction": "The S&P 500 will test its all-time high before the end of the month, provided the 10-year yield remains below 4.5%.",
-      "grounded": true
+      "grounded": true,
+      "status": "held_up",
+      "note": "Headlines from PBS and ABF Journal confirm the S&P 500 hit record highs, fulfilling the prediction that the index would test all-time highs."
     },
     {
       "section": "markets",
       "headline": "Indian Stock Market Suffers Longest Slump in Decades",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2lpSGdlN0dhOTM3eUw3MlQtN183dHZydW95WXVWM2MyTEFaeTlvRUllR29aLWJxT3dvdVNmNlpzTGVldkpIMFNScVVhVEJ5TTU5TDhoVTZZWlpXbENCUHlKMWx3MmJ4bWkyU1E1OGF6Sk9YakxYcHRyM0tWdnlrX0NpQktmLU90VkRRVG5FQXdPZ3c3dFV0N0xndUdrTl9lY0xKZUJsNmY4LS1BYndDNENRZC0?oc=5",
       "prediction": "The Nifty 50 index will drop another 5-7% before finding a stable bottom later this quarter.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new information was found regarding the performance or bottoming of the Nifty 50 index."
     },
     {
       "section": "markets",
