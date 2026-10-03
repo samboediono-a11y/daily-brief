@@ -8,7 +8,7 @@
       "prediction": "At least two major 'fast-track' data center permits will be issued for federal land or under streamlined federal review by Q2 2026.",
       "grounded": true,
       "status": "too_early",
-      "note": "The fresh headlines discuss general DOE loan modernization ideas but do not mention any specific fast-track data center permits being issued."
+      "note": "The provided headline discusses general policy ideas for modernizing DOE loan programs but does not confirm the issuance of specific data center permits."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "A non-traditional defense tech startup (e.g., Anduril or Palantir) will secure a new Program of Record contract exceeding $750M before the end of 2026.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new headlines were provided to confirm or deny whether a non-traditional defense startup has secured a $750M+ Program of Record contract."
+      "note": "No fresh headlines were found to confirm that a non-traditional defense startup has secured a Program of Record contract exceeding $750M."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "Total tech industry layoffs for 2026 will surpass 200,000 as more legacy tech firms attempt to mimic the 'lean' AI-first models of newer competitors.",
       "grounded": false,
       "status": "too_early",
-      "note": "There is no current data in the fresh headlines to verify the total number of tech industry layoffs for 2026."
+      "note": "No information was provided regarding tech industry layoff totals for 2026."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Amazon will announce its first direct investment in a small modular reactor (SMR) or a dedicated 24/7 nuclear power purchase agreement by mid-2026.",
       "grounded": true,
       "status": "too_early",
-      "note": "While Meta and Google have made nuclear-related moves, the fresh headlines do not contain information regarding a specific Amazon SMR investment or PPA."
+      "note": "Fresh headlines confirm nuclear deals for Meta and Google, but do not mention any specific nuclear investments or power purchase agreements from Amazon."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The Nasdaq will hit and sustain a new psychological milestone of 20,000 before the end of the next earnings cycle.",
       "grounded": true,
       "status": "too_early",
-      "note": "No fresh headlines were provided regarding the Nasdaq's current performance or its progress toward the 20,000 milestone."
+      "note": "No fresh headlines were found regarding the Nasdaq reaching the 20,000 milestone."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "Nvidia will be the first company to reach a $6 trillion market capitalization, likely before the 2026 fiscal year-end.",
       "grounded": false,
       "status": "too_early",
-      "note": "The fresh headlines contain further analyst predictions and investment theses for Nvidia reaching $6 trillion, but do not confirm the milestone has been reached."
+      "note": "The fresh headlines consist of conflicting analyst predictions for Nvidia and Apple rather than confirmation that Nvidia has hit a $6 trillion market cap."
     },
     {
       "section": "markets",
