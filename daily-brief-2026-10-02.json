@@ -6,42 +6,54 @@
       "headline": "Trump and AI Leaders Sign National Safety and Expansion Pact",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbnRqUzdYZGRGeF82aU9Kc3BzNk9rLWZwTjJBNWhVNTRfcXU1UEtWWC1XNndCWGNHZDZhekREX2k4bUg1VjNNLUpMSV82U281RTJqMUZjMjFVRzhXaGZ1Q1B0TG9XWG9OVFBHSGZlZnZmX3lBcHp0a2Nrb3daZGliamtZY2kwNUEtRm9Mb092bDVxemtaVGlRME5WM2xXRHZOX25IQWk2cURXc09paHJVNEdmT1Q4UTg?oc=5",
       "prediction": "At least two major 'fast-track' data center permits will be issued for federal land or under streamlined federal review by Q2 2026.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The fresh headlines discuss general DOE loan modernization ideas but do not mention any specific fast-track data center permits being issued."
     },
     {
       "section": "tech",
       "headline": "Startup Tech Firms Are Edging Out Traditional Defense Contractors",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZVFMUENtc2tuaUI5M2ZsRkZYTjh6MzBucHZOV3BTUE9iaFlBQ25ZbmV1ZV9WOE10NWVpTmJNOFprNHBvS1NteGZ5ejhKZ0pBdmQyeHd5LVVtNXJ6czI1TUxqUVQ2ZDhWZkdoMHZHVVB4LUV2dVlNeGlZcFpoM0t3RjlnRWdIXzFNdGhTTW5BN3ljcVR4NmFWeERJWlcxQ09paWZKbXFCbE5VYWg5VDdNQlhOOTBxM1VQd04yOFZiZw?oc=5",
       "prediction": "A non-traditional defense tech startup (e.g., Anduril or Palantir) will secure a new Program of Record contract exceeding $750M before the end of 2026.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new headlines were provided to confirm or deny whether a non-traditional defense startup has secured a $750M+ Program of Record contract."
     },
     {
       "section": "tech",
       "headline": "Tech Layoffs Surge Past 165,000 as Efficiency Drive Continues",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVUhtZVNXTTdodkIwaXVQOHVqZGFWV1NXSU8wa2dFc1NrVW1menZuMGg4MlJ2YXB5eHdqdjFkT3RHN3ZwYTdUaGt3VkVzUDJER0ZxQzdma3Z2ckdmX0JlVGhwbTk4UF9ELVV0WGVadkdIT0M2NkZJVnl3SEpJWE9tR21wa2NKaWNOV0EtSTRJcS1XSnBKM3R4d2pB?oc=5",
       "prediction": "Total tech industry layoffs for 2026 will surpass 200,000 as more legacy tech firms attempt to mimic the 'lean' AI-first models of newer competitors.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "There is no current data in the fresh headlines to verify the total number of tech industry layoffs for 2026."
     },
     {
       "section": "tech",
       "headline": "Amazon Shifts Data Center Strategy Toward Local Transparency",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcUlIOFlHZXZwSkdPV091a0U1UXZxb1FYbTQ0WWo4WlJ5REpxYTVwVms1clgwUVJ3aDZaNEFUZ0tNdkFqR2NjLWFtYmY4N19fSzdyX0hQbk44M2lLcU1LT3RnNEV2amxpMUhuU05UQTFDWGpOUVJKTklKZnI3Q0lOZ0hiUm0?oc=5",
       "prediction": "Amazon will announce its first direct investment in a small modular reactor (SMR) or a dedicated 24/7 nuclear power purchase agreement by mid-2026.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "While Meta and Google have made nuclear-related moves, the fresh headlines do not contain information regarding a specific Amazon SMR investment or PPA."
     },
     {
       "section": "markets",
       "headline": "Nasdaq Hits New Record as Soft Jobs Data Fuels Rate Optimism",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JVkxRTDJXTzczbVFZVDBDb3NJTmZjRW1TdzVVeUFUbkFVV0RKMDdxSDVtb2ZOU2R1NzFqT2kwem9MOTRsbUdZTUZ2a3ctYXNRN2lWYXdycU10YVBIdVk3a2VVa3FrMjlUZjVHOUVDZ3BPTGFNOGZKQ9IBfkFVX3lxTE1GWVluaGw5M2xYLV9aZ0dYX19YSDJxNXlYcFdLakUwQ3FYSTFDQnJkNWlNUGFGSDRjZXcwWDR3NFllbXg5UzA1V1BWYlgwYlVaYTZFRHB0ZWRIeHp5akduM3RlMnR3TTFBR3RoZjh0SmtnSDVtM2s1OVZENVU2Zw?oc=5",
       "prediction": "The Nasdaq will hit and sustain a new psychological milestone of 20,000 before the end of the next earnings cycle.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No fresh headlines were provided regarding the Nasdaq's current performance or its progress toward the 20,000 milestone."
     },
     {
       "section": "markets",
       "headline": "Nvidia Valuation Soars to Five Trillion Dollars on AI Frenzy",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRVh0ZkJ2cXBWRFg3bFpiVHphckdSTjlvYi1pTzJWYnhYRFV2c21WSFZWbkozNG00V3pwdWE4dXhqc2VMcmNvdk9aQkxsSVpZV3NjSU9yd05UMjluQXB2LXdwMV9UaDZjZVZDME5ZS2ZURUZkY1oweGdPNzJjam9QM0lTNktKeHZ2aFc0bnQxV2RwVVhENGlGNFFmdjcxUGpJZXZUQnk2aWhZSWpkV25vZmtjNThqLWZqWUg0dUF3?oc=5",
       "prediction": "Nvidia will be the first company to reach a $6 trillion market capitalization, likely before the 2026 fiscal year-end.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "The fresh headlines contain further analyst predictions and investment theses for Nvidia reaching $6 trillion, but do not confirm the milestone has been reached."
     },
     {
       "section": "markets",
