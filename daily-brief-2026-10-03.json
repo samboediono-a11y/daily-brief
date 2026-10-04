@@ -8,7 +8,7 @@
       "prediction": "Expect at least three more states to pass 'Frontier AI' safety acts before the end of 2025 as local legislatures race against federal preemption.",
       "grounded": true,
       "status": "too_early",
-      "note": "The headlines discuss federal preemption risks but do not specify if three state-level AI safety acts were passed by the end of 2025."
+      "note": "No new headlines were found to verify state-level legislative progress on 'Frontier AI' safety acts."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "At least one major 'legacy' defense contract will be canceled or significantly reduced in favor of a startup-led AI alternative by Q2 2026.",
       "grounded": true,
       "status": "too_early",
-      "note": "The provided headline concerning Foghorn layoffs is irrelevant to defense contracts or startup-led AI alternatives."
+      "note": "There is no information regarding the cancellation or reduction of legacy defense contracts in favor of AI startups."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "The tech industry will surpass 250,000 layoffs for the full year 2026 as firms aggressively automate internal back-office functions.",
       "grounded": false,
       "status": "too_early",
-      "note": "No new information was provided to assess tech layoff totals for 2026."
+      "note": "Fresh data on total tech layoffs for 2026 is missing, making it impossible to evaluate this prediction."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Meta will report a record-low effective tax rate for the upcoming fiscal year despite reporting record-high operating income.",
       "grounded": true,
       "status": "too_early",
-      "note": "The fresh headlines do not contain data on Meta's specific tax rate or operating income."
+      "note": "No updated financial headlines regarding Meta's effective tax rate or operating income were provided."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The Nasdaq will hit another all-time high before the next FOMC meeting as rate-cut optimism overrides fundamental growth concerns.",
       "grounded": true,
       "status": "too_early",
-      "note": "There are no fresh headlines provided to track Nasdaq record highs or rate-cut optimism."
+      "note": "Lack of current market data prevents confirming if the Nasdaq reached a new high before the next FOMC meeting."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "AI and space-tech linked sectors will account for over 80% of the S&P 500's total returns through the end of 2026.",
       "grounded": true,
       "status": "too_early",
-      "note": "Headlines identify AI as a primary market trend but do not provide the numerical data for S&P 500 return percentages."
+      "note": "No information was provided to calculate the percentage of S&P 500 returns attributed to AI and space-tech sectors."
     },
     {
       "section": "markets",
