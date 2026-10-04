@@ -6,42 +6,54 @@
       "headline": "Washington moves to regulate 'super intelligence' through new executive order",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNR0Fma3dLZ2FZcWV3THNOTVgwelNJQ2VTVVlyVGxWV2hxV2Y0M1R0Qm1rM3VycGhHdUs2NUp2NjlkVi1hOUdxNjBiemhqWnIwTEVvZ1VtSXRBTmYyNTJPd1JXNWVEQjBCZS1qSHd6Z1dJYkZnMG5jbUs3Y3BSSnhfMjhINjBKdkk1ZWcwSC02QlhZVDdzRjM4QUN5YlpZNXI4eTd4Z09wMHQ3dG1jaWE5OFJlOVZHSTg4ZkhrS1NSX3JxY2tELXFXQVRaZmxvQnBiOXg5RQ?oc=5",
       "prediction": "Expect at least three more states to pass 'Frontier AI' safety acts before the end of 2025 as local legislatures race against federal preemption.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The headlines discuss federal preemption risks but do not specify if three state-level AI safety acts were passed by the end of 2025."
     },
     {
       "section": "tech",
       "headline": "Silicon Valley startups are winning the battle for defense contracts",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZVFMUENtc2tuaUI5M2ZsRkZYTjh6MzBucHZOV3BTUE9iaFlBQ25ZbmV1ZV9WOE10NWVpTmJNOFprNHBvS1NteGZ5ejhKZ0pBdmQyeHd5LVVtNXJ6czI1TUxqUVQ2ZDhWZkdoMHZHVVB4LUV2dVlNeGlZcFpoM0t3RjlnRWdIXzFNdGhTTW5BN3ljcVR4NmFWeERJWlcxQ09paWZKbXFCbE5VYWg5VDdNQlhOOTBxM1VQd04yOFZiZw?oc=5",
       "prediction": "At least one major 'legacy' defense contract will be canceled or significantly reduced in favor of a startup-led AI alternative by Q2 2026.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The provided headline concerning Foghorn layoffs is irrelevant to defense contracts or startup-led AI alternatives."
     },
     {
       "section": "tech",
       "headline": "Tech layoffs continue to mount despite the AI gold rush",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVUhtZVNXTTdodkIwaXVQOHVqZGFWV1NXSU8wa2dFc1NrVW1menZuMGg4MlJ2YXB5eHdqdjFkT3RHN3ZwYTdUaGt3VkVzUDJER0ZxQzdma3Z2ckdmX0JlVGhwbTk4UF9ELVV0WGVadkdIT0M2NkZJVnl3SEpJWE9tR21wa2NKaWNOV0EtSTRJcS1XSnBKM3R4d2pB?oc=5",
       "prediction": "The tech industry will surpass 250,000 layoffs for the full year 2026 as firms aggressively automate internal back-office functions.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No new information was provided to assess tech layoff totals for 2026."
     },
     {
       "section": "tech",
       "headline": "Meta uses AI data center investments to slash its tax bill",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaldseExIVE9TcngwcklZeGpVckV4XzhfSzhNRE9FVlFnQWt0dVp6b3pLRXVqQmE4T21KbW5sTVdoejVyRlF6bXlzbTZveUhGejlLZ3g2VzNGd3hwaGQzU2pfc3p6ZFEtUWl0Y2hnS19raVkyNzhrQlEzd1RwS0haQUI1QQ?oc=5",
       "prediction": "Meta will report a record-low effective tax rate for the upcoming fiscal year despite reporting record-high operating income.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The fresh headlines do not contain data on Meta's specific tax rate or operating income."
     },
     {
       "section": "markets",
       "headline": "Stocks hit records as cooling jobs data pauses rate hikes",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JVkxRTDJXTzczbVFZVDBDb3NJTmZjRW1TdzVVeUFUbkFVV0RKMDdxSDVtb2ZOU2R1NzFqT2kwem9MOTRsbUdZTUZ2a3ctYXNRN2lWYXdycU10YVBIdVk3a2VVa3FrMjlUZjVHOUVDZ3BPTGFNOGZKQ9IBfkFVX3lxTE1GWVluaGw5M2xYLV9aZ0dYX19YSDJxNXlYcFdLakUwQ3FYSTFDQnJkNWlNUGFGSDRjZXcwWDR3NFllbXg5UzA1V1BWYlgwYlVaYTZFRHB0ZWRIeHp5akduM3RlMnR3TTFBR3RoZjh0SmtnSDVtM2s1OVZENVU2Zw?oc=5",
       "prediction": "The Nasdaq will hit another all-time high before the next FOMC meeting as rate-cut optimism overrides fundamental growth concerns.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "There are no fresh headlines provided to track Nasdaq record highs or rate-cut optimism."
     },
     {
       "section": "markets",
       "headline": "AI stocks are sucking the oxygen out of the broader market",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRnpIZVhVTnV4Ung1cnczNTlVREtiRGFaUEpzUUw3cGg2T2Vaa1I3MHNJTi1kR0tjaGpVQ2dVamtab25vN3dtSWZmYnpTS242TjQwbHJiM1lmSmMxRER2ZXpBbkw1Njg1YnYzeGs3RDNnWUk3OTJ3bjhSNjhzeG9SUTE0c2kycTl4V0lSVGNQblc1NDllVmpUWDNPSQ?oc=5",
       "prediction": "AI and space-tech linked sectors will account for over 80% of the S&P 500's total returns through the end of 2026.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Headlines identify AI as a primary market trend but do not provide the numerical data for S&P 500 return percentages."
     },
     {
       "section": "markets",
