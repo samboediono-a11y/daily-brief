@@ -6,42 +6,54 @@
       "headline": "Nvidia faces massive expectations ahead of its blockbuster earnings report",
       "link": "",
       "prediction": "Nvidia will post a revenue beat of at least $2 billion, but the stock will experience a 'sell the news' dip of 3-5% within 48 hours of the report.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No fresh headlines were found to confirm Nvidia's earnings results or any subsequent stock price movement."
     },
     {
       "section": "tech",
       "headline": "Microsoft's new 'Recall' feature sparks major privacy and security fears",
       "link": "",
       "prediction": "Microsoft will be forced to announce an update within 60 days that makes the 'Recall' feature 'off by default' for all enterprise-tier Windows licenses.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "There are no new headlines regarding updates to Microsoft's 'Recall' feature settings or its default status for enterprise users."
     },
     {
       "section": "tech",
       "headline": "Scarlett Johansson takes on OpenAI over 'Sky' voice mimicry",
       "link": "",
       "prediction": "OpenAI will reach a confidential out-of-court settlement with Johansson before the end of Q3 to prevent a discovery process that could reveal internal communications about the 'Sky' voice.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No new information was found regarding a potential settlement or legal developments between OpenAI and Scarlett Johansson."
     },
     {
       "section": "tech",
       "headline": "Google pulls back on AI Overviews after viral search errors",
       "link": "",
       "prediction": "Google will reduce the frequency of AI Overviews appearing for 'Your Money or Your Life' (YMYL) queries by at least 40% before the end of June.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No fresh data or reporting was found concerning the frequency of Google AI Overviews appearing for 'Your Money or Your Life' queries."
     },
     {
       "section": "markets",
       "headline": "Fed minutes show officials are frustrated by stubborn inflation trends",
       "link": "",
       "prediction": "The Federal Reserve will not implement any interest rate cuts before the September FOMC meeting.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Fresh headlines offer contradictory reports of rate hikes, unchanged rates, and rate cuts without providing specific dates to verify actions taken before September."
     },
     {
       "section": "markets",
       "headline": "Target's sales drop as shoppers focus only on the basics",
       "link": "",
       "prediction": "Target will underperform the S&P Retail ETF (XRT) by at least 5% over the next fiscal quarter.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "While one headline reports Target stock is up 66% in 2026, there is no comparative data for the S&P Retail ETF (XRT) provided to verify the underperformance prediction."
     },
     {
       "section": "markets",
