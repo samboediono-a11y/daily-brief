@@ -3,285 +3,285 @@
   "predictions": [
     {
       "section": "tech",
-      "headline": "Visa restrictions threaten the American tech talent pipeline",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN0dKT0x0NzhrQXRVYzF4R3ZjZHZDOWljMFVrSG91QjBNTjFZSXlzN0x2QVdQUzdEekZzc082UEQ1RzEyMFR3Rk4xdWFUN3oxQnN1R29YaTJLOEU1VTQ4WHdPWnBNRko4Ti1CRHBJRmQwY1laTlRRLTRjS05jYWtGSVNLdlBnVVJpRHg0?oc=5",
-      "prediction": "Expect at least two 'Magnificent Seven' companies to announce major engineering hub expansions in Toronto or Vancouver by the end of Q3 2025.",
-      "grounded": true
+      "headline": "Trump\u2019s visa restrictions hit Microsoft and Adobe talent pools",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTHBUeWVBdWg1NlRjbm0wVUJSSFlGeVRMczI1UjNTNmFPUkVfVHpCVzRZVjM1ZHFMQlBoV3I0a21LY1JLaW1QWDNPMVFSYnpDSm0wWW1pVUJyWFhFc1BLdUg2WTRXbUNLMkdDd01zN280U0EwamFyS0puZllkMFRQOHA0Q0l4Wjl0VjJmcml3Rmc3Zk12Tm9ndFlzclRRQzE2?oc=5",
+      "prediction": "Expect Microsoft to announce a 1,000+ person expansion of its Canadian or European engineering headquarters within the next six months.",
+      "grounded": false
     },
     {
       "section": "tech",
-      "headline": "Data center energy demands spark a growing public backlash",
+      "headline": "AI growth faces a new bottleneck: angry neighbors",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONUFkamRPcURUc2lmVGVJbnQ5cGZfZUgtbGhfVzhWWlcyemM0UjBSWHBLRUl6NjZfOHI3U1hiRVQ3X24xRHJzb1Q5ODdac3c0bXF1WUI4ZTRuOEJhaHNQWURLQXJRNnhmMHFfaHpxdUgxeHBMWlZzYm8zaGpMMmxWeC13aXkxZTJoUG1Pc2F2d21RVTRldUpVRQ?oc=5",
-      "prediction": "At least one major US state will implement a 12-month moratorium on new data center water permits before the end of 2025.",
-      "grounded": true
+      "prediction": "At least two Tier-1 AI data center projects in the US will be officially cancelled or indefinitely relocated to more 'friendly' states by year-end due to local disputes.",
+      "grounded": false
     },
     {
       "section": "tech",
-      "headline": "New AI task force gives industry leaders direct policy influence",
+      "headline": "Trump stacks AI task force with industry insiders",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQl9UbW1UcnpjVkNZNnlkNDkxUFdjcENVNU9CRkdXTXozaVRmVWlpelNHbUcwY05QVmZMMmZ2N2FUV2hCYkVhWkV0SS1UMFlOZ2dWY3hsYy1iMGExbWVEby1TYnFTLTE4a1RJR3VINlhrSWR3T1I0WG1BclIySGMzUHkyczMtTWU1dkpyeGdWZlpZUEVjMFYzSGJGbm5fU0VIRHVMTUQ1NkppLTUwa0liVw?oc=5",
-      "prediction": "The task force's first major policy recommendation will focus on mandatory 'compute-threshold licensing' for training models above a certain size.",
+      "prediction": "The task force's first major policy proposal will include 'compute-usage thresholds' that effectively ban small-scale developers from training large models without a license.",
       "grounded": false
     },
     {
       "section": "tech",
-      "headline": "Tech layoffs persist as firms pivot toward lean AI operations",
+      "headline": "The tech layoff cycle continues despite the AI boom",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPYUdxZHowRm9GOXQ3NUx3d1kyaDVFR2lVeHREV1ZYOVhpaGpsS2xGQUJKN2w1UFlFbC00U0xfMzN1aEpGWEw5ckpyMWlHVFdKdGlIVVBYWmlqTWpKdUVYSmFVcm9DNi1vZGVCdHFmMktqaGhGSFZsOURTTldZTDBlQmFEcV9JMWEtdm5xdEdiUXRpV1EyZmtBM0NvV0tZWm9Td0piaFR3aDBkVUJIdFcwdnNGNXNZSllwVEFDUU9QSmVaQlFnOTdydVVwcEs2aWJXdW5jNDM3ZXhHYm0tb1Etc3JXTHA5Z2djUlVtUjkzakxwRF9yYkFnbkVzOA?oc=5",
-      "prediction": "Average revenue-per-employee for S&P 500 tech firms will rise by at least 15% in the 2025 fiscal year as headcounts remain flat or decline.",
-      "grounded": false
+      "prediction": "Meta and Amazon will report record-high revenue-per-employee figures in their next two quarterly earnings reports.",
+      "grounded": true
     },
     {
       "section": "markets",
-      "headline": "OpenAI revenue setbacks trigger a broader tech stock retreat",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uZnFqRjRicl9Hc3lSeXlCQV9SS3QzVl83MFlGaUU5dDI5TFlWNWNmTktaTUtmLTJyNE5FQ3A2dE1lMU5pdk5IN21odldNeXlMemZpZEJuWFdVcHlWa21WaVBQOVRzNE9lR2dyOWhOOUF0amdINVkxStIBfkFVX3lxTFAxOVBHNFJ3UUZ5NXVkME1WOWpYZXZqSVpndGFCRUtTS2JJYnI3eVR6eXBDQjBkODBxYzdlOUFDaU5qMjQyS3J4b25sVmNtUlRmd0NBbGdOcjFMOHFGTEtWZkJzaU9ibXdWZjB4M2tpdWVIZi1vTS1lU19pUGk4QQ?oc=5",
-      "prediction": "Nvidia will trade below $110 by the end of the next earnings cycle if no major enterprise-scale AI 'killer app' surfaces.",
-      "grounded": false
-    },
-    {
-      "section": "markets",
-      "headline": "SpaceX spectrum plans send traditional telecom stocks into freefall",
+      "headline": "SpaceX\u2019s mobile network plans send telecom stocks into a tailspin",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVS1tWG42dF8wYy04V3E2Mkg2ZXNwT19wZ0lJZ0hWb3Z1WE1HSHZpcE9kYzZxWjd0MVdXWkQzQTU2ZkYwaDM5Z2ZBeWI4WVBvOGh3ZGQwd2FmdHJmaUxNeG03NERZSENmQXB5OGdQNlhtMW51VWhMdDlzZ2stUk5pODdLeUbSAYoBQVVfeXFMTmEtZWlCcTZSUFNpRzBrUTJsWW1idkpGV0RiQjRVZGtuZUZ6ZG5aeW9iYzdtR2pqZThrRVl6Mk5RaTg4U2k0b01OM3JfaV9HSmhGLUN0ek9RXzV6UDdSaXR3RHhGZXo2RHRaUGFST2JiRmx0M0x6bV85TDVydWtYLWMwVGNVbExPNE9n?oc=5",
-      "prediction": "Verizon will announce a major write-down or a pivot into 'managed services' to offset declining mobile subscription growth within the next 18 months.",
+      "prediction": "Verizon or AT&T will announce a defensive, multi-year partnership with a SpaceX competitor (likely Amazon's Kuiper or Globalstar) before Q4.",
       "grounded": false
     },
     {
       "section": "markets",
-      "headline": "Big banks prepare for earnings season under economic scrutiny",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeE0yVm1IUVJneVdYdDVIU1pSYXJSQ0lTejk5RE16UWszcnFxckdTOEh3QXAxdE9LNDNTc0hidW9rVnBZYkIwcUxSRFpVaENhZ1AtYTRHdktlTjVHc3loSGdaejRaYWJ6VXEyT3pxUGVxbEU2Z1ZGamttN3FoNHRYNDB3QnlLMHlEV1RzaTQwRndYWkpiREx2OEdfOFE4eEtQVTBMcG1B?oc=5",
-      "prediction": "At least two of the top five US banks will increase their loan loss provisions by more than 10% year-over-year in their upcoming quarterly reports.",
-      "grounded": false
+      "headline": "Trump pauses Russia sanctions to cool down diesel prices",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQOWoycm9zQkNIT1E1Y2hQcmZVanJDUnY2MmJVLWRWSlZ3T1oza3EzTml5eVV5VWRmdFpHVlNCci1aZ0F3VU5HYm02WC0yUnNoOXlFNnF4Ymh1TU5wY01XRHRuSEVObWFTVm1DWWZjMy1wZGRPZ3p0X3J2OTJaZDJjTXBqTDBQaE95UHkwUDQweWtZVFZGT0d3VzlmZWpLRnlWVXcweVVlUVpTdjJfVzdQVWhvNmtNQ0pGeDlUNTdPbkJsODBFWnFTQWczWWh6OEc5ZzdZM3NZbENLRVBTMGVGYWxPWjZEN0hZblFXTlptSFdaUUE2N283UW9DdDVlZ0kxYXFvcmFQR1owdkhENmhEdHZsdWhnMmFsbHZMZ3dncXhaQmo3Sl9jWmljR2lHRHE1Ulk0S0pQdVhUNzVheEhtWXJBdldpZWJhbWFSQjlLVlBSSGk1WkE?oc=5",
+      "prediction": "US diesel prices will drop by at least 12% within 60 days of the official sanctions pause taking effect.",
+      "grounded": true
     },
     {
       "section": "markets",
-      "headline": "Seniors over 75 now hold the most wealth in America",
+      "headline": "Americans over 75 are now the nation's wealthiest demographic",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdzR0THJvNk1JY0lFaVI1bEFWZUdyazVqUFdYQ0RTbGl3WTl1RHZPYmxmN0hJY21BcVdXaUlWNF9TRUpiMDNJM2x4TUdDbWhlT19qSVRMbmZpY29wTDROZk5kX2x0WHpuc0hjLXFwUUplQ0pPLUZfNnJlek84YXBzQmZQMUY?oc=5",
-      "prediction": "Luxury hospitality and high-end healthcare services will outperform the broader S&P 500 index through the end of 2025.",
+      "prediction": "Luxury healthcare and specialized senior housing stocks will outperform the S&P 500 by at least 5% over the next 12 months.",
       "grounded": false
     },
     {
-      "section": "us_news",
-      "headline": "Administration targets Federal Reserve governor for potential removal",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdUxOZXh5bm9ERlh0ckdRLUx4bFo2QTNpbHFKcmNHRzJiWE1hME8ydkVyd3hwS01IN1pFeWdYaXh2ZnVxc1BBNHZaMlBnWGZGQjhKeVlGb0x1MmhxZEhmanZTLVBnNUJUNXAtZVdabW1xWTNGWEJtYkxpcjBvRUZHYm13TEtpd2h4eXgxUlBUNUZvODk5?oc=5",
-      "prediction": "The 10-year Treasury yield will spike by at least 20 basis points within 48 hours of any formal legal filing to remove Cook.",
+      "section": "markets",
+      "headline": "Moderna shares surge on national cancer vaccine partnership",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVEpJaUZFc3YtMEQ3bngzMU1SRl84YzZEakZScnFjWjhYeFpCOFNJMW4tTFpEN0pjemhFanJ0MEQyOEVlNWl0QTZuNXhFT1M5QTJ2STAwOGNXNUE5cERjd2lkVFZZTVFET0dzZHgzTThDcG44YWxGMXVCcEp3UUNQa0tVVmNzYUV0a1pOTnNMU0hSSEZvQTc0MktsUjhHTmVrdEZEVjBSWktyVTdUeXo0TzhfcTRseHk2V0dfZHkyTFRRNDQ?oc=5",
+      "prediction": "Moderna will announce a formal filing for accelerated FDA approval for its mRNA cancer vaccine before the end of 2026.",
       "grounded": true
     },
     {
       "section": "us_news",
-      "headline": "Diesel prices remain high despite efforts to boost fuel supply",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSC1DZmo5R2daREU0YTBRSFBZTE04NW92WFQ3eXhLeGhiRlFyTEZBbHdWT2xuczBRYmtWcmlqMVJKTUo0Vk9KTEk1OU1jYUo1NlQ3Zi1KTzhmc1pmZkhQS01OajhXWHR1aWpQVEpuRTllX0RSd3ZmR3ZKMG51MlJRNGQtX3BkdUpfOHFGejVtbnhMUGlGNVdDa2lISkd5dFdmNWc3dFpRZnJuNGJ6M3duQ1pJcXo?oc=5",
-      "prediction": "The Consumer Price Index (CPI) will remain above 3.0% for the next two monthly prints, driven by the transportation component.",
+      "headline": "White House escalates fight to fire Fed Governor",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYjlOZTQ4TndWWU5vZlFJRXZmTWpHemhxVnlsWi1RVE1aalh6MEhhRTNzU1Vvc2lpb050STlEWFJ5OVE1a0tjWnZGZkxtbnpUVWZocHBOSTR3MnREUXBmbTJpN2pRb0s1LXByRkRjekxYdXVxaVFGdlNib0JQUnptYndHUkplMURQUG5mcnFkbzY2QV9mRE44Z2dnUTZVUGVTbFBsQXJieHR5NG9lR2NFZk43enU?oc=5",
+      "prediction": "The 10-year Treasury yield will spike by at least 20 basis points within 48 hours of any formal executive order to remove Lisa Cook.",
       "grounded": true
     },
     {
       "section": "us_news",
-      "headline": "US threatens sanctions on the International Criminal Court",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WSElxQ2l1VzJ2ZTNTQ2N1VHFLbXNzbmRvV3FMOEVyMm83ZDFxMmdxWmZuWHM5TmtGbXIya3c3U0kyYTcySW8yTzY2VGF1Q0h3TlAyVmZPbmp6d2s?oc=5",
-      "prediction": "The European Union will issue a formal statement of non-cooperation regarding any US-led sanctions against the ICC by the end of next month.",
+      "headline": "U.S. moves to dismantle the International Criminal Court",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcXNFcXVnRVZfckpBb0hJMmN0aVhRQ1lxZHlsUlR4MWhLN0J0d0VYdllmYnF2SUlxV3BFN1VGbTAzQXMtaTZjbld2WFg0akNnMjNaUlBTRTlZeE1SQlZ6OXJ6Y3pibHNOQjBreHRHN295WTlVZmtnT0RnX1YwTV8yWTlibFA?oc=5",
+      "prediction": "At least three G7 allies (likely France, Germany, and the UK) will publicly increase their ICC funding in direct response to US sanctions before year-end.",
       "grounded": true
     },
     {
       "section": "us_news",
-      "headline": "Navi Pillay awarded Nobel Peace Prize for justice work",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY1JaUVE4ck5QdnpKRUpKbVJWWVRDbnUxNzBCbmZXNWt1SmZJaVZzZEMwd2tWNUJSUG1WOEdLaEdxUWRwVTBXc291WTdWTlRaTWV5VVVmQV9aLV9PVy1uV3NGT1A0OS0zc2JNTUpsclJvWG11UjRKRW1jeTFYaXp0WkR5Zw?oc=5",
-      "prediction": "Pillay will use her Nobel platform to advocate for a specific UN General Assembly resolution targeting current war crimes before the end of the year.",
+      "headline": "Navi Pillay awarded Nobel Peace Prize for human rights work",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNlRoWmxDMW0yZ3V4UFd4OWhXaGZQOWJWWnY1QzRFdnRhU0tQalFJbE1ua3hpWFc3ZlAtbERMbl96cG5rUWt1WjJNMFlsUndsN3JsZ1RSUU9CWE9VUVRhdlhwVVZrQ2NLQXRmVWxEdWYwRDFDYkZ5RE9ZeXhOSlBJSkl6b183Q1dXUmJYTHlQcFpqOFM4VHM0?oc=5",
+      "prediction": "Pillay will use her Nobel acceptance speech to call for a formal global coalition to bypass US sanctions on the International Criminal Court.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Apple prepares for massive hardware refresh next week",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSFdFVjdjLUpkcnowbGhjRXZtaWtoci1pZWdpWUNpYUNIelIxMUM1Y2dyYkV1ckFvZ1k1VnZ2b2VGeXJMQmJibVB0OFlfTnA4Sjd1YTYzdlF0N0xlVm1XMEV0b1lQM0x4VEVndE92d0xyWmhyby00M2dJcUxDNmhqNQ?oc=5",
+      "prediction": "Apple will debut a dedicated 'AI Home Hub' device with an integrated screen and a new Siri-first operating system at next week's event.",
       "grounded": true
     },
     {
       "section": "indonesia",
-      "headline": "New labor law splits the difference between business and workers",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOXkzYkd4SUN2d2Nwd2dVYWFVRW1WS29lWkswZlNyLW1WOENpVjhDM181WDVoWEVsUTBDUVBiSnpuQUdWOFhvbzhyNmF4RTMxTEEwdzF4VzI2QVpPSFFBbXp4YWhXc2twU0dhZFFXTkhZcFJweXF1dHFRWVNkUDVpLVZLN3ktRGhSdjdpaDU1WTZoVkFrN2xOdEx3?oc=5",
-      "prediction": "Foreign Direct Investment (FDI) into Indonesia's manufacturing sector will see a 10% uptick in the 2025 fiscal year.",
-      "grounded": false
-    },
-    {
-      "section": "indonesia",
-      "headline": "Indonesia weighs a pause on new nickel smelter projects",
+      "headline": "Indonesia considers halting new nickel smelter projects",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQ0p1M0xSbWNHUE5yVWcwRGZBcDFUaDNDLTBvQWhhZ0lXZ2ZfSksxWUplU1QxRmhlMlZlQ3NNeUs5ZldUQ0M4VlI4eXZkb25sU1I0TE5GbEFGUzFCb3ctSGVEVDBhWXlwbmZSdHZjdk5XSnlMSkpoZnNqODI3U3ZDWVlPZFRiMHVSM040clVYM3Y5NnBUczQxOENJZ0FHZk16VkJKTzJ6YkpfYVJNRWtEZjVFTllSdWsyMS1ILUhvTGF0SzlPYjlBeXpRLTE1VW9PTjdTY0lIck1DMXZTVmRLM3g3WFJvN3l2VEhOOUUtZk9rLW8?oc=5",
-      "prediction": "LME nickel prices will rebound by at least 15% within six months of the official moratorium announcement.",
+      "prediction": "LME Nickel prices will rise by at least 15% within six months of the moratorium's official implementation.",
       "grounded": false
     },
     {
       "section": "indonesia",
-      "headline": "Free education plan raises red flags over national debt",
+      "headline": "New labor law pits workers\u2019 rights against business costs",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOXkzYkd4SUN2d2Nwd2dVYWFVRW1WS29lWkswZlNyLW1WOENpVjhDM181WDVoWEVsUTBDUVBiSnpuQUdWOFhvbzhyNmF4RTMxTEEwdzF4VzI2QVpPSFFBbXp4YWhXc2twU0dhZFFXTkhZcFJweXF1dHFRWVNkUDVpLVZLN3ktRGhSdjdpaDU1WTZoVkFrN2xOdEx3?oc=5",
+      "prediction": "FDI in Indonesia's labor-intensive sectors (textiles and footwear) will show a double-digit decline in the first full year after the law takes effect.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "New law aims to centralize all government data",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdzlncUh2bUh4T3Z5U3lpSDVMc3FiRTRSM2U3aHZTUDVYdVY0RWctOWRIN0l2d2oxZUgyTTZqVzZ2MXk2Z1lERm1pTXhpLWp0ZXA0Ylptd1pOZlVfVGlfM1hIVHpUVHJ0aDN0RHlaTGs0alNLRHpYWGxFZVRtdUhDVGpkOUdEYmRKYXB6TVo1V0dySlNuUjE4d1N5NjdXRUY0QnIyc25B?oc=5",
+      "prediction": "Indonesia will suffer its largest-ever public sector data breach within 12 months of the 'Satu Data' system becoming operational.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Prabowo\u2019s free education plan faces budget reality check",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORFQxM1E3QWc4T2lQVnBWMHBVVVVPN1RaQUZNakkwemdTZGJXcTAxb3dPcFdZN1BoUzdnS2NSVWh3NHppc0xfakZHRW1qTm5YUXpVS0QzOUl2Q2hrVVR4N0lvUmM2a1ViNzhZRl9EMzJmV2xIR293OXlGWEd6M1NzMFFpMm9xZnlXNUYwZnBUN1Q5YlZNSjZPWmR3V3h3bGtuMFRHNDBpT1dOUDZJU0hyTndPSk9fTmZEVnM4?oc=5",
-      "prediction": "Indonesia's sovereign credit rating outlook will be moved to 'negative' by at least one major agency if the 2025 budget doesn't include specific revenue offsets.",
-      "grounded": false
-    },
-    {
-      "section": "indonesia",
-      "headline": "Negligence lawsuit over wildfires tests regional relations",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVVl1WnRlS3o2RWM5VUJBcWs4eDB3WkMySU5CcDc1aFA0dFdhdTd0QU85X19xaXlqMXdYbUFRUVIzZnU0NVIxeFJUQ0JsSkJCTkQwVzk5eXBRUkRFaFkteXdpYkdCb1VVdG9leUtOQWhaZnJoWEtTTnczR0R2ZTdXYmw0OGFrdFQ1b05NSUtlWlUtWlhnYUo3Z0tQRjlfUzFZLS1pVA?oc=5",
-      "prediction": "A multi-billion dollar 'transboundary haze fund' will be proposed at the next ASEAN summit as a diplomatic settlement to the litigation.",
-      "grounded": false
+      "prediction": "The 2026 budget allocation for this program will be less than half of the originally promised universal rollout cost.",
+      "grounded": true
     },
     {
       "section": "crypto_fx",
-      "headline": "Middle East tensions and liquidations spark a crypto crash",
+      "headline": "Geopolitical jitters trigger half-billion dollar crypto liquidations",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcjIzel9VSWJJYWg5LXhKTnZFTFk2Y2NKQVVlbVlsWjhENTJ0WkJQWlFEOHV5aWxMd0R1WjdUeTNldDNsZmQ3QmJCN0QwU1BWU2xsRnZfb2J5QVhkRXpDUkplQzBnTFdCZ1NHcDRPWVJPNlpXc0lBTFlobUN6NEZuWFRmS0p2Ung1QkpLc3pXQk0wZ01FMUpFajhmeVpjSnpSa2IyYkp6cVdCelZSR3RjTUI1UU1RQU5GSE15c3NGOVlMTGgyODV1dzlhX0VQRVR0NGU1c1A1MVV2akJselRhRQ?oc=5",
-      "prediction": "Bitcoin will test the $60,000 support level if a direct military escalation between major Middle Eastern powers occurs within the next 30 days.",
-      "grounded": true
-    },
-    {
-      "section": "crypto_fx",
-      "headline": "Crypto ETFs rake in $10 billion during the third quarter",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaHlMUlJpY21YTGtCRmdPbHN6cDNCaTNaaENBZlFCbG9HR1cxMUE0SURWM0VEdXljZUJreTc1NncxV281ajF1cEgydGtZZGw3b2dDUlpvUTNFZ0dMVktOYTM4anVYZExqd0R6d3NlNk1KN05fRFpGN18yU3JvZ1FQTVNIWk5zTkFNZGgyVUtTLU8weXBKbkNMMWsybUV2bW1Hb0JHRFM3MjJXdlp0bTdoUlZJZWt2a3EyanAtcTFCS0tKd1lUMmFtbFBxajRmYlE?oc=5",
-      "prediction": "A Solana-based spot ETF will be filed for and gain significant regulatory traction by the end of H1 2025.",
+      "prediction": "Bitcoin will test the $58,000 to $60,000 support range before it makes any attempt at a new monthly high.",
       "grounded": false
     },
     {
       "section": "crypto_fx",
-      "headline": "Bitcoin and the Japanese Yen reach record correlation",
+      "headline": "Bitcoin and the Japanese Yen are dancing in sync",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5",
-      "prediction": "Any 25bps hike by the Bank of Japan will result in an immediate 5-8% drawdown in Bitcoin prices within the same 24-hour window.",
-      "grounded": true
+      "prediction": "Any 2% move in the USD/JPY pair will lead to a correlated move of at least 5% in Bitcoin over the next 30 days.",
+      "grounded": false
     },
     {
       "section": "crypto_fx",
-      "headline": "Traders debate if Bitcoin will hit $100k or retreat to $77k",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTUtINzI3dmFCdHBVSmo1akdjeHk0YW9Xekt1aXh6WDJVV190UjlqemdFRzIyR1dIc2t6UFlEUV8yOHktckJJclF5TXhoQzZaaGQyMGVuZ2VEQU1yZkk3U2ZjVDdEWTVuS1BJUzZVaDNrY0dWendXbGt5UDUyWVYzb3BFbkxPNXYzTXlxdW1wcFFDN1FNaEJkSGJVaU5KRlA2WGxZcHFmX0RXTTlNNVNUTmFtQzMzTk15anc?oc=5",
-      "prediction": "Bitcoin will touch $100k before it touches $60k, driven by institutional window dressing in Q4.",
+      "headline": "Crypto ETFs rake in $10 billion as Solana gains ground",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaHlMUlJpY21YTGtCRmdPbHN6cDNCaTNaaENBZlFCbG9HR1cxMUE0SURWM0VEdXljZUJreTc1NncxV281ajF1cEgydGtZZGw3b2dDUlpvUTNFZ0dMVktOYTM4anVYZExqd0R6d3NlNk1KN05fRFpGN18yU3JvZ1FQTVNIWk5zTkFNZGgyVUtTLU8weXBKbkNMMWsybUV2bW1Hb0JHRFM3MjJXdlp0bTdoUlZJZWt2a3EyanAtcTFCS0tKd1lUMmFtbFBxajRmYlE?oc=5",
+      "prediction": "Solana will hit a new all-time high against Ethereum (the SOL/ETH ratio) before the end of the current quarter.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Analysts warn of a massive 'bailout' narrative for Bitcoin",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWklmQ3RxcEtJVXZLVXNDVFpJckVFMG4wVWJNVVY1YmxwWG9aRXBJSXgySEdJa2JKNkFHYWV3d2ZXNUFyYzVpX1Q4X09qb1JHQzZYTldVZHZoSm9VTGFFdV96SmYwXzVwMTJHT1E2dDZpU1Q3S3JFWGF2LXJ0VFF2WF9mUk42ZV9JUWhaaldndHd1SGxPQkRXWjRPN05XY1daLW9HWm5hbTY1TEFnTHRKbnhJSGpvR3pnTHM3dF9RTjVuazRCa3lJdzkweUZCNEFOQ0E?oc=5",
+      "prediction": "At least one major Wall Street investment bank will publish a formal research note within six months describing Bitcoin as a 'macro tail-risk hedge.'",
       "grounded": false
     }
   ],
   "stories": [
     {
       "section": "tech",
-      "headline": "Visa restrictions threaten the American tech talent pipeline",
-      "summary": "The tech industry is warning that proposed visa crackdowns will drive top international engineers and developers to move to competing nations.",
-      "view": "Visa restrictions are a strategic gift to rival tech hubs in Canada and the UK, effectively forcing the 'offshoring' of critical R&D. By throttling the talent pipeline, the US is incentivizing Big Tech to build their most advanced labs outside of US jurisdiction to ensure workforce stability.",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN0dKT0x0NzhrQXRVYzF4R3ZjZHZDOWljMFVrSG91QjBNTjFZSXlzN0x2QVdQUzdEekZzc082UEQ1RzEyMFR3Rk4xdWFUN3oxQnN1R29YaTJLOEU1VTQ4WHdPWnBNRko4Ti1CRHBJRmQwY1laTlRRLTRjS05jYWtGSVNLdlBnVVJpRHg0?oc=5"
+      "headline": "Trump\u2019s visa restrictions hit Microsoft and Adobe talent pools",
+      "summary": "New administrative hurdles are making it significantly harder for major tech firms to hire and retain foreign skilled workers.",
+      "view": "These visa restrictions function as a massive talent subsidy to Canada and the EU, ensuring the next generation of R&D happens outside US borders. Microsoft and Adobe are the primary losers here as they will be forced to offshore high-value engineering teams to hubs like Vancouver or Dublin to maintain their development velocity.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTHBUeWVBdWg1NlRjbm0wVUJSSFlGeVRMczI1UjNTNmFPUkVfVHpCVzRZVjM1ZHFMQlBoV3I0a21LY1JLaW1QWDNPMVFSYnpDSm0wWW1pVUJyWFhFc1BLdUg2WTRXbUNLMkdDd01zN280U0EwamFyS0puZllkMFRQOHA0Q0l4Wjl0VjJmcml3Rmc3Zk12Tm9ndFlzclRRQzE2?oc=5"
     },
     {
       "section": "tech",
-      "headline": "Data center energy demands spark a growing public backlash",
-      "summary": "Communities and environmental groups are increasingly protesting the massive power and water requirements of new AI-focused data centers.",
-      "view": "The public backlash against data centers marks the end of 'blank check' infrastructure growth for AI. Local opposition to water and power consumption will force hyperscalers into expensive 'stranded energy' regions or nuclear-backed sites, significantly raising the baseline CapEx for the next generation of LLMs.",
+      "headline": "AI growth faces a new bottleneck: angry neighbors",
+      "summary": "The tech industry is facing a growing local backlash against the massive, energy-hungry data centers required for AI.",
+      "view": "NIMBYism is now a critical macroeconomic constraint for AI, shifting power from tech giants to local zoning boards and utility regulators. The winners are owners of existing 'brownfield' industrial sites with pre-cleared power permits, which will command massive valuation premiums as new greenfield projects face years of litigation.",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONUFkamRPcURUc2lmVGVJbnQ5cGZfZUgtbGhfVzhWWlcyemM0UjBSWHBLRUl6NjZfOHI3U1hiRVQ3X24xRHJzb1Q5ODdac3c0bXF1WUI4ZTRuOEJhaHNQWURLQXJRNnhmMHFfaHpxdUgxeHBMWlZzYm8zaGpMMmxWeC13aXkxZTJoUG1Pc2F2d21RVTRldUpVRQ?oc=5"
     },
     {
       "section": "tech",
-      "headline": "New AI task force gives industry leaders direct policy influence",
-      "summary": "A newly formed task force stacked with tech industry insiders is set to advise the administration on AI regulation and national security.",
-      "view": "This task force represents formal regulatory capture, where incumbents like Microsoft and Google will define 'safety' standards that act as a moat against open-source challengers. By framing AI policy through a national security lens, these insiders will ensure that the hardware and compute requirements for compliance remain prohibitively high for startups.",
+      "headline": "Trump stacks AI task force with industry insiders",
+      "summary": "The administration\u2019s new AI advisory group is heavily comprised of figures with close ties to major tech corporations.",
+      "view": "This is regulatory capture disguised as industry cooperation, designed to ensure that future AI safety standards favor incumbents over open-source or startup competitors. By stacking the task force with insiders, the administration is signaling that AI policy will prioritize the protection of existing corporate moats under the guise of 'national security.'",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQl9UbW1UcnpjVkNZNnlkNDkxUFdjcENVNU9CRkdXTXozaVRmVWlpelNHbUcwY05QVmZMMmZ2N2FUV2hCYkVhWkV0SS1UMFlOZ2dWY3hsYy1iMGExbWVEby1TYnFTLTE4a1RJR3VINlhrSWR3T1I0WG1BclIySGMzUHkyczMtTWU1dkpyeGdWZlpZUEVjMFYzSGJGbm5fU0VIRHVMTUQ1NkppLTUwa0liVw?oc=5"
     },
     {
       "section": "tech",
-      "headline": "Tech layoffs persist as firms pivot toward lean AI operations",
-      "summary": "Major companies including Amazon, Meta, and Oracle continue to shed staff even as they invest billions into automated systems.",
-      "view": "Layoffs at Amazon, Meta, and Oracle are not just cost-cutting; they are a permanent structural shift toward 'lean AI' operations. These firms are aggressively replacing mid-level management and routine engineering roles with automated workflows, aiming to permanently raise their revenue-per-employee ratios.",
+      "headline": "The tech layoff cycle continues despite the AI boom",
+      "summary": "Major players including Amazon and Meta continue to trim headcount even as they spend billions on new tech.",
+      "view": "This is not a cost-cutting cycle but a structural re-engineering of the tech workforce, where firms are aggressively trading middle management for AI-focused infrastructure roles. Market sentiment remains positive because this 'efficiency' play suggests a move toward significantly higher revenue-per-employee as AI agents begin to replace human workflows.",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPYUdxZHowRm9GOXQ3NUx3d1kyaDVFR2lVeHREV1ZYOVhpaGpsS2xGQUJKN2w1UFlFbC00U0xfMzN1aEpGWEw5ckpyMWlHVFdKdGlIVVBYWmlqTWpKdUVYSmFVcm9DNi1vZGVCdHFmMktqaGhGSFZsOURTTldZTDBlQmFEcV9JMWEtdm5xdEdiUXRpV1EyZmtBM0NvV0tZWm9Td0piaFR3aDBkVUJIdFcwdnNGNXNZSllwVEFDUU9QSmVaQlFnOTdydVVwcEs2aWJXdW5jNDM3ZXhHYm0tb1Etc3JXTHA5Z2djUlVtUjkzakxwRF9yYkFnbkVzOA?oc=5"
     },
     {
       "section": "markets",
-      "headline": "OpenAI revenue setbacks trigger a broader tech stock retreat",
-      "summary": "The Nasdaq dropped 1% after reports indicated that OpenAI is struggling to meet its ambitious revenue targets, cooling the AI hype.",
-      "view": "The Nasdaq's reaction shows that the 'show me the money' phase of AI has finally arrived, and OpenAI's revenue struggle is the canary in the coal mine. Investors are beginning to realize that the cost of compute is scaling faster than enterprise willingness to pay, leading to a valuation compression across the entire AI stack.",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uZnFqRjRicl9Hc3lSeXlCQV9SS3QzVl83MFlGaUU5dDI5TFlWNWNmTktaTUtmLTJyNE5FQ3A2dE1lMU5pdk5IN21odldNeXlMemZpZEJuWFdVcHlWa21WaVBQOVRzNE9lR2dyOWhOOUF0amdINVkxStIBfkFVX3lxTFAxOVBHNFJ3UUZ5NXVkME1WOWpYZXZqSVpndGFCRUtTS2JJYnI3eVR6eXBDQjBkODBxYzdlOUFDaU5qMjQyS3J4b25sVmNtUlRmd0NBbGdOcjFMOHFGTEtWZkJzaU9ibXdWZjB4M2tpdWVIZi1vTS1lU19pUGk4QQ?oc=5"
-    },
-    {
-      "section": "markets",
-      "headline": "SpaceX spectrum plans send traditional telecom stocks into freefall",
-      "summary": "Verizon and AT&T shares tanked after SpaceX moved forward with plans to use wireless spectrum for its satellite-to-cell phone network.",
-      "view": "SpaceX is effectively commoditizing the wireless spectrum that traditional telcos spent billions to acquire. By moving into satellite-to-cell, Starlink turns every smartphone into a universal receiver, threatening the high-margin roaming and rural subscription revenue that AT&T and Verizon rely on.",
+      "headline": "SpaceX\u2019s mobile network plans send telecom stocks into a tailspin",
+      "summary": "Verizon and AT&T shares suffered their worst day in decades as SpaceX prepares to offer direct-to-cell satellite services.",
+      "view": "SpaceX is effectively becoming a global roaming provider that bypasses the multi-billion dollar terrestrial infrastructure of legacy telcos. This collapses the moat of regional spectrum licenses, making basic coverage a commodity and forcing Verizon and AT&T to pivot toward becoming pure fiber-and-bundle plays.",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVS1tWG42dF8wYy04V3E2Mkg2ZXNwT19wZ0lJZ0hWb3Z1WE1HSHZpcE9kYzZxWjd0MVdXWkQzQTU2ZkYwaDM5Z2ZBeWI4WVBvOGh3ZGQwd2FmdHJmaUxNeG03NERZSENmQXB5OGdQNlhtMW51VWhMdDlzZ2stUk5pODdLeUbSAYoBQVVfeXFMTmEtZWlCcTZSUFNpRzBrUTJsWW1idkpGV0RiQjRVZGtuZUZ6ZG5aeW9iYzdtR2pqZThrRVl6Mk5RaTg4U2k0b01OM3JfaV9HSmhGLUN0ek9RXzV6UDdSaXR3RHhGZXo2RHRaUGFST2JiRmx0M0x6bV85TDVydWtYLWMwVGNVbExPNE9n?oc=5"
     },
     {
       "section": "markets",
-      "headline": "Big banks prepare for earnings season under economic scrutiny",
-      "summary": "Wall Street is bracing for quarterly reports from major banks to gauge the impact of higher interest rates on consumer debt.",
-      "view": "The narrative for big banks is shifting from 'interest income windfall' to 'credit quality deterioration.' While JP Morgan can absorb the hit, mid-tier and regional banks will see a spike in provisions for credit losses as high rates finally break the back of consumer and commercial real estate debt.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeE0yVm1IUVJneVdYdDVIU1pSYXJSQ0lTejk5RE16UWszcnFxckdTOEh3QXAxdE9LNDNTc0hidW9rVnBZYkIwcUxSRFpVaENhZ1AtYTRHdktlTjVHc3loSGdaejRaYWJ6VXEyT3pxUGVxbEU2Z1ZGamttN3FoNHRYNDB3QnlLMHlEV1RzaTQwRndYWkpiREx2OEdfOFE4eEtQVTBMcG1B?oc=5"
+      "headline": "Trump pauses Russia sanctions to cool down diesel prices",
+      "summary": "The White House is temporarily lifting restrictions on Russian energy imports in a targeted bid to lower fuel costs at home.",
+      "view": "This is a blatant 'America First' tactical move that prioritizes domestic inflation control over the integrity of the sanctions regime. By proving that US energy policy is price-sensitive and temporary, the administration is signaling to global markets that the US dollar's use as a geopolitical weapon is now secondary to the consumer price index.",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQOWoycm9zQkNIT1E1Y2hQcmZVanJDUnY2MmJVLWRWSlZ3T1oza3EzTml5eVV5VWRmdFpHVlNCci1aZ0F3VU5HYm02WC0yUnNoOXlFNnF4Ymh1TU5wY01XRHRuSEVObWFTVm1DWWZjMy1wZGRPZ3p0X3J2OTJaZDJjTXBqTDBQaE95UHkwUDQweWtZVFZGT0d3VzlmZWpLRnlWVXcweVVlUVpTdjJfVzdQVWhvNmtNQ0pGeDlUNTdPbkJsODBFWnFTQWczWWh6OEc5ZzdZM3NZbENLRVBTMGVGYWxPWjZEN0hZblFXTlptSFdaUUE2N283UW9DdDVlZ0kxYXFvcmFQR1owdkhENmhEdHZsdWhnMmFsbHZMZ3dncXhaQmo3Sl9jWmljR2lHRHE1Ulk0S0pQdVhUNzVheEhtWXJBdldpZWJhbWFSQjlLVlBSSGk1WkE?oc=5"
     },
     {
       "section": "markets",
-      "headline": "Seniors over 75 now hold the most wealth in America",
-      "summary": "A new Federal Reserve survey shows that Americans aged 75 and older are now the wealthiest demographic in the country.",
-      "view": "The concentration of wealth in the 75+ demographic is creating a 'silver ceiling' for the US economy. This cohort's tendency toward low-velocity assets like real estate and treasuries means that consumer spending will be increasingly driven by healthcare and luxury services rather than broad-based innovation.",
+      "headline": "Americans over 75 are now the nation's wealthiest demographic",
+      "summary": "A new Federal Reserve survey confirms that the oldest Americans hold the largest share of household wealth.",
+      "view": "The concentration of wealth in the 75+ cohort is a structural headwind for venture capital and growth equity, as this demographic prioritizes low-velocity assets and wealth preservation. This 'dead capital' will remain locked in Treasuries and municipal bonds until the Great Wealth Transfer accelerates through inheritance.",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdzR0THJvNk1JY0lFaVI1bEFWZUdyazVqUFdYQ0RTbGl3WTl1RHZPYmxmN0hJY21BcVdXaUlWNF9TRUpiMDNJM2x4TUdDbWhlT19qSVRMbmZpY29wTDROZk5kX2x0WHpuc0hjLXFwUUplQ0pPLUZfNnJlek84YXBzQmZQMUY?oc=5"
     },
     {
-      "section": "us_news",
-      "headline": "Administration targets Federal Reserve governor for potential removal",
-      "summary": "A new committee has been formed to investigate removing Fed Governor Lisa Cook, sparking concerns over central bank independence.",
-      "view": "The investigation into Lisa Cook is a direct challenge to the Federal Reserve\u2019s institutional independence. If successful, it removes the 'political insulation' that global investors rely on, likely leading to a structural increase in long-term Treasury yields as a political risk premium is priced into the USD.",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdUxOZXh5bm9ERlh0ckdRLUx4bFo2QTNpbHFKcmNHRzJiWE1hME8ydkVyd3hwS01IN1pFeWdYaXh2ZnVxc1BBNHZaMlBnWGZGQjhKeVlGb0x1MmhxZEhmanZTLVBnNUJUNXAtZVdabW1xWTNGWEJtYkxpcjBvRUZHYm13TEtpd2h4eXgxUlBUNUZvODk5?oc=5"
+      "section": "markets",
+      "headline": "Moderna shares surge on national cancer vaccine partnership",
+      "summary": "The biotech firm's stock jumped after the government announced a new effort to fast-track mRNA-based cancer treatments.",
+      "view": "Moderna is successfully pivoting from a 'COVID one-hit-wonder' to a broad oncology platform, with government partnership providing the ultimate de-risking mechanism for their pipeline. The market is finally repricing mRNA as a versatile therapeutic tool rather than a niche vaccine technology, significantly increasing the company's terminal value.",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVEpJaUZFc3YtMEQ3bngzMU1SRl84YzZEakZScnFjWjhYeFpCOFNJMW4tTFpEN0pjemhFanJ0MEQyOEVlNWl0QTZuNXhFT1M5QTJ2STAwOGNXNUE5cERjd2lkVFZZTVFET0dzZHgzTThDcG44YWxGMXVCcEp3UUNQa0tVVmNzYUV0a1pOTnNMU0hSSEZvQTc0MktsUjhHTmVrdEZEVjBSWktyVTdUeXo0TzhfcTRseHk2V0dfZHkyTFRRNDQ?oc=5"
     },
     {
       "section": "us_news",
-      "headline": "Diesel prices remain high despite efforts to boost fuel supply",
-      "summary": "Trucking and shipping costs are staying elevated as diesel prices refuse to drop, creating a persistent floor for inflation.",
-      "view": "Diesel is the fundamental 'inflation floor' that the administration cannot lower through crude supply alone, as refining capacity remains the real bottleneck. These high fuel costs will keep logistics-driven inflation sticky, likely preventing the Fed from aggressive rate cuts in the short term.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSC1DZmo5R2daREU0YTBRSFBZTE04NW92WFQ3eXhLeGhiRlFyTEZBbHdWT2xuczBRYmtWcmlqMVJKTUo0Vk9KTEk1OU1jYUo1NlQ3Zi1KTzhmc1pmZkhQS01OajhXWHR1aWpQVEpuRTllX0RSd3ZmR3ZKMG51MlJRNGQtX3BkdUpfOHFGejVtbnhMUGlGNVdDa2lISkd5dFdmNWc3dFpRZnJuNGJ6M3duQ1pJcXo?oc=5"
+      "headline": "White House escalates fight to fire Fed Governor",
+      "summary": "The Trump administration is ramping up efforts to remove Lisa Cook from the Federal Reserve board.",
+      "view": "This is an unprecedented assault on the Federal Reserve's institutional independence that will lead to a 'Trump Premium' on US Treasuries. If the administration successfully fires a sitting governor, the Fed's credibility as an inflation fighter is dead, and the market will begin pricing in politically motivated interest rate decisions.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYjlOZTQ4TndWWU5vZlFJRXZmTWpHemhxVnlsWi1RVE1aalh6MEhhRTNzU1Vvc2lpb050STlEWFJ5OVE1a0tjWnZGZkxtbnpUVWZocHBOSTR3MnREUXBmbTJpN2pRb0s1LXByRkRjekxYdXVxaVFGdlNib0JQUnptYndHUkplMURQUG5mcnFkbzY2QV9mRE44Z2dnUTZVUGVTbFBsQXJieHR5NG9lR2NFZk43enU?oc=5"
     },
     {
       "section": "us_news",
-      "headline": "US threatens sanctions on the International Criminal Court",
-      "summary": "The US has threatened to impose sanctions on the ICC, potentially escalating tensions with international legal bodies.",
-      "view": "US threats against the ICC signal a shift toward sovereign exceptionalism that will alienate European allies who view the court as a pillar of regional stability. This diplomatic friction creates a vacuum that China will exploit to frame itself as the more reliable defender of international norms.",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WSElxQ2l1VzJ2ZTNTQ2N1VHFLbXNzbmRvV3FMOEVyMm83ZDFxMmdxWmZuWHM5TmtGbXIya3c3U0kyYTcySW8yTzY2VGF1Q0h3TlAyVmZPbmp6d2s?oc=5"
+      "headline": "U.S. moves to dismantle the International Criminal Court",
+      "summary": "The U.S. has issued sweeping sanctions against the ICC in a bid to neutralize the tribunal's global authority.",
+      "view": "By sanctioning the ICC, the US is unilaterally dismantling the post-WWII international legal order to protect its own sovereignty. This creates a 'legal vacuum' that emboldens middle powers to ignore international warrants, effectively ending the era of global human rights enforcement and alienating key European allies.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcXNFcXVnRVZfckpBb0hJMmN0aVhRQ1lxZHlsUlR4MWhLN0J0d0VYdllmYnF2SUlxV3BFN1VGbTAzQXMtaTZjbld2WFg0akNnMjNaUlBTRTlZeE1SQlZ6OXJ6Y3pibHNOQjBreHRHN295WTlVZmtnT0RnX1YwTV8yWTlibFA?oc=5"
     },
     {
       "section": "us_news",
-      "headline": "Navi Pillay awarded Nobel Peace Prize for justice work",
-      "summary": "South African jurist Navi Pillay won the Nobel Peace Prize for her lifelong commitment to international law and human rights.",
-      "view": "Navi Pillay\u2019s Nobel win is a strategic move by the committee to bolster the legitimacy of international law at a time when the ICC is under unprecedented fire from Washington. It elevates Pillay as a moral counterweight to unilateralism, particularly regarding the enforcement of human rights in modern conflicts.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY1JaUVE4ck5QdnpKRUpKbVJWWVRDbnUxNzBCbmZXNWt1SmZJaVZzZEMwd2tWNUJSUG1WOEdLaEdxUWRwVTBXc291WTdWTlRaTWV5VVVmQV9aLV9PVy1uV3NGT1A0OS0zc2JNTUpsclJvWG11UjRKRW1jeTFYaXp0WkR5Zw?oc=5"
+      "headline": "Navi Pillay awarded Nobel Peace Prize for human rights work",
+      "summary": "The former ICC judge and UN rights chief has won the 2026 prize for her career-long pursuit of justice.",
+      "view": "The Nobel Committee is using this award as a direct, symbolic rebuke of US policy, positioning Navi Pillay as the figurehead for a global resistance to 'anti-justice' movements. This elevates the ICC's legitimacy at the exact moment the US is trying to dismantle it, creating a deep diplomatic rift between the Nobel-backed legalists and the US administration.",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNlRoWmxDMW0yZ3V4UFd4OWhXaGZQOWJWWnY1QzRFdnRhU0tQalFJbE1ua3hpWFc3ZlAtbERMbl96cG5rUWt1WjJNMFlsUndsN3JsZ1RSUU9CWE9VUVRhdlhwVVZrQ2NLQXRmVWxEdWYwRDFDYkZ5RE9ZeXhOSlBJSkl6b183Q1dXUmJYTHlQcFpqOFM4VHM0?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Apple prepares for massive hardware refresh next week",
+      "summary": "Apple has announced a 'Welcome Home' event to debut three new major products for its consumer ecosystem.",
+      "view": "Apple is desperate to ignite a hardware supercycle by proving that 'Apple Intelligence' is more than a gimmick. The focus on a 'Home' event suggests they are trying to expand their ecosystem into the smart home and Vision Pro integration to offset plateauing iPhone sales.",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSFdFVjdjLUpkcnowbGhjRXZtaWtoci1pZWdpWUNpYUNIelIxMUM1Y2dyYkV1ckFvZ1k1VnZ2b2VGeXJMQmJibVB0OFlfTnA4Sjd1YTYzdlF0N0xlVm1XMEV0b1lQM0x4VEVndE92d0xyWmhyby00M2dJcUxDNmhqNQ?oc=5"
     },
     {
       "section": "indonesia",
-      "headline": "New labor law splits the difference between business and workers",
-      "summary": "The Indonesian government has passed a labor law that attempts to improve worker protections while maintaining investment appeal.",
-      "view": "This labor law is a calculated gamble to win the 'China+1' manufacturing race by making Indonesia more attractive for labor-intensive electronics. By balancing flexibility with protections, the government hopes to outmaneuver Vietnam and Thailand for diversifying global supply chains.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOXkzYkd4SUN2d2Nwd2dVYWFVRW1WS29lWkswZlNyLW1WOENpVjhDM181WDVoWEVsUTBDUVBiSnpuQUdWOFhvbzhyNmF4RTMxTEEwdzF4VzI2QVpPSFFBbXp4YWhXc2twU0dhZFFXTkhZcFJweXF1dHFRWVNkUDVpLVZLN3ktRGhSdjdpaDU1WTZoVkFrN2xOdEx3?oc=5"
-    },
-    {
-      "section": "indonesia",
-      "headline": "Indonesia weighs a pause on new nickel smelter projects",
-      "summary": "To prevent a price collapse, the government is considering a moratorium on new nickel processing plants as global supply surges.",
-      "view": "Indonesia is moving to 'OPEC-ify' the nickel market by halting new smelters to prevent further price erosion. By acting as the dominant supply-side gatekeeper, the government is forcing global EV makers to deal with Indonesian pricing power or face a supply squeeze as non-Indonesian mines become unviable.",
+      "headline": "Indonesia considers halting new nickel smelter projects",
+      "summary": "The government is weighing a moratorium on new nickel facilities as global supply begins to outpace demand.",
+      "view": "Indonesia is transitioning from a 'volume' to a 'value' strategy, realizing that their own supply boom has crashed nickel prices and hurt tax revenue. This moratorium will tighten the global EV battery market, forcing manufacturers to either accept higher nickel costs or accelerate the shift to LFP (Lithium Iron Phosphate) chemistries.",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQ0p1M0xSbWNHUE5yVWcwRGZBcDFUaDNDLTBvQWhhZ0lXZ2ZfSksxWUplU1QxRmhlMlZlQ3NNeUs5ZldUQ0M4VlI4eXZkb25sU1I0TE5GbEFGUzFCb3ctSGVEVDBhWXlwbmZSdHZjdk5XSnlMSkpoZnNqODI3U3ZDWVlPZFRiMHVSM040clVYM3Y5NnBUczQxOENJZ0FHZk16VkJKTzJ6YkpfYVJNRWtEZjVFTllSdWsyMS1ILUhvTGF0SzlPYjlBeXpRLTE1VW9PTjdTY0lIck1DMXZTVmRLM3g3WFJvN3l2VEhOOUUtZk9rLW8?oc=5"
     },
     {
       "section": "indonesia",
-      "headline": "Free education plan raises red flags over national debt",
-      "summary": "President Prabowo\u2019s plan for universal free education is facing questions about how the government will actually pay for it.",
-      "view": "President Prabowo is prioritizing long-term human capital over fiscal restraint, a move that will inevitably pressure Indonesia's sovereign credit rating. Without immediate tax reform to fund universal education, the government will likely have to cannibalize infrastructure spending or increase debt monetization.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORFQxM1E3QWc4T2lQVnBWMHBVVVVPN1RaQUZNakkwemdTZGJXcTAxb3dPcFdZN1BoUzdnS2NSVWh3NHppc0xfakZHRW1qTm5YUXpVS0QzOUl2Q2hrVVR4N0lvUmM2a1ViNzhZRl9EMzJmV2xIR293OXlGWEd6M1NzMFFpMm9xZnlXNUYwZnBUN1Q5YlZNSjZPWmR3V3h3bGtuMFRHNDBpT1dOUDZJU0hyTndPSk9fTmZEVnM4?oc=5"
+      "headline": "New labor law pits workers\u2019 rights against business costs",
+      "summary": "A recently passed labor law has won praise from unions but sparked serious concern among major employers.",
+      "view": "This populist labor pivot secures domestic political support but risks causing manufacturing capital flight to Vietnam or India. By increasing the cost of business during a global slowdown, the government is betting that its control over raw materials will force foreign firms to stay despite the higher overhead.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOXkzYkd4SUN2d2Nwd2dVYWFVRW1WS29lWkswZlNyLW1WOENpVjhDM181WDVoWEVsUTBDUVBiSnpuQUdWOFhvbzhyNmF4RTMxTEEwdzF4VzI2QVpPSFFBbXp4YWhXc2twU0dhZFFXTkhZcFJweXF1dHFRWVNkUDVpLVZLN3ktRGhSdjdpaDU1WTZoVkFrN2xOdEx3?oc=5"
     },
     {
       "section": "indonesia",
-      "headline": "Negligence lawsuit over wildfires tests regional relations",
-      "summary": "Indonesia is facing legal action for 'gross negligence' as toxic haze from wildfires spreads to neighboring Singapore and Malaysia.",
-      "view": "This lawsuit marks the weaponization of environmental law within ASEAN, moving past decades of 'soft diplomacy' on the haze issue. If the negligence claim succeeds, it will force a reckoning for Indonesia's palm oil and pulp-and-paper industries, which have long relied on local political protection to evade accountability.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVVl1WnRlS3o2RWM5VUJBcWs4eDB3WkMySU5CcDc1aFA0dFdhdTd0QU85X19xaXlqMXdYbUFRUVIzZnU0NVIxeFJUQ0JsSkJCTkQwVzk5eXBRUkRFaFkteXdpYkdCb1VVdG9leUtOQWhaZnJoWEtTTnczR0R2ZTdXYmw0OGFrdFQ1b05NSUtlWlUtWlhnYUo3Z0tQRjlfUzFZLS1pVA?oc=5"
+      "headline": "New law aims to centralize all government data",
+      "summary": "The 'Satu Data' law passed by the House will unify fragmented government databases into one system.",
+      "view": "The 'Satu Data' law is primarily a tool for state surveillance and centralized control rather than bureaucratic efficiency. While it may streamline citizen services, it creates a massive 'single point of failure' for cybersecurity that could paralyze the entire government if compromised.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdzlncUh2bUh4T3Z5U3lpSDVMc3FiRTRSM2U3aHZTUDVYdVY0RWctOWRIN0l2d2oxZUgyTTZqVzZ2MXk2Z1lERm1pTXhpLWp0ZXA0Ylptd1pOZlVfVGlfM1hIVHpUVHJ0aDN0RHlaTGs0alNLRHpYWGxFZVRtdUhDVGpkOUdEYmRKYXB6TVo1V0dySlNuUjE4d1N5NjdXRUY0QnIyc25B?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Prabowo\u2019s free education plan faces budget reality check",
+      "summary": "The President-elect's signature promise of universal free education is under scrutiny for its massive price tag.",
+      "view": "Prabowo is colliding with fiscal reality; the national deficit ceiling makes universal free education impossible without either cutting infrastructure or raising taxes. Expect the 'signature' plan to be quietly rebranded as a targeted pilot program to avoid a sovereign credit rating downgrade.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORFQxM1E3QWc4T2lQVnBWMHBVVVVPN1RaQUZNakkwemdTZGJXcTAxb3dPcFdZN1BoUzdnS2NSVWh3NHppc0xfakZHRW1qTm5YUXpVS0QzOUl2Q2hrVVR4N0lvUmM2a1ViNzhZRl9EMzJmV2xIR293OXlGWEd6M1NzMFFpMm9xZnlXNUYwZnBUN1Q5YlZNSjZPWmR3V3h3bGtuMFRHNDBpT1dOUDZJU0hyTndPSk9fTmZEVnM4?oc=5"
     },
     {
       "section": "crypto_fx",
-      "headline": "Middle East tensions and liquidations spark a crypto crash",
-      "summary": "Over $500 million in crypto positions were wiped out as geopolitical fears drove investors to dump risky assets.",
-      "view": "The flash crash confirms that Bitcoin remains a 'risk-on' asset rather than 'digital gold' during periods of acute geopolitical crisis. When the threat of escalation is real, global liquidity flees to the safety of USD, triggering a cascade of liquidations for over-leveraged long positions.",
+      "headline": "Geopolitical jitters trigger half-billion dollar crypto liquidations",
+      "summary": "Tensions in Iran and a wave of forced sales led to a sharp drop in Bitcoin and other major tokens.",
+      "view": "These liquidations prove that Bitcoin remains a high-beta risk asset, not a safe haven, as traders dump leverage at the first sign of kinetic conflict. The mechanism is a simple margin call cascade: over-leveraged 'long' positions were caught off-guard by geopolitical headlines, forcing a wipeout of speculative froth.",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcjIzel9VSWJJYWg5LXhKTnZFTFk2Y2NKQVVlbVlsWjhENTJ0WkJQWlFEOHV5aWxMd0R1WjdUeTNldDNsZmQ3QmJCN0QwU1BWU2xsRnZfb2J5QVhkRXpDUkplQzBnTFdCZ1NHcDRPWVJPNlpXc0lBTFlobUN6NEZuWFRmS0p2Ung1QkpLc3pXQk0wZ01FMUpFajhmeVpjSnpSa2IyYkp6cVdCelZSR3RjTUI1UU1RQU5GSE15c3NGOVlMTGgyODV1dzlhX0VQRVR0NGU1c1A1MVV2akJselRhRQ?oc=5"
     },
     {
       "section": "crypto_fx",
-      "headline": "Crypto ETFs rake in $10 billion during the third quarter",
-      "summary": "Institutional interest in Bitcoin remains high, but Solana is emerging as the new favorite for growth-oriented ETF investors.",
-      "view": "The shift toward Solana ETFs signals that institutional interest is moving from 'Bitcoin as gold' to 'Solana as the high-speed network for finance.' Solana's transaction throughput makes it the only viable chain for high-frequency institutional products, effectively positioning it as the Nasdaq of the crypto space.",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaHlMUlJpY21YTGtCRmdPbHN6cDNCaTNaaENBZlFCbG9HR1cxMUE0SURWM0VEdXljZUJreTc1NncxV281ajF1cEgydGtZZGw3b2dDUlpvUTNFZ0dMVktOYTM4anVYZExqd0R6d3NlNk1KN05fRFpGN18yU3JvZ1FQTVNIWk5zTkFNZGgyVUtTLU8weXBKbkNMMWsybUV2bW1Hb0JHRFM3MjJXdlp0bTdoUlZJZWt2a3EyanAtcTFCS0tKd1lUMmFtbFBxajRmYlE?oc=5"
-    },
-    {
-      "section": "crypto_fx",
-      "headline": "Bitcoin and the Japanese Yen reach record correlation",
-      "summary": "Bitcoin is now moving in high correlation with the USD/JPY pair, behaving like a global liquidity proxy.",
-      "view": "The record correlation between Bitcoin and the Yen carry trade identifies BTC as a global liquidity proxy rather than an independent asset. When the Bank of Japan tightens, the leverage used to buy crypto is the first to be unwound, making Bitcoin more sensitive to BoJ policy than to traditional US tech earnings.",
+      "headline": "Bitcoin and the Japanese Yen are dancing in sync",
+      "summary": "The correlation between Bitcoin and the USD/JPY pair has hit a record high, affecting global trade strategies.",
+      "view": "The Bitcoin-Yen correlation marks the asset's evolution into a institutional 'carry trade' proxy. When the Yen strengthens, it signals an unwinding of global risk-on positions, dragging Bitcoin down with it and proving it is now a tool for macro liquidity hedging rather than a retail currency.",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5"
     },
     {
       "section": "crypto_fx",
-      "headline": "Traders debate if Bitcoin will hit $100k or retreat to $77k",
-      "summary": "Market analysts are divided on Bitcoin's short-term path as it hovers near all-time highs amid macro uncertainty.",
-      "view": "Bitcoin is in a technical 'coiling' phase where the next direction is dependent on US macro data rather than crypto news. The $77k level is the critical support; a hold there confirms a move to six figures, while a break will trigger a massive liquidation of retail traders who entered at the recent highs.",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTUtINzI3dmFCdHBVSmo1akdjeHk0YW9Xekt1aXh6WDJVV190UjlqemdFRzIyR1dIc2t6UFlEUV8yOHktckJJclF5TXhoQzZaaGQyMGVuZ2VEQU1yZkk3U2ZjVDdEWTVuS1BJUzZVaDNrY0dWendXbGt5UDUyWVYzb3BFbkxPNXYzTXlxdW1wcFFDN1FNaEJkSGJVaU5KRlA2WGxZcHFmX0RXTTlNNVNUTmFtQzMzTk15anc?oc=5"
+      "headline": "Crypto ETFs rake in $10 billion as Solana gains ground",
+      "summary": "Third-quarter data shows massive institutional inflows into Bitcoin, with Solana emerging as a fast-growing favorite.",
+      "view": "Solana is emerging as the institutional favorite for investors who want a high-throughput network play without the 'legacy' baggage of Ethereum. The $10B inflow confirms that the ETF wrapper is now the dominant bridge for institutional capital, making the underlying technology's speed more important than its decentralization.",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaHlMUlJpY21YTGtCRmdPbHN6cDNCaTNaaENBZlFCbG9HR1cxMUE0SURWM0VEdXljZUJreTc1NncxV281ajF1cEgydGtZZGw3b2dDUlpvUTNFZ0dMVktOYTM4anVYZExqd0R6d3NlNk1KN05fRFpGN18yU3JvZ1FQTVNIWk5zTkFNZGgyVUtTLU8weXBKbkNMMWsybUV2bW1Hb0JHRFM3MjJXdlp0bTdoUlZJZWt2a3EyanAtcTFCS0tKd1lUMmFtbFBxajRmYlE?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Analysts warn of a massive 'bailout' narrative for Bitcoin",
+      "summary": "Some market observers are predicting a major crash that could ironically lead to more institutional support for crypto.",
+      "view": "The 'bailout narrative' is a reflexivity bet: a crash so severe it threatens systemic stability would force central banks to return to easing, which is the ultimate tailwind for crypto. This paradoxical logic makes a major price collapse a 'buy the dip' event for institutions betting on an eventual Fed pivot.",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWklmQ3RxcEtJVXZLVXNDVFpJckVFMG4wVWJNVVY1YmxwWG9aRXBJSXgySEdJa2JKNkFHYWV3d2ZXNUFyYzVpX1Q4X09qb1JHQzZYTldVZHZoSm9VTGFFdV96SmYwXzVwMTJHT1E2dDZpU1Q3S3JFWGF2LXJ0VFF2WF9mUk42ZV9JUWhaaldndHd1SGxPQkRXWjRPN05XY1daLW9HWm5hbTY1TEFnTHRKbnhJSGpvR3pnTHM3dF9RTjVuazRCa3lJdzkweUZCNEFOQ0E?oc=5"
     }
   ]
 }
