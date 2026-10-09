@@ -6,42 +6,54 @@
       "headline": "White House limits foreign talent at major tech firms",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTHBUeWVBdWg1NlRjbm0wVUJSSFlGeVRMczI1UjNTNmFPUkVfVHpCVzRZVjM1ZHFMQlBoV3I0a21LY1JLaW1QWDNPMVFSYnpDSm0wWW1pVUJyWFhFc1BLdUg2WTRXbUNLMkdDd01zN280U0EwamFyS0puZllkMFRQOHA0Q0l4Wjl0VjJmcml3Rmc3Zk12Tm9ndFlzclRRQzE2?oc=5",
       "prediction": "Major tech firms will report a 15-20% increase in headcount for their Vancouver and Toronto offices by the end of Q2 2027 to circumvent these restrictions.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new headlines were found to confirm or contradict the predicted headcount increases in Canadian offices."
     },
     {
       "section": "tech",
       "headline": "Tech insiders take the lead on federal AI policy",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQl9UbW1UcnpjVkNZNnlkNDkxUFdjcENVNU9CRkdXTXozaVRmVWlpelNHbUcwY05QVmZMMmZ2N2FUV2hCYkVhWkV0SS1UMFlOZ2dWY3hsYy1iMGExbWVEby1TYnFTLTE4a1RJR3VINlhrSWR3T1I0WG1BclIySGMzUHkyczMtTWU1dkpyeGdWZlpZUEVjMFYzSGJGbm5fU0VIRHVMTUQ1NkppLTUwa0liVw?oc=5",
       "prediction": "The task force will issue a policy recommendation before year-end that explicitly grants 'national security priority' to AI data centers for power grid access, preempting local utility regulations.",
-      "grounded": true
+      "grounded": true,
+      "status": "held_up",
+      "note": "Fresh headlines regarding House Republicans blocking local regulations on AI data centers and Kratsios's testimony on federal AI action plans support the move toward federal policy preemption."
     },
     {
       "section": "tech",
       "headline": "Economic headwinds trigger a cooling in tech hiring",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVmgxSDNTZGh3WUxCOEtWOFNPZ2R3a1FCNVNSQ2xqU0RhSTVnUVA3dUg4aWYxUXZyMUZlU0NlVjBFWXFhOXVWZlloNFl3bVNCeFo0WXJlNjRYOTAyeEhNbHIzZGMwX2FmMlNxQk45OHdUUXpmX3FWWGVpTEtudlpDV2g5d0M5SERmeWxBYW1YLTZ5MDZxa3pqZG1ldXN6d0F5bkJWU2t0VzF5RUhKMVlSQkVPWFJJaHg0blRVeUFB?oc=5",
       "prediction": "Tech job postings on major boards will fail to return to 2023 levels even if the Nasdaq hits new all-time highs in 2026.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "While headlines confirm the Nasdaq is hitting record highs, there is no information provided regarding tech job posting levels compared to 2023."
     },
     {
       "section": "tech",
       "headline": "Energy-hungry AI data centers face a public revolt",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONUFkamRPcURUc2lmVGVJbnQ5cGZfZUgtbGhfVzhWWlcyemM0UjBSWHBLRUl6NjZfOHI3U1hiRVQ3X24xRHJzb1Q5ODdac3c0bXF1WUI4ZTRuOEJhaHNQWURLQXJRNnhmMHFfaHpxdUgxeHBMWlZzYm8zaGpMMmxWeC13aXkxZTJoUG1Pc2F2d21RVTRldUpVRQ?oc=5",
       "prediction": "At least three major data center projects in northern Virginia or the Ohio River Valley will be formally cancelled or indefinitely delayed by state-level environmental injunctions before June 2027.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No fresh headlines were found regarding the cancellation or delay of data center projects in Northern Virginia or the Ohio River Valley."
     },
     {
       "section": "markets",
       "headline": "Tech stocks slide while oil prices continue to climb",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN1hvWl9DMFlrdWI3MDJRYjRqb2hyeTI1eWVDSTBucWpWb2xRNTVFdk5PY0pHMWcxQ3djT2hkOHRpNks2cmEwQU5hT1F5SklzN1hTMi1maUJpN0pIaE9iaWlFS3BqcU9IbXRqYnBwaHR2NnF6Ujl1TVhKb2tzVmdRZUVHUmY0WWY3STZYLWcwaXpvQjlNTXhTbmQxdWV3Z3ZKNXcyNjgxaXVPeUdscXc?oc=5",
       "prediction": "WTI crude oil will sustain a price floor above $88 per barrel through the end of the current quarter.",
-      "grounded": true
+      "grounded": true,
+      "status": "held_up",
+      "note": "Current headlines confirm crude is at $88 with forecasts rising as high as $104 due to tensions in the Strait of Hormuz."
     },
     {
       "section": "markets",
       "headline": "The valuation gap between AI and other sectors widens",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZlo2QnJobkpnNkowejZOV3V0VnNEZFhQcWw5WUVzaDJNbGp2aEVmbENKQ3JZMFlFYjJGMXBYR3poM3Zzei1vVzRhNDR4cWFjcTJyNzktUFZXc2dSa1VzZ2NpMmdXNFVFcmdxWXZnc1I0eHREVDdiWUJHdzZUSUt0cmZ5c0J0dTRPUWhXZGlVdDdRZm1SYmZvVzlVaw?oc=5",
       "prediction": "The valuation gap (P/E ratio) between the top 5 AI leaders and the rest of the S&P 500 will widen by an additional 15% by year-end 2026.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "While headlines mention equity return gaps and warnings for S&P 500 owners, they do not provide specific P/E ratio data to confirm the widening gap for AI leaders."
     },
     {
       "section": "markets",
