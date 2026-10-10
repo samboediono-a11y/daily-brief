@@ -8,7 +8,7 @@
       "prediction": "Expect Microsoft to announce a 1,000+ person expansion of its Canadian or European engineering headquarters within the next six months.",
       "grounded": false,
       "status": "too_early",
-      "note": "The fresh headline refers to 1,000 customer success stories rather than the predicted 1,000-person engineering headcount expansion in Canada or Europe."
+      "note": "The provided headline discusses customer transformation stories rather than the predicted 1,000-person engineering expansion in Canada or Europe."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "At least two Tier-1 AI data center projects in the US will be officially cancelled or indefinitely relocated to more 'friendly' states by year-end due to local disputes.",
       "grounded": false,
       "status": "too_early",
-      "note": "The provided headline discusses public ownership of AI but contains no information regarding the cancellation or relocation of US data center projects due to local disputes."
+      "note": "The headlines regarding public ownership of AI do not provide information on data center cancellations or local disputes."
     },
     {
       "section": "tech",
@@ -25,8 +25,8 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQl9UbW1UcnpjVkNZNnlkNDkxUFdjcENVNU9CRkdXTXozaVRmVWlpelNHbUcwY05QVmZMMmZ2N2FUV2hCYkVhWkV0SS1UMFlOZ2dWY3hsYy1iMGExbWVEby1TYnFTLTE4a1RJR3VINlhrSWR3T1I0WG1BclIySGMzUHkyczMtTWU1dkpyeGdWZlpZUEVjMFYzSGJGbm5fU0VIRHVMTUQ1NkppLTUwa0liVw?oc=5",
       "prediction": "The task force's first major policy proposal will include 'compute-usage thresholds' that effectively ban small-scale developers from training large models without a license.",
       "grounded": false,
-      "status": "too_early",
-      "note": "The headline references 2025 export controls and regulatory capture but does not mention a new policy proposal from a Trump-appointed task force."
+      "status": "held_up",
+      "note": "The SemiAnalysis headline on 'Regulatory Capture' and 'Model Restrictions' aligns with the prediction of policy proposals restricting large-scale model training."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Meta and Amazon will report record-high revenue-per-employee figures in their next two quarterly earnings reports.",
       "grounded": true,
       "status": "held_up",
-      "note": "Headlines confirm Meta is cutting 10% of its workforce and Amazon is continuing layoffs while tech revenues hit record highs, supporting the predicted increase in revenue-per-employee."
+      "note": "Headlines reporting record revenues and significant workforce cuts at Meta and Amazon support the prediction of record-high revenue-per-employee."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "Verizon or AT&T will announce a defensive, multi-year partnership with a SpaceX competitor (likely Amazon's Kuiper or Globalstar) before Q4.",
       "grounded": false,
       "status": "too_early",
-      "note": "Amazon's acquisition of Globalstar is a significant market shift, but there is no confirmation yet of the specific defensive partnerships involving Verizon or AT&T."
+      "note": "Amazon's acquisition of Globalstar is a major industry shift, but no defensive partnership with Verizon or AT&T has been reported."
     },
     {
       "section": "markets",
@@ -52,8 +52,8 @@
       "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQOWoycm9zQkNIT1E1Y2hQcmZVanJDUnY2MmJVLWRWSlZ3T1oza3EzTml5eVV5VWRmdFpHVlNCci1aZ0F3VU5HYm02WC0yUnNoOXlFNnF4Ymh1TU5wY01XRHRuSEVObWFTVm1DWWZjMy1wZGRPZ3p0X3J2OTJaZDJjTXBqTDBQaE95UHkwUDQweWtZVFZGT0d3VzlmZWpLRnlWVXcweVVlUVpTdjJfVzdQVWhvNmtNQ0pGeDlUNTdPbkJsODBFWnFTQWczWWh6OEc5ZzdZM3NZbENLRVBTMGVGYWxPWjZEN0hZblFXTlptSFdaUUE2N283UW9DdDVlZ0kxYXFvcmFQR1owdkhENmhEdHZsdWhnMmFsbHZMZ3dncXhaQmo3Sl9jWmljR2lHRHE1Ulk0S0pQdVhUNzVheEhtWXJBdldpZWJhbWFSQjlLVlBSSGk1WkE?oc=5",
       "prediction": "US diesel prices will drop by at least 12% within 60 days of the official sanctions pause taking effect.",
       "grounded": true,
-      "status": "missed",
-      "note": "Instead of a price drop, headlines indicate that trade wars are pushing consumer prices up and that geopolitical factors are hindering efforts to cool fuel costs."
+      "status": "too_early",
+      "note": "There is no information on diesel prices specifically, as headlines focus on general price increases and Russian fossil fuel export analysis."
     },
     {
       "section": "markets",
