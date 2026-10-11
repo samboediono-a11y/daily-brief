@@ -6,42 +6,54 @@
       "headline": "White House freezes green cards for major tech employers",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNenk2MHZ3TFhxRjBqU1pTRmZvNFRUYy1CSG5rXzNSeGRqS05lLUlIRlBYM3hTQ3d4dUwyVmdtc0Z4cVhqOUdKZmh0VWhjQmxldjZKejR3WGxzOEdXZEJwVUxXN0pOelgzcndVakpzWHFiNHFIWi1aZkM1SjdfNFB1dG9hcGVEZTlYdmg0ckJ1MmtqMVBNUEl1MHJBVkxmSGdJVDlXS2ZENlpQY3FRSzB1NQ?oc=5",
       "prediction": "Microsoft and at least one other 'Magnificent Seven' peer will announce significant expansions of their Canadian or European R&D hubs by the end of Q3 2025 to bypass US visa constraints.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No fresh headlines were found to confirm or deny the expansion of international R&D hubs by major tech firms."
     },
     {
       "section": "tech",
       "headline": "Tech insiders dominate the new White House AI task force",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQl9UbW1UcnpjVkNZNnlkNDkxUFdjcENVNU9CRkdXTXozaVRmVWlpelNHbUcwY05QVmZMMmZ2N2FUV2hCYkVhWkV0SS1UMFlOZ2dWY3hsYy1iMGExbWVEby1TYnFTLTE4a1RJR3VINlhrSWR3T1I0WG1BclIySGMzUHkyczMtTWU1dkpyeGdWZlpZUEVjMFYzSGJGbm5fU0VIRHVMTUQ1NkppLTUwa0liVw?oc=5",
       "prediction": "The task force\u2019s first major policy recommendation will focus on 'compute thresholds' for training models, effectively licensing the ability to build frontier AI to only the largest firms.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "While there are reports on global AI regulatory trackers, none specifically mention a White House task force recommendation for compute thresholds."
     },
     {
       "section": "tech",
       "headline": "Tech jobs fall as economic instability hits the sector",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVmgxSDNTZGh3WUxCOEtWOFNPZ2R3a1FCNVNSQ2xqU0RhSTVnUVA3dUg4aWYxUXZyMUZlU0NlVjBFWXFhOXVWZlloNFl3bVNCeFo0WXJlNjRYOTAyeEhNbHIzZGMwX2FmMlNxQk45OHdUUXpmX3FWWGVpTEtudlpDV2g5d0M5SERmeWxBYW1YLTZ5MDZxa3pqZG1ldXN6d0F5bkJWU2t0VzF5RUhKMVlSQkVPWFJJaHg0blRVeUFB?oc=5",
       "prediction": "Tech industry unemployment will remain above the national average for at least three consecutive quarters through 2025.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The provided headlines discuss general economic forecasts and inflation but do not contain specific tech industry unemployment data relative to the national average."
     },
     {
       "section": "tech",
       "headline": "AI expansion hits a wall of local community pushback",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONUFkamRPcURUc2lmVGVJbnQ5cGZfZUgtbGhfVzhWWlcyemM0UjBSWHBLRUl6NjZfOHI3U1hiRVQ3X24xRHJzb1Q5ODdac3c0bXF1WUI4ZTRuOEJhaHNQWURLQXJRNnhmMHFfaHpxdUgxeHBMWlZzYm8zaGpMMmxWeC13aXkxZTJoUG1Pc2F2d21RVTRldUpVRQ?oc=5",
       "prediction": "At least two major data center projects in Northern Virginia or Arizona will be officially canceled or relocated to different states due to denied local permits before year-end 2025.",
-      "grounded": false
+      "grounded": false,
+      "status": "held_up",
+      "note": "The headline reporting a '7 GW Capacity Crisis' and widespread data center delays in 2026 supports the prediction that projects would face significant hurdles and cancellations."
     },
     {
       "section": "markets",
       "headline": "OpenAI revenue targets miss sends the Nasdaq lower",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uZnFqRjRicl9Hc3lSeXlCQV9SS3QzVl83MFlGaUU5dDI5TFlWNWNmTktaTUtmLTJyNE5FQ3A2dE1lMU5pdk5IN21odldNeXlMemZpZEJuWFdVcHlWa21WaVBQOVRzNE9lR2dyOWhOOUF0amdINVkxStIBfkFVX3lxTFAxOVBHNFJ3UUZ5NXVkME1WOWpYZXZqSVpndGFCRUtTS2JJYnI3eVR6eXBDQjBkODBxYzdlOUFDaU5qMjQyS3J4b25sVmNtUlRmd0NBbGdOcjFMOHFGTEtWZkJzaU9ibXdWZjB4M2tpdWVIZi1vTS1lU19pUGk4QQ?oc=5",
       "prediction": "The Nasdaq-100 will underperform the S&P 500 for the remainder of the current quarter as investors rotate from AI growth to defensive value.",
-      "grounded": true
+      "grounded": true,
+      "status": "held_up",
+      "note": "Reports of tech stocks being 'hammered' and recommendations to buy defensive value stocks confirm the predicted Nasdaq underperformance and investor rotation."
     },
     {
       "section": "markets",
       "headline": "Warren Buffett prepares investors for a market correction",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZjZPOWowSkdiOURQc1J1VDZpeVpNeFYzYTZTZG9oQzRfeVp2WDY2cHB3Q0t6YmxtYUJmTDF1bUFuNV9kbmNqOGtiSmU5ZWpTN2ZxQkE5VHNCUFFkU2YzSkpad2IxY0ZsMWpodldUak43WXIyd0ZJNnlSY2s2NHl4T2w2X0I0Q2cwdWtUblN1YnRlWjdQUGdOcmdiZXR3UUhh?oc=5",
       "prediction": "Berkshire Hathaway's cash pile will hit a new record high in the next quarterly filing as Buffett waits for the predicted correction to deploy capital.",
-      "grounded": true
+      "grounded": true,
+      "status": "held_up",
+      "note": "Multiple headlines explicitly state that Berkshire Hathaway's cash position has reached a record-breaking all-time high of nearly $400 billion."
     },
     {
       "section": "markets",
