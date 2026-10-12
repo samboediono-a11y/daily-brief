@@ -8,7 +8,7 @@
       "prediction": "Expect a 10-15% uptick in headcount growth for Microsoft\u2019s India-based development centers by the end of Q3 2026.",
       "grounded": true,
       "status": "too_early",
-      "note": "The provided headline discusses general layoffs from 2025 and contains no specific data regarding Microsoft India's headcount growth in 2026."
+      "note": "Fresh headlines mention general tech layoffs at various firms but do not provide specific headcount growth data for Microsoft's India development centers."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "The task force will propose a 'high-compute' licensing framework by year-end that effectively bans unregulated training of models above a certain parameter count.",
       "grounded": false,
       "status": "too_early",
-      "note": "No new headlines were found to indicate whether the AI task force has proposed the high-compute licensing framework."
+      "note": "No fresh headlines were found to indicate whether the AI task force has proposed a licensing framework."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "Nvidia will report a margin expansion of at least 200 basis points in its next quarterly report, driven by demand for Blackwell architecture.",
       "grounded": true,
       "status": "too_early",
-      "note": "Headlines confirm that Nvidia's fiscal 2026 results have been released, but they do not provide specific margin expansion figures to verify the prediction."
+      "note": "Headlines confirm the release of Nvidia's Q4 2026 and fiscal 2026 results, but they do not explicitly state the margin expansion figure required to verify the 200 basis point prediction."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Total tech job openings on major recruitment platforms will hit a three-year low by the end of June 2026.",
       "grounded": false,
       "status": "too_early",
-      "note": "While headlines are dated October 2026, they do not provide the aggregate tech job opening data needed to confirm if a three-year low occurred in June 2026."
+      "note": "Current headlines discuss ongoing layoffs and general job search site rankings, but they do not provide the specific metrics needed to confirm if tech job openings hit a three-year low in June 2026."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "A 5% correction in the S&P 500 will trigger over $10 billion in forced margin liquidations within a 48-hour window before year-end.",
       "grounded": true,
       "status": "too_early",
-      "note": "No fresh headlines were found regarding S&P 500 market corrections or the scale of margin liquidations."
+      "note": "No information was found regarding market corrections or forced margin liquidations."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "Brent crude will breach and hold the $100 per barrel mark if a direct retaliatory strike on Iranian energy infrastructure is confirmed.",
       "grounded": true,
       "status": "too_early",
-      "note": "Headlines report military conflict with Iran but do not confirm specific strikes on energy infrastructure or that Brent crude prices breached $100."
+      "note": "Headlines confirm active military conflict with Iran, but there is no specific mention of Brent crude prices reaching or holding the $100 threshold."
     },
     {
       "section": "markets",
