@@ -1,0 +1,1428 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Daily Brief — October 12, 2026</title>
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#0B0E11">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Daily Brief">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0B0E11;
+    --bg-raised:#12161B;
+    --card:#161B21;
+    --card-hi:#1B2129;
+    --line:#252C35;
+    --text:#EDF0F2;
+    --text-dim:#8F98A3;
+    --text-faint:#5B6470;
+    --teal:#2DD4BF;
+    --amber:#F5A623;
+    --blue:#5FA8FF;
+    --coral:#F87171;
+    --violet:#A78BFA;
+    --green:#22C55E;
+    --red:#EF4444;
+  }
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    margin:0;
+    background:
+      radial-gradient(ellipse 900px 400px at 50% -80px, rgba(45,212,191,0.10), transparent 70%),
+      var(--bg);
+    color:var(--text);
+    font-family:'Inter',system-ui,sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{color:inherit; text-decoration:none;}
+
+  /* ---- Ticker ---- */
+  .ticker-wrap{
+    background:#000;
+    border-bottom:1px solid var(--line);
+    overflow:hidden;
+    white-space:nowrap;
+  }
+  .ticker{
+    display:inline-block;
+    padding:7px 0;
+    font-family:'JetBrains Mono',monospace;
+    font-size:11.5px;
+    letter-spacing:0.06em;
+    color:var(--text-faint);
+    animation:scroll 24s linear infinite;
+  }
+  .ticker span{ padding:0 26px; }
+  .ticker span:not(:last-child)::after{ content:"•"; margin-left:26px; color:var(--line); }
+  @keyframes scroll{
+    0%{transform:translateX(0);}
+    100%{transform:translateX(-50%);}
+  }
+
+  /* ---- Day tabs: styled like real browser tabs, connected to the header below ---- */
+  .tabs-wrap{
+    background:var(--bg-raised);
+    border-bottom:1px solid var(--line);
+    overflow-x:auto;
+    -webkit-overflow-scrolling:touch;
+  }
+  .tabs-wrap::-webkit-scrollbar{ height:0; }
+  .tabs{
+    display:flex;
+    max-width:1140px;
+    margin:0 auto;
+    padding:8px 20px 0;
+    gap:4px;
+  }
+  .tab{
+    font-family:'JetBrains Mono',monospace;
+    font-size:11px;
+    font-weight:500;
+    letter-spacing:0.05em;
+    color:var(--text-faint);
+    padding:9px 16px;
+    border-radius:8px 8px 0 0;
+    white-space:nowrap;
+    flex-shrink:0;
+    border:1px solid transparent;
+    border-bottom:none;
+    transition:color .15s ease;
+  }
+  .tab:hover{ color:var(--text-dim); background:rgba(255,255,255,0.02); }
+  .tab.active{
+    color:var(--teal);
+    background:var(--bg);
+    border-color:var(--line);
+  }
+
+  /* ---- Header ---- */
+  header{
+    max-width:1140px;
+    margin:0 auto;
+    padding:38px 20px 26px;
+  }
+  .eyebrow{
+    font-family:'JetBrains Mono',monospace;
+    font-size:10.5px;
+    letter-spacing:0.16em;
+    text-transform:uppercase;
+    color:var(--text-faint);
+    display:flex;
+    justify-content:space-between;
+    margin-bottom:18px;
+  }
+  .eyebrow .live{
+    color:var(--teal);
+    display:inline-flex;
+    align-items:center;
+    gap:5px;
+  }
+  .eyebrow .live::before{
+    content:"";
+    width:6px; height:6px; border-radius:50%;
+    background:var(--teal);
+    box-shadow:0 0 0 3px rgba(45,212,191,0.18);
+  }
+  h1.masthead{
+    font-family:'Space Grotesk',sans-serif;
+    font-weight:700;
+    font-size:40px;
+    line-height:1.05;
+    margin:0 0 12px;
+    letter-spacing:-0.01em;
+    background:linear-gradient(180deg, #FFFFFF 0%, #C9D0D6 100%);
+    -webkit-background-clip:text;
+    background-clip:text;
+    color:transparent;
+  }
+  .dateline{
+    font-size:13.5px;
+    color:var(--text-dim);
+    margin-bottom:18px;
+  }
+
+  /* ---- Quick jump nav ---- */
+  .jumpnav{
+    max-width:1140px;
+    margin:0 auto;
+    padding:0 20px 8px;
+    display:flex;
+    gap:8px;
+    flex-wrap:wrap;
+  }
+  .jumpnav a{
+    font-family:'JetBrains Mono',monospace;
+    font-size:10.5px;
+    letter-spacing:0.08em;
+    padding:6px 12px;
+    border:1px solid var(--line);
+    border-radius:20px;
+    color:var(--text-dim);
+    transition:all .15s ease;
+  }
+  .jumpnav a:hover{ border-color:var(--teal); color:var(--teal); transform:translateY(-1px); }
+
+  main{max-width:1140px; margin:0 auto; padding:10px 20px 60px;}
+
+  .layout{
+    display:grid;
+    grid-template-columns: minmax(0, 1fr) 300px;
+    grid-template-areas: "news earnings";
+    gap:28px;
+    align-items:start;
+  }
+  .news-col{ grid-area:news; min-width:0; }
+  .earnings-col{
+    grid-area:earnings;
+    position:sticky;
+    top:16px;
+    min-width:0;
+  }
+  @media (max-width:900px){
+    .layout{
+      grid-template-columns:1fr;
+      grid-template-areas: "earnings" "news";
+    }
+    .earnings-col{ position:static; }
+  }
+
+  .section-label{
+    display:flex;
+    align-items:center;
+    gap:11px;
+    margin:50px 0 18px;
+    scroll-margin-top:64px;
+  }
+  .section-label .chip{
+    font-family:'JetBrains Mono',monospace;
+    font-size:10.5px;
+    font-weight:700;
+    letter-spacing:0.04em;
+    padding:3px 7px;
+    border-radius:5px;
+    border:1px solid;
+  }
+  .section-label h2{
+    font-family:'Space Grotesk',sans-serif;
+    font-size:13.5px;
+    font-weight:600;
+    letter-spacing:0.13em;
+    text-transform:uppercase;
+    margin:0;
+    color:var(--text);
+  }
+  .section-label .line{ flex:1; height:1px; background:var(--line); }
+
+  /* ---- Story cards ---- */
+  article.story{
+    position:relative;
+    display:flex;
+    align-items:stretch;
+    background:linear-gradient(180deg, var(--card-hi), var(--card));
+    border:1px solid var(--line);
+    border-radius:10px;
+    overflow:hidden;
+    margin-bottom:16px;
+    box-shadow:0 10px 28px -18px rgba(0,0,0,0.6);
+  }
+
+  .thumb{
+    position:relative;
+    flex:0 0 148px;
+    width:148px;
+    background:
+      linear-gradient(135deg, color-mix(in srgb, var(--accent) 30%, transparent), color-mix(in srgb, var(--accent) 8%, transparent));
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  }
+  .thumb img{
+    position:absolute;
+    inset:0;
+    width:100%;
+    height:100%;
+    object-fit:cover;
+  }
+  .thumb-fallback{
+    font-family:'Space Grotesk',sans-serif;
+    font-weight:700;
+    font-size:20px;
+    letter-spacing:0.02em;
+    color:var(--accent);
+  }
+
+  .story-body{
+    flex:1;
+    min-width:0;
+    padding:18px 20px;
+    border-left:3px solid var(--accent, var(--teal));
+  }
+
+  .domain-badge{
+    display:inline-block;
+    font-family:'JetBrains Mono',monospace;
+    font-size:10px;
+    letter-spacing:0.04em;
+    color:var(--text-faint);
+    background:rgba(255,255,255,0.03);
+    border:1px solid var(--line);
+    border-radius:4px;
+    padding:2px 7px;
+    margin-bottom:10px;
+  }
+
+  .headline-link{
+    display:inline-flex;
+    align-items:flex-start;
+    gap:6px;
+  }
+  .headline{
+    font-family:'Space Grotesk',sans-serif;
+    font-weight:600;
+    font-size:19px;
+    line-height:1.32;
+    margin:0 0 10px;
+    color:var(--text);
+    transition:color .15s ease;
+  }
+  .headline-link:hover .headline{ color:var(--teal); }
+  .ext-icon{
+    font-size:13px;
+    color:var(--text-faint);
+    margin-top:3px;
+  }
+
+  .summary{
+    font-size:14.5px;
+    line-height:1.65;
+    color:#C7CDD3;
+    margin:0 0 14px;
+  }
+
+  .analyst{
+    background:rgba(0,0,0,0.22);
+    border:1px solid var(--line);
+    border-radius:6px;
+    padding:13px 15px;
+  }
+  .analyst .label{
+    font-family:'JetBrains Mono',monospace;
+    font-size:10px;
+    font-weight:600;
+    letter-spacing:0.1em;
+    text-transform:uppercase;
+    color:var(--accent, var(--teal));
+    display:flex;
+    align-items:center;
+    flex-wrap:wrap;
+    gap:6px 10px;
+    margin-bottom:8px;
+  }
+  .angle-src{
+    font-weight:400;
+    text-transform:none;
+    letter-spacing:0.01em;
+    font-size:9.5px;
+    color:var(--text-faint);
+  }
+  .analyst p{
+    margin:0;
+    font-size:13.5px;
+    line-height:1.62;
+    color:#B8C0C8;
+  }
+  .angle-view{ margin-bottom:10px !important; }
+  .angle-bear{
+    padding-top:10px;
+    margin-bottom:10px !important;
+    border-top:1px dashed var(--line);
+    color:#C7B8AE !important;
+  }
+  .bear-label{
+    font-family:'JetBrains Mono',monospace;
+    font-weight:600;
+    font-size:11px;
+    letter-spacing:0.03em;
+    color:var(--coral);
+  }
+  .angle-prediction{
+    padding-top:10px;
+    border-top:1px dashed var(--line);
+    color:#D3D9DE !important;
+  }
+  .pred-label{
+    font-family:'JetBrains Mono',monospace;
+    font-weight:600;
+    font-size:11px;
+    letter-spacing:0.03em;
+    color:var(--accent, var(--teal));
+  }
+
+  /* ---- AI stock movers (narrow sidebar layout) ---- */
+  .movers-card{
+    background:linear-gradient(180deg, var(--card-hi), var(--card));
+    border:1px solid var(--line);
+    border-left:3px solid #F472B6;
+    border-radius:8px;
+    padding:4px 16px 10px;
+    margin-bottom:16px;
+    box-shadow:0 10px 28px -18px rgba(0,0,0,0.6);
+  }
+  .movers-subhead{
+    font-family:'JetBrains Mono',monospace;
+    font-size:10px;
+    font-weight:600;
+    letter-spacing:0.08em;
+    text-transform:uppercase;
+    padding:12px 0 8px;
+  }
+  .movers-card .movers-subhead:first-child{ padding-top:14px; }
+  .mover-row{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    padding:6px 0;
+  }
+  .mover-row .tk{
+    font-family:'JetBrains Mono',monospace;
+    font-weight:600;
+    font-size:12.5px;
+    color:var(--text);
+    min-width:44px;
+  }
+  .mname{
+    font-size:11.5px;
+    color:var(--text-dim);
+    flex:1;
+    min-width:0;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    white-space:nowrap;
+  }
+  .mchange{
+    font-family:'JetBrains Mono',monospace;
+    font-size:11.5px;
+    font-weight:600;
+    white-space:nowrap;
+  }
+  .mv-up{ color:var(--green); }
+  .mv-down{ color:var(--red); }
+  .movers-empty{
+    font-size:11.5px;
+    color:var(--text-faint);
+    padding:4px 0 8px;
+    margin:0;
+  }
+
+  /* ---- Trending (real Reddit upvote signal, wide layout) ---- */
+  .trending-card{
+    background:linear-gradient(180deg, var(--card-hi), var(--card));
+    border:1px solid var(--line);
+    border-left:3px solid #FDE047;
+    border-radius:8px;
+    padding:4px 20px;
+    margin-bottom:16px;
+    box-shadow:0 10px 28px -18px rgba(0,0,0,0.6);
+  }
+  .trend-row{
+    display:flex;
+    align-items:center;
+    gap:14px;
+    padding:13px 0;
+    border-bottom:1px solid var(--line);
+  }
+  .trend-row:last-child{ border-bottom:none; }
+  .tr-rank{
+    font-family:'JetBrains Mono',monospace;
+    font-weight:700;
+    font-size:13px;
+    color:var(--text-faint);
+    min-width:16px;
+  }
+  .tr-headline{
+    flex:1;
+    font-size:14.5px;
+    color:var(--text);
+    min-width:0;
+    transition:color .15s ease;
+  }
+  .tr-headline:hover{ color:#FDE047; }
+  .tr-meta{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    flex-shrink:0;
+  }
+  .tr-source{
+    font-family:'JetBrains Mono',monospace;
+    font-size:10px;
+    color:var(--text-faint);
+    background:rgba(255,255,255,0.03);
+    border:1px solid var(--line);
+    border-radius:4px;
+    padding:2px 6px;
+  }
+  .tr-score{
+    font-family:'JetBrains Mono',monospace;
+    font-size:11px;
+    font-weight:600;
+    color:#FDE047;
+    white-space:nowrap;
+  }
+  @media (max-width:600px){
+    .trend-row{ flex-wrap:wrap; }
+    .tr-headline{ flex-basis:100%; order:1; }
+    .tr-meta{ order:2; }
+  }
+
+  /* ---- Calls checked (narrow sidebar layout) ---- */
+  .calls-card{
+    background:linear-gradient(180deg, var(--card-hi), var(--card));
+    border:1px solid var(--line);
+    border-left:3px solid #34D399;
+    border-radius:8px;
+    padding:4px 16px;
+    box-shadow:0 10px 28px -18px rgba(0,0,0,0.6);
+  }
+  .call-row{
+    padding:12px 0;
+    border-bottom:1px solid var(--line);
+  }
+  .call-row:last-child{ border-bottom:none; }
+  .call-status{
+    font-family:'JetBrains Mono',monospace;
+    font-size:10.5px;
+    font-weight:600;
+    letter-spacing:0.04em;
+    display:block;
+    margin-bottom:6px;
+  }
+  .call-pred{
+    font-size:12.5px;
+    font-style:italic;
+    color:var(--text-dim);
+    margin:0 0 5px;
+    line-height:1.5;
+  }
+  .call-note{
+    font-size:11.5px;
+    color:var(--text-faint);
+    margin:0;
+    line-height:1.5;
+  }
+  .calls-empty{
+    font-size:11.5px;
+    color:var(--text-faint);
+    padding:16px 0;
+    margin:0;
+  }
+  .track-badge{
+    font-family:'JetBrains Mono',monospace;
+    font-size:11px;
+    color:var(--text-dim);
+    background:var(--bg-raised);
+    border:1px solid var(--line);
+    border-radius:6px;
+    padding:8px 12px;
+    margin-bottom:10px;
+  }
+  .track-badge.track-building{ color:var(--text-faint); font-style:italic; }
+
+  /* ---- Crypto prices (narrow sidebar layout) ---- */
+  .crypto-card{
+    background:linear-gradient(180deg, var(--card-hi), var(--card));
+    border:1px solid var(--line);
+    border-left:3px solid #818CF8;
+    border-radius:8px;
+    padding:4px 16px;
+    box-shadow:0 10px 28px -18px rgba(0,0,0,0.6);
+  }
+  .crypto-row{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    padding:11px 0;
+    border-bottom:1px solid var(--line);
+  }
+  .crypto-row:last-child{ border-bottom:none; }
+  .cp-symbol{
+    font-family:'JetBrains Mono',monospace;
+    font-weight:600;
+    font-size:12.5px;
+    color:#818CF8;
+    min-width:36px;
+  }
+  .cp-price{
+    font-family:'JetBrains Mono',monospace;
+    font-size:12.5px;
+    color:var(--text);
+    flex:1;
+  }
+  .cp-change{
+    font-family:'JetBrains Mono',monospace;
+    font-size:11px;
+    font-weight:600;
+    white-space:nowrap;
+  }
+  .crypto-empty{
+    font-size:11.5px;
+    color:var(--text-faint);
+    padding:16px 0;
+    margin:0;
+  }
+
+  /* ---- Earnings calendar (narrow sidebar layout) ---- */
+  .earnings-card{
+    background:linear-gradient(180deg, var(--card-hi), var(--card));
+    border:1px solid var(--line);
+    border-left:3px solid var(--violet);
+    border-radius:8px;
+    padding:4px 16px;
+    box-shadow:0 10px 28px -18px rgba(0,0,0,0.6);
+  }
+  .earnings-row{
+    padding:12px 0;
+    border-bottom:1px solid var(--line);
+  }
+  .earnings-row:last-child{ border-bottom:none; }
+  .erow-top{
+    display:flex;
+    justify-content:space-between;
+    align-items:baseline;
+    gap:8px;
+    margin-bottom:4px;
+  }
+  .tk{
+    font-family:'JetBrains Mono',monospace;
+    font-weight:600;
+    font-size:13.5px;
+    color:var(--violet);
+  }
+  .ename{
+    font-size:12.5px;
+    color:var(--text-dim);
+    margin-bottom:7px;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    white-space:nowrap;
+  }
+  .erow-meta{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    flex-wrap:wrap;
+  }
+  .edate{
+    font-family:'JetBrains Mono',monospace;
+    font-size:10.5px;
+    color:var(--text-dim);
+  }
+  .esession{
+    font-family:'JetBrains Mono',monospace;
+    font-size:9.5px;
+    letter-spacing:0.04em;
+    padding:2px 7px;
+    border-radius:10px;
+    border:1px solid;
+  }
+  .sess-bmo{ color:var(--green); border-color:rgba(34,197,94,0.4); background:rgba(34,197,94,0.08); }
+  .sess-amc{ color:var(--blue); border-color:rgba(95,168,255,0.4); background:rgba(95,168,255,0.08); }
+  .sess-tbd{ color:var(--text-faint); border-color:var(--line); background:rgba(255,255,255,0.02); }
+  .eeps{
+    font-family:'JetBrains Mono',monospace;
+    font-size:11px;
+    color:var(--text-dim);
+  }
+
+  footer{
+    max-width:1140px;
+    margin:0 auto;
+    padding:34px 20px 60px;
+    border-top:1px solid var(--line);
+  }
+  footer p{
+    font-size:12.5px;
+    line-height:1.6;
+    color:var(--text-faint);
+    margin:0;
+  }
+
+  @media (max-width:600px){
+    h1.masthead{font-size:30px;}
+    .headline{font-size:17px;}
+    article.story{ flex-direction:column; }
+    .thumb{ width:100%; height:170px; flex:none; }
+    .story-body{ border-left:none; border-top:3px solid var(--accent, var(--teal)); }
+  }
+</style>
+</head>
+<body>
+
+<div class="ticker-wrap">
+  <div class="ticker">
+    <span>GENERATED AUTOMATICALLY</span>
+    <span>TECH · MARKETS · US NEWS · INDONESIA · EARNINGS</span>
+    <span>REAL SOURCES, LINKED HEADLINES</span>
+    <span>GENERATED AUTOMATICALLY</span>
+    <span>TECH · MARKETS · US NEWS · INDONESIA · EARNINGS</span>
+    <span>REAL SOURCES, LINKED HEADLINES</span>
+  </div>
+</div>
+
+<div class="tabs-wrap">
+  <!-- DAY_TABS_START -->
+  <div class="tabs">
+    <a class="tab active" href="daily-brief-2026-10-12.html">OCT 12</a>
+    <a class="tab" href="daily-brief-2026-10-11.html">OCT 11</a>
+    <a class="tab" href="daily-brief-2026-10-10.html">OCT 10</a>
+    <a class="tab" href="daily-brief-2026-10-09.html">OCT 09</a>
+    <a class="tab" href="daily-brief-2026-10-08.html">OCT 08</a>
+    <a class="tab" href="daily-brief-2026-10-07.html">OCT 07</a>
+    <a class="tab" href="daily-brief-2026-10-06.html">OCT 06</a>
+    <a class="tab" href="daily-brief-2026-10-05.html">OCT 05</a>
+    <a class="tab" href="daily-brief-2026-10-04.html">OCT 04</a>
+    <a class="tab" href="daily-brief-2026-10-03.html">OCT 03</a>
+    <a class="tab" href="daily-brief-2026-10-02.html">OCT 02</a>
+    <a class="tab" href="daily-brief-2026-10-01.html">OCT 01</a>
+    <a class="tab" href="daily-brief-2026-09-30.html">SEP 30</a>
+    <a class="tab" href="daily-brief-2026-09-29.html">SEP 29</a>
+    <a class="tab" href="daily-brief-2026-09-27.html">SEP 27</a>
+    <a class="tab" href="daily-brief-2026-09-26.html">SEP 26</a>
+    <a class="tab" href="daily-brief-2026-09-21.html">SEP 21</a>
+    <a class="tab" href="daily-brief-2026-09-20.html">SEP 20</a>
+    <a class="tab" href="daily-brief-2026-09-19.html">SEP 19</a>
+    <a class="tab" href="daily-brief-2026-09-18.html">SEP 18</a>
+    <a class="tab" href="daily-brief-2026-09-17.html">SEP 17</a>
+    <a class="tab" href="daily-brief-2026-09-16.html">SEP 16</a>
+    <a class="tab" href="daily-brief-2026-09-15.html">SEP 15</a>
+    <a class="tab" href="daily-brief-2026-09-14.html">SEP 14</a>
+    <a class="tab" href="daily-brief-2026-09-13.html">SEP 13</a>
+    <a class="tab" href="daily-brief-2026-09-12.html">SEP 12</a>
+    <a class="tab" href="daily-brief-2026-09-11.html">SEP 11</a>
+    <a class="tab" href="daily-brief-2026-09-10.html">SEP 10</a>
+    <a class="tab" href="daily-brief-2026-09-09.html">SEP 09</a>
+    <a class="tab" href="daily-brief-2026-09-08.html">SEP 08</a>
+    <a class="tab" href="daily-brief-2026-09-07.html">SEP 07</a>
+    <a class="tab" href="daily-brief-2026-09-06.html">SEP 06</a>
+    <a class="tab" href="daily-brief-2026-09-05.html">SEP 05</a>
+    <a class="tab" href="daily-brief-2026-09-04.html">SEP 04</a>
+    <a class="tab" href="daily-brief-2026-09-03.html">SEP 03</a>
+    <a class="tab" href="daily-brief-2026-09-02.html">SEP 02</a>
+    <a class="tab" href="daily-brief-2026-09-01.html">SEP 01</a>
+    <a class="tab" href="daily-brief-2026-08-31.html">AUG 31</a>
+    <a class="tab" href="daily-brief-2026-08-30.html">AUG 30</a>
+    <a class="tab" href="daily-brief-2026-08-29.html">AUG 29</a>
+    <a class="tab" href="daily-brief-2026-08-28.html">AUG 28</a>
+    <a class="tab" href="daily-brief-2026-08-27.html">AUG 27</a>
+    <a class="tab" href="daily-brief-2026-08-26.html">AUG 26</a>
+    <a class="tab" href="daily-brief-2026-08-25.html">AUG 25</a>
+    <a class="tab" href="daily-brief-2026-08-24.html">AUG 24</a>
+    <a class="tab" href="daily-brief-2026-08-23.html">AUG 23</a>
+    <a class="tab" href="daily-brief-2026-08-22.html">AUG 22</a>
+    <a class="tab" href="daily-brief-2026-08-21.html">AUG 21</a>
+    <a class="tab" href="daily-brief-2026-08-20.html">AUG 20</a>
+    <a class="tab" href="daily-brief-2026-08-19.html">AUG 19</a>
+    <a class="tab" href="daily-brief-2026-08-18.html">AUG 18</a>
+    <a class="tab" href="daily-brief-2026-08-17.html">AUG 17</a>
+    <a class="tab" href="daily-brief-2026-08-16.html">AUG 16</a>
+    <a class="tab" href="daily-brief-2026-08-15.html">AUG 15</a>
+    <a class="tab" href="daily-brief-2026-08-14.html">AUG 14</a>
+    <a class="tab" href="daily-brief-2026-08-13.html">AUG 13</a>
+    <a class="tab" href="daily-brief-2026-08-12.html">AUG 12</a>
+    <a class="tab" href="daily-brief-2026-08-11.html">AUG 11</a>
+    <a class="tab" href="daily-brief-2026-08-10.html">AUG 10</a>
+    <a class="tab" href="daily-brief-2026-08-09.html">AUG 09</a>
+    <a class="tab" href="daily-brief-2026-08-08.html">AUG 08</a>
+    <a class="tab" href="daily-brief-2026-08-07.html">AUG 07</a>
+    <a class="tab" href="daily-brief-2026-08-06.html">AUG 06</a>
+    <a class="tab" href="daily-brief-2026-08-05.html">AUG 05</a>
+    <a class="tab" href="daily-brief-2026-08-04.html">AUG 04</a>
+    <a class="tab" href="daily-brief-2026-08-03.html">AUG 03</a>
+    <a class="tab" href="daily-brief-2026-08-02.html">AUG 02</a>
+    <a class="tab" href="daily-brief-2026-08-01.html">AUG 01</a>
+    <a class="tab" href="daily-brief-2026-07-31.html">JUL 31</a>
+    <a class="tab" href="daily-brief-2026-07-30.html">JUL 30</a>
+  </div>
+  <!-- DAY_TABS_END -->
+</div>
+
+<header>
+  <div class="eyebrow"><span class="live">Daily Edition</span><span>Auto-generated</span></div>
+  <h1 class="masthead">The Daily Brief</h1>
+  <div class="dateline">October 12, 2026  ·  Tech · Markets · US · Indonesia · Earnings</div>
+</header>
+
+<div class="jumpnav">
+  <a href="#trending">TRENDING</a>
+  <a href="#calls-checked">CALLS CHECKED</a>
+  <a href="#tech-movers">TECH STOCKS</a>
+  <a href="#crypto-prices">CRYPTO PRICES</a>
+  <a href="#earnings">EARNINGS</a>
+  <a href="#tech">TECH</a>
+  <a href="#markets">MARKETS</a>
+  <a href="#us_news">US NEWS</a>
+  <a href="#indonesia">INDONESIA</a>
+  <a href="#crypto_fx">CRYPTO &amp; FX</a>
+</div>
+
+<main>
+  <div class="layout">
+    <div class="news-col">
+
+  <div class="section-label" id="trending">
+    <span class="chip" style="background:#FDE04722;color:#FDE047;border-color:#FDE04755">TR</span>
+    <h2>TRENDING NOW</h2><span class="line"></span>
+  </div>
+  <div class="trending-card">
+    <div class="trend-row">
+      <span class="tr-rank">1</span>
+      <a class="tr-headline" href="https://research.meta.ai/blog/muse-wonder" target="_blank" rel="noopener">Muse Wonder</a>
+      <span class="tr-meta">
+        <span class="tr-source">Hacker News</span>
+        <span class="tr-score">&#9650; 449</span>
+      </span>
+    </div>
+    <div class="trend-row">
+      <span class="tr-rank">2</span>
+      <a class="tr-headline" href="https://github.com/openai/codex/issues/48195" target="_blank" rel="noopener">Codex CLI installs a persistent, self-updating background daemon by default</a>
+      <span class="tr-meta">
+        <span class="tr-source">Hacker News</span>
+        <span class="tr-score">&#9650; 366</span>
+      </span>
+    </div>
+    <div class="trend-row">
+      <span class="tr-rank">3</span>
+      <a class="tr-headline" href="https://z.ai/blog/glm-legal" target="_blank" rel="noopener">GLM-Legal</a>
+      <span class="tr-meta">
+        <span class="tr-source">Hacker News</span>
+        <span class="tr-score">&#9650; 364</span>
+      </span>
+    </div>
+    <div class="trend-row">
+      <span class="tr-rank">4</span>
+      <a class="tr-headline" href="https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident" target="_blank" rel="noopener">Hackers activate automatic defrosting in supermarket fridges across Europe</a>
+      <span class="tr-meta">
+        <span class="tr-source">Hacker News</span>
+        <span class="tr-score">&#9650; 315</span>
+      </span>
+    </div>
+    <div class="trend-row">
+      <span class="tr-rank">5</span>
+      <a class="tr-headline" href="https://prophitt.me/writing/a-modern-web-app-in-c" target="_blank" rel="noopener">A Modern Web App in C</a>
+      <span class="tr-meta">
+        <span class="tr-source">Hacker News</span>
+        <span class="tr-score">&#9650; 314</span>
+      </span>
+    </div>
+  </div>
+
+
+  <div class="section-label" id="tech"><span class="chip" style="background:#2DD4BF22;color:#2DD4BF;border-color:#2DD4BF55">TE</span><h2>TECH</h2><span class="line"></span></div>
+
+  <article class="story" style="--accent:#2DD4BF">
+    <div class="thumb" style="--accent:#2DD4BF">
+      <img src="https://picsum.photos/seed/tech-the-subscription-era-of-ai-is-hitting-a-price-wall/480/640" alt="" loading="lazy" onerror="this.style.display='none'">
+      <span class="thumb-fallback">TE</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMilgFBVV95cUxQMmpYZkFGaGpYVFFYUHhaZ01JMV9Id2pzaVE1aU9EUnhQVDZGalZNaExuVnY4dno5WGo3azZ1Z0lKZV9zb0l3NEZLSHVNVkR5a2ZyM3dMVENvbEZ0a0t0UjB5eE5Ba241WXZ0cGZEa1p4T0N2X09FQzNTRmt6eGktLXFiN09hc0U5R2JlbXNTTzF1NG5Zamc?oc=5" target="_blank" rel="noopener"><h3 class="headline">The subscription era of AI is hitting a price wall</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">Tech companies are overhaulng how they charge for AI as the initial hype meets the reality of high operating costs.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#128269; Grounded in analyst coverage</span></span>
+      <p class="angle-view">The 'per-seat' SaaS model is dying because it can't capture the massive variable compute costs of AI inference. Winners are the infrastructure players like Jabil and Nvidia who collect the toll, while the losers are mid-tier software firms that can't pass price hikes to exhausted enterprise customers. Real-world sentiment from analysts at Fortune and 24/7 Wall St suggests we are reaching a valuation ceiling where 'AI hype' must be replaced by 'AI margins' to sustain current stock prices.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> If inference costs drop faster than expected due to small-language-model efficiency, the price wall disappears and margins actually expand.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> At least three major enterprise software firms will announce a shift to 'usage-based' or 'token-based' pricing by the end of Q2.</p>
+    </div>
+    </div>
+  </article>
+
+  <article class="story" style="--accent:#2DD4BF">
+    <div class="thumb" style="--accent:#2DD4BF">
+      <img src="https://picsum.photos/seed/tech-stricter-us-visa-rules-could-hand-a-win-to-foreign-riva/480/640" alt="" loading="lazy" onerror="this.style.display='none'">
+      <span class="thumb-fallback">TE</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN0dKT0x0NzhrQXRVYzF4R3ZjZHZDOWljMFVrSG91QjBNTjFZSXlzN0x2QVdQUzdEekZzc082UEQ1RzEyMFR3Rk4xdWFUN3oxQnN1R29YaTJLOEU1VTQ4WHdPWnBNRko4Ti1CRHBJRmQwY1laTlRRLTRjS05jYWtGSVNLdlBnVVJpRHg0?oc=5" target="_blank" rel="noopener"><h3 class="headline">Stricter US visa rules could hand a win to foreign rivals</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">Industry leaders are warning that a crackdown on work visas is pushing top-tier engineering talent to move to other countries.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#129504; Independent analysis</span></span>
+      <p class="angle-view">US visa restrictions are effectively an unintended subsidy for Canada and the UK's tech sectors. By making talent friction high, the US is forcing its own Big Tech firms to build 'remote hubs' abroad, moving the high-tax-paying engineering workforce out of the domestic economy permanently. This is a net loss for US payroll tax revenue and a massive win for foreign talent-poaching programs.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> Remote work fatigue might drive talent to accept more difficult visa hurdles just to be in person at Silicon Valley's unique innovation clusters.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> Expect a 15% year-over-year increase in STEM-designated visa applications to Canada and the UK from current US-based H1-B holders by December.</p>
+    </div>
+    </div>
+  </article>
+
+  <article class="story" style="--accent:#2DD4BF">
+    <div class="thumb" style="--accent:#2DD4BF">
+      <img src="https://picsum.photos/seed/tech-power-companies-demand-a-seat-at-the-big-tech-table/480/640" alt="" loading="lazy" onerror="this.style.display='none'">
+      <span class="thumb-fallback">TE</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zYzRBZ2w3by1uaTJ2MEdHaU1MVFUwclBYU2hCeS1qekxXSlJ5bGlGSl9ZWGFMcU9YRUN1c0NxckJONkF6dy0xNklEV1c2S2NqeDBwYkF1SQ?oc=5" target="_blank" rel="noopener"><h3 class="headline">Power companies demand a seat at the big tech table</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">Taiwan's state utility wants to be involved in tech industry planning to ensure the grid can handle AI's massive thirst for electricity.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#128269; Grounded in analyst coverage</span></span>
+      <p class="angle-view">The AI trade is rapidly shifting from 'chips' to 'kilowatts,' as evidenced by Siemens Energy's record profits following the AI demand surge. Power utilities in tech hubs like Taiwan are no longer passive infrastructure; they are becoming strategic gatekeepers that will demand equity stakes or preferential pricing in exchange for grid stability. If you don't own the power, you don't own the compute.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> Nuclear fusion or advanced modular reactors could scale faster than expected, making the current grid-scarcity panic obsolete within a few years.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> A major US tech giant will announce a direct, 10-year equity partnership or joint venture with a primary utility provider before year-end.</p>
+    </div>
+    </div>
+  </article>
+
+  <article class="story" style="--accent:#2DD4BF">
+    <div class="thumb" style="--accent:#2DD4BF">
+      <img src="https://picsum.photos/seed/tech-big-tech-is-piling-on-debt-to-build-ai-infrastructure/480/640" alt="" loading="lazy" onerror="this.style.display='none'">
+      <span class="thumb-fallback">TE</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ0JpLXdXdkZFTEtLV2NjMEh5cko4NjRyTFQzbFJ2TjQ5OVpseHNNMFo4b3dwelBuNWEzZ3Izc2JqUWdQZ2xNUlVUaWREX09ZVWQ1bElKY2ZaU0thUHBGUXIyd0xkSG1mcmVobDZGaUJONURITklnRU8yQW53eXBsX0JBV2VVUExNQm5BZTNFMkdkcTdKV1pRbWZxalVVc3lRTklqVHpOM01RNnhXX2Roa2lpS0I?oc=5" target="_blank" rel="noopener"><h3 class="headline">Big tech is piling on debt to build AI infrastructure</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">Major technology firms are tapping debt markets to fund the multi-billion dollar data centers required for the next generation of AI.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#128269; Grounded in analyst coverage</span></span>
+      <p class="angle-view">The 'Secret Debt' fueling data centers is the biggest tail risk in the current market, with Meta's cratering cash flow serving as the canary in the coal mine. This is a massive leverage play where firms are betting that future AI revenue will service high-interest debt, but the timeline for schedule-lagging data centers is slipping. Nvidia's move to tap 'retirement money' signals that traditional commercial lending for these massive CAPEX builds is becoming saturated.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> If the US Federal Reserve pivots to aggressive rate cuts, the massive debt loads will become significantly easier to service, turning a risk into a masterstroke.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> Meta will report a further 10% decline in free cash flow in its next quarterly report as infrastructure spending outpaces revenue growth.</p>
+    </div>
+    </div>
+  </article>
+
+  <div class="section-label" id="markets"><span class="chip" style="background:#F5A62322;color:#F5A623;border-color:#F5A62355">MA</span><h2>MARKETS</h2><span class="line"></span></div>
+
+  <article class="story" style="--accent:#F5A623">
+    <div class="thumb" style="--accent:#F5A623">
+      <img src="https://picsum.photos/seed/markets-investors-pivot-to-safe-bets-as-earnings-season-kick/480/640" alt="" loading="lazy" onerror="this.style.display='none'">
+      <span class="thumb-fallback">MA</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNUnFrQzljRnk1bzlITTdDSEVpNEY2ZkQ1S2RaNmU1T0c0ZlNfRDMzMkZXd1FpUF9qeExxbHd6NjVjaHM3S1NieXEzTmNvblRwV3p5Ml8zVTlYbDYyR3Y1S0ozeTEtWFhXU0ZyRTB1QWdwZ1BiUDFDNUhDQWFiRU8yd2xEZjNDbXRBcU53NEJxSGtUMUh2V2F0TTF5NmRXR0lfTVVRX1dYYW9pYW8w?oc=5" target="_blank" rel="noopener"><h3 class="headline">Investors pivot to safe bets as earnings season kicks off</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">The Dow saw gains while the Nasdaq slipped, signaling a shift from growth-heavy tech toward more established blue-chip companies.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#129504; Independent analysis</span></span>
+      <p class="angle-view">The Dow's recent outperformance is a defensive flight to quality, not a signal of broad economic health. Investors are parking capital in boring, high-dividend blue chips to wait out the valuation correction in the Nasdaq's 'Mag 7.' This rotation will widen the gap between industrial 'real-world' value and speculative 'digital-world' growth.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> If upcoming tech earnings show even moderate margin expansion, the capital will flood back into growth so fast that Dow 'safe bets' will be left behind.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> The Dow Jones Industrial Average will outperform the Nasdaq Composite by at least 3% over the next 30 days.</p>
+    </div>
+    </div>
+  </article>
+
+  <article class="story" style="--accent:#F5A623">
+    <div class="thumb" style="--accent:#F5A623">
+      <img src="https://picsum.photos/seed/markets-the-ai-fueled-bull-run-enters-its-fifth-year/480/640" alt="" loading="lazy" onerror="this.style.display='none'">
+      <span class="thumb-fallback">MA</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ3JxTmhLY3g3ck5NRlp4VnJzMzVPNGdxOUpyX2VkZ3JuNlZHeVUtRUYzUGItNnd6Y3hPYUIzcHVaNDFBTWRaRk1LaEtINVVEcVpuVzIzb3hhbnF2SUZSVjVIX0t4RWJPaC0ta1JhMzhFQ1hpQnF3VGF3dGJZZm5wUTlkdFYzOUE?oc=5" target="_blank" rel="noopener"><h3 class="headline">The AI-fueled bull run enters its fifth year</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">The current market upswing has officially hit the four-year mark, driven largely by the trillions of dollars in value added by the AI boom.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#128269; Grounded in analyst coverage</span></span>
+      <p class="angle-view">The four-year bull run is being sustained by a fundamental shift in capital expenditure from labor to automation. Analysts are seeing this in the field, with ServiceNow's massive backlog and Micron's earnings surge proving that AI spending isn't just a pilot project—it's a multi-year industrial retooling. This is a 'productivity bull' that can survive high interest rates because the ROI on AI deployment is proving to be real.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> A geopolitical shock in the Taiwan Strait would instantly sever the hardware supply chain, ending the bull run regardless of software demand.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> ServiceNow will report a 20% or higher increase in its AI-specific backlog during its next earnings call.</p>
+    </div>
+    </div>
+  </article>
+
+  <article class="story" style="--accent:#F5A623">
+    <div class="thumb" style="--accent:#F5A623">
+      <img src="https://picsum.photos/seed/markets-a-few-giant-stocks-are-hiding-broad-market-weakness/480/640" alt="" loading="lazy" onerror="this.style.display='none'">
+      <span class="thumb-fallback">MA</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQYURkejdDei1aZDdhZnA3UUkwTnFvVG9jcUJfVndOMTg2eExpWUtaV0ozclc2cUJWdV9Va2ZPaTMzOWxWd0JCSXpzNXI0aEItWnNnTnpzV2JWMGdXRlhGXzRrTkNtLUVINEFyWHVHamw1eVQtUm9IcEhOS0pGMkM1NXVTdUVaS3ZtbV96dC1uS3kzZm9rN3ZIMUJBT0xoZEs3cUxUSHZuWVR2Ty1xZGQ5bldDWDlkVU0?oc=5" target="_blank" rel="noopener"><h3 class="headline">A few giant stocks are hiding broad market weakness</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">Analysts warn that the S&P 500's record highs are being driven by just a few names, while many other companies are actually struggling.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#129504; Independent analysis</span></span>
+      <p class="angle-view">The S&P 500 is a 'hollow index' right now, with the top 10 stocks masking a bear market in the other 490. This concentration risk means that a single bad earnings report from a leader like Nvidia or Microsoft can drag down the entire retirement savings of the American public. We are effectively betting the entire global economy on the execution of five CEOs.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> The 'laggards' in the S&P 500 might finally catch up as the Fed cuts rates, leading to a broad-based rally that justifies current index levels.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> The 'Equal-Weight S&P 500 Index' will underperform the standard cap-weighted index by at least 4% this quarter.</p>
+    </div>
+    </div>
+  </article>
+
+  <article class="story" style="--accent:#F5A623">
+    <div class="thumb" style="--accent:#F5A623">
+      <img src="https://picsum.photos/seed/markets-smart-money-begins-hunting-for-undervalued-bargains/480/640" alt="" loading="lazy" onerror="this.style.display='none'">
+      <span class="thumb-fallback">MA</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMikAFBVV95cUxPbFZPWGUzOUxQRlVGOTVoc0tJeFdrZS1ud0x1THZTczJ0aHNpVnRDY2NjYVV6VVVoMFFjZGdiOGkzUm5QNnljTFRObUdzSEdoc1VSaGF2anJaRENNaXJXa2lRUERXbUtKLUxYVnNnbS1rVl85dndUYzZxTlVNa2tZRXBHNElnN3pOeGJqNmJ1VzI?oc=5" target="_blank" rel="noopener"><h3 class="headline">Smart money begins hunting for undervalued bargains</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">New analysis identifies dozens of stocks that have been ignored by the AI hype and are now trading at a discount.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#129504; Independent analysis</span></span>
+      <p class="angle-view">Smart money is moving into the 'AI plumbing'—logistics, copper, and specialized cooling—that has been ignored in favor of flashy LLMs. These stocks are trading at 12-15x earnings while the models they support trade at 50x, creating a massive arbitrage opportunity. The winner is the 'old economy' that supports the new, as investors realize you can't run a chatbot without a physical warehouse and a heat exchanger.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> If the AI software layer fails to monetize, the demand for the 'plumbing' will evaporate before these undervalued stocks can reach their price targets.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> Mid-cap industrial stocks focused on cooling and power management will see a 10% valuation re-rating by year-end.</p>
+    </div>
+    </div>
+  </article>
+
+  <div class="section-label" id="us_news"><span class="chip" style="background:#5FA8FF22;color:#5FA8FF;border-color:#5FA8FF55">US</span><h2>US NEWS</h2><span class="line"></span></div>
+
+  <article class="story" style="--accent:#5FA8FF">
+    <div class="thumb" style="--accent:#5FA8FF">
+      <img src="https://picsum.photos/seed/us-news-energy-prices-jump-as-diplomatic-ceasefire-efforts-f/480/640" alt="" loading="lazy" onerror="this.style.display='none'">
+      <span class="thumb-fallback">US</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMilAFBVV95cUxOTGFrRDRZWWhPUnEtNVNhbnBFZFc4cS00MmhuZC1hZDJzc0dROWpwU18waGpMY1hRNWFGS19LZXNUc0ZhSUgwRDUyR0hnaHhHRkRZbXRXVlN0YUU2MzVTbVo1cVBESFgyQUdfQUs5d201TUJ6YW56NVB3aDVLazNnZUlLdHowVHpPLUI5MFk4Tk9yMkFR?oc=5" target="_blank" rel="noopener"><h3 class="headline">Energy prices jump as diplomatic 'ceasefire' efforts fail</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">Gas and oil prices rose after a proposed energy truce failed to slow down the ongoing conflict between Russia and Ukraine.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#128269; Grounded in analyst coverage</span></span>
+      <p class="angle-view">The failure of energy 'ceasefires' signifies that energy has been permanently weaponized in the current geopolitical landscape. As US-Iran peace efforts stall alongside the Russia-Ukraine conflict, oil is reclaiming its role as a primary volatility hedge. Deutsche Bank and other experts are right to warn that risk premiums are returning to Brent crude, making cheap energy a relic of the past.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> A surprise domestic production surge in the US or a sudden economic slowdown in China could create a supply glut that offsets any geopolitical risk premium.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> Brent crude oil prices will trade consistently above $85 per barrel through the end of the winter heating season.</p>
+    </div>
+    </div>
+  </article>
+
+  <article class="story" style="--accent:#5FA8FF">
+    <div class="thumb" style="--accent:#5FA8FF">
+      <img src="https://picsum.photos/seed/us-news-middle-east-instability-threatens-global-shipping-la/480/640" alt="" loading="lazy" onerror="this.style.display='none'">
+      <span class="thumb-fallback">US</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMigAFBVV95cUxNUjJxRmNFWVFOVlEtUl9td2J5VXowU3BKQTJJd28ybW9EZ1VaRmlLZTgtbFNLTEVldC1RQTE0NDIwMU4teThZUmF1WkpsSDNwcjh1WG5vYWQxNGtMQmdydUpPSFdYeHpUb1pXVEFBRTQweFdxbkpEZlBQb2Vza2EwXw?oc=5" target="_blank" rel="noopener"><h3 class="headline">Middle East instability threatens global shipping lanes</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">Houthi attacks have forced major airport closures in Saudi Arabia, prompting the US to consider military strikes in Yemen.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#128269; Grounded in analyst coverage</span></span>
+      <p class="angle-view">Houthi attacks on shipping and regional airports are no longer just 'disruptions'; they are a naval blockade that the West is failing to break. Major shippers are now baking the 'Cape of Good Hope' route into their permanent cost structures, which acts as a permanent inflationary tax on global goods. This is a massive strategic win for Iran-backed proxies who have successfully diverted 5 million barrels of oil a day from their intended paths.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> A decisive, multi-national military intervention could re-open the Red Sea, causing shipping rates to collapse overnight.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> Container shipping rates from Asia to North Europe will rise by another 20% before the end of the month.</p>
+    </div>
+    </div>
+  </article>
+
+  <article class="story" style="--accent:#5FA8FF">
+    <div class="thumb" style="--accent:#5FA8FF">
+      <img src="https://picsum.photos/seed/us-news-meta-challenges-openai-with-new-high-end-ai-release/480/640" alt="" loading="lazy" onerror="this.style.display='none'">
+      <span class="thumb-fallback">US</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMijgFBVV95cUxPRkdnR0wyZkdNUGRYU2hGTDdfWTRncjBxeThHRUVhWXRndW5OYU1Ya3FJWEtCdWwwY2d0c1FEd29KWExNN2N1VkRCU01hVW9NYjE5UWFFV3MzNDRpREQ3ZWJVaEhZbXJkN2JEdlV0QXpYcWtETVNXYXFfU1NrWXN6RzI2VjhpcjNtdmhpdnBB?oc=5" target="_blank" rel="noopener"><h3 class="headline">Meta challenges OpenAI with new high-end AI release</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">Meta has launched 'Muse Wonder,' its most powerful AI model yet, to compete directly with ChatGPT and Google.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#128269; Grounded in analyst coverage</span></span>
+      <p class="angle-view">Meta's 'Muse Wonder' launch is a scorched-earth play to commoditize AI models and kill OpenAI's subscription business. By leveraging its massive social distribution and open-ish approach, Zuckerberg is forcing OpenAI to move faster and spend more on releases like 'O.' The winner is Meta, which doesn't need to sell the model to win—it just needs to ensure no one else owns the portal to the internet.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> OpenAI's 'O' assistant might possess a level of reasoning or 'agentic' capability that Meta's distribution simply cannot overcome.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> OpenAI will officially release the 'O' personal assistant to the public within the next 14 days to counter Meta's momentum.</p>
+    </div>
+    </div>
+  </article>
+
+  <article class="story" style="--accent:#5FA8FF">
+    <div class="thumb" style="--accent:#5FA8FF">
+      <img src="https://picsum.photos/seed/us-news-bumble-looks-to-exit-the-public-market-for-1-billion/480/640" alt="" loading="lazy" onerror="this.style.display='none'">
+      <span class="thumb-fallback">US</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOY3MwV1pVY0ZFUTV1Rkw3c1NyWkt0bG5rd3B0U0hEU1dVaGhNYTFzSmVCVGhPSDV2U2Z4czFTRGhPNDdVdVdVVDFFWGtaZHI3aE9kaGR2Rno2cTBmV3hMU3h2c3RrcndoQ3E4b2RnYWNNbWVWTExUdi1lb1Rzd1ZNSHgxLVZiVnFTb0RVYkt5MDN4MTEwclNNYnNzMF9fY18xTEVtcGx3OFVkVjJWazlzMGdCamxQX0k?oc=5" target="_blank" rel="noopener"><h3 class="headline">Bumble looks to exit the public market for $1 billion</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">The dating app company is in talks to go private after a brutal period as a publicly traded company.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#128269; Grounded in analyst coverage</span></span>
+      <p class="angle-view">Bumble going private at $1 billion is a humiliating exit that marks the end of the 'growth-at-all-costs' dating app era. As a public company, Bumble couldn't solve its user fatigue or high customer acquisition costs; privatization is a desperate attempt to restructure away from the quarterly scrutiny of public markets. This is a fire sale for a brand that was once valued at $8 billion.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> Private equity might find a way to pivot Bumble into a high-margin 'friendship' or 'professional' social network that justifies a much higher future valuation.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> The Bumble take-private deal will be finalized at a price of $12.50 per share or lower within the next 90 days.</p>
+    </div>
+    </div>
+  </article>
+
+  <div class="section-label" id="indonesia"><span class="chip" style="background:#F8717122;color:#F87171;border-color:#F8717155">IN</span><h2>INDONESIA</h2><span class="line"></span></div>
+
+  <article class="story" style="--accent:#F87171">
+    <div class="thumb" style="--accent:#F87171">
+      <img src="https://picsum.photos/seed/indonesia-prabowo-pivots-toward-a-more-nationalistic-economi/480/640" alt="" loading="lazy" onerror="this.style.display='none'">
+      <span class="thumb-fallback">IN</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZUhKUGdWdTU4a24xcWc1RFhxVmNhOGFlX3c5NDJiVU9tXzRKTnREQndKZTUtZGZoRUlhYlVQV25JbGV3cE4zemJod01FRkwzWGEzOXNuTmtNajZhVUk3RkNKck52VERYeFkxMDE2Rk9uWmg5RnBDSnZ6aER0M2JiTU9ZTXFfdU1hemNBX0w0X1lfUWh2ZU9nSDJnc05oQk9IUW45ZHpCcWdEX3lMRzFicFJIWUM2YnA2R1hBYkxUOVFMYm8yOFBhRQ?oc=5" target="_blank" rel="noopener"><h3 class="headline">Prabowo pivots toward a more nationalistic economic stance</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">President Prabowo has warned that Indonesia must remain vigilant against global instability by protecting its own interests.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#129504; Independent analysis</span></span>
+      <p class="angle-view">Prabowo's nationalistic pivot is the final nail in the coffin for 'easy' foreign extraction in Indonesia. By prioritizing domestic protectionism, he is signaling that the 'downstreaming' policy—forcing foreign firms to build refineries locally—will be expanded to every major mineral resource. This increases sovereign risk for foreign miners but builds a long-term industrial base for Indonesia.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> If foreign direct investment (FDI) dries up too quickly, Prabowo may be forced to offer massive tax breaks that undermine his nationalist revenue goals.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> Indonesia will announce a new export ban on at least one critical mineral, likely copper or bauxite, within the next six months.</p>
+    </div>
+    </div>
+  </article>
+
+  <article class="story" style="--accent:#F87171">
+    <div class="thumb" style="--accent:#F87171">
+      <img src="https://picsum.photos/seed/indonesia-budget-constraints-limit-the-central-bank-s-wiggle/480/640" alt="" loading="lazy" onerror="this.style.display='none'">
+      <span class="thumb-fallback">IN</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMioAFBVV95cUxPWkJzY1AwWEJrV0g0eW4xaENjekJwNk9IR2l4eU45NXZMQ1lmVlBDSjNvdnUxclVOYWV5MmR0LWVMSDQ5UzJCLVdvelNsRi1Ga3dPcHFSS2ExMjZVbjdxd0h6MndjX0RkM29vdXNWT3BwalBJRnJYM1oxMDUtLW03UUtqLWpvRXdTZm1LblpjeGhsS1pEbTBzVFp3YmlHSm5K?oc=5" target="_blank" rel="noopener"><h3 class="headline">Budget constraints limit the central bank's wiggle room</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">A tight government budget is making it difficult for Indonesia to manage interest rates without hurting economic growth.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#129504; Independent analysis</span></span>
+      <p class="angle-view">Bank Indonesia is effectively paralyzed; it cannot cut rates to help growth because a tight budget prevents it from defending the Rupiah against a hawkish US Fed. This 'fiscal-monetary trap' means Indonesia will likely face a period of stagflation as the central bank is forced to prioritize currency stability over domestic business expansion.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> A surprise 'dovish' turn by the US Federal Reserve would provide the liquidity needed for Bank Indonesia to cut rates without crashing the Rupiah.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> Bank Indonesia will hold its benchmark interest rate steady at the next meeting despite increasing domestic pressure to cut.</p>
+    </div>
+    </div>
+  </article>
+
+  <article class="story" style="--accent:#F87171">
+    <div class="thumb" style="--accent:#F87171">
+      <img src="https://picsum.photos/seed/indonesia-conflicting-economic-policies-are-confusing-global/480/640" alt="" loading="lazy" onerror="this.style.display='none'">
+      <span class="thumb-fallback">IN</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMiogFBVV95cUxQRTIwZU5HaFBlNkUtNXF6c04zTmFsT1BWT0lVbmN2UkJhOFZUTXBVSlFma2FQZ0hBaWFCVFNETkpoRno2dHVOeXBrVVotREJLOFJDOXMycGVkdzNOV1pCTDhueFl3M2lWTGlZUjlMOUVEcmJINFkwaGlCUTlKV0VEQlkzZkxHdkFwUVppZTRVdUQ2RHhmWHpwaE1iRXNTWDgzc2c?oc=5" target="_blank" rel="noopener"><h3 class="headline">Conflicting economic policies are confusing global investors</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">Analysts say Indonesia is paying a price for inconsistent messaging regarding subsidies and fiscal discipline.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#129504; Independent analysis</span></span>
+      <p class="angle-view">Indonesia is suffering from a 'credibility discount' as the government flips between fiscal discipline and populist subsidies. Investors hate uncertainty more than high costs, and the current messaging is causing capital flight toward more predictable emerging markets like Vietnam. Until there is a clear, unified economic roadmap, the Jakarta Composite Index will continue to underperform.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> If the government manages to pass a clear, conservative budget for the next fiscal year, the 'credibility discount' could evaporate in a single week.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> Foreign institutional investors will be net sellers of Indonesian government bonds (SBN) for the third consecutive month.</p>
+    </div>
+    </div>
+  </article>
+
+  <article class="story" style="--accent:#F87171">
+    <div class="thumb" style="--accent:#F87171">
+      <img src="https://picsum.photos/seed/indonesia-elite-consolidation-marks-a-new-era-for-indonesian/480/640" alt="" loading="lazy" onerror="this.style.display='none'">
+      <span class="thumb-fallback">IN</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMirwFBVV95cUxNWDFFR3RqQm1Wc1Y4ak43VVlRSFlRc1ZOM25JeDJab2xKYzZFUE82dUg5RkZURU14MHVCNmlnbzVTNVlKNTEyY0lwb253M0xUbEk1Qzl6VnVDY2tVYXpsQTJiZWZ4b2tWamNSRjFnVzl2WE50YjlacVVjYXVqT1JBN0tlQkszRWIycEFzcXo4NlAyUHFhSDM2ZHFtNEhTWjUtdEdCb1VjRUtrM05nc1RV?oc=5" target="_blank" rel="noopener"><h3 class="headline">Elite consolidation marks a new era for Indonesian business</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">Power is increasingly concentrating among a small group of politically connected billionaires, ending years of democratic reform.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#129504; Independent analysis</span></span>
+      <p class="angle-view">The consolidation of power among a few politically connected billionaires is a return to the 'Suharto-lite' business model. While this creates a stable environment for large-scale infrastructure projects, it suffocates the startup ecosystem and kills any hope of meritocratic competition. Indonesia is choosing 'stability' via oligarchy over the 'innovation' of a true democracy.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> If the younger generation of tech-savvy voters demands transparency, the current consolidation could trigger a populist backlash that breaks the oligarchs' grip.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> At least two major IPOs from conglomerates owned by billionaire-connected families will be fast-tracked through the IDX before year-end.</p>
+    </div>
+    </div>
+  </article>
+
+  <div class="section-label" id="crypto_fx"><span class="chip" style="background:#22D3EE22;color:#22D3EE;border-color:#22D3EE55">CR</span><h2>CRYPTO & FX</h2><span class="line"></span></div>
+
+  <article class="story" style="--accent:#22D3EE">
+    <div class="thumb" style="--accent:#22D3EE">
+      <img src="https://picsum.photos/seed/crypto-fx-institutional-money-pours-10-billion-into-crypto-e/480/640" alt="" loading="lazy" onerror="this.style.display='none'">
+      <span class="thumb-fallback">CR</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMizwFBVV95cUxOaHlMUlJpY21YTGtCRmdPbHN6cDNCaTNaaENBZlFCbG9HR1cxMUE0SURWM0VEdXljZUJreTc1NncxV281ajF1cEgydGtZZGw3b2dDUlpvUTNFZ0dMVktOYTM4anVYZExqd0R6d3NlNk1KN05fRFpGN18yU3JvZ1FQTVNIWk5zTkFNZGgyVUtTLU8weXBKbkNMMWsybUV2bW1Hb0JHRFM3MjJXdlp0bTdoUlZJZWt2a3EyanAtcTFCS0tKd1lUMmFtbFBxajRmYlE?oc=5" target="_blank" rel="noopener"><h3 class="headline">Institutional money pours $10 billion into crypto ETFs</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">Third-quarter data shows massive inflows into Bitcoin and Solana funds, led by professional investment firms.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#129504; Independent analysis</span></span>
+      <p class="angle-view">The $10 billion inflow into crypto ETFs marks the 'institutionalization' of Bitcoin, moving it from a retail meme to a permanent asset class in professional portfolios. Solana is the biggest winner here, as it is now being positioned as the 'high-beta' alternative to Bitcoin for firms seeking tech-like growth. The floor for crypto prices is now significantly higher because this money is 'sticky' and won't panic-sell at the first dip.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> A major regulatory crackdown on ETF custodians or a massive hack of a primary exchange could trigger an institutional exit just as fast as the entry.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> Total crypto ETF assets under management (AUM) will surpass $15 billion before the next Federal Reserve interest rate decision.</p>
+    </div>
+    </div>
+  </article>
+
+  <article class="story" style="--accent:#22D3EE">
+    <div class="thumb" style="--accent:#22D3EE">
+      <img src="https://picsum.photos/seed/crypto-fx-bitcoin-is-now-moving-in-lockstep-with-the-japanes/480/640" alt="" loading="lazy" onerror="this.style.display='none'">
+      <span class="thumb-fallback">CR</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5" target="_blank" rel="noopener"><h3 class="headline">Bitcoin is now moving in lockstep with the Japanese Yen</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">Bitcoin has reached a record negative correlation with the USD/JPY pair, acting as a hedge against currency moves.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#129504; Independent analysis</span></span>
+      <p class="angle-view">Bitcoin's lockstep move with the Japanese Yen proves it has evolved into a global liquidity hedge rather than 'digital gold.' It is being used by macro traders to play the 'carry trade' and hedge against currency debasement in real-time. This makes Bitcoin a better indicator of global financial stress than the actual bond market.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> If the Bank of Japan aggressively hikes rates, the carry trade could collapse, breaking the Bitcoin-Yen correlation and causing a massive price correction.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> The negative correlation between BTC and the USD/JPY pair will tighten to -0.85 or higher within the next 60 days.</p>
+    </div>
+    </div>
+  </article>
+
+  <article class="story" style="--accent:#22D3EE">
+    <div class="thumb" style="--accent:#22D3EE">
+      <img src="https://picsum.photos/seed/crypto-fx-global-cash-printing-could-push-bitcoin-to-six-fig/480/640" alt="" loading="lazy" onerror="this.style.display='none'">
+      <span class="thumb-fallback">CR</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQcEY1RXh1cGhhRmZpeE9yYlFxdFQ1RnRTQXVranVrR0tQd25VOUs2aF9GQ1BWYXR6TzVLUDdJT1Ytcno0RU00Sjl5Rl9UV1FSelhpdDFCUG5vNzdJOHQ5WDRleUJaeGFSTWd3YTdnYU90SDJUMGlteWdyQmJoTmY2OUdlT3U2VXBwcG45R1ZDVjFVNWRsdEVWWTVnYXZiTFZIU0dPa1g2ME9WVUVBUVVsR20wZlg1QQ?oc=5" target="_blank" rel="noopener"><h3 class="headline">Global cash printing could push Bitcoin to six figures</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">Economists suggest that as central banks increase the global money supply, Bitcoin is positioned to hit $300,000.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#128269; Grounded in analyst coverage</span></span>
+      <p class="angle-view">Bitcoin at $300,000 isn't a prediction; it's a mathematical outcome of M2 money supply growth. As central banks print to cover sovereign debt, Bitcoin's fixed supply makes it the only 'clean' asset left in a world of debased fiat. Analyst sentiment on TradingView and Binance confirms that the $250k-300k range is the new consensus target for the current liquidity cycle.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> If central banks successfully implement a 'hard landing' and stop the money printing, Bitcoin's primary tailwind disappears and the $300k target becomes a fantasy.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> Bitcoin will break its previous all-time high as soon as the first major US stimulus or 'liquidity injection' program is debated in Congress.</p>
+    </div>
+    </div>
+  </article>
+
+  <article class="story" style="--accent:#22D3EE">
+    <div class="thumb" style="--accent:#22D3EE">
+      <img src="https://picsum.photos/seed/crypto-fx-high-leverage-traders-wiped-out-in-recent-crypto-d/480/640" alt="" loading="lazy" onerror="this.style.display='none'">
+      <span class="thumb-fallback">CR</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcjIzel9VSWJJYWg5LXhKTnZFTFk2Y2NKQVVlbVlsWjhENTJ0WkJQWlFEOHV5aWxMd0R1WjdUeTNldDNsZmQ3QmJCN0QwU1BWU2xsRnZfb2J5QVhkRXpDUkplQzBnTFdCZ1NHcDRPWVJPNlpXc0lBTFlobUN6NEZuWFRmS0p2Ung1QkpLc3pXQk0wZ01FMUpFajhmeVpjSnpSa2IyYkp6cVdCelZSR3RjTUI1UU1RQU5GSE15c3NGOVlMTGgyODV1dzlhX0VQRVR0NGU1c1A1MVV2akJselRhRQ?oc=5" target="_blank" rel="noopener"><h3 class="headline">High-leverage traders wiped out in recent crypto dip</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">War tensions in the Middle East triggered $500 million in liquidations as Bitcoin prices took a sudden hit.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#128269; Grounded in analyst coverage</span></span>
+      <p class="angle-view">The $500 million liquidation is a healthy 'cleansing' of the market that punishes over-leveraged retail 'tourists' and rewards long-term holders. War tensions provided the narrative, but the mechanism was a classic squeeze on overextended long positions. Every time we see a wipeout of this scale, the market builds a stronger, more sustainable support level for the next leg up.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> If liquidations continue and break the $70k support level, it could trigger a 'death spiral' of further sell-offs from institutional ETFs.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> Bitcoin will re-test and hold the $70,000 resistance-turned-support level within the next 7 days.</p>
+    </div>
+    </div>
+  </article>
+
+    </div>
+    <div class="earnings-col">
+
+  <div class="section-label" id="calls-checked">
+    <span class="chip" style="background:#34D39922;color:#34D399;border-color:#34D39955">CC</span>
+    <h2>CALLS CHECKED &middot; 2026-10-11</h2><span class="line"></span>
+  </div>
+  <div class="track-badge">89% held up &middot; last 30d &middot; 9 resolved calls</div>
+  <div class="calls-card">
+    <div class="call-row">
+      <span class="call-status" style="color:var(--text-dim)">&#8987; Too early</span>
+      <p class="call-pred">&ldquo;Expect a 10-15% uptick in headcount growth for Microsoft’s India-based development centers by the end of Q3 2026.&rdquo;</p>
+      <p class="call-note">The provided headline discusses general layoffs from 2025 and contains no specific data regarding Microsoft India's headcount growth in 2026.</p>
+    </div>
+    <div class="call-row">
+      <span class="call-status" style="color:var(--text-dim)">&#8987; Too early</span>
+      <p class="call-pred">&ldquo;The task force will propose a 'high-compute' licensing framework by year-end that effectively bans unregulated training of models above a certain parameter count.&rdquo;</p>
+      <p class="call-note">No new headlines were found to indicate whether the AI task force has proposed the high-compute licensing framework.</p>
+    </div>
+    <div class="call-row">
+      <span class="call-status" style="color:var(--text-dim)">&#8987; Too early</span>
+      <p class="call-pred">&ldquo;Nvidia will report a margin expansion of at least 200 basis points in its next quarterly report, driven by demand for Blackwell architecture.&rdquo;</p>
+      <p class="call-note">Headlines confirm that Nvidia's fiscal 2026 results have been released, but they do not provide specific margin expansion figures to verify the prediction.</p>
+    </div>
+    <div class="call-row">
+      <span class="call-status" style="color:var(--text-dim)">&#8987; Too early</span>
+      <p class="call-pred">&ldquo;Total tech job openings on major recruitment platforms will hit a three-year low by the end of June 2026.&rdquo;</p>
+      <p class="call-note">While headlines are dated October 2026, they do not provide the aggregate tech job opening data needed to confirm if a three-year low occurred in June 2026.</p>
+    </div>
+    <div class="call-row">
+      <span class="call-status" style="color:var(--text-dim)">&#8987; Too early</span>
+      <p class="call-pred">&ldquo;A 5% correction in the S&P 500 will trigger over $10 billion in forced margin liquidations within a 48-hour window before year-end.&rdquo;</p>
+      <p class="call-note">No fresh headlines were found regarding S&P 500 market corrections or the scale of margin liquidations.</p>
+    </div>
+    <div class="call-row">
+      <span class="call-status" style="color:var(--text-dim)">&#8987; Too early</span>
+      <p class="call-pred">&ldquo;Brent crude will breach and hold the $100 per barrel mark if a direct retaliatory strike on Iranian energy infrastructure is confirmed.&rdquo;</p>
+      <p class="call-note">Headlines report military conflict with Iran but do not confirm specific strikes on energy infrastructure or that Brent crude prices breached $100.</p>
+    </div>
+  </div>
+
+
+  <div class="section-label" id="tech-movers">
+    <span class="chip" style="background:#F472B622;color:#F472B6;border-color:#F472B655">TC</span>
+    <h2>TECH STOCKS TODAY</h2><span class="line"></span>
+  </div>
+  <div class="movers-card">
+    <div class="movers-subhead mv-up">&#9650; Top Gainers</div>
+    
+    <div class="mover-row">
+      <span class="tk">META</span>
+      <span class="mname">META</span>
+      <span class="mchange mv-up">&#9650; 3.38%</span>
+    </div>
+    <div class="mover-row">
+      <span class="tk">CRM</span>
+      <span class="mname">CRM</span>
+      <span class="mchange mv-up">&#9650; 2.09%</span>
+    </div>
+    <div class="mover-row">
+      <span class="tk">AAPL</span>
+      <span class="mname">AAPL</span>
+      <span class="mchange mv-up">&#9650; 1.29%</span>
+    </div>
+    <div class="mover-row">
+      <span class="tk">MSFT</span>
+      <span class="mname">MSFT</span>
+      <span class="mchange mv-up">&#9650; 1.14%</span>
+    </div>
+    <div class="mover-row">
+      <span class="tk">PYPL</span>
+      <span class="mname">PYPL</span>
+      <span class="mchange mv-up">&#9650; 0.94%</span>
+    </div>
+    <div class="movers-subhead mv-down">&#9660; Top Losers</div>
+    
+    <div class="mover-row">
+      <span class="tk">SMCI</span>
+      <span class="mname">SMCI</span>
+      <span class="mchange mv-down">&#9660; 4.48%</span>
+    </div>
+    <div class="mover-row">
+      <span class="tk">ARM</span>
+      <span class="mname">ARM</span>
+      <span class="mchange mv-down">&#9660; 4.15%</span>
+    </div>
+    <div class="mover-row">
+      <span class="tk">MU</span>
+      <span class="mname">MU</span>
+      <span class="mchange mv-down">&#9660; 3.88%</span>
+    </div>
+    <div class="mover-row">
+      <span class="tk">MRVL</span>
+      <span class="mname">MRVL</span>
+      <span class="mchange mv-down">&#9660; 3.42%</span>
+    </div>
+    <div class="mover-row">
+      <span class="tk">INTC</span>
+      <span class="mname">INTC</span>
+      <span class="mchange mv-down">&#9660; 3.20%</span>
+    </div>
+  </div>
+
+
+  <div class="section-label" id="crypto-prices">
+    <span class="chip" style="background:#818CF822;color:#818CF8;border-color:#818CF855">CR</span>
+    <h2>CRYPTO PRICES</h2><span class="line"></span>
+  </div>
+  <div class="crypto-card">
+    <div class="crypto-row">
+      <span class="cp-symbol">BTC</span>
+      <span class="cp-price">$82,577</span>
+      <span class="cp-change" style="color:var(--red)">&#9660; 1.0%</span>
+    </div>
+    <div class="crypto-row">
+      <span class="cp-symbol">ETH</span>
+      <span class="cp-price">$2,490</span>
+      <span class="cp-change" style="color:var(--red)">&#9660; 1.4%</span>
+    </div>
+    <div class="crypto-row">
+      <span class="cp-symbol">SOL</span>
+      <span class="cp-price">$107.10</span>
+      <span class="cp-change" style="color:var(--red)">&#9660; 3.2%</span>
+    </div>
+  </div>
+
+
+  <div class="section-label" id="earnings">
+    <span class="chip" style="background:#A78BFA22;color:#A78BFA;border-color:#A78BFA55">ER</span>
+    <h2>EARNINGS THIS WEEK</h2><span class="line"></span>
+  </div>
+  <div class="earnings-card">
+    <div class="earnings-row">
+      <div class="erow-top">
+        <span class="tk">TSM</span>
+        <span class="eeps">Est. EPS $4.45</span>
+      </div>
+      <div class="ename">Taiwan Semiconductor Manufacturing Company Ltd.</div>
+      <div class="erow-meta">
+        <span class="edate">THU OCT 15</span>
+        <span class="esession sess-tbd">Time TBD</span>
+      </div>
+    </div>
+    <div class="earnings-row">
+      <div class="erow-top">
+        <span class="tk">JPM</span>
+        <span class="eeps">Est. EPS $5.94</span>
+      </div>
+      <div class="ename">J P Morgan Chase & Co</div>
+      <div class="erow-meta">
+        <span class="edate">TUE OCT 13</span>
+        <span class="esession sess-tbd">Time TBD</span>
+      </div>
+    </div>
+    <div class="earnings-row">
+      <div class="erow-top">
+        <span class="tk">ASML</span>
+        <span class="eeps">Est. EPS $12.47</span>
+      </div>
+      <div class="ename">ASML Holding N.V.</div>
+      <div class="erow-meta">
+        <span class="edate">WED OCT 14</span>
+        <span class="esession sess-tbd">Time TBD</span>
+      </div>
+    </div>
+    <div class="earnings-row">
+      <div class="erow-top">
+        <span class="tk">JNJ</span>
+        <span class="eeps">Est. EPS $2.53</span>
+      </div>
+      <div class="ename">Johnson & Johnson</div>
+      <div class="erow-meta">
+        <span class="edate">TUE OCT 13</span>
+        <span class="esession sess-tbd">Time TBD</span>
+      </div>
+    </div>
+    <div class="earnings-row">
+      <div class="erow-top">
+        <span class="tk">BAC</span>
+        <span class="eeps">Est. EPS $1.11</span>
+      </div>
+      <div class="ename">Bank of America Corporation</div>
+      <div class="erow-meta">
+        <span class="edate">WED OCT 14</span>
+        <span class="esession sess-tbd">Time TBD</span>
+      </div>
+    </div>
+    <div class="earnings-row">
+      <div class="erow-top">
+        <span class="tk">UNH</span>
+        <span class="eeps">Est. EPS $4.12</span>
+      </div>
+      <div class="ename">UnitedHealth Group Incorporated</div>
+      <div class="erow-meta">
+        <span class="edate">TUE OCT 13</span>
+        <span class="esession sess-tbd">Time TBD</span>
+      </div>
+    </div>
+    <div class="earnings-row">
+      <div class="erow-top">
+        <span class="tk">MS</span>
+        <span class="eeps">Est. EPS $2.83</span>
+      </div>
+      <div class="ename">Morgan Stanley</div>
+      <div class="erow-meta">
+        <span class="edate">WED OCT 14</span>
+        <span class="esession sess-tbd">Time TBD</span>
+      </div>
+    </div>
+    <div class="earnings-row">
+      <div class="erow-top">
+        <span class="tk">GS</span>
+        <span class="eeps">Est. EPS $12.90</span>
+      </div>
+      <div class="ename">The Goldman Sachs Group, Inc.</div>
+      <div class="erow-meta">
+        <span class="edate">TUE OCT 13</span>
+        <span class="esession sess-tbd">Time TBD</span>
+      </div>
+    </div>
+  </div>
+
+    </div>
+  </div>
+</main>
+
+<footer>
+  <p><a href="weekly-latest.html" style="color:var(--teal);">&#8594; This Week's Rewind</a> — the biggest themes of the past 7 days, synthesized.</p>
+  <p style="margin-top:10px;">Generated automatically using free Google News RSS feeds, Nasdaq's public earnings calendar, and Google's Gemini free API. Headlines link to the original source — this page just summarizes and analyzes.</p>
+</footer>
+
+</body>
+</html>
