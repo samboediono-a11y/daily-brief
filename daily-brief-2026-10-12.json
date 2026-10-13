@@ -8,7 +8,7 @@
       "prediction": "At least two major enterprise SaaS platforms will announce mandatory AI-tier price hikes or 'usage-based' billing transitions before the end of Q1 2025.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "No new information was provided to confirm or deny price hikes or billing transitions in major enterprise SaaS platforms."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "Microsoft or Oracle will announce a significant delay or 're-scoping' of a major $10B+ data center project by mid-2025 due to power or financing constraints.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "There are no fresh headlines regarding data center project delays or re-scoping by Microsoft or Oracle due to power or financing constraints."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "Canada's 'STEM' occupation invitations for its Express Entry program will hit record highs in 2025 as US-based H-1B holders seek more stable residency options.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "While headlines indicate Canada is prioritizing tech talent for future immigration, they do not yet confirm record-high STEM invitations for 2025."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "At least one major Taiwanese ODM will announce a new $500M+ factory in Mexico or Vietnam by the end of Q2 2025 specifically to handle 'US-bound' hardware.",
       "grounded": false,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "No news was found regarding Taiwanese hardware firms announcing new factory expansions in Mexico or Vietnam."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The S&P 500 equal-weighted index will underperform the market-cap-weighted version by at least 5% over the next six months.",
       "grounded": false,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "The provided headlines discuss market strategy and general bubble warnings but do not offer specific performance data for the equal-weighted versus market-cap-weighted S&P 500."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "Berkshire Hathaway will make a major acquisition exceeding $20 billion only after a market-wide correction of at least 10%.",
       "grounded": false,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "Headlines confirm Berkshire's massive cash hoard and lack of buying, but do not report a major $20 billion acquisition following a market correction."
     },
     {
       "section": "markets",
