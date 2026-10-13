@@ -6,42 +6,54 @@
       "headline": "The era of cheap AI software is coming to an end",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMmpYZkFGaGpYVFFYUHhaZ01JMV9Id2pzaVE1aU9EUnhQVDZGalZNaExuVnY4dno5WGo3azZ1Z0lKZV9zb0l3NEZLSHVNVkR5a2ZyM3dMVENvbEZ0a0t0UjB5eE5Ba241WXZ0cGZEa1p4T0N2X09FQzNTRmt6eGktLXFiN09hc0U5R2JlbXNTTzF1NG5Zamc?oc=5",
       "prediction": "At least two major enterprise SaaS platforms will announce mandatory AI-tier price hikes or 'usage-based' billing transitions before the end of Q1 2025.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "Big Tech takes on massive debt to fuel AI expansion",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ0JpLXdXdkZFTEtLV2NjMEh5cko4NjRyTFQzbFJ2TjQ5OVpseHNNMFo4b3dwelBuNWEzZ3Izc2JqUWdQZ2xNUlVUaWREX09ZVWQ1bElKY2ZaU0thUHBGUXIyd0xkSG1mcmVobDZGaUJONURITklnRU8yQW53eXBsX0JBV2VVUExNQm5BZTNFMkdkcTdKV1pRbWZxalVVc3lRTklqVHpOM01RNnhXX2Roa2lpS0I?oc=5",
       "prediction": "Microsoft or Oracle will announce a significant delay or 're-scoping' of a major $10B+ data center project by mid-2025 due to power or financing constraints.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "Strict visa rules threaten to push tech talent out of America",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN0dKT0x0NzhrQXRVYzF4R3ZjZHZDOWljMFVrSG91QjBNTjFZSXlzN0x2QVdQUzdEekZzc082UEQ1RzEyMFR3Rk4xdWFUN3oxQnN1R29YaTJLOEU1VTQ4WHdPWnBNRko4Ti1CRHBJRmQwY1laTlRRLTRjS05jYWtGSVNLdlBnVVJpRHg0?oc=5",
       "prediction": "Canada's 'STEM' occupation invitations for its Express Entry program will hit record highs in 2025 as US-based H-1B holders seek more stable residency options.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "Washington launches a new investigation into Taiwanese hardware firms",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhUUFueEdvMVNRTC04Z1hDTmJ1NTl6SEJDbU9jRHgwVGZtX1p5elpZYlZtVENDd0hZc3pqbVZ2bm9EOVJOLUpvQ3RNOWFNVVk3ZlA2akpsYmNDZTdZYmxXemtiVFdjZG8tTWRoV1ZTWkU1RENmSFE?oc=5",
       "prediction": "At least one major Taiwanese ODM will announce a new $500M+ factory in Mexico or Vietnam by the end of Q2 2025 specifically to handle 'US-bound' hardware.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
       "headline": "A few giant tech stocks are masking a broader slump",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYURkejdDei1aZDdhZnA3UUkwTnFvVG9jcUJfVndOMTg2eExpWUtaV0ozclc2cUJWdV9Va2ZPaTMzOWxWd0JCSXpzNXI0aEItWnNnTnpzV2JWMGdXRlhGXzRrTkNtLUVINEFyWHVHamw1eVQtUm9IcEhOS0pGMkM1NXVTdUVaS3ZtbV96dC1uS3kzZm9rN3ZIMUJBT0xoZEs3cUxUSHZuWVR2Ty1xZGQ5bldDWDlkVU0?oc=5",
       "prediction": "The S&P 500 equal-weighted index will underperform the market-cap-weighted version by at least 5% over the next six months.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
       "headline": "Berkshire Hathaway remains the ultimate safety net for investors",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSnVWd2t5WENTUkJTMHlzUHJxLWZFNUtrX0tROG9sTXNORGJsM29XVVU3bDh6OXlvUWRRMkNCaTl2a2JIZmxfak5Qc3JnLXE0NkNTdHYwZHpsRHNnTGZ4UW1UQ0FjTG1qcnVUYW83bXlPdlNJQTlVUERFeGNUOFl3X05rOEpySGZsZFp1OWhWMmtoaXJic29RUXFUejYtZy13WVJ0eXBjZV91V1BfOWVDZXNkTmZEUQ?oc=5",
       "prediction": "Berkshire Hathaway will make a major acquisition exceeding $20 billion only after a market-wide correction of at least 10%.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
