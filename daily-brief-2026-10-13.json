@@ -6,42 +6,54 @@
       "headline": "China Still Can\u2019t Quit Its Expensive Nvidia Habit",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYXhEbjZpZnZxdThlX0h6OVZGSEZ4cUpMekJwOWVlUWZBTU5hZUwzSWh3Slp4UHZDN01faEtCTnZ6U3pxemd0SlVwTzdOYUtMNDd5emVZZF9JdG8yRzNWLXFnT0YzRjJRbk5lYTlZLWJhd2lVSjhxS21hSmN2amxsNTNmVHI?oc=5",
       "prediction": "Nvidia\u2019s 'China-compliant' H20 chips will see a 20% volume surge in orders next quarter as firms realize top-tier local alternatives are still 12-18 months away from enterprise stability.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "Taiwan\u2019s Power Grid Demands a Seat at the AI Table",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aVDNTakhUNXFTNmVLWDdpdC1EVlRfSVFkNEhTN0RIS1hYdGxNTkk5Q0VCUkRmOGdsY0Z4ZFQwakZmd0xBczZtSFFjbmVfZnhFYTAwWUg4RHplcmtxQ09xQ0VPZUQ0QU5mMU10YWZrOGs3MUlsV1E?oc=5",
       "prediction": "Expect the implementation of a new 'tiered' electricity pricing structure specifically for AI data centers in Taiwan's northern provinces before the end of Q3.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "Trump\u2019s Visa Crackdown Risks Spurring a Silicon Valley Brain Drain",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN0dKT0x0NzhrQXRVYzF4R3ZjZHZDOWljMFVrSG91QjBNTjFZSXlzN0x2QVdQUzdEekZzc082UEQ1RzEyMFR3Rk4xdWFUN3oxQnN1R29YaTJLOEU1VTQ4WHdPWnBNRko4Ti1CRHBJRmQwY1laTlRRLTRjS05jYWtGSVNLdlBnVVJpRHg0?oc=5",
       "prediction": "Applications for Canada\u2019s Express Entry 'Tech Draw' will hit record highs within three months of any formal executive order being signed to limit H-1B visas.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "The Secret Fight Over Who Gets to Audit Big AI",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2dpbjFjZ0FCNnBvUWVXYXg2TU5JTFFrcU9oNGxLMFQtQk85VlpDQ0QwbDBDeDI3emlDZUxMOG5ESDRIeDVVUU8wcWExWTAyeVlqSktObWhscFdTbFYtWTB6Mk9iTEtUeDlfTzYwSTcyNEVwZzN4MnNVdWRHdmFpOF83ZXlmbklMS195WE5LZFhVWmc4c3lBUzBPcEpLYnFLTmNYcEpidGlnUW5RdTF0NXNDWmg2NWpBZFVJ?oc=5",
       "prediction": "At least one major AI lab will file a formal legal challenge against a regulatory body over 'excessive disclosure' requirements by the end of the year.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
       "headline": "South Korean Turmoil Is Drubbing American Chip Stocks",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWUJINXdlODRwVkRPbmRMa3VCSGkwQkkzaUNLbmltZEFXSl9LYXptRFhWbWpick1IbXNuRHpMQzJUSmphbF9UTVZIUlB6cnRDc05peTI0R0JnV0EwRHg0dndfZGNWSDhyU1IzY0ZfX3k5S1FZZWUzQ1Y1aDFwNVEyVXYzSWJTLXhoMHpPT3ZvMFVCNmlJZzA5T2hZbUdSUHpT?oc=5",
       "prediction": "The Philadelphia Semiconductor Index (SOX) will underperform the S&P 500 by at least 3% until the Korean political crisis reaches a formal constitutional resolution.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
       "headline": "Hedge Fund Legend Flags 2027 as the Next Market Cliff",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOWJtYzA4SkFobVRHU0EzQ04tRmVrTkJ4NlVnSEx3djE3cVczaXdmcTFUUVNzbnJrWmRJeEF4NVlpT3lwNkFYOXNMRlVRY1ZFc0tLZmlkSXpnaXJ3TmdERUNwSGRmWlFtRlMwQkxvMmV1ck5aM2c1el9FMzFkUk5LcWhxM1JTQ3VCUmfSAY8BQVVfeXFMUHF6Q1lNTzFBMHB4dWcyZjlPYkYyR0hENE9jY2p1ZzNxNWQ5WUNEWGhFSTZCZWJuRDFoWjNXQl95Ukxxb0N1T1ZFZXNHUnVObll4RGxiN3ZjX09RMkJOdHpWaVhJS3cwZlZRSlY0aFBtVlJJZkYwb3F4cDdsckExZHRya1F6aVh0bXZfbWl6WGM?oc=5",
       "prediction": "10-year Treasury yields will breach 5.5% as 'bond vigilantes' preemptively price in the fiscal cliff Jones is warning about.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
