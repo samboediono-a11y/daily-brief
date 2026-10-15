@@ -6,42 +6,54 @@
       "headline": "OpenAI engineer arrested for trying to bug the office",
       "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNZHEwcVl0aGN2VkZLZ01OUnRkd05WeXZWZ3M3RmJwUzVydkZwOGhFYUs4RFNQbEFQcVJUaWNFNnVUMEdoTTl6am1Pd19qS05HSUVSOEZTUzJGSXVPamg2X0lad0hxN2RtR0t1OV9nbnVBTlE1c3lCdXVMQjVqVUVEXzg4Uzh2UEZRTFAtamVtNkI1RXVCRFlkbjFYTk9pTG9ta1ZjT0VISWJjbjJyMU1TNkE1WXZaTnEzWGEwVTZRRjlQVnktbDJNUkFpamdadnFZUFJwLUJEeGtuWlJSVHBRTUR0aGRjOVRGSm5YaXJQVkpvRXVIWmY1Z3RWcG5EbnhWWnlkSTFJd3h1WkZJempGQi03VjM3YmFMd3hBR05ZclNob0xLYTdxWjlKUjQybGtsclZLeU50Wjc5Ukd1RTRRMXR5SENYWmtCMERCVzE2Qm9WLS1fbEdYdng5QkUtN3Z3dzZfcUF6OUt0UUczalhsNXBsbmlTTVVsdnhiamNqRHg3M0JCSl85cjR4MVRzdUpJY0tSTjh2ZUc4QVk?oc=5",
       "prediction": "Expect major US AI labs to announce a transition to 'air-gapped' research environments for super-intelligence projects by Q4 2025.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "The tech layoff wave shows no signs of slowing down",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUi04VG53NGg5eV9GWTg4NmxvNzNROU9UenhvLU1sRzhWVGJkSExqZGh4S3lYU2hGUGQ0VUgyLUpTYm1fWmxtY21OZDNkeU90cFFhLXZ6MU1xalFPTDVsX2otemVDT1g2WkwyNF91d0lNU05wbDhuUVgxdVNsOUpfQWF1RjFFY1VObDU1RjhKcktHckpSdlNJak9tMEF4Ung4dFB5THlpY2Q5cGMzalZMQ1R0Yk9HZThXNHpuaEZUdHV5alNzSnNrMHIyYkU5M2hJNDROa0IwVzhGRDdQUGVOVWRwNzhUSnphWHBiSV9Qd0VzOHpiVlZGSldnY1Fyakk?oc=5",
       "prediction": "Tech sector headcount will remain flat or slightly down through 2025 despite projected double-digit revenue growth across the S&P 500 tech constituents.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "AI giants fight over how much the public should know",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2dpbjFjZ0FCNnBvUWVXYXg2TU5JTFFrcU9oNGxLMFQtQk85VlpDQ0QwbDBDeDI3emlDZUxMOG5ESDRIeDVVUU8wcWExWTAyeVlqSktObWhscFdTbFYtWTB6Mk9iTEtUeDlfTzYwSTcyNEVwZzN4MnNVdWRHdmFpOF83ZXlmbklMS195WE5LZFhVWmc4c3lBUzBPcEpLYnFLTmNYcEpidGlnUW5RdTF0NXNDWmg2NWpBZFVJ?oc=5",
       "prediction": "A formal federal certification process for 'High-Risk AI' will be introduced in the US Congress by mid-2025, heavily mirroring the standards proposed by current industry leaders.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "Visa crackdowns threaten to push tech talent out of America",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN0dKT0x0NzhrQXRVYzF4R3ZjZHZDOWljMFVrSG91QjBNTjFZSXlzN0x2QVdQUzdEekZzc082UEQ1RzEyMFR3Rk4xdWFUN3oxQnN1R29YaTJLOEU1VTQ4WHdPWnBNRko4Ti1CRHBJRmQwY1laTlRRLTRjS05jYWtGSVNLdlBnVVJpRHg0?oc=5",
       "prediction": "At least two 'Magnificent Seven' companies will announce the launch or significant expansion of engineering 'super-hubs' in Canada before the end of 2025.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
       "headline": "Hot inflation data sends tech stocks into a tailspin",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd1dyS0JCRnFXYVM3dS00OUFGc2EzdV9pRm0yR3M3TndxOF84SE5iN3BNcmN1UWpnWVFBVmhTVHhNekczM3FKSVNZUUdXLWZGanM3c09sMDFFa3dPV2VoMUJUekhYaC1FZlAyclBSQVhIV1c3c3dsUUZCV09RWkFUSHJZRVNkOG5kQXV4eTNlTFhnVXhzWElwU0pVYlpKUUNucEplSWNHdzRSbDFSbFJuYi1UWkRiT3U5VUotYUM1cUhKMnVuTndydnR3?oc=5",
       "prediction": "The Nasdaq 100 will underperform the Dow Jones Industrial Average by at least 4% over the next 60 days.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
       "headline": "Defense unicorn Anduril hits a staggering $90 billion valuation",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaEtqVXo2RTBxRmpvTDRGQ0tQQ3VUMlhWNHBwQ3NGOGdfUl9tc2xfVUl1NThIdVd2WDhqLXdtWmJ5ZkhZeVFVcjJ5N2dhMUIyMFhvRTAwN1FkT2I2eTBSdWs2dVRVazlQN25sQW82X0FSZ2VXWGF1dnlhOWRVdDNNWGFKSUpXNXRxdlR1cmVSUzkyTW9yWExmZ0Q1TzFWbDhpMDhYWG1Vb3lzN2ZLWW45aC1WOG9EZ3pUT2lVSHl5TmR2QQ?oc=5",
       "prediction": "Anduril will announce its first single-contract win exceeding $5 billion from the U.S. Department of Defense before the end of fiscal 2025.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
