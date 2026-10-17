@@ -8,7 +8,7 @@
       "prediction": "The EU will file the first formal non-compliance lawsuit against a major US AI firm regarding safety review transparency by Q4 2026.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "No fresh headlines were found regarding any EU lawsuits or non-compliance actions against AI firms."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "A major FDA 'fast-track' approval for an AI-first health diagnostic tool will be announced before the 2026 midterms as a direct result of these private consultations.",
       "grounded": false,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "The provided headline focuses on healthcare payment policy and does not mention any FDA fast-track approvals for diagnostic tools."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "At least three quantum computing startups will announce headquarters relocations to New York by the end of 2026 to access the NYU fabrication facility.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "While D-Wave announced an HQ relocation, the headline does not specify the location or mention the required number of startup moves to New York."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Tech sector SG&A as a percentage of revenue will hit a 10-year low across the S&P 500 tech constituents by the next annual reporting cycle.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "The available headline refers to general market charts and does not provide specific data on SG&A as a percentage of revenue for the tech sector."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The Nasdaq 100 will underperform the S&P 500 Equal Weight index for at least two consecutive quarters in 2026.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "Headlines report a pivot away from the AI trade in July 2026, but do not provide specific comparative performance figures for the Nasdaq 100 versus the S&P 500 Equal Weight index over two quarters."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "The 10-year Treasury yield will test and break the 5% barrier before the end of Q3 2026.",
       "grounded": false,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "Headlines mention hawkish Fed sentiment and high gold prices but do not state whether the 10-year Treasury yield actually broke the 5% barrier."
     },
     {
       "section": "markets",

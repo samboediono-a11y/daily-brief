@@ -3,285 +3,285 @@
   "predictions": [
     {
       "section": "tech",
-      "headline": "AI companies battle over how much data the public sees",
+      "headline": "AI giants fight to keep safety audit results secret",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2dpbjFjZ0FCNnBvUWVXYXg2TU5JTFFrcU9oNGxLMFQtQk85VlpDQ0QwbDBDeDI3emlDZUxMOG5ESDRIeDVVUU8wcWExWTAyeVlqSktObWhscFdTbFYtWTB6Mk9iTEtUeDlfTzYwSTcyNEVwZzN4MnNVdWRHdmFpOF83ZXlmbklMS195WE5LZFhVWmc4c3lBUzBPcEpLYnFLTmNYcEpidGlnUW5RdTF0NXNDWmg2NWpBZFVJ?oc=5",
-      "prediction": "Expect at least one major AI developer to face a whistleblower leak of an internal safety audit before the end of Q3 2026.",
+      "prediction": "Expect a compromise by Q4 where AI firms release high-level 'safety report cards' while keeping the underlying technical audit data under strict NDA.",
       "grounded": false
     },
     {
       "section": "tech",
-      "headline": "Massive layoffs continue across big tech leaders in 2026",
+      "headline": "Tech layoffs continue as 2026 job losses mount",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUi04VG53NGg5eV9GWTg4NmxvNzNROU9UenhvLU1sRzhWVGJkSExqZGh4S3lYU2hGUGQ0VUgyLUpTYm1fWmxtY21OZDNkeU90cFFhLXZ6MU1xalFPTDVsX2otemVDT1g2WkwyNF91d0lNU05wbDhuUVgxdVNsOUpfQWF1RjFFY1VObDU1RjhKcktHckpSdlNJak9tMEF4Ung4dFB5THlpY2Q5cGMzalZMQ1R0Yk9HZThXNHpuaEZUdHV5alNzSnNrMHIyYkU5M2hJNDROa0IwVzhGRDdQUGVOVWRwNzhUSnphWHBiSV9Qd0VzOHpiVlZGSldnY1Fyakk?oc=5",
-      "prediction": "Tech sector layoffs will surpass 200,000 by year-end as companies prioritize GPU spend over payroll.",
+      "prediction": "Tech sector operating margins will reach new multi-year highs in 2025 filings despite stagnant top-line growth in legacy business segments.",
       "grounded": true
     },
     {
       "section": "tech",
-      "headline": "Scientists warn that White House AI focus hurts basic research",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZXoySFgyclF2WHZOb0t2ajhta1FnMllsZ1ByZW9vNk0tdElsM0haUmhXUHI0c2xNQzhjRmxiNmY5a1BzX0RRN3ZYMnUzZGlJQjd3MGFKWlJ4SjlqTVJyenl5ZHdVcS03ZEVhN2lNTDFnVEwwRUtKUGdPT3pKeXpEcDlNaTQ3X2Foc19WOXFDZU9XSXVXVzg4MVlfNlRYcnhMcER5MFlwOTdQaVJIMkpZSQ?oc=5",
-      "prediction": "Watch for a joint protest letter signed by at least 50 university presidents regarding the FY2027 budget by December.",
+      "headline": "US visa restrictions squeeze the supply of tech talent",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TaG83YlF3czcxOG1FakVIcjNpTEZYMjNjeVhPYU5PdzhDNWFubURrNS1xWkZpZzhLUFVmU08tQk9TaU0zbjdPZmJuMGtQUWUza0tURC04azJaei1pSTFyOEExWGtjTGk1TDBRc3NzaWpRZ3A4Qmc?oc=5",
+      "prediction": "Hiring growth at FAANG companies for roles based in Canada and Mexico will outpace domestic US hiring by 2:1 over the next 18 months.",
       "grounded": false
     },
     {
       "section": "tech",
-      "headline": "Marvell Technology drop signals a cooldown in chip demand",
+      "headline": "Marvell Tech dip shows the AI hardware halo is fading",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObTZOajBOaEliT3lhRjVHREw1X0QwaXZ1WTBpZ0lRVkh0YWNhdHViUGEzb21SRGIzZlZvRWp0NEhwaHpzckh2aGcyb1FWd0lVakhWSWx5SUczU0tadFFXb3l1Ml9acnNjMEZrZmVkOXdHb0U1c25SdjZwRGtJdnNLX3ZUTHV0bURQY2lnb0hEQnB5ZkMxdWNBZlRiQXVJZ2lJ?oc=5",
-      "prediction": "Marvell will underperform the Philadelphia SE Semiconductor Index by at least 10% over the next quarter.",
+      "prediction": "Marvell will underperform the PHLX Semiconductor Index (SOX) by at least 5% over the next quarter as the market re-rates its non-AI exposure.",
       "grounded": false
     },
     {
       "section": "markets",
-      "headline": "Nasdaq falls as the big AI trade loses steam",
+      "headline": "Nasdaq suffers worst week of the year on AI sell-off",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93d3pqaDdoN1RiVVZKZnIyYl9SZ05PdXNGc3JIMjFqbmF4Um96Z1prZVJVcHBrV3g1YmR6X1ZJNEhINUUtRm5ESXVtTTFMdGUwbUs4N3BjUjNZQzhDX3pjRmhmMlY1YzVjbkFtM2RkWUZZQzhtYURJ0gF8QVVfeXFMTWxnYjlydmY0c2ZnQkdLcHo2NFZVcFpEWUNvcGUxOUZXSVhzSVE5UDJGMUc0ZGttWF95YVFTTmJZeGJpUXYyV2NicmtfdTIyTDRXdjdxemNCaDdtZlRVRzNWU18tWlVDNjdOTU5pTlNPOTZmdWJTRGUwRmE4RA?oc=5",
-      "prediction": "The Nasdaq will see at least three more 2%+ single-day drops before the next Fed meeting.",
+      "prediction": "The Nasdaq-100 will remain in a 10% corrective phase and underperform the S&P 500 through the end of the next earnings cycle.",
       "grounded": true
     },
     {
       "section": "markets",
-      "headline": "Investors demand real profits instead of AI promises",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR0cyVkR4czJqcmtMVHU0c21pVnRHR1h1Q3VFRUdyX1FtSzg1alVJSFRqSmI0al95bGpvRkJpRG1EUy14djN1Y2xWXzlfVC04X2xIcUt4QkROSTR6V01la3plVWVhX202alJTYmhJSXIxQTJrM3VyTVZOVXhmWExqYVFWMVJQWUt3X3VUb0loWEp1SmphZ3E4MDVXS0ZZX3dkSThsTFAtMmEzRHpHMzFxTWhrblZQZFRoT1lFdXN5X3M5Y0dUQ0I5bzBR?oc=5",
-      "prediction": "Expect at least two 'Magnificent Seven' stocks to trade flat or down following their next earnings reports despite beating on revenue.",
-      "grounded": true
+      "headline": "MSCI expulsion threatens massive capital flight from Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONlg4UjV3N2U0ZUVvYWhOTF9YNEI5c1VCaVd3ZTdCcUl2dFBGUklnZngtVlNhaS1BSFJWUkVqcGluT05jLVNqNll0RWRJQWZOdVRZWnM4TUR2UHJTVGNYbnNOVmgtVWVqcjJWOHdDWTVVME9BVHBiLXBiclQyN3ljTDlfaTdnWDdzcmZTZk1wX2p6b3NXVjJNVE04QU82aGVTQW5xdWEzcm5tNU9OT2JMVVlINA?oc=5",
+      "prediction": "Foreign net outflows from Indonesian equities will exceed $1.5 billion within 30 days of any formal confirmation of the MSCI removal.",
+      "grounded": false
     },
     {
       "section": "markets",
-      "headline": "Indonesia stocks crash on threat of global index removal",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80RVBxa1dIdzVrRHhvanBmT1hMMnlkU2phYUtlV09sM1RUNzEwWHRhYVhjMV95dEJBS3pUSlo1a09mMzk3emxuM2lWLXpfSFQxbFJQRVFGbmxZTl8wRWFtLW5NdEl0QkZva2xzc0JzSk92bFRVLXBCMjQ3aU1BZw?oc=5",
-      "prediction": "Foreign capital outflows from the Jakarta Composite Index will exceed $1 billion within 30 days of a formal MSCI downgrade notice.",
-      "grounded": true
+      "headline": "Anthropic courts investors for a high-stakes market debut",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTUHRCTEVSeENpRVNzbEZTb1IyNEw4aHpsTFFWTnFBY3RxNngzVFRJZEhNelQ1NnZJcG9QanVId2FPX3Znem55WEJ6N0hJNVJlZFpEVFBkYW0xYmM?oc=5",
+      "prediction": "Anthropic will price its IPO at a valuation of at least $35 billion, but only if the Nasdaq stabilizes above its 200-day moving average before the filing.",
+      "grounded": false
     },
     {
       "section": "markets",
-      "headline": "Experts warn of a growing hidden risk in markets",
+      "headline": "Analysts warn of hidden risks building in global markets",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vU2VmSTB3cGpxdUU2Z29lRnFBQkFFTU5EOFJ2bGRydVp0T2NlVjNWeS1ieUlOamt1ZXJKQ1g3RTl1aFBzQVlPcVpFM1FhN2tkUllZeHhDeGk5UF90eW5jbVd0c1FjUUdNejAzWGZCeFZXY2JNVUFvZEVLVkwxUWs?oc=5",
-      "prediction": "A 'profit warning' from a mid-cap enterprise software leader will trigger a broader 5% sector-wide sell-off within 60 days.",
+      "prediction": "The VIX will spike above 25 before the end of the next calendar month as these hidden risks finally hit the headlines.",
       "grounded": true
     },
     {
       "section": "us_news",
-      "headline": "Trump executive order ends major sanctions against Russia",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3k5eWRlOVpmZUFuR1pVdXllbU5veXJ0UTJHMUdwWUQxY0t2OTZNWDR4dktfc3NFZlQ4aHRjd3BhVC1ZdF9yLUhIeE9ZSElGdjBoeVFJX1MxNFJadHFlaG1QTHJTcVl1MEZOWllvTjduYUpuRURxRjNpRFU5M3ZhY3ItbnZoWHljeE9EdjV4bzBhMFUtZkYxb09TX2hWNElWTjZlZW1vbDF6LUF2Ul9lY0p3?oc=5",
-      "prediction": "Expect US-Russia bilateral trade volume to double within the first six months of the sanctions being lifted.",
-      "grounded": true
-    },
-    {
-      "section": "us_news",
-      "headline": "Foldable iPhones sell out immediately despite massive demand",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN0NCNHRaTnNQZWgwVWVRUUNubHdDS1Voa1BESnNVYjBwSjhVa3NoR3Y5dUVrU25QMU8tSW5KcXozdnRxWEsyc0NaNlNlOVl0WTdTdmdLTDdRSGFuVnJkcDhnWVgxOHdhLVRCaTNoNlVvNll2YmlOa3NyT3l1bjZMak1HWUI?oc=5",
-      "prediction": "Apple will announce record-breaking iPhone Average Selling Prices (ASP) in its next quarterly earnings report.",
-      "grounded": true
-    },
-    {
-      "section": "us_news",
-      "headline": "White House press secretary ousted in surprise move",
+      "headline": "White House Press Secretary ousted in sudden staff shakeup",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLYlR1VXU5QWVxeF92dllTUENoLVI5REV2REVCMjJTRlpueEcyeWVzNzdUejJZWWE3QU1HZTFiUjZ0VHlWU01BcnFUS2ktclE1WWlQaktaTlJZS0ZBVmZjMExjdFNuNUNHdjFBamVmTU4zbGtaTXhNdw?oc=5",
-      "prediction": "Poll numbers for the administration will remain stagnant or decline over the next 90 days despite the change in spokesperson.",
-      "grounded": false
+      "prediction": "The White House will announce a major new 'price gouging' initiative or executive order within 30 days of the new press secretary taking office.",
+      "grounded": true
     },
     {
       "section": "us_news",
-      "headline": "Tesla's flying roadster ambitions shake up the auto race",
+      "headline": "Apple\u2019s foldable iPhones sell out despite high prices",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN0NCNHRaTnNQZWgwVWVRUUNubHdDS1Voa1BESnNVYjBwSjhVa3NoR3Y5dUVrU25QMU8tSW5KcXozdnRxWEsyc0NaNlNlOVl0WTdTdmdLTDdRSGFuVnJkcDhnWVgxOHdhLVRCaTNoNlVvNll2YmlOa3NyT3l1bjZMak1HWUI?oc=5",
+      "prediction": "Apple will report that foldable and 'Ultra' models account for more than 25% of total iPhone revenue in its first full quarter of sales.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Friction grows as Trump pauses Russia sanctions",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE50MGlLYl9jeVFRcDdiaWJaSWtUdkpoUHJaczN0bldDUDY3ZW52TEh2QmZZOHU1X1JmVVNNMm9YbjdlaDNGUDFxYjAxdGlsYWxuRllHanZGMXhUWmtCUy1oZjcybFNhRnlJdnRJT0dVaXJ2UQ?oc=5",
+      "prediction": "A formal US proposal for a 'frozen' border in Ukraine will be presented as a prerequisite for any further US military aid before year-end.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Tesla\u2019s flying roadster aims to redefine the auto race",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbXFSbnVSM0FJd1F5NmJEZmpFdVpIekF6LUR6cVllNURwemcxekdLNUFUUEg0RU1HU1l4UEFOSVkxb2VhZmpVdXdpWDFUZmxEYmRRdVVEYnNEWWFBZEVfZXBzMWNWMzVST1FrZk42NE9NRFR5c0xTdWNvM2xpT1kzRjk3aHdsUzRrdzNGRHhzWTVwR19tZVJjOE05NVdEOUJmcng1V0toYzJzcFhaRXc?oc=5",
-      "prediction": "Tesla will announce a pre-order program for the flying roadster before year-end to juice cash flow, despite no clear FAA certification path.",
+      "prediction": "Tesla will not deliver a single road-legal 'flying' vehicle to a retail customer within the next three years.",
       "grounded": false
     },
     {
       "section": "indonesia",
-      "headline": "Economists call Indonesia\u2019s growth targets a pipe dream",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ3o1X05hTXFCNVIwTnJwdFpHbTluUF8wemtDaVVzaTAxeExtY1lkdFBIQjVURWNvTEEzeFVSS1dVN3FFTS16QlBsS2lvMXRDVFB4MkMtVjJFU1UtZ0JkbGZjWHpiRGtFeDEzZzE2ZnZjbGdYM2QxTEJYS3E4TWpMU3RTMEN0czBFb1ZoUDM5TndWLUNzS3JTNEpvcVFZeDVs?oc=5",
-      "prediction": "Economists will revised down Indonesia's 2027 GDP forecast to sub-5% by the end of the year.",
-      "grounded": false
-    },
-    {
-      "section": "indonesia",
-      "headline": "Public confidence in Indonesia's direction drops under Prabowo",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN2FMRlA1ejZKTm85bjNVR3JDbGVGVGVVd0xCOFBRVFNTVVVESTZYLWRTcmR2MnZFMmxwN2NiMFpsY1NlaVE0ckU4QTlucGdPMi1hak5KaWRaSGkxVjBPSDJFWWdhYldXcEFVYndRVDUxblFMekV5SWhRc25VYTZmTzJ3UHJDMmU4c0Zsc2MtQ1hSZjBBTm9mSndqWTFJSDBpVnBXZHNWaDhLSnpjdXNaOGNqNTBsS3RSRTB1Tw?oc=5",
-      "prediction": "The Rupiah will hit a new psychological low against the USD before the next central bank meeting.",
+      "headline": "Markets demand independence for the next Bank Indonesia chief",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaGRiNHVFTW9PdTY2cENsU1ZLSVlSXzc0X2ExUWtiWUZHWkwyTERNN2gyRWFoVVRQV181dWNBU1g4ZUJVTGN4azNET2lxMEdIWTdDOGVEYUNVU3o0bEpPajBlTE8yQUZOR3F1R0J6ZGRQYlRsYnQ0dHNxQmJlbkh4Tko2aExIaURjc1EyX3NjZzc2RFVoX0Q5ZlJEWFRUTDM2YklR?oc=5",
+      "prediction": "The Rupiah will breach the 16,500 per dollar level if a political loyalist is nominated for the Bank Indonesia governorship.",
       "grounded": true
     },
     {
       "section": "indonesia",
-      "headline": "Market demands independence for next Central Bank chief",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaGRiNHVFTW9PdTY2cENsU1ZLSVlSXzc0X2ExUWtiWUZHWkwyTERNN2gyRWFoVVRQV181dWNBU1g4ZUJVTGN4azNET2lxMEdIWTdDOGVEYUNVU3o0bEpPajBlTE8yQUZOR3F1R0J6ZGRQYlRsYnQ0dHNxQmJlbkh4Tko2aExIaURjc1EyX3NjZzc2RFVoX0Q5ZlJEWFRUTDM2YklR?oc=5",
-      "prediction": "Bond yields will spike by 50 basis points if the next BI Governor nominee is a known political ally of the President.",
-      "grounded": false
+      "headline": "Public confidence in Prabowo\u2019s administration takes a hit",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN2FMRlA1ejZKTm85bjNVR3JDbGVGVGVVd0xCOFBRVFNTVVVESTZYLWRTcmR2MnZFMmxwN2NiMFpsY1NlaVE0ckU4QTlucGdPMi1hak5KaWRaSGkxVjBPSDJFWWdhYldXcEFVYndRVDUxblFMekV5SWhRc25VYTZmTzJ3UHJDMmU4c0Zsc2MtQ1hSZjBBTm9mSndqWTFJSDBpVnBXZHNWaDhLSnpjdXNaOGNqNTBsS3RSRTB1Tw?oc=5",
+      "prediction": "Public approval ratings for the administration's economic management will drop below 45% in the next major independent poll.",
+      "grounded": true
     },
     {
       "section": "indonesia",
-      "headline": "Care economy could be the next major growth driver",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY2MtdldJMXdaYjRiTlhsTzNGcDhsRFNxTWswRWlJMTdnZDNoRkhqNnhFT2hRWWNPTzBKRjBsZWQxNFlmNEI2aHozWm1MaHo3Y0NiYVptcUpYbGRFVGdsTFRvX2tYYy1LdGszTlRIR1ltVUhnNWVNX29CTDgwckhIOGNpQUJhTGR0NTljTFV4OTZUbjVjSVRscg?oc=5",
-      "prediction": "The Indonesian government will announce a new tax incentive for private healthcare providers targeting elderly care by the end of 2026.",
-      "grounded": false
+      "headline": "Budget squeeze forces tough choices on monetary policy",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWkJzY1AwWEJrV0g0eW4xaENjekJwNk9IR2l4eU45NXZMQ1lmVlBDSjNvdnUxclVOYWV5MmR0LWVMSDQ5UzJCLVdvelNsRi1Ga3dPcHFSS2ExMjZVbjdxd0h6MndjX0RkM29vdXNWT3BwalBJRnJYM1oxMDUtLW03UUtqLWpvRXdTZm1LblpjeGhsS1pEbTBzVFp3YmlHSm5K?oc=5",
+      "prediction": "Indonesia's GDP growth forecast for 2025 will be revised down to sub-5% by the IMF before the end of the first quarter.",
+      "grounded": true
     },
     {
-      "section": "crypto_fx",
-      "headline": "Investors flock to Bitcoin as currency debasement fears rise",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaTFuaUlHTHZ4U3Z3dXJjdEh4WHRTTC1EaTRaSldGaTY3eDNFeGxUVmJEaFdyWTU0ME52emZ3RkFHaUlUczQwRE9aZnlEMEE2Q3h0ZDZJX1NpTjVqTmY5M3B1WWx4VVgxT1ZxRkNseF9rTndrdnJOaUU2Q2RvRFliZEVtZWbSAYoBQVVfeXFMTlNpdEVRZVVEYmhiMlpRUVFkVVFjd3ZGaThEYWliVDFxWnlXUFBhaXJTSWVKSkg2ZEhTaVd3Sm9HTjN3RUI4N2N6N0E4YzdPTkRVQVljTGJHSHhPY3l1RHFiNUpoZkZzQWNkTVlIVjMwa196Zzhaa1huS3ZUTE93aTVielpwakVBeEN3?oc=5",
-      "prediction": "Bitcoin will hit a new all-time high within 60 days of the first major tariff implementation.",
+      "section": "indonesia",
+      "headline": "Interventionist policies threaten to spook foreign investors",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZkpJZUQyb2dua2JwYzlUOGtmVXN1cjRGZUkxYlNkOVRPT0VOWG5PbE1vcGl1OXAwZE9GU3prRHB2WFFacVBVcGNPWkItQkhYV2ZLTDloWURFWGMtaWlxemhQeFNic0RTdDJMR2NaNi1UZnlIVDczRXExel84dFhXbDVSSVB5TUdIQjZNdzZPbUNXMGtYRG5HdkJDQU9JTHQxTWY0a0xldFRwdmY3T3pnbU5R?oc=5",
+      "prediction": "Foreign Direct Investment (FDI) inflows into Indonesia will see a year-over-year decline in the next two quarterly reports as companies pause expansion plans.",
       "grounded": true
     },
     {
       "section": "crypto_fx",
       "headline": "Solana surges as crypto ETFs draw $10 billion",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaHlMUlJpY21YTGtCRmdPbHN6cDNCaTNaaENBZlFCbG9HR1cxMUE0SURWM0VEdXljZUJreTc1NncxV281ajF1cEgydGtZZGw3b2dDUlpvUTNFZ0dMVktOYTM4anVYZExqd0R6d3NlNk1KN05fRFpGN18yU3JvZ1FQTVNIWk5zTkFNZGgyVUtTLU8weXBKbkNMMWsybUV2bW1Hb0JHRFM3MjJXdlp0bTdoUlZJZWt2a3EyanAtcTFCS0tKd1lUMmFtbFBxajRmYlE?oc=5",
-      "prediction": "Solana will outperform Ethereum in total percentage gains for the 2026 calendar year.",
+      "prediction": "The SOL/ETH exchange rate will reach a new all-time high before the end of 2024 as institutional capital continues to rotate.",
       "grounded": true
     },
     {
       "section": "crypto_fx",
-      "headline": "Falling Yen and rising oil prices squeeze Bitcoin",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZnh0anRTV3hxMEtZRzZKcnlhb0k1Z0M5VmdqUG42STgxQzk2SFZ1NXc3VGtVcndTV3lZS2tZSGFyTDQ5X3NUUjYyNWY5YU9oc05HODE0aEs2RkxzVWdIT0ZuZkhhU0o1WGd2MFRqTGZZNGIyakxxSUh1Vk1fZTA4cHlQWnp0NC1OakhHY2gwd3d4UVJvRmFpSXVJQ29zazBOUnhiQ1FDVQ?oc=5",
-      "prediction": "Bitcoin will see a 10% correction within two weeks if Brent crude prices sustain a rally above $95/barrel.",
+      "headline": "Multi-million dollar bet points to $95k Bitcoin soon",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUzVsZWEyVzNnajA4clp4eVRXY2pGREZLLWVJMnNWc0RxRUNzVDlyVjJsRGUwWUE0dWJNelpUUGJaOVBXNngxQXZOM2FmSE8xQnM3cnhzb0NxR2xIbENRbzJ2ZjdvZ0t1M3RhdHAzQnV5cEc2U2pXOHd5QjlZbTE2U0tHSmNlU0g2R0pYVl85NENmWkpEUmNqRk9pb3hZV2xEQnJyNUVoRGdhNm1zY1cxQnNLaExicTFjMVpXOWIzN2d0Z0F4ZmVmNHJjSndETWlwVkxjVg?oc=5",
+      "prediction": "Bitcoin will hit at least $90,000 before the end of the current month, driven by this options-fueled momentum.",
       "grounded": false
     },
     {
       "section": "crypto_fx",
-      "headline": "Traders place huge $3.2 million bet on Bitcoin $95k",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUzVsZWEyVzNnajA4clp4eVRXY2pGREZLLWVJMnNWc0RxRUNzVDlyVjJsRGUwWUE0dWJNelpUUGJaOVBXNngxQXZOM2FmSE8xQnM3cnhzb0NxR2xIbENRbzJ2ZjdvZ0t1M3RhdHAzQnV5cEc2U2pXOHd5QjlZbTE2U0tHSmNlU0g2R0pYVl85NENmWkpEUmNqRk9pb3hZV2xEQnJyNUVoRGdhNm1zY1cxQnNLaExicTFjMVpXOWIzN2d0Z0F4ZmVmNHJjSndETWlwVkxjVg?oc=5",
-      "prediction": "Bitcoin will test the $95k level before the current monthly options contract expires.",
+      "headline": "The 'debasement trade' returns to crypto and gold",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaTFuaUlHTHZ4U3Z3dXJjdEh4WHRTTC1EaTRaSldGaTY3eDNFeGxUVmJEaFdyWTU0ME52emZ3RkFHaUlUczQwRE9aZnlEMEE2Q3h0ZDZJX1NpTjVqTmY5M3B1WWx4VVgxT1ZxRkNseF9rTndrdnJOaUU2Q2RvRFliZEVtZWbSAYoBQVVfeXFMTlNpdEVRZVVEYmhiMlpRUVFkVVFjd3ZGaThEYWliVDFxWnlXUFBhaXJTSWVKSkg2ZEhTaVd3Sm9HTjN3RUI4N2N6N0E4YzdPTkRVQVljTGJHSHhPY3l1RHFiNUpoZkZzQWNkTVlIVjMwa196Zzhaa1huS3ZUTE93aTVielpwakVBeEN3?oc=5",
+      "prediction": "Both Gold and Bitcoin will outperform the S&P 500 for the remainder of the year as debt ceiling concerns resurface.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Yen and Oil prices create a pincer move on Bitcoin",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZnh0anRTV3hxMEtZRzZKcnlhb0k1Z0M5VmdqUG42STgxQzk2SFZ1NXc3VGtVcndTV3lZS2tZSGFyTDQ5X3NUUjYyNWY5YU9oc05HODE0aEs2RkxzVWdIT0ZuZkhhU0o1WGd2MFRqTGZZNGIyakxxSUh1Vk1fZTA4cHlQWnp0NC1OakhHY2gwd3d4UVJvRmFpSXVJQ29zazBOUnhiQ1FDVQ?oc=5",
+      "prediction": "Bitcoin will remain range-bound between $60,000 and $68,000 as long as oil prices stay above $85 per barrel.",
       "grounded": false
     }
   ],
   "stories": [
     {
       "section": "tech",
-      "headline": "AI companies battle over how much data the public sees",
-      "summary": "Major AI developers are pushing for independent reviews but fighting to keep the actual results of those audits hidden from the general public.",
-      "view": "AI labs are attempting to manufacture 'trust' through gated audits while simultaneously shielding their proprietary data from actual scrutiny. This creates a regulatory vacuum that will inevitably be filled by government-mandated disclosures, stripping these companies of the control they are currently fighting to maintain.",
+      "headline": "AI giants fight to keep safety audit results secret",
+      "summary": "Major AI companies are pushing for independent reviews of their systems but want the results to remain private. This creates a standoff between firms and those demanding public accountability.",
+      "view": "AI giants are attempting to have their cake and eat it too by accepting 'audits' that carry zero public consequences. This strategy aims to capture regulatory approval while keeping competitive weaknesses and safety flaws hidden from the public eye. The winners are incumbents like OpenAI and Google, who can use these private certifications to build a 'trust moat' that excludes transparent open-source competitors.",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2dpbjFjZ0FCNnBvUWVXYXg2TU5JTFFrcU9oNGxLMFQtQk85VlpDQ0QwbDBDeDI3emlDZUxMOG5ESDRIeDVVUU8wcWExWTAyeVlqSktObWhscFdTbFYtWTB6Mk9iTEtUeDlfTzYwSTcyNEVwZzN4MnNVdWRHdmFpOF83ZXlmbklMS195WE5LZFhVWmc4c3lBUzBPcEpLYnFLTmNYcEpidGlnUW5RdTF0NXNDWmg2NWpBZFVJ?oc=5"
     },
     {
       "section": "tech",
-      "headline": "Massive layoffs continue across big tech leaders in 2026",
-      "summary": "Amazon, Meta, and TikTok are leading a fresh wave of job cuts as the industry prioritizes efficiency over expansion.",
-      "view": "The 2026 layoff wave is no longer about 'right-sizing' from the pandemic; it is a structural pivot toward 'AI-arbitrage.' As Oracle\u2019s 21,000 cuts suggest, CEOs are aggressively swapping mid-level management and entry-level roles for automated workflows to protect margins in a slowing growth environment.",
+      "headline": "Tech layoffs continue as 2026 job losses mount",
+      "summary": "Major players including Amazon, Meta, and TikTok are continuing to trim staff despite strong earnings. The trend reflects a permanent shift toward lean operations and automated management.",
+      "view": "The continued layoffs at Meta, Oracle, and Amazon are a structural pivot, not a cyclical correction. These firms are aggressively reallocating capital from human headcount to AI infrastructure, effectively replacing middle management and routine operations with automated systems. Investors should view this as a margin-expansion play that prioritizes GPU-driven efficiency over workforce growth.",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUi04VG53NGg5eV9GWTg4NmxvNzNROU9UenhvLU1sRzhWVGJkSExqZGh4S3lYU2hGUGQ0VUgyLUpTYm1fWmxtY21OZDNkeU90cFFhLXZ6MU1xalFPTDVsX2otemVDT1g2WkwyNF91d0lNU05wbDhuUVgxdVNsOUpfQWF1RjFFY1VObDU1RjhKcktHckpSdlNJak9tMEF4Ung4dFB5THlpY2Q5cGMzalZMQ1R0Yk9HZThXNHpuaEZUdHV5alNzSnNrMHIyYkU5M2hJNDROa0IwVzhGRDdQUGVOVWRwNzhUSnphWHBiSV9Qd0VzOHpiVlZGSldnY1Fyakk?oc=5"
     },
     {
       "section": "tech",
-      "headline": "Scientists warn that White House AI focus hurts basic research",
-      "summary": "University leaders are defending the importance of foundational science as government funding pivots heavily toward commercial AI applications.",
-      "view": "The White House is sacrificing America's long-term scientific edge for short-term AI wins. By redirecting foundational research grants into commercial AI applications, the government is starving the next generation of biotech and materials science breakthroughs that won't have an 'AI' label on the folder.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZXoySFgyclF2WHZOb0t2ajhta1FnMllsZ1ByZW9vNk0tdElsM0haUmhXUHI0c2xNQzhjRmxiNmY5a1BzX0RRN3ZYMnUzZGlJQjd3MGFKWlJ4SjlqTVJyenl5ZHdVcS03ZEVhN2lNTDFnVEwwRUtKUGdPT3pKeXpEcDlNaTQ3X2Foc19WOXFDZU9XSXVXVzg4MVlfNlRYcnhMcER5MFlwOTdQaVJIMkpZSQ?oc=5"
+      "headline": "US visa restrictions squeeze the supply of tech talent",
+      "summary": "New White House policies are making it harder for skilled foreign workers to enter the US. While intended to protect domestic jobs, the move is creating a massive hiring headache for Silicon Valley.",
+      "view": "US visa restrictions are a self-inflicted wound for Silicon Valley that will accelerate the offshoring of high-value engineering. While the policy aims to protect domestic jobs, the actual result will be US tech giants hiring the same talent in Toronto, London, or Bangalore, effectively hollowing out the domestic innovation ecosystem. Small startups lose the most as they lack the legal infrastructure to navigate these complex barriers.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TaG83YlF3czcxOG1FakVIcjNpTEZYMjNjeVhPYU5PdzhDNWFubURrNS1xWkZpZzhLUFVmU08tQk9TaU0zbjdPZmJuMGtQUWUza0tURC04azJaei1pSTFyOEExWGtjTGk1TDBRc3NzaWpRZ3A4Qmc?oc=5"
     },
     {
       "section": "tech",
-      "headline": "Marvell Technology drop signals a cooldown in chip demand",
-      "summary": "Marvell\u2019s stock fell harder than the broader market, raising concerns about the long-term sustainability of the semiconductor boom.",
-      "view": "Marvell is the 'canary in the data center' because it provides the networking plumbing that links GPUs. This stock drop confirms that the infrastructure build-out is hitting a bottleneck\u2014not of demand, but of the physical ability to deploy more hardware into power-constrained sites.",
+      "headline": "Marvell Tech dip shows the AI hardware halo is fading",
+      "summary": "Marvell Technology shares fell faster than the broader market today, signaling investor fatigue. Even companies linked to the AI chip boom are being punished for any perceived weakness.",
+      "view": "The dip in Marvell Technology is the first sign that the 'AI halo' is no longer enough to protect semiconductor firms from weaknesses in their legacy segments. Investors are finally beginning to demand that AI-related gains actually offset the cyclical downturns in enterprise networking and carrier infrastructure. Companies that cannot prove a direct, massive revenue contribution from AI will be severely punished.",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObTZOajBOaEliT3lhRjVHREw1X0QwaXZ1WTBpZ0lRVkh0YWNhdHViUGEzb21SRGIzZlZvRWp0NEhwaHpzckh2aGcyb1FWd0lVakhWSWx5SUczU0tadFFXb3l1Ml9acnNjMEZrZmVkOXdHb0U1c25SdjZwRGtJdnNLX3ZUTHV0bURQY2lnb0hEQnB5ZkMxdWNBZlRiQXVJZ2lJ?oc=5"
     },
     {
       "section": "markets",
-      "headline": "Nasdaq falls as the big AI trade loses steam",
-      "summary": "The tech-heavy index dropped 2% this week as investors began dumping AI stocks in favor of safer assets.",
-      "view": "The sell-off in SK Hynix and SanDisk proves that the AI trade is finally hitting valuation gravity. Investors are realizing that even the essential suppliers of high-bandwidth memory (HBM) can't outrun a macro shift toward defensive positioning as tech-heavy indices face a liquidity drain.",
+      "headline": "Nasdaq suffers worst week of the year on AI sell-off",
+      "summary": "The tech-heavy Nasdaq fell 2% on Friday, capping a dismal week driven by doubts about AI returns and rising oil prices. Investors are rotating out of high-growth tech as inflation fears resurface.",
+      "view": "The Nasdaq sell-off marks a 'crisis of confidence' as investors realize the massive capex into AI data centers has not yet translated into a corresponding surge in enterprise software revenue. This is a healthy, albeit painful, rotation out of over-leveraged growth stories and into defensives as the market grapples with higher-for-longer inflation fears. The era of buying any stock with an AI suffix is officially over.",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93d3pqaDdoN1RiVVZKZnIyYl9SZ05PdXNGc3JIMjFqbmF4Um96Z1prZVJVcHBrV3g1YmR6X1ZJNEhINUUtRm5ESXVtTTFMdGUwbUs4N3BjUjNZQzhDX3pjRmhmMlY1YzVjbkFtM2RkWUZZQzhtYURJ0gF8QVVfeXFMTWxnYjlydmY0c2ZnQkdLcHo2NFZVcFpEWUNvcGUxOUZXSVhzSVE5UDJGMUc0ZGttWF95YVFTTmJZeGJpUXYyV2NicmtfdTIyTDRXdjdxemNCaDdtZlRVRzNWU18tWlVDNjdOTU5pTlNPOTZmdWJTRGUwRmE4RA?oc=5"
     },
     {
       "section": "markets",
-      "headline": "Investors demand real profits instead of AI promises",
-      "summary": "The stock market's focus is shifting away from tech hype and toward actual quarterly earnings results.",
-      "view": "Wall Street has officially moved from the 'hype' phase to the 'show me the money' phase, as shown by the tepid reaction to Apple\u2019s Siri AI and Amazon\u2019s $200 billion capex. The market is now penalizing companies for massive AI spending that hasn't yet translated into clear EPS growth or margin expansion.",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR0cyVkR4czJqcmtMVHU0c21pVnRHR1h1Q3VFRUdyX1FtSzg1alVJSFRqSmI0al95bGpvRkJpRG1EUy14djN1Y2xWXzlfVC04X2xIcUt4QkROSTR6V01la3plVWVhX202alJTYmhJSXIxQTJrM3VyTVZOVXhmWExqYVFWMVJQWUt3X3VUb0loWEp1SmphZ3E4MDVXS0ZZX3dkSThsTFAtMmEzRHpHMzFxTWhrblZQZFRoT1lFdXN5X3M5Y0dUQ0I5bzBR?oc=5"
+      "headline": "MSCI expulsion threatens massive capital flight from Indonesia",
+      "summary": "Index provider MSCI is preparing to remove Indonesia from its global indexes, a move that could force billions in outflows. The decision serves as a 'wake-up call' for the country\u2019s market regulators.",
+      "view": "An MSCI expulsion would trigger a liquidity desert in Jakarta, forcing billions in passive outflows that the domestic market simply cannot absorb. This move signals that Indonesia's regulatory environment is failing to meet global standards, making it an uninvestable outlier in the emerging markets space. The Rupiah will likely bear the brunt of this capital flight, forcing an emergency response from the central bank.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONlg4UjV3N2U0ZUVvYWhOTF9YNEI5c1VCaVd3ZTdCcUl2dFBGUklnZngtVlNhaS1BSFJWUkVqcGluT05jLVNqNll0RWRJQWZOdVRZWnM4TUR2UHJTVGNYbnNOVmgtVWVqcjJWOHdDWTVVME9BVHBiLXBiclQyN3ljTDlfaTdnWDdzcmZTZk1wX2p6b3NXVjJNVE04QU82aGVTQW5xdWEzcm5tNU9OT2JMVVlINA?oc=5"
     },
     {
       "section": "markets",
-      "headline": "Indonesia stocks crash on threat of global index removal",
-      "summary": "The Indonesian market plunged after MSCI signaled it might remove the country from its influential global investment indexes.",
-      "view": "An MSCI removal is a terminal event for liquidity, forcing passive funds to dump billions in Indonesian equities regardless of individual stock performance. The 'transparency concerns' cited are a clear market signal that the Prabowo administration\u2019s institutional shifts are being viewed as a governance regression.",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80RVBxa1dIdzVrRHhvanBmT1hMMnlkU2phYUtlV09sM1RUNzEwWHRhYVhjMV95dEJBS3pUSlo1a09mMzk3emxuM2lWLXpfSFQxbFJQRVFGbmxZTl8wRWFtLW5NdEl0QkZva2xzc0JzSk92bFRVLXBCMjQ3aU1BZw?oc=5"
+      "headline": "Anthropic courts investors for a high-stakes market debut",
+      "summary": "The AI startup Anthropic is meeting with potential investors to drum up interest for its upcoming stock market listing. This IPO will be a major test for the overall appetite for AI investments.",
+      "view": "Anthropic's market debut is the ultimate test of whether the private AI bubble can survive public market scrutiny of massive burn rates. By positioning itself as the 'safe' and 'ethical' alternative to OpenAI, Anthropic is chasing a premium valuation that depends entirely on its ability to sign enterprise deals. A successful listing would reopen the IPO window for the entire SaaS sector, while a flop would freeze tech listings for another year.",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTUHRCTEVSeENpRVNzbEZTb1IyNEw4aHpsTFFWTnFBY3RxNngzVFRJZEhNelQ1NnZJcG9QanVId2FPX3Znem55WEJ6N0hJNVJlZFpEVFBkYW0xYmM?oc=5"
     },
     {
       "section": "markets",
-      "headline": "Experts warn of a growing hidden risk in markets",
-      "summary": "Analysts are flagging a build-up of systemic risk that remains poorly understood by most retail investors.",
-      "view": "The 'hidden risk' is the dangerous intersection of high leverage and the realization that 'Agentic AI' could disrupt enterprise business models faster than credit markets can price the risk. A failure in a major AI-adjacent firm will trigger a contagion that retail investors, focused on surface-level hype, are totally unprepared for.",
+      "headline": "Analysts warn of hidden risks building in global markets",
+      "summary": "A growing consensus of analysts is pointing toward 'under the surface' risks that aren't yet showing up in standard volatility metrics. The lack of clarity on what exactly is wrong is creating a sense of unease among traders.",
+      "view": "The disconnect between low equity volatility and surging geopolitical risk indicates a 'Minsky moment' is brewing in global markets. Traders are ignoring the potential for a regional conflict in the Middle East to spike oil prices and reignite inflation, which would force the Fed into a hawkish corner. This 'under the surface' unease is a precursor to a sharp, high-volatility repricing event.",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vU2VmSTB3cGpxdUU2Z29lRnFBQkFFTU5EOFJ2bGRydVp0T2NlVjNWeS1ieUlOamt1ZXJKQ1g3RTl1aFBzQVlPcVpFM1FhN2tkUllZeHhDeGk5UF90eW5jbVd0c1FjUUdNejAzWGZCeFZXY2JNVUFvZEVLVkwxUWs?oc=5"
     },
     {
       "section": "us_news",
-      "headline": "Trump executive order ends major sanctions against Russia",
-      "summary": "A new executive order waives long-standing economic penalties, allowing US companies to resume certain business with Russia.",
-      "view": "This executive order is a pragmatic, albeit controversial, pivot that prioritizes US energy costs and corporate access over the containment of Russia. India will be the primary winner, as it can now scale its Russian crude arbitrage without the threat of secondary sanctions from Washington.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3k5eWRlOVpmZUFuR1pVdXllbU5veXJ0UTJHMUdwWUQxY0t2OTZNWDR4dktfc3NFZlQ4aHRjd3BhVC1ZdF9yLUhIeE9ZSElGdjBoeVFJX1MxNFJadHFlaG1QTHJTcVl1MEZOWllvTjduYUpuRURxRjNpRFU5M3ZhY3ItbnZoWHljeE9EdjV4bzBhMFUtZkYxb09TX2hWNElWTjZlZW1vbDF6LUF2Ul9lY0p3?oc=5"
-    },
-    {
-      "section": "us_news",
-      "headline": "Foldable iPhones sell out immediately despite massive demand",
-      "summary": "Apple is reporting record-breaking sales for its new foldable device, which is currently backordered for months.",
-      "view": "Apple has successfully turned the foldable device from a tech curiosity into a status symbol, effectively resetting the upgrade cycle for its most affluent users. The backorder status is a calculated scarcity play that will drive record hardware margins for the upcoming fiscal year.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN0NCNHRaTnNQZWgwVWVRUUNubHdDS1Voa1BESnNVYjBwSjhVa3NoR3Y5dUVrU25QMU8tSW5KcXozdnRxWEsyc0NaNlNlOVl0WTdTdmdLTDdRSGFuVnJkcDhnWVgxOHdhLVRCaTNoNlVvNll2YmlOa3NyT3l1bjZMak1HWUI?oc=5"
-    },
-    {
-      "section": "us_news",
-      "headline": "White House press secretary ousted in surprise move",
-      "summary": "Katie Zacharia has been removed from her position as the primary spokesperson for the Biden-Harris administration.",
-      "view": "The abrupt ousting of the Press Secretary indicates a total breakdown in the administration's ability to control the narrative during high-stakes negotiations. This is a cosmetic personnel change that fails to address the underlying policy friction causing the administration's polling slump.",
+      "headline": "White House Press Secretary ousted in sudden staff shakeup",
+      "summary": "Katie Zacharia has been removed from her post as the primary voice of the administration. The move comes as internal tensions rise over how to message a cooling economy.",
+      "view": "The ouster of Katie Zacharia is a strategic pivot to 'wartime' communications as the administration attempts to distance itself from a cooling economy. This shakeup suggests internal panic that the current 'soft landing' narrative is not resonating with a frustrated electorate. Expect the next press secretary to adopt a much more aggressive, populist tone that targets corporate pricing rather than touting macroeconomic statistics.",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLYlR1VXU5QWVxeF92dllTUENoLVI5REV2REVCMjJTRlpueEcyeWVzNzdUejJZWWE3QU1HZTFiUjZ0VHlWU01BcnFUS2ktclE1WWlQaktaTlJZS0ZBVmZjMExjdFNuNUNHdjFBamVmTU4zbGtaTXhNdw?oc=5"
     },
     {
       "section": "us_news",
-      "headline": "Tesla's flying roadster ambitions shake up the auto race",
-      "summary": "New details on Tesla\u2019s radical flying car concept are forcing global automakers to rethink their long-term strategies.",
-      "view": "Tesla\u2019s flying roadster is a classic Musk 'halo' product designed to distract from the commoditization of the EV market and prop up the company's innovation premium. It forces rivals into a costly arms race for technology that is decades away from regulatory clearance, effectively wasting their R&D budgets.",
+      "headline": "Apple\u2019s foldable iPhones sell out despite high prices",
+      "summary": "Apple is reporting 'extraordinary' demand for its first foldable device, with initial stock vanishing in minutes. The success proves that premium consumers are still willing to spend on hardware novelties.",
+      "view": "Apple\u2019s foldable success proves that the 'Ultra' pricing strategy is working: consumers are willing to pay massive premiums for hardware that offers visible social signaling. This isn't just about a new screen; it's about Apple successfully commoditizing innovation to protect its high-end margins. This demand will force competitors to accelerate their own premium-tier launches, even if it hurts their bottom lines.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN0NCNHRaTnNQZWgwVWVRUUNubHdDS1Voa1BESnNVYjBwSjhVa3NoR3Y5dUVrU25QMU8tSW5KcXozdnRxWEsyc0NaNlNlOVl0WTdTdmdLTDdRSGFuVnJkcDhnWVgxOHdhLVRCaTNoNlVvNll2YmlOa3NyT3l1bjZMak1HWUI?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Friction grows as Trump pauses Russia sanctions",
+      "summary": "President Trump has put several Russian sanctions on hold, prompting a sharp plea for support from Ukrainian President Zelenskyy. The move signals a potential softening of US foreign policy toward Moscow.",
+      "view": "Trump's pause on Russia sanctions is a fundamental shift toward realpolitik, prioritizing immediate trade stability and lower energy costs over long-term geopolitical alliances. This move effectively sidelines Ukraine and signals a US retreat from European security leadership, favoring a bilateral deal with Moscow. The big losers are European defense contractors and the NATO unity that has defined the last three years.",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE50MGlLYl9jeVFRcDdiaWJaSWtUdkpoUHJaczN0bldDUDY3ZW52TEh2QmZZOHU1X1JmVVNNMm9YbjdlaDNGUDFxYjAxdGlsYWxuRllHanZGMXhUWmtCUy1oZjcybFNhRnlJdnRJT0dVaXJ2UQ?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Tesla\u2019s flying roadster aims to redefine the auto race",
+      "summary": "Elon Musk is leaning into the 'flying car' narrative for the new Roadster to maintain Tesla\u2019s image as an innovator. Critics argue it's a distraction from manufacturing struggles, but the hype is driving sentiment.",
+      "view": "The 'flying Roadster' narrative is a tactical move to maintain Tesla\u2019s status as an innovation leader while its core automotive growth stagnates. By leaning into science-fiction marketing, Musk is successfully shifting the narrative away from manufacturing struggles and shrinking EV margins. It\u2019s a sentiment-saving play designed to keep the stock's 'tech premium' intact despite a maturing product line.",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbXFSbnVSM0FJd1F5NmJEZmpFdVpIekF6LUR6cVllNURwemcxekdLNUFUUEg0RU1HU1l4UEFOSVkxb2VhZmpVdXdpWDFUZmxEYmRRdVVEYnNEWWFBZEVfZXBzMWNWMzVST1FrZk42NE9NRFR5c0xTdWNvM2xpT1kzRjk3aHdsUzRrdzNGRHhzWTVwR19tZVJjOE05NVdEOUJmcng1V0toYzJzcFhaRXc?oc=5"
     },
     {
       "section": "indonesia",
-      "headline": "Economists call Indonesia\u2019s growth targets a pipe dream",
-      "summary": "Critics argue that President Prabowo\u2019s ambitious economic goals lack the credible policy framework needed to succeed.",
-      "view": "Prabowo is chasing an 8% growth target without the labor or productivity reforms necessary to achieve it, leaving debt-funded state spending as the only lever. This fiscal recklessness is a direct path to a credit rating downgrade as the deficit blows past legal limits.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ3o1X05hTXFCNVIwTnJwdFpHbTluUF8wemtDaVVzaTAxeExtY1lkdFBIQjVURWNvTEEzeFVSS1dVN3FFTS16QlBsS2lvMXRDVFB4MkMtVjJFU1UtZ0JkbGZjWHpiRGtFeDEzZzE2ZnZjbGdYM2QxTEJYS3E4TWpMU3RTMEN0czBFb1ZoUDM5TndWLUNzS3JTNEpvcVFZeDVs?oc=5"
-    },
-    {
-      "section": "indonesia",
-      "headline": "Public confidence in Indonesia's direction drops under Prabowo",
-      "summary": "A new survey shows a significant decline in how Indonesians view the country\u2019s path since the new administration took over.",
-      "view": "The 'doom-loop' is real: populist spending is weakening the Rupiah, which in turn forces rate hikes that kill the very growth Prabowo is trying to buy. This decline in public confidence reflects a market and electorate that is beginning to realize the 'prudent Indonesia' era is over.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN2FMRlA1ejZKTm85bjNVR3JDbGVGVGVVd0xCOFBRVFNTVVVESTZYLWRTcmR2MnZFMmxwN2NiMFpsY1NlaVE0ckU4QTlucGdPMi1hak5KaWRaSGkxVjBPSDJFWWdhYldXcEFVYndRVDUxblFMekV5SWhRc25VYTZmTzJ3UHJDMmU4c0Zsc2MtQ1hSZjBBTm9mSndqWTFJSDBpVnBXZHNWaDhLSnpjdXNaOGNqNTBsS3RSRTB1Tw?oc=5"
-    },
-    {
-      "section": "indonesia",
-      "headline": "Market demands independence for next Central Bank chief",
-      "summary": "Investors are signaling that the next leader of Bank Indonesia must be free from political influence to maintain market trust.",
-      "view": "The market is watching the US Fed\u2019s struggle for independence as a warning for Indonesia; any sign that the next Bank Indonesia chief is a political 'yes-man' will trigger a currency rout. Investors require a technocrat who will prioritize inflation over Prabowo's spending agenda.",
+      "headline": "Markets demand independence for the next Bank Indonesia chief",
+      "summary": "As the search for a new central bank governor begins, investors are signaling that they will only accept a candidate free from political influence. Independence is seen as the only way to protect the Rupiah.",
+      "view": "The departure of Perry Warjiyo has opened a credibility gap that the Prabowo administration is ill-equipped to fill. Investors are rightly terrified that the central bank will be converted into a piggy bank for the government's ambitious spending plans. Anything less than a fiercely independent technocrat as the next governor will trigger a sovereign bond sell-off and a flight to the US Dollar.",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaGRiNHVFTW9PdTY2cENsU1ZLSVlSXzc0X2ExUWtiWUZHWkwyTERNN2gyRWFoVVRQV181dWNBU1g4ZUJVTGN4azNET2lxMEdIWTdDOGVEYUNVU3o0bEpPajBlTE8yQUZOR3F1R0J6ZGRQYlRsYnQ0dHNxQmJlbkh4Tko2aExIaURjc1EyX3NjZzc2RFVoX0Q5ZlJEWFRUTDM2YklR?oc=5"
     },
     {
       "section": "indonesia",
-      "headline": "Care economy could be the next major growth driver",
-      "summary": "New analysis suggests that investing in healthcare and elderly care could unlock significant economic potential in Indonesia.",
-      "view": "The 'care economy' is Indonesia's best bet for formalizing a massive segment of the informal workforce while managing its aging demographic. This is not just social policy; it is a GDP tailwind that reduces the 'shadow' cost of family care and increases female labor participation.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY2MtdldJMXdaYjRiTlhsTzNGcDhsRFNxTWswRWlJMTdnZDNoRkhqNnhFT2hRWWNPTzBKRjBsZWQxNFlmNEI2aHozWm1MaHo3Y0NiYVptcUpYbGRFVGdsTFRvX2tYYy1LdGszTlRIR1ltVUhnNWVNX29CTDgwckhIOGNpQUJhTGR0NTljTFV4OTZUbjVjSVRscg?oc=5"
+      "headline": "Public confidence in Prabowo\u2019s administration takes a hit",
+      "summary": "A new survey shows a decline in public trust regarding the country\u2019s economic direction under President Prabowo. Concerns over inflation and land conflicts are weighing on sentiment.",
+      "view": "Prabowo's honeymoon period has ended abruptly as the reality of elite-level corruption and persistent inflation hits home. The public is beginning to see the current administration as a continuation of 'business as usual' for the political elite rather than a vehicle for economic reform. This decline in trust will make it significantly harder for the government to push through the unpopular structural reforms needed to attract FDI.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN2FMRlA1ejZKTm85bjNVR3JDbGVGVGVVd0xCOFBRVFNTVVVESTZYLWRTcmR2MnZFMmxwN2NiMFpsY1NlaVE0ckU4QTlucGdPMi1hak5KaWRaSGkxVjBPSDJFWWdhYldXcEFVYndRVDUxblFMekV5SWhRc25VYTZmTzJ3UHJDMmU4c0Zsc2MtQ1hSZjBBTm9mSndqWTFJSDBpVnBXZHNWaDhLSnpjdXNaOGNqNTBsS3RSRTB1Tw?oc=5"
     },
     {
-      "section": "crypto_fx",
-      "headline": "Investors flock to Bitcoin as currency debasement fears rise",
-      "summary": "The 'debasement trade' is back in fashion as traders buy Bitcoin and gold to protect against falling currency values.",
-      "view": "Bitcoin is finally shedding its status as 'risky tech' and emerging as the primary 'sovereign risk' hedge as US tariff policies weaken the dollar. This 'debasement trade' is structural, not speculative, as traders front-run an era of permanent US fiscal deficits.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaTFuaUlHTHZ4U3Z3dXJjdEh4WHRTTC1EaTRaSldGaTY3eDNFeGxUVmJEaFdyWTU0ME52emZ3RkFHaUlUczQwRE9aZnlEMEE2Q3h0ZDZJX1NpTjVqTmY5M3B1WWx4VVgxT1ZxRkNseF9rTndrdnJOaUU2Q2RvRFliZEVtZWbSAYoBQVVfeXFMTlNpdEVRZVVEYmhiMlpRUVFkVVFjd3ZGaThEYWliVDFxWnlXUFBhaXJTSWVKSkg2ZEhTaVd3Sm9HTjN3RUI4N2N6N0E4YzdPTkRVQVljTGJHSHhPY3l1RHFiNUpoZkZzQWNkTVlIVjMwa196Zzhaa1huS3ZUTE93aTVielpwakVBeEN3?oc=5"
+      "section": "indonesia",
+      "headline": "Budget squeeze forces tough choices on monetary policy",
+      "summary": "Indonesia is facing a shrinking budget that is complicating the central bank's ability to manage interest rates. The 'budget squeeze' makes it harder to fight inflation without killing growth.",
+      "view": "Indonesia is facing a classic 'impossible trinity' conflict where the budget squeeze is paralyzing monetary policy. The central bank cannot lower rates to stimulate growth without crashing the currency, but it cannot keep rates high without blowing out the government's debt service costs. This paralysis will inevitably lead to an economic slowdown that forces the government to choose between its populist promises and fiscal reality.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWkJzY1AwWEJrV0g0eW4xaENjekJwNk9IR2l4eU45NXZMQ1lmVlBDSjNvdnUxclVOYWV5MmR0LWVMSDQ5UzJCLVdvelNsRi1Ga3dPcHFSS2ExMjZVbjdxd0h6MndjX0RkM29vdXNWT3BwalBJRnJYM1oxMDUtLW03UUtqLWpvRXdTZm1LblpjeGhsS1pEbTBzVFp3YmlHSm5K?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Interventionist policies threaten to spook foreign investors",
+      "summary": "Experts warn that an increasingly 'hands-on' presidency could lead to a crisis of confidence in the Indonesian economy. Private companies are wary of unpredictable government mandates.",
+      "view": "The return of interventionist economic policies is the single greatest threat to Indonesia\u2019s long-term growth prospects. When the presidency begins issuing unpredictable mandates to private companies, it destroys the 'rule of law' certainty that foreign capital requires. This shift toward a 'hands-on' economy will drive a risk premium that makes Indonesian assets significantly more expensive to hold.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZkpJZUQyb2dua2JwYzlUOGtmVXN1cjRGZUkxYlNkOVRPT0VOWG5PbE1vcGl1OXAwZE9GU3prRHB2WFFacVBVcGNPWkItQkhYV2ZLTDloWURFWGMtaWlxemhQeFNic0RTdDJMR2NaNi1UZnlIVDczRXExel84dFhXbDVSSVB5TUdIQjZNdzZPbUNXMGtYRG5HdkJDQU9JTHQxTWY0a0xldFRwdmY3T3pnbU5R?oc=5"
     },
     {
       "section": "crypto_fx",
       "headline": "Solana surges as crypto ETFs draw $10 billion",
-      "summary": "Solana is outperforming other major cryptocurrencies as institutional investors pour money into new fund structures.",
-      "view": "Solana is the breakout winner of the ETF era, capturing institutional 'growth' capital while Bitcoin serves as the 'value' play. The $10 billion inflow, driven by the surrender of giants like Vanguard, confirms that the market has settled on SOL as the viable third pillar of crypto portfolios.",
+      "summary": "New data shows massive inflows into crypto ETFs this quarter, with Solana seeing outsized growth compared to its peers. The 'institutional' era of crypto appears to be accelerating.",
+      "view": "Solana's outperformance is a clear signal that the 'institutional' era of crypto is diversifying beyond Bitcoin. By capturing the lion's share of new ETF inflows, Solana is establishing itself as the premier retail-friendly network for the next cycle. This is a direct challenge to Ethereum's dominance, as Wall Street favors Solana's speed and lower fees over Ethereum's complex layer-2 ecosystem.",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaHlMUlJpY21YTGtCRmdPbHN6cDNCaTNaaENBZlFCbG9HR1cxMUE0SURWM0VEdXljZUJreTc1NncxV281ajF1cEgydGtZZGw3b2dDUlpvUTNFZ0dMVktOYTM4anVYZExqd0R6d3NlNk1KN05fRFpGN18yU3JvZ1FQTVNIWk5zTkFNZGgyVUtTLU8weXBKbkNMMWsybUV2bW1Hb0JHRFM3MjJXdlp0bTdoUlZJZWt2a3EyanAtcTFCS0tKd1lUMmFtbFBxajRmYlE?oc=5"
     },
     {
       "section": "crypto_fx",
-      "headline": "Falling Yen and rising oil prices squeeze Bitcoin",
-      "summary": "Global macro pressures are weighing on crypto prices as the Japanese Yen slides and energy costs climb.",
-      "view": "The Yen carry trade remains the sword of Damocles over the crypto market; as the Yen slides, the resulting global liquidity squeeze will hit Bitcoin harder than equities. When energy costs rise simultaneously, it saps the discretionary 'play money' that usually fuels crypto rallies.",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZnh0anRTV3hxMEtZRzZKcnlhb0k1Z0M5VmdqUG42STgxQzk2SFZ1NXc3VGtVcndTV3lZS2tZSGFyTDQ5X3NUUjYyNWY5YU9oc05HODE0aEs2RkxzVWdIT0ZuZkhhU0o1WGd2MFRqTGZZNGIyakxxSUh1Vk1fZTA4cHlQWnp0NC1OakhHY2gwd3d4UVJvRmFpSXVJQ29zazBOUnhiQ1FDVQ?oc=5"
+      "headline": "Multi-million dollar bet points to $95k Bitcoin soon",
+      "summary": "A single $3.2 million options trade is betting that Bitcoin will hit $95,000 by the end of the month. This bold move is fueling a wave of optimism across the derivatives market.",
+      "view": "A $3.2 million bet on $95k Bitcoin is a signal of a massive volatility explosion coming to the derivatives market. This isn't just retail hope; it\u2019s a high-conviction trade that expects a short squeeze as leveraged bears are forced to cover their positions. If Bitcoin breaks $75k, the path to $95k becomes a 'gamma flip' where market makers must buy spot to hedge their books.",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUzVsZWEyVzNnajA4clp4eVRXY2pGREZLLWVJMnNWc0RxRUNzVDlyVjJsRGUwWUE0dWJNelpUUGJaOVBXNngxQXZOM2FmSE8xQnM3cnhzb0NxR2xIbENRbzJ2ZjdvZ0t1M3RhdHAzQnV5cEc2U2pXOHd5QjlZbTE2U0tHSmNlU0g2R0pYVl85NENmWkpEUmNqRk9pb3hZV2xEQnJyNUVoRGdhNm1zY1cxQnNLaExicTFjMVpXOWIzN2d0Z0F4ZmVmNHJjSndETWlwVkxjVg?oc=5"
     },
     {
       "section": "crypto_fx",
-      "headline": "Traders place huge $3.2 million bet on Bitcoin $95k",
-      "summary": "A massive options bet indicates that some big players expect a major Bitcoin rally by the end of the month.",
-      "view": "This $3.2 million options bet is a high-conviction attempt to trigger a 'gamma squeeze' that forces market makers to buy spot Bitcoin. If successful, this move will breach the $90k resistance level and create a FOMO-driven run toward six figures.",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUzVsZWEyVzNnajA4clp4eVRXY2pGREZLLWVJMnNWc0RxRUNzVDlyVjJsRGUwWUE0dWJNelpUUGJaOVBXNngxQXZOM2FmSE8xQnM3cnhzb0NxR2xIbENRbzJ2ZjdvZ0t1M3RhdHAzQnV5cEc2U2pXOHd5QjlZbTE2U0tHSmNlU0g2R0pYVl85NENmWkpEUmNqRk9pb3hZV2xEQnJyNUVoRGdhNm1zY1cxQnNLaExicTFjMVpXOWIzN2d0Z0F4ZmVmNHJjSndETWlwVkxjVg?oc=5"
+      "headline": "The 'debasement trade' returns to crypto and gold",
+      "summary": "Investor interest is shifting back to hard assets as a hedge against a weakening US dollar and high government spending. This 'debasement' narrative is driving both gold and Bitcoin higher.",
+      "view": "The 'debasement trade' has returned with a vengeance as US debt hits $40 trillion, making Bitcoin and Gold the only viable escape hatches for sovereign risk. This is no longer a speculative play; it is a fundamental flight to 'hard assets' as the market loses faith in the long-term stability of the US dollar. Gold and Bitcoin are now trading as part of the same anti-inflationary basket.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaTFuaUlHTHZ4U3Z3dXJjdEh4WHRTTC1EaTRaSldGaTY3eDNFeGxUVmJEaFdyWTU0ME52emZ3RkFHaUlUczQwRE9aZnlEMEE2Q3h0ZDZJX1NpTjVqTmY5M3B1WWx4VVgxT1ZxRkNseF9rTndrdnJOaUU2Q2RvRFliZEVtZWbSAYoBQVVfeXFMTlNpdEVRZVVEYmhiMlpRUVFkVVFjd3ZGaThEYWliVDFxWnlXUFBhaXJTSWVKSkg2ZEhTaVd3Sm9HTjN3RUI4N2N6N0E4YzdPTkRVQVljTGJHSHhPY3l1RHFiNUpoZkZzQWNkTVlIVjMwa196Zzhaa1huS3ZUTE93aTVielpwakVBeEN3?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Yen and Oil prices create a pincer move on Bitcoin",
+      "summary": "A sliding Japanese Yen and climbing oil prices are putting macro pressure on crypto markets. These global forces are making it harder for Bitcoin to sustain a rally.",
+      "view": "The pincer move of a weak Yen and rising Oil is a macro nightmare for Bitcoin's liquidity. A sliding Yen forces the unwinding of the carry trade, draining the 'cheap money' that fuels crypto speculation, while higher energy prices act as a tax on retail investors' disposable income. Bitcoin will struggle to find a sustained catalyst as long as these global macro pressures remain in place.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZnh0anRTV3hxMEtZRzZKcnlhb0k1Z0M5VmdqUG42STgxQzk2SFZ1NXc3VGtVcndTV3lZS2tZSGFyTDQ5X3NUUjYyNWY5YU9oc05HODE0aEs2RkxzVWdIT0ZuZkhhU0o1WGd2MFRqTGZZNGIyakxxSUh1Vk1fZTA4cHlQWnp0NC1OakhHY2gwd3d4UVJvRmFpSXVJQ29zazBOUnhiQ1FDVQ?oc=5"
     }
   ]
 }
