@@ -1,0 +1,287 @@
+{
+  "date": "2026-10-18",
+  "predictions": [
+    {
+      "section": "tech",
+      "headline": "Big Tech layoffs persist as companies chase leaner AI-driven growth",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ1FEbjRsbk91QTN3R2p5NjU5UWpidEVkeEFXZU9uRmlNYTNnSGVlMFRVUmJ0dmVGT21SMUVOdEcxNlZNRHBoMnAwajJpMGNHS2Rla3JoS1pWMVZNTnZpWWViMV9yQnVCQXFVOEtOY1dtVDNqWk1FRVRpS05DMDZMOUFuY0FuRXJhSC1lQjJmWUVDdmt2cXJCclhUWXBKMi0zTExMRkxfcHBtcXhLNFdn?oc=5",
+      "prediction": "At least three more S&P 500 tech firms will announce layoffs exceeding 5% of their workforce specifically citing 'AI restructuring' before the end of Q4 2024.",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "Silicon Valley giants are hunting for stakes in global mining firms",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWkNlTzNzUlY3QWZwMnR5SDNjVWItamtkUFh2VS03dklmYlpsanBfY2hDd1RydVBBX2FfSnNMMWhJX1FQUUxOS1VVYm0wRGhJa090Z2c3REtSb19SUzdBN1VrWDl0MklaWmZndmx4RU83Y19YaEF2eE42ZHBvbUwtZVZSUno?oc=5",
+      "prediction": "A top-5 US tech company will announce a direct equity investment or a multi-year pre-purchase agreement with a lithium or copper mining project before June 2025.",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "New York City takes an equity stake in quantum computing future",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMlNkay11YWo5TDZFNGxhNVoySUR2T3J2VmJHN3FtYThMOFplcFd0YzhycjNuS1pNR2pWU05ob2xuaWtEXzhfal9pcDBQSUhuM1hhWngxT0JMcllveHFWRFliNFBxU1J2d3kxbmFBbE9TNGRnV3JrLXlwSUd6WUdCQTYtYjRSSVpYNzdDdTc0dWFaWWtiem5KQWhiWWdTYW1WNWFJR1pyT3hQcWJPSEpYNQ?oc=5",
+      "prediction": "IonQ (IONQ) or Rigetti (RGTI) will see a double-digit price surge within 48 hours of a formal federal grant announcement linked to these municipal equity programs.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "University leaders fight to keep basic science funding from AI",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZXoySFgyclF2WHZOb0t2ajhta1FnMllsZ1ByZW9vNk0tdElsM0haUmhXUHI0c2xNQzhjRmxiNmY5a1BzX0RRN3ZYMnUzZGlJQjd3MGFKWlJ4SjlqTVJyenl5ZHdVcS03ZEVhN2lNTDFnVEwwRUtKUGdPT3pKeXpEcDlNaTQ3X2Foc19WOXFDZU9XSXVXVzg4MVlfNlRYcnhMcER5MFlwOTdQaVJIMkpZSQ?oc=5",
+      "prediction": "At least two major US research universities will announce hiring freezes or program consolidations in non-AI STEM departments by the end of the 2024-2025 academic year.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Nasdaq suffers worst week in months as AI fever breaks",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93d3pqaDdoN1RiVVZKZnIyYl9SZ05PdXNGc3JIMjFqbmF4Um96Z1prZVJVcHBrV3g1YmR6X1ZJNEhINUUtRm5ESXVtTTFMdGUwbUs4N3BjUjNZQzhDX3pjRmhmMlY1YzVjbkFtM2RkWUZZQzhtYURJ0gF8QVVfeXFMTWxnYjlydmY0c2ZnQkdLcHo2NFZVcFpEWUNvcGUxOUZXSVhzSVE5UDJGMUc0ZGttWF95YVFTTmJZeGJpUXYyV2NicmtfdTIyTDRXdjdxemNCaDdtZlRVRzNWU18tWlVDNjdOTU5pTlNPOTZmdWJTRGUwRmE4RA?oc=5",
+      "prediction": "The Nasdaq will trade sideways (within a 3% range) for the remainder of the current quarter as investors wait for a catalyst to justify further AI premiums.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Record margin debt creates a precarious floor for the stock market",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPanhQa1lQaVR3QTB4Y2J1VGhDeGdXN2lrSjdnby1tRTBzWktpNE03LVAxRDFadzFGeThGUUI4LXFmdEVDTTlKemw5MlVnOHpIbVVyN2R6QzNhZmFmd1pYS1VUdlBIUDZNY0xoU2tyajRHZ3pIdjRlR1hBUmZsX0FHWS05WmlGT1RRa1NpMmthWnY?oc=5",
+      "prediction": "A single-day drop of 2% in the S&P 500 will result in a total daily decline of over 4% due to automated margin-call liquidations before the end of the year.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Investors pivot from AI promises to actual quarterly earnings reports",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR0cyVkR4czJqcmtMVHU0c21pVnRHR1h1Q3VFRUdyX1FtSzg1alVJSFRqSmI0al95bGpvRkJpRG1EUy14djN1Y2xWXzlfVC04X2xIcUt4QkROSTR6V01la3plVWVhX202alJTYmhJSXIxQTJrM3VyTVZOVXhmWExqYVFWMVJQWUt3X3VUb0loWEp1SmphZ3E4MDVXS0ZZX3dkSThsTFAtMmEzRHpHMzFxTWhrblZQZFRoT1lFdXN5X3M5Y0dUQ0I5bzBR?oc=5",
+      "prediction": "At least three 'Magnificent Seven' stocks will see their P/E multiples compress in the next earnings cycle if their capital expenditure guidance outpaces their AI revenue growth.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Michael Burry predicts a massive reckoning for the current market",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaFZJeXlDdUw0YWZkS1FydWpoWWx2VWo2cWN2Wmw0VXM5YjE4Ym82a1RpdTNkOG1INUU0VkNoX01RNHFZR2lIakUzS0UxRDFhZkUydzN0Rnhlb1pNUUVxNm1mQm5IY3R1ZDJ6YWFmUmpHdWQ1cVdJNmE1a000YkFhYXdpNkp5UFhIUUZXdG9OeUx0cDNlajJDakZvZVhNQQ?oc=5",
+      "prediction": "Palantir (PLTR) will see a drawdown of at least 15% from its 2024 peak before year-end as short-sellers capitalize on the 'concentration' narrative.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "The $10 trillion AI infrastructure build-out is hitting its limits",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUlwOUY2SXQzRy00SDBweWtyS0hkQ3I1ak5XNlBnNXlPbmktcDJCZ2N4MGdlVGhScmRoWGZRZWl1aGlpVjIxZVVENVB2blExdnpENzNrZkk1Z2xPcXlOakFxYVBXYlE5NkRWamdqZU9nZkg1SF9PNTJkXzFwQUJTdUViT0c?oc=5",
+      "prediction": "Shares of copper-focused or power-grid equipment firms will outperform the broader Philadelphia Semiconductor Index (SOX) over the next 90 days.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Polls show high voter anxiety ahead of the midterm elections",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRUpJdnlDdnVzOVFlWjJYaXEwZG9aOHlDVTF0cFVkX3dTS1gzdnc5OEJzZGtVX2lfemtlSFY4TGhVMTc3b1p5X3ZiT0JOenNqTUFyZGV3QWVpVm4xaV9vejBrZVQzZ00tOTlkUTJteUdpbVBWQTc3a2hMbjBER1FQc1lyekh1WnFYdDZpZW41X1FsQXd6WF9WM2dhYXB0bm1oMks3Z1ktNS1kRDBKU2RMMG94MXl0YVR0VWRBUzBPMUliVXFvZ3VZ?oc=5",
+      "prediction": "The CBOE Volatility Index (VIX) will sustain a level above 20 for at least 14 consecutive days leading up to the midterm elections.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Retailers roll out AI tools that change prices in real-time",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMUsyWkZsV3NKY3ZWODVla3BLWXFrRVA1aUdqd3BYOTlQTnAyT1hwcy1TamhzSndQYjc3UVZmNWFwQ0ZhU2JSTHp2OUhUVFQxYVU1VEVaWVM4VXVsZ3JPVjZfM3Nuc3M4X0RWR1o2aG91NEtfWnZFdTFRS0RxMmYwUEd1b3lUc2RMbF9vUUpYWTlHaVRRSTRUdkgxeFNyYVk?oc=5",
+      "prediction": "A major US retail chain will be hit with a formal 'price gouging' investigation by a state Attorney General regarding its use of AI pricing by Q1 2025.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Apple faces criticism over bungled iPhone duo pre-order rollout",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQXy12Z19Ua3JWOXpwdmtMWFdaaElhUVZMR2xZZGJrc2JsRmJKVGVHbFRfSXdrSHNNWDg2Q1pJTlpQNC1qNlZ3UE9Rb2o5MDNNY1dQSHFKdTZRdE9FMDc0VW5QN29MNXFueEdqbk9HcV93N2NfaHFmcHVBbVVzN2ctNDlUemVvYmN1VXFOZg?oc=5",
+      "prediction": "Apple will report a quarter-over-quarter decline in iPhone Average Selling Price (ASP) in its next earnings report as frustrated early adopters shift to cheaper, available models.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "President Prabowo\u2019s approval rating drops below 45% in new survey",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU21TWEt2a0VldjByM2NoenJQbTJLOVoySlplWHlHN3k4YmNCVUVSYjk2b2V1cDAtV2F6M0ZNd2JPMW1vbURuSDMyQWQtc0FrcVhLYVh1YTFxSVBPc2ZwZE5nNm1ZOGpYbWVuSEFNTWxiMHhTcjRpTXBSc3Fvb0N0OVN0bzNPdERnNGJHMlhkRFczZXkyZWZ3MTFMRGt2RnJrZlNSNHJ3WTNwemhPZTFDZFRTUFJJclV5RlJB?oc=5",
+      "prediction": "The Indonesian government will announce a massive, multi-billion dollar expansion of food or fuel subsidies before the end of Q4 2024 to address voter dissatisfaction.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia uses dry ice to fight record-breaking toxic haze",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14bzl5dmY5M1RKVVljY2FxOUR6ZkYxMzBaZWhnV0laVlFhUFY4OUlWdjF6amdMNV9udjFIWFVGblp4RE13dktsZk1ieFZ4dmVzRkxBRVp3bDhkSlE?oc=5",
+      "prediction": "Singapore will issue a formal diplomatic warning or invoke its Transboundary Haze Pollution Act against Indonesian entities before the end of the current haze season.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Government prioritizes fuel supply over forest conservation efforts",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa0ZUTlItRFpnUkwzNDRmQjlzbnNwTmZTd0VlY3dHdXRyek1fWlhjd2lZRTIyMm4zMTBybHpZVEIzY3ZPZUd3ZkRKd0cybHJfYzZkQ2ZwdkRpVE9VTFNKY0kxYW5qXzJIWWlUOHBOV3FMN1hBakRkMWtXS0s2eThXQjRoVjZDNU1ZMEhNbVBSMVRCcTlkZEdpa3NPeGdqUzhEWnlQT2o2X0sybG8?oc=5",
+      "prediction": "Total Foreign Direct Investment (FDI) from European 'green' funds will see a year-over-year decline in Indonesia's 2025 annual economic report.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "New law passed to unify all Indonesian government data",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdzlncUh2bUh4T3Z5U3lpSDVMc3FiRTRSM2U3aHZTUDVYdVY0RWctOWRIN0l2d2oxZUgyTTZqVzZ2MXk2Z1lERm1pTXhpLWp0ZXA0Ylptd1pOZlVfVGlfM1hIVHpUVHJ0aDN0RHlaTGs0alNLRHpYWGxFZVRtdUhDVGpkOUdEYmRKYXB6TVo1V0dySlNuUjE4d1N5NjdXRUY0QnIyc25B?oc=5",
+      "prediction": "Indonesia will sign a major 'sovereign cloud' agreement with a US tech giant (Microsoft or Google) to host this unified data within the next 12 months.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin and gold rally as bond market intervention weakens dollar",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZjhYLWRvY1c5TnNteV9UUFlJT2dNcVJiS0NtU3lRSDNpblJncGh0aWpKYzgtWDNpOEItTnZic0tHYzBVNnZNVnc5R2M1c0RHQmFDbXR5OTV2cVU1RlAzTF9aRFBOYkxvMHBWSWphNWpuSmg2NFZoUGYyZVNVNUhSQVpSVHU?oc=5",
+      "prediction": "Gold will hit a new all-time high of at least $2,800/oz before the end of 2024 as central banks accelerate their shift away from USD reserves.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Crypto ETFs pull in $10 billion as Solana growth explodes",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaHlMUlJpY21YTGtCRmdPbHN6cDNCaTNaaENBZlFCbG9HR1cxMUE0SURWM0VEdXljZUJreTc1NncxV281ajF1cEgydGtZZGw3b2dDUlpvUTNFZ0dMVktOYTM4anVYZExqd0R6d3NlNk1KN05fRFpGN18yU3JvZ1FQTVNIWk5zTkFNZGgyVUtTLU8weXBKbkNMMWsybUV2bW1Hb0JHRFM3MjJXdlp0bTdoUlZJZWt2a3EyanAtcTFCS0tKd1lUMmFtbFBxajRmYlE?oc=5",
+      "prediction": "A major US asset manager (BlackRock or Fidelity) will file an application for a spot Solana ETF before the end of Q1 2025.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Falling Yen and rising oil prices put fresh pressure on Bitcoin",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZnh0anRTV3hxMEtZRzZKcnlhb0k1Z0M5VmdqUG42STgxQzk2SFZ1NXc3VGtVcndTV3lZS2tZSGFyTDQ5X3NUUjYyNWY5YU9oc05HODE0aEs2RkxzVWdIT0ZuZkhhU0o1WGd2MFRqTGZZNGIyakxxSUh1Vk1fZTA4cHlQWnp0NC1OakhHY2gwd3d4UVJvRmFpSXVJQ29zazBOUnhiQ1FDVQ?oc=5",
+      "prediction": "Bitcoin will fail to sustain any rally above $90,000 as long as Brent crude oil remains priced above $85 per barrel.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Borrowing against Bitcoin becomes popular despite massive liquidation risks",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRldjdmViQjNkREhYSzRORkVZMWlCT01IWjNtSXJYN1Mwb0RvN0twUm56THVOSlFmcGY5M0J5WGhTWURpLWItdlJlcVRRcFlaWjU3VnoxUW9lNVpGUVBNcVVWSHJVQUNENDl6WlJGLVh4bFoxdjFNbGxobFZ0OUhPUUtyNGx0XzJnNW4xUU4tX2ZYYVJDS0VaWDB5UkVLYmRQZFYya0w4RjNrNUNuLXYwSjJmdmRhT0E5cmVTYmFkSGVMTkNiQnFldnRWZ1YwVF9McFNnZVh3b1FpaHlWN0E?oc=5",
+      "prediction": "A flash-liquidation event will cause Bitcoin to drop more than $8,000 in a single one-hour window before the end of 2024.",
+      "grounded": true
+    }
+  ],
+  "stories": [
+    {
+      "section": "tech",
+      "headline": "Big Tech layoffs persist as companies chase leaner AI-driven growth",
+      "summary": "Netflix, HubSpot, and several mid-sized tech firms announced a fresh wave of job cuts this October. The layoffs signal a continued focus on efficiency even as the industry pivots toward AI investment.",
+      "view": "Layoffs are no longer a signal of corporate distress but a tactical pivot toward margin expansion to fund massive AI capital expenditures. Netflix and HubSpot are leading a trend where mid-level operational roles are being sacrificed to subsidize the 'war for talent' in AI research and H100 compute clusters.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ1FEbjRsbk91QTN3R2p5NjU5UWpidEVkeEFXZU9uRmlNYTNnSGVlMFRVUmJ0dmVGT21SMUVOdEcxNlZNRHBoMnAwajJpMGNHS2Rla3JoS1pWMVZNTnZpWWViMV9yQnVCQXFVOEtOY1dtVDNqWk1FRVRpS05DMDZMOUFuY0FuRXJhSC1lQjJmWUVDdmt2cXJCclhUWXBKMi0zTExMRkxfcHBtcXhLNFdn?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Silicon Valley giants are hunting for stakes in global mining firms",
+      "summary": "The CEO of Anglo American reports that major tech companies are showing unprecedented interest in direct ownership of mining operations. This move aims to secure the raw materials essential for the AI hardware boom.",
+      "view": "Big Tech is entering its 'Standard Oil' era, realizing that software dominance is fragile without direct control over the physical supply chain. By seeking stakes in mining, Silicon Valley is attempting to bypass commodity market volatility and secure the rare earth elements essential for the next decade of AI hardware.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWkNlTzNzUlY3QWZwMnR5SDNjVWItamtkUFh2VS03dklmYlpsanBfY2hDd1RydVBBX2FfSnNMMWhJX1FQUUxOS1VVYm0wRGhJa090Z2c3REtSb19SUzdBN1VrWDl0MklaWmZndmx4RU83Y19YaEF2eE42ZHBvbUwtZVZSUno?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "New York City takes an equity stake in quantum computing future",
+      "summary": "Mayor Mamdani announced a new partnership with NYU to build a quantum fabrication facility, giving the city a direct financial interest in the emerging tech. This is a first-of-its-kind model for municipal tech investment.",
+      "view": "The US is adopting a 'state-led' model for quantum computing, mimicking the defense-industrial complex to ensure domestic supremacy. This municipal investment in NYC, combined with federal orders, provides a massive valuation floor for pure-play stocks like IonQ and Rigetti, effectively making them 'too strategic to fail.'",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMlNkay11YWo5TDZFNGxhNVoySUR2T3J2VmJHN3FtYThMOFplcFd0YzhycjNuS1pNR2pWU05ob2xuaWtEXzhfal9pcDBQSUhuM1hhWngxT0JMcllveHFWRFliNFBxU1J2d3kxbmFBbE9TNGRnV3JrLXlwSUd6WUdCQTYtYjRSSVpYNzdDdTc0dWFaWWtiem5KQWhiWWdTYW1WNWFJR1pyT3hQcWJPSEpYNQ?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "University leaders fight to keep basic science funding from AI",
+      "summary": "As the White House redirects federal resources toward immediate AI applications, university heads are defending the necessity of broad scientific research. They argue that neglecting basic science will hurt long-term innovation.",
+      "view": "The White House is cannibalizing long-term scientific discovery to fund immediate, 'flashy' AI applications that offer quicker political wins. While Congress has historically resisted steep science cuts, the redirected focus toward applied AI will leave foundational physics and chemistry research starved for the capital needed for the *next* paradigm shift.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZXoySFgyclF2WHZOb0t2ajhta1FnMllsZ1ByZW9vNk0tdElsM0haUmhXUHI0c2xNQzhjRmxiNmY5a1BzX0RRN3ZYMnUzZGlJQjd3MGFKWlJ4SjlqTVJyenl5ZHdVcS03ZEVhN2lNTDFnVEwwRUtKUGdPT3pKeXpEcDlNaTQ3X2Foc19WOXFDZU9XSXVXVzg4MVlfNlRYcnhMcER5MFlwOTdQaVJIMkpZSQ?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Nasdaq suffers worst week in months as AI fever breaks",
+      "summary": "The tech-heavy Nasdaq fell 2% on Friday, capping its worst weekly performance since June. A combination of AI stock fatigue and rising energy costs spooked investors.",
+      "view": "The Nasdaq is finally feeling the weight of the 'AI infrastructure bill,' where rising energy costs and power grid constraints are cooling the enthusiasm for data center expansion. The losers here are the high-multiple software firms that haven't yet proven they can pass these rising infrastructure costs on to customers.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93d3pqaDdoN1RiVVZKZnIyYl9SZ05PdXNGc3JIMjFqbmF4Um96Z1prZVJVcHBrV3g1YmR6X1ZJNEhINUUtRm5ESXVtTTFMdGUwbUs4N3BjUjNZQzhDX3pjRmhmMlY1YzVjbkFtM2RkWUZZQzhtYURJ0gF8QVVfeXFMTWxnYjlydmY0c2ZnQkdLcHo2NFZVcFpEWUNvcGUxOUZXSVhzSVE5UDJGMUc0ZGttWF95YVFTTmJZeGJpUXYyV2NicmtfdTIyTDRXdjdxemNCaDdtZlRVRzNWU18tWlVDNjdOTU5pTlNPOTZmdWJTRGUwRmE4RA?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Record margin debt creates a precarious floor for the stock market",
+      "summary": "Wall Street analysts are sounding the alarm over record levels of margin debt\u2014money borrowed to buy stocks. This leverage increases the risk of a rapid, cascading sell-off if prices continue to dip.",
+      "view": "Record margin debt has created a 'liquidity trap' where any meaningful dip triggers a feedback loop of forced liquidations. We are one 'black swan' event away from a cascading sell-off that the current low-volatility environment is dangerously underpricing.",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPanhQa1lQaVR3QTB4Y2J1VGhDeGdXN2lrSjdnby1tRTBzWktpNE03LVAxRDFadzFGeThGUUI4LXFmdEVDTTlKemw5MlVnOHpIbVVyN2R6QzNhZmFmd1pYS1VUdlBIUDZNY0xoU2tyajRHZ3pIdjRlR1hBUmZsX0FHWS05WmlGT1RRa1NpMmthWnY?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Investors pivot from AI promises to actual quarterly earnings reports",
+      "summary": "With the initial AI hype cycle cooling, the market's focus is shifting back to traditional fundamental metrics. Investors are now demanding proof that AI investments are actually boosting the bottom line.",
+      "view": "The market has officially exited the 'hype phase' and entered the 'show me the money' phase, as evidenced by Arista Networks and Tesla's recent price action. Investors are now ruthlessly separating companies with real AI-driven margin expansion from those just using the term to mask slowing core growth.",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR0cyVkR4czJqcmtMVHU0c21pVnRHR1h1Q3VFRUdyX1FtSzg1alVJSFRqSmI0al95bGpvRkJpRG1EUy14djN1Y2xWXzlfVC04X2xIcUt4QkROSTR6V01la3plVWVhX202alJTYmhJSXIxQTJrM3VyTVZOVXhmWExqYVFWMVJQWUt3X3VUb0loWEp1SmphZ3E4MDVXS0ZZX3dkSThsTFAtMmEzRHpHMzFxTWhrblZQZFRoT1lFdXN5X3M5Y0dUQ0I5bzBR?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Michael Burry predicts a massive reckoning for the current market",
+      "summary": "The 'Big Short' investor Michael Burry has issued a fresh warning, suggesting the market is repeating the mistakes of the 2000 dot-com bubble. He claims the preconditions for a major crash are now in place.",
+      "view": "Michael Burry's billion-dollar bet against AI leaders targets the extreme concentration risk in today\u2019s indices, which he and Paul Tudor Jones view as a repeat of the 2000 dot-com fragility. If the AI 'productivity miracle' doesn't manifest in bottom-line profits soon, these highly leveraged positions will be the first to go in a systemic reckoning.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaFZJeXlDdUw0YWZkS1FydWpoWWx2VWo2cWN2Wmw0VXM5YjE4Ym82a1RpdTNkOG1INUU0VkNoX01RNHFZR2lIakUzS0UxRDFhZkUydzN0Rnhlb1pNUUVxNm1mQm5IY3R1ZDJ6YWFmUmpHdWQ1cVdJNmE1a000YkFhYXdpNkp5UFhIUUZXdG9OeUx0cDNlajJDakZvZVhNQQ?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "The $10 trillion AI infrastructure build-out is hitting its limits",
+      "summary": "The massive wave of spending on data centers and power grids is starting to show signs of strain. Shortages of equipment and slowing construction timelines are cooling the construction boom.",
+      "view": "The AI trade has officially shifted from 'chips' to 'kilowatts and copper,' with infrastructure bottlenecks like memory and interconnects becoming the primary drag on growth. Blackstone\u2019s record AUM growth proves that private equity is the biggest winner here, gobbling up the power assets that hyperscalers desperately need.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUlwOUY2SXQzRy00SDBweWtyS0hkQ3I1ak5XNlBnNXlPbmktcDJCZ2N4MGdlVGhScmRoWGZRZWl1aGlpVjIxZVVENVB2blExdnpENzNrZkk1Z2xPcXlOakFxYVBXYlE5NkRWamdqZU9nZkg1SF9PNTJkXzFwQUJTdUViT0c?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Polls show high voter anxiety ahead of the midterm elections",
+      "summary": "A new NBC poll indicates that Americans are deeply pessimistic about the economy and the political climate. Dissatisfaction with current leadership is reaching levels that suggest major shifts in the upcoming midterms.",
+      "view": "High voter anxiety is creating a 'paralysis premium' in the markets, as investors brace for the possibility of post-election disruption. While historical patterns suggest the GOP could gain in the Senate, the real risk is a contested result that spikes volatility and freezes corporate investment into Q1.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRUpJdnlDdnVzOVFlWjJYaXEwZG9aOHlDVTF0cFVkX3dTS1gzdnc5OEJzZGtVX2lfemtlSFY4TGhVMTc3b1p5X3ZiT0JOenNqTUFyZGV3QWVpVm4xaV9vejBrZVQzZ00tOTlkUTJteUdpbVBWQTc3a2hMbjBER1FQc1lyekh1WnFYdDZpZW41X1FsQXd6WF9WM2dhYXB0bm1oMks3Z1ktNS1kRDBKU2RMMG94MXl0YVR0VWRBUzBPMUliVXFvZ3VZ?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Retailers roll out AI tools that change prices in real-time",
+      "summary": "US retailers are increasingly adopting AI-assisted pricing that can adjust the cost of goods instantly based on demand. This shift is meeting significant pushback from wary consumers.",
+      "view": "Retailers are playing a dangerous game with AI-driven dynamic pricing; while it optimizes short-term margins, it risks a permanent destruction of consumer trust. Amazon and Meta are the clear winners as their advertising ecosystems benefit from this price volatility, while traditional retailers face a massive regulatory target on their backs.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMUsyWkZsV3NKY3ZWODVla3BLWXFrRVA1aUdqd3BYOTlQTnAyT1hwcy1TamhzSndQYjc3UVZmNWFwQ0ZhU2JSTHp2OUhUVFQxYVU1VEVaWVM4VXVsZ3JPVjZfM3Nuc3M4X0RWR1o2aG91NEtfWnZFdTFRS0RxMmYwUEd1b3lUc2RMbF9vUUpYWTlHaVRRSTRUdkgxeFNyYVk?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Apple faces criticism over bungled iPhone duo pre-order rollout",
+      "summary": "Prominent analysts are calling Apple's latest pre-order strategy a 'major mistake' following technical glitches and shipping delays. The issues have frustrated the company's most loyal customer base.",
+      "view": "This iPhone pre-order debacle is a rare but significant crack in Apple's 'Operations King' reputation, suggesting that its diversified supply chain is not as resilient as marketed. The resulting delay will push high-margin revenue out of the current quarter, likely leading to a holiday-season guidance miss.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQXy12Z19Ua3JWOXpwdmtMWFdaaElhUVZMR2xZZGJrc2JsRmJKVGVHbFRfSXdrSHNNWDg2Q1pJTlpQNC1qNlZ3UE9Rb2o5MDNNY1dQSHFKdTZRdE9FMDc0VW5QN29MNXFueEdqbk9HcV93N2NfaHFmcHVBbVVzN2ctNDlUemVvYmN1VXFOZg?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "President Prabowo\u2019s approval rating drops below 45% in new survey",
+      "summary": "Public support for President Prabowo has slid to 44.5% as citizens express frustration with the direction of the country. This marks a significant decline from his post-election highs.",
+      "view": "Prabowo\u2019s approval slide below 45% indicates that the 'nationalist populist' honeymoon is over as inflation eats into his base's purchasing power. This weakness will likely trigger a pivot toward more aggressive, protectionist economic policies as he tries to buy back public support.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU21TWEt2a0VldjByM2NoenJQbTJLOVoySlplWHlHN3k4YmNCVUVSYjk2b2V1cDAtV2F6M0ZNd2JPMW1vbURuSDMyQWQtc0FrcVhLYVh1YTFxSVBPc2ZwZE5nNm1ZOGpYbWVuSEFNTWxiMHhTcjRpTXBSc3Fvb0N0OVN0bzNPdERnNGJHMlhkRFczZXkyZWZ3MTFMRGt2RnJrZlNSNHJ3WTNwemhPZTFDZFRTUFJJclV5RlJB?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia uses dry ice to fight record-breaking toxic haze",
+      "summary": "Desperate to clear the air, the government is dousing clouds with dry ice to trigger rain and wash away the smog. The toxic haze has reached dangerous levels across Southeast Asia.",
+      "view": "The use of dry ice for rainmaking is a performative 'theater of governance' that fails to address the slash-and-burn palm oil practices causing the haze. This will lead to a significant diplomatic rift with Singapore and Malaysia, who are increasingly impatient with Indonesia's refusal to enforce environmental laws.",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14bzl5dmY5M1RKVVljY2FxOUR6ZkYxMzBaZWhnV0laVlFhUFY4OUlWdjF6amdMNV9udjFIWFVGblp4RE13dktsZk1ieFZ4dmVzRkxBRVp3bDhkSlE?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Government prioritizes fuel supply over forest conservation efforts",
+      "summary": "Indonesia is ramping up domestic fuel production to secure energy independence, but critics warn it is coming at the expense of food security and rainforests. The policy shift has alarmed environmental groups.",
+      "view": "By prioritizing fuel production over forest conservation, Indonesia is trading its future 'carbon credit' wealth for immediate energy security. This move signals a total retreat from the 'Green Economy' promises made to international investors, which will lead to a flight of ESG-focused capital from the country.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa0ZUTlItRFpnUkwzNDRmQjlzbnNwTmZTd0VlY3dHdXRyek1fWlhjd2lZRTIyMm4zMTBybHpZVEIzY3ZPZUd3ZkRKd0cybHJfYzZkQ2ZwdkRpVE9VTFNKY0kxYW5qXzJIWWlUOHBOV3FMN1hBakRkMWtXS0s2eThXQjRoVjZDNU1ZMEhNbVBSMVRCcTlkZEdpa3NPeGdqUzhEWnlQT2o2X0sybG8?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "New law passed to unify all Indonesian government data",
+      "summary": "The Indonesian House has passed the 'Satu Data' law, aimed at consolidating fragmented government databases into a single system. The move is intended to improve efficiency and reduce corruption.",
+      "view": "The 'Satu Data' law is a double-edged sword; while it streamlines the bureaucracy, it creates a massive, centralized target for state-sponsored cyberattacks. Microsoft stands to win huge cloud contracts here, but the Indonesian government is vastly underestimating the cybersecurity liability of a unified database.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdzlncUh2bUh4T3Z5U3lpSDVMc3FiRTRSM2U3aHZTUDVYdVY0RWctOWRIN0l2d2oxZUgyTTZqVzZ2MXk2Z1lERm1pTXhpLWp0ZXA0Ylptd1pOZlVfVGlfM1hIVHpUVHJ0aDN0RHlaTGs0alNLRHpYWGxFZVRtdUhDVGpkOUdEYmRKYXB6TVo1V0dySlNuUjE4d1N5NjdXRUY0QnIyc25B?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin and gold rally as bond market intervention weakens dollar",
+      "summary": "A specific maneuver in the bond market by Treasury officials has triggered a surge in 'debasement' assets. Both Bitcoin and gold are seeing renewed interest as the dollar loses some of its luster.",
+      "view": "The Treasury's bond buyback plan is stealth QE, and the market is correctly treating it as a signal to dump the dollar for debasement hedges. Gold and Bitcoin are the primary winners as the 'Bessent trade' essentially guarantees that the US will prioritize bond market liquidity over a strong currency.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZjhYLWRvY1c5TnNteV9UUFlJT2dNcVJiS0NtU3lRSDNpblJncGh0aWpKYzgtWDNpOEItTnZic0tHYzBVNnZNVnc5R2M1c0RHQmFDbXR5OTV2cVU1RlAzTF9aRFBOYkxvMHBWSWphNWpuSmg2NFZoUGYyZVNVNUhSQVpSVHU?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Crypto ETFs pull in $10 billion as Solana growth explodes",
+      "summary": "The third quarter saw massive inflows into crypto ETFs, with Bitcoin leading the pack. However, Solana-based funds are seeing the fastest percentage growth in the sector.",
+      "view": "Solana is winning the 'velocity' battle in the crypto sector, cannibalizing Ethereum\u2019s retail market share because its throughput is better suited for the ETF-buying public's expectations. The 10 billion in total inflows proves that crypto is no longer an 'alternative' asset but a core component of institutional portfolios.",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaHlMUlJpY21YTGtCRmdPbHN6cDNCaTNaaENBZlFCbG9HR1cxMUE0SURWM0VEdXljZUJreTc1NncxV281ajF1cEgydGtZZGw3b2dDUlpvUTNFZ0dMVktOYTM4anVYZExqd0R6d3NlNk1KN05fRFpGN18yU3JvZ1FQTVNIWk5zTkFNZGgyVUtTLU8weXBKbkNMMWsybUV2bW1Hb0JHRFM3MjJXdlp0bTdoUlZJZWt2a3EyanAtcTFCS0tKd1lUMmFtbFBxajRmYlE?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Falling Yen and rising oil prices put fresh pressure on Bitcoin",
+      "summary": "Macroeconomic shifts, including a weakening Japanese Yen and climbing oil costs, are creating a difficult environment for Bitcoin. These factors are complicating the 'safe haven' narrative for crypto.",
+      "view": "Bitcoin's 'safe haven' status is a myth; it is currently trading as a high-beta proxy for global liquidity, making it highly vulnerable to a strengthening Yen and rising oil prices. If energy costs continue to climb, the 'cost to mine' and general inflation will force a liquidation of risk assets that hits BTC the hardest.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZnh0anRTV3hxMEtZRzZKcnlhb0k1Z0M5VmdqUG42STgxQzk2SFZ1NXc3VGtVcndTV3lZS2tZSGFyTDQ5X3NUUjYyNWY5YU9oc05HODE0aEs2RkxzVWdIT0ZuZkhhU0o1WGd2MFRqTGZZNGIyakxxSUh1Vk1fZTA4cHlQWnp0NC1OakhHY2gwd3d4UVJvRmFpSXVJQ29zazBOUnhiQ1FDVQ?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Borrowing against Bitcoin becomes popular despite massive liquidation risks",
+      "summary": "More investors are using their Bitcoin as collateral for loans instead of selling, but high costs and volatility are making it a risky bet. Analysts are warning about the potential for 'flash liquidations.'",
+      "view": "The trend of borrowing against Bitcoin is creating a 'hidden leverage' bubble that is ripe for a massive liquidation event. We are seeing 'mini-crashes' in XRP and BTC that are early warnings; when the collateral value drops, the automated selling is so fast that it creates 'air pockets' where prices can fall 10% in minutes.",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRldjdmViQjNkREhYSzRORkVZMWlCT01IWjNtSXJYN1Mwb0RvN0twUm56THVOSlFmcGY5M0J5WGhTWURpLWItdlJlcVRRcFlaWjU3VnoxUW9lNVpGUVBNcVVWSHJVQUNENDl6WlJGLVh4bFoxdjFNbGxobFZ0OUhPUUtyNGx0XzJnNW4xUU4tX2ZYYVJDS0VaWDB5UkVLYmRQZFYya0w4RjNrNUNuLXYwSjJmdmRhT0E5cmVTYmFkSGVMTkNiQnFldnRWZ1YwVF9McFNnZVh3b1FpaHlWN0E?oc=5"
+    }
+  ]
+}
