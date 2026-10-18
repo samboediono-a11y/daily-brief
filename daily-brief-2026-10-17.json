@@ -8,7 +8,7 @@
       "prediction": "Expect a compromise by Q4 where AI firms release high-level 'safety report cards' while keeping the underlying technical audit data under strict NDA.",
       "grounded": false,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "No new information was found regarding a compromise on AI safety audit transparency or the release of high-level report cards."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "Tech sector operating margins will reach new multi-year highs in 2025 filings despite stagnant top-line growth in legacy business segments.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "The fresh headlines focus on the fast food and automotive industries rather than tech sector operating margins or 2025 financial filings."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "Hiring growth at FAANG companies for roles based in Canada and Mexico will outpace domestic US hiring by 2:1 over the next 18 months.",
       "grounded": false,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "No fresh headlines were found to verify hiring growth rates for FAANG roles in Canada and Mexico versus the United States."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Marvell will underperform the PHLX Semiconductor Index (SOX) by at least 5% over the next quarter as the market re-rates its non-AI exposure.",
       "grounded": false,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "There is no new information available to evaluate Marvell Technology's stock performance relative to the PHLX Semiconductor Index."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The Nasdaq-100 will remain in a 10% corrective phase and underperform the S&P 500 through the end of the next earnings cycle.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "Recent headlines discuss general market cycles and S&P 500 warnings but do not provide the specific Nasdaq-100 performance data needed for comparison."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "Foreign net outflows from Indonesian equities will exceed $1.5 billion within 30 days of any formal confirmation of the MSCI removal.",
       "grounded": false,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "While the headline confirms market distress over a potential MSCI downgrade, it does not provide the specific outflow figures or confirm formal removal."
     },
     {
       "section": "markets",
