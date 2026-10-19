@@ -1,0 +1,287 @@
+{
+  "date": "2026-10-19",
+  "predictions": [
+    {
+      "section": "tech",
+      "headline": "China\u2019s Economy Rides an Artificial Intelligence Export Wave",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKZDdHVkpOendSakJEYTM3TW1fY1JQS3BpYnZkSmtiRDJEdDlyNWZzcmFTclR6WEp5S1VtUS1ZZ0g5aE15YS14c0dsZnc4Z052M1hPZjJha0hWclk?oc=5",
+      "prediction": "China will report a 15% increase in tech-related exports to Southeast Asian data center hubs by the end of Q1 2027.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "Silicon Valley Increasingly Aligns With the Republican Party",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdEx5NnluZV9qakVQM29xdUVZbXBudHY3djdlRFZMXzY4UDJMUm9IUTZwRHBQcGRVUFRtRXRsbE1CX3dJZ0Y5eEJZaHQyTUFfMEJGZjlkY2pTLTJ0S2czdllyR20yTTJvWVVudHZURm8ycXQyQzE3QzFOeUVvRGlUeDgyME53R0dkc2xQQTFDa3VoUjQ?oc=5",
+      "prediction": "Expect at least three more prominent 'traditionally liberal' Silicon Valley VCs to publicly endorse conservative candidates or PACs before the next major funding cycle.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "Stricter Visa Policies Risk Driving Top Tech Talent Overseas",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN0dKT0x0NzhrQXRVYzF4R3ZjZHZDOWljMFVrSG91QjBNTjFZSXlzN0x2QVdQUzdEekZzc082UEQ1RzEyMFR3Rk4xdWFUN3oxQnN1R29YaTJLOEU1VTQ4WHdPWnBNRko4Ti1CRHBJRmQwY1laTlRRLTRjS05jYWtGSVNLdlBnVVJpRHg0?oc=5",
+      "prediction": "Total H-1B applications will drop by more than 10% in the next lottery year as talent proactively targets 'Digital Nomad' visas in Europe and Asia instead.",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "South Korean Antitrust Rules Put Pressure on US Tech Firms",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTEE4ejdnVTB1blQweTc4TGEyeVRhb0xJbVF3OENfcXN3aXc5cGlzNEEtMUpOdlVTQ3VuQ3dxYzJKWXNDZEVjbl9jaFN1R29EN081R2ZKaGNZNVp1bDd6c3JyaTAwRnkwVnE3VTU1V3BpX2djdklnYVlHVWszdlE2WFA1NXpRaEhOenJFMUs1eHFpWkl1UTNVdV9KUkRsczh5?oc=5",
+      "prediction": "The U.S. Trade Representative will issue a formal warning or 'Special 301' mention regarding South Korea's digital platform rules within the next six months.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "The New York Stock Exchange Eyes 24/7 Options Trading",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1MWVBYSy1SNWloVDJIMjN0SThCZTIycXBrLXN5WTQyWEZhU3I5MjhtNDZFdDVWVU9xZzlBeHZhQklvWUZaZ2ZoZ2VWUG1aT1NlZi11eGUtcGkxU1FxTldiMV9XemFvSU0zZm95dXpZTGJ1cFpUZmF1N09hc9IBgAFBVV95cUxNNUk4RkJvMlMxc3RFcndkeGlJNEx5bE1NX1g1N1lZNi0yLVRPdi1GTWIwNmZuU01mR05DZDNXOVJ5Yl85Snd2cjVtYTJsYnVJTkUyeTdFcF9LN251UXBLU2xkMTNaUnNjTnV2OWduaXRuM0lhcGRKV0JfVTZ3M0o2MA?oc=5",
+      "prediction": "Expect a high-profile 'fat finger' event or flash crash in a major tech ticker during an overnight session within 90 days of the 24/7 launch.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Tech Stocks Rebound as Investors Return to the AI Trade",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0MwWG9IMlN3MDVva0xabG5QbzNhX09jY3JnaVVTSHJvYXFMSmtHaDhFZ2RTSHVFLUVKYU9za2MxTXA4UGZDN0E3YVk4dEF6QmtIc2Z5YnR5TXB4V2h1QWR6MllZYXRUcGsyOExYMEloYll2RDhHVklKRno4TGhCaGV3RC1OMFJ3c04wWUVCblVFUkdB?oc=5",
+      "prediction": "Broadcom (AVGO) will recover all post-earnings losses and hit a new all-time high before the end of the current quarter.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Indonesian Markets Face $65 Billion Outflow Over Index Dispute",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV0hicmI2MG4yeTRybTVNaHJFSWhnS2VxY0FUUVl0YUtCVmE5NHRjdEZ1cmhYTU9iNFlScnlFb2pKT1Fra2lnLWdHTzFyUW9aZy1tM0xoVkRjckI2Nk1jUFlwbjQ0SVlMdURDUmluQmNaQTdEVDlrbDlvSUN1WVlhd1lsZ2FVVXhzTjB6Q05VYXlzZGpPajFwWjlCYjdBREtCS2VoZUQ5M0pVb2p5cDVN?oc=5",
+      "prediction": "The Jakarta Composite Index will underperform its regional peers by at least 8% over the next two quarters as MSCI rebalancing takes effect.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Record Levels of Investor Debt Worry Wall Street Pros",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPanhQa1lQaVR3QTB4Y2J1VGhDeGdXN2lrSjdnby1tRTBzWktpNE03LVAxRDFadzFGeThGUUI4LXFmdEVDTTlKemw5MlVnOHpIbVVyN2R6QzNhZmFmd1pYS1VUdlBIUDZNY0xoU2tyajRHZ3pIdjRlR1hBUmZsX0FHWS05WmlGT1RRa1NpMmthWnY?oc=5",
+      "prediction": "A 5% dip in the S&P 500 will trigger a margin-driven sell-off of at least 2.5% in a single trading day before year-end.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Saudi Arabia Pushes Major Investor Summit to 2027",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSmloanhGMkdyYXFXR2FtNlhRUGw3SW5mSzFWUXRCRWFzSjBsSHlqbGlWeFV2bWs3dlJjT25QRmRYN3REblJPb2VVMHpLRjVPazhqQ2RTbGdEWG5LUEtoTE5wT2cydGoyWVQtOW5LcTh2X2Z4VmpaXzczdEw4blVsbHdiWjRnYThsQjQ3VllvbGNsUzllR3fSAZsBQVVfeXFMTVlUQW9jVVRlaXI4cUJOUDE3NWJNcjVYcElWM2ZoLWJfMTdJeEgta2FHcnRSODNnZFg3b1pzamJXNDNwcFhKX29vZ1VPaFpIMVhHYkFvQUlJc2FmQnowOXRXdGF2bmpBSDNNbVQwb1ZocEd0V1p4TG9mM1ZhU3hhTHotZjFzUmhKZk90b1lKRTBSamJDbS02TlVBb0U?oc=5",
+      "prediction": "Expect a series of 'quiet' downscalings or delays in Neom-related construction contracts to be announced before the end of 2025.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "JPMorgan Pours $5 Billion Into Modern Defense Technology",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zMzJUY3phSUlvUEpJMVhaM0w3dmNoaGxleGM3RGRIUGNtZ05JOWxjdUJsSzdDZS1HU2ZKVnE2YjJTQjFaUm9jNi1uaUVKUFozUl9SVDNVNWJBU1BPVUVQQklyQkJjUjJtRHZHc0dWX0lxZDVaclh3aDhpTkszLU3SAYQBQVVfeXFMTnVKX1ZuMlM4MnotcjM4aHJVdno5RXVZUWtGc2R0bVl2cWhvRG5TNlA0QkNxVUM4ZS1qanFyQTZlTUVmdU5iTlJWcmJBUGZ5QWdPSjBiekJka2p3SmtPdm41dTNBaXYwZHhidFpzcXRwTkd5MHBMX3h2dGZBbk1pZ1lNUHlZ?oc=5",
+      "prediction": "At least two JPM-backed defense startups will announce major 'Production-at-Scale' contracts with the DoD within 12 months.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "Climate Report Forecasts Massive Economic Shifts for California",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdTJ4Szg3Vk9yUTM2SDl0em1LaGlVbXEzLWpNaGdOWkhzMXl3RGE3Uk1aenAxblNkbmJPek9zOTJzR0VUcWJNekxFajhKUkhaTGh4RkF5OVA2Q21oM2RUbGIyc2lqRGRHdHBRMXRjZHF0N25TMXNvblVIaUVyY3QwMGl3?oc=5",
+      "prediction": "The California state budget deficit will exceed current projections by at least $10 billion in the 2026-27 cycle due to property tax underperformance.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Voters Likely to Reject California\u2019s Proposed Billionaire Tax",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYko1VWc3U1NlUVRHSEN0NnhEOHlrU0FnZ09YbjNxd0g1eV9EWHF6S1VERWF6UXlrVnJNVTdIVkJVZ04xZHNjSGFDQTBBdDg1LTl1WFNqaklGdExsWWZRbTJPVFdrdE5JVFB1Yi10TVd4b3dlUng1REZhdUIyZGhRQmFMcUc4VGdf?oc=5",
+      "prediction": "Proposition 41 and 42 will fail by at least a 5-point margin, leading to a temporary pause in 'wealth tax' legislative efforts nationwide.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia Shakes Up Leadership With New Finance Minister",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOemN1VUkxek5EQ2NkNGRoMEQ4RjNMY25HVmNWWEhkZ0hfeVd4OXhBTWlIWmJyMWF1TXQ4VUFMbzRYTE5EZEZxbmFrMndjMGNPM3JVNzlIWGVzS09DWHVka3VsUkhIVDV6em5kN2lhREFfOUV0d19XUEk0UGxMc0pnbF9LTngydXNXSi1Hcno2aWhDMGJ0dG50RkFnN0gwQXdDSmRV?oc=5",
+      "prediction": "Yields on Indonesian 10-year bonds will rise by at least 25 basis points within 30 days of the official appointment.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Survey Shows Waning Public Confidence in President Prabowo",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN2FMRlA1ejZKTm85bjNVR3JDbGVGVGVVd0xCOFBRVFNTVVVESTZYLWRTcmR2MnZFMmxwN2NiMFpsY1NlaVE0ckU4QTlucGdPMi1hak5KaWRaSGkxVjBPSDJFWWdhYldXcEFVYndRVDUxblFMekV5SWhRc25VYTZmTzJ3UHJDMmU4c0Zsc2MtQ1hSZjBBTm9mSndqWTFJSDBpVnBXZHNWaDhLSnpjdXNaOGNqNTBsS3RSRTB1Tw?oc=5",
+      "prediction": "Expect a new executive order or regulation further tightening nickel or bauxite export quotas before the end of the year.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia Sacrifices Forests to Secure National Fuel Supply",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa0ZUTlItRFpnUkwzNDRmQjlzbnNwTmZTd0VlY3dHdXRyek1fWlhjd2lZRTIyMm4zMTBybHpZVEIzY3ZPZUd3ZkRKd0cybHJfYzZkQ2ZwdkRpVE9VTFNKY0kxYW5qXzJIWWlUOHBOV3FMN1hBakRkMWtXS0s2eThXQjRoVjZDNU1ZMEhNbVBSMVRCcTlkZEdpa3NPeGdqUzhEWnlQT2o2X0sybG8?oc=5",
+      "prediction": "The EU will launch a formal investigation into Indonesian biofuel sustainability standards within the next nine months.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Parliament Passes Law to Centralize All Government Data",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdzlncUh2bUh4T3Z5U3lpSDVMc3FiRTRSM2U3aHZTUDVYdVY0RWctOWRIN0l2d2oxZUgyTTZqVzZ2MXk2Z1lERm1pTXhpLWp0ZXA0Ylptd1pOZlVfVGlfM1hIVHpUVHJ0aDN0RHlaTGs0alNLRHpYWGxFZVRtdUhDVGpkOUdEYmRKYXB6TVo1V0dySlNuUjE4d1N5NjdXRUY0QnIyc25B?oc=5",
+      "prediction": "Indonesia will experience a major breach of a centralized government database within 18 months of the law's full implementation.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "The \u2018Debasement Trade\u2019 Returns as Investors Buy Crypto",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaTFuaUlHTHZ4U3Z3dXJjdEh4WHRTTC1EaTRaSldGaTY3eDNFeGxUVmJEaFdyWTU0ME52emZ3RkFHaUlUczQwRE9aZnlEMEE2Q3h0ZDZJX1NpTjVqTmY5M3B1WWx4VVgxT1ZxRkNseF9rTndrdnJOaUU2Q2RvRFliZEVtZWbSAYoBQVVfeXFMTlNpdEVRZVVEYmhiMlpRUVFkVVFjd3ZGaThEYWliVDFxWnlXUFBhaXJTSWVKSkg2ZEhTaVd3Sm9HTjN3RUI4N2N6N0E4YzdPTkRVQVljTGJHSHhPY3l1RHFiNUpoZkZzQWNkTVlIVjMwa196Zzhaa1huS3ZUTE93aTVielpwakVBeEN3?oc=5",
+      "prediction": "Bitcoin will hit a new all-time high within 60 days of the next major Treasury buyback announcement.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Crypto ETFs Pull in $10 Billion in Record Quarter",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaHlMUlJpY21YTGtCRmdPbHN6cDNCaTNaaENBZlFCbG9HR1cxMUE0SURWM0VEdXljZUJreTc1NncxV281ajF1cEgydGtZZGw3b2dDUlpvUTNFZ0dMVktOYTM4anVYZExqd0R6d3NlNk1KN05fRFpGN18yU3JvZ1FQTVNIWk5zTkFNZGgyVUtTLU8weXBKbkNMMWsybUV2bW1Hb0JHRFM3MjJXdlp0bTdoUlZJZWt2a3EyanAtcTFCS0tKd1lUMmFtbFBxajRmYlE?oc=5",
+      "prediction": "Solana (SOL) ETFs will see at least $1 billion in net inflows within their first full quarter of trading.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Falling Yen and Rising Oil Put Pressure on Bitcoin",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZnh0anRTV3hxMEtZRzZKcnlhb0k1Z0M5VmdqUG42STgxQzk2SFZ1NXc3VGtVcndTV3lZS2tZSGFyTDQ5X3NUUjYyNWY5YU9oc05HODE0aEs2RkxzVWdIT0ZuZkhhU0o1WGd2MFRqTGZZNGIyakxxSUh1Vk1fZTA4cHlQWnp0NC1OakhHY2gwd3d4UVJvRmFpSXVJQ29zazBOUnhiQ1FDVQ?oc=5",
+      "prediction": "Bitcoin will drop by at least 10% in a single week if the USD/JPY pair falls below 140.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "The Hidden Risks of Borrowing Against Your Bitcoin",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRldjdmViQjNkREhYSzRORkVZMWlCT01IWjNtSXJYN1Mwb0RvN0twUm56THVOSlFmcGY5M0J5WGhTWURpLWItdlJlcVRRcFlaWjU3VnoxUW9lNVpGUVBNcVVWSHJVQUNENDl6WlJGLVh4bFoxdjFNbGxobFZ0OUhPUUtyNGx0XzJnNW4xUU4tX2ZYYVJDS0VaWDB5UkVLYmRQZFYya0w4RjNrNUNuLXYwSjJmdmRhT0E5cmVTYmFkSGVMTkNiQnFldnRWZ1YwVF9McFNnZVh3b1FpaHlWN0E?oc=5",
+      "prediction": "A major DeFi lending protocol will experience a 'liquidity crunch' or freeze withdrawals during the next 20% Bitcoin correction.",
+      "grounded": true
+    }
+  ],
+  "stories": [
+    {
+      "section": "tech",
+      "headline": "China\u2019s Economy Rides an Artificial Intelligence Export Wave",
+      "summary": "China is reporting faster-than-expected growth as international demand for its AI hardware offsets a sluggish domestic market.",
+      "view": "China is successfully leveraging its dominance in hardware manufacturing to pivot from a domestic consumer slump to a global AI infrastructure provider. By positioning itself as the primary supplier for emerging tech hubs like Malaysia, China is decoupling its growth from Western demand and making the yuan more resilient to geopolitical shocks.",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKZDdHVkpOendSakJEYTM3TW1fY1JQS3BpYnZkSmtiRDJEdDlyNWZzcmFTclR6WEp5S1VtUS1ZZ0g5aE15YS14c0dsZnc4Z052M1hPZjJha0hWclk?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Silicon Valley Increasingly Aligns With the Republican Party",
+      "summary": "The tech industry is shedding its traditionally liberal leanings as major players align with conservative political interests.",
+      "view": "The 'Tech Right' pivot is a calculated defense of capital gains and founder control against an increasingly aggressive regulatory and tax environment in California. This isn't a social realignment but a structural revolt against wealth-tax proposals that threaten the fundamental economics of venture capital.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdEx5NnluZV9qakVQM29xdUVZbXBudHY3djdlRFZMXzY4UDJMUm9IUTZwRHBQcGRVUFRtRXRsbE1CX3dJZ0Y5eEJZaHQyTUFfMEJGZjlkY2pTLTJ0S2czdllyR20yTTJvWVVudHZURm8ycXQyQzE3QzFOeUVvRGlUeDgyME53R0dkc2xQQTFDa3VoUjQ?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Stricter Visa Policies Risk Driving Top Tech Talent Overseas",
+      "summary": "Industry leaders warn that tightening US work visas will force high-skilled workers to relocate to rival tech hubs.",
+      "view": "The U.S. is effectively subsidizing the R&D of its rivals by creating a restrictive immigration bottleneck for the very talent that builds its largest companies. Countries like Canada and the UAE will be the primary beneficiaries of this brain drain, capturing high-value tax revenue and intellectual property at America's expense.",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN0dKT0x0NzhrQXRVYzF4R3ZjZHZDOWljMFVrSG91QjBNTjFZSXlzN0x2QVdQUzdEekZzc082UEQ1RzEyMFR3Rk4xdWFUN3oxQnN1R29YaTJLOEU1VTQ4WHdPWnBNRko4Ti1CRHBJRmQwY1laTlRRLTRjS05jYWtGSVNLdlBnVVJpRHg0?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "South Korean Antitrust Rules Put Pressure on US Tech Firms",
+      "summary": "A new regulatory report claims South Korea\u2019s competition laws are unfairly targeting American innovators.",
+      "view": "South Korea's regulatory squeeze is a textbook case of digital protectionism designed to shield domestic champions like Naver from U.S. hyperscaler dominance. This 'gatekeeper' rhetoric will likely backfire by making Korea a secondary market for the next wave of AI deployment.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTEE4ejdnVTB1blQweTc4TGEyeVRhb0xJbVF3OENfcXN3aXc5cGlzNEEtMUpOdlVTQ3VuQ3dxYzJKWXNDZEVjbl9jaFN1R29EN081R2ZKaGNZNVp1bDd6c3JyaTAwRnkwVnE3VTU1V3BpX2djdklnYVlHVWszdlE2WFA1NXpRaEhOenJFMUs1eHFpWkl1UTNVdV9KUkRsczh5?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "The New York Stock Exchange Eyes 24/7 Options Trading",
+      "summary": "The NYSE is moving to extend its trading hours to meet a growing global appetite for around-the-clock market access.",
+      "view": "2024/7 trading is a desperate attempt by legacy exchanges to capture the 'always-on' retail liquidity that has migrated to crypto and prediction markets. While it helps brokers manage risk, it will likely exacerbate flash crashes during thin-liquidity hours in the early morning, where lack of institutional depth makes markets fragile.",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1MWVBYSy1SNWloVDJIMjN0SThCZTIycXBrLXN5WTQyWEZhU3I5MjhtNDZFdDVWVU9xZzlBeHZhQklvWUZaZ2ZoZ2VWUG1aT1NlZi11eGUtcGkxU1FxTldiMV9XemFvSU0zZm95dXpZTGJ1cFpUZmF1N09hc9IBgAFBVV95cUxNNUk4RkJvMlMxc3RFcndkeGlJNEx5bE1NX1g1N1lZNi0yLVRPdi1GTWIwNmZuU01mR05DZDNXOVJ5Yl85Snd2cjVtYTJsYnVJTkUyeTdFcF9LN251UXBLU2xkMTNaUnNjTnV2OWduaXRuM0lhcGRKV0JfVTZ3M0o2MA?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Tech Stocks Rebound as Investors Return to the AI Trade",
+      "summary": "The Nasdaq and S&P 500 rose on Monday as dip-buyers moved back into semiconductor and AI-linked companies.",
+      "view": "The market is finally differentiating between companies that spend on AI (Alphabet, Meta) and those that collect the checks (Broadcom, Nvidia). The recent dip-buying confirms that the 'picks and shovels' trade remains the most crowded but most resilient sector of the market as long as Capex remains high.",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0MwWG9IMlN3MDVva0xabG5QbzNhX09jY3JnaVVTSHJvYXFMSmtHaDhFZ2RTSHVFLUVKYU9za2MxTXA4UGZDN0E3YVk4dEF6QmtIc2Z5YnR5TXB4V2h1QWR6MllZYXRUcGsyOExYMEloYll2RDhHVklKRno4TGhCaGV3RC1OMFJ3c04wWUVCblVFUkdB?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Indonesian Markets Face $65 Billion Outflow Over Index Dispute",
+      "summary": "A disagreement with index provider MSCI has triggered a massive sell-off in Indonesian equities.",
+      "view": "Disputing with MSCI is a suicidal move for an emerging market dependent on foreign capital. This index exclusion will force a mechanical sell-off from every passive EM fund globally, creating a multi-month liquidity vacuum that no amount of domestic intervention can fill.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV0hicmI2MG4yeTRybTVNaHJFSWhnS2VxY0FUUVl0YUtCVmE5NHRjdEZ1cmhYTU9iNFlScnlFb2pKT1Fra2lnLWdHTzFyUW9aZy1tM0xoVkRjckI2Nk1jUFlwbjQ0SVlMdURDUmluQmNaQTdEVDlrbDlvSUN1WVlhd1lsZ2FVVXhzTjB6Q05VYXlzZGpPajFwWjlCYjdBREtCS2VoZUQ5M0pVb2p5cDVN?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Record Levels of Investor Debt Worry Wall Street Pros",
+      "summary": "Margin debt\u2014money borrowed to buy stocks\u2014has hit an all-time high, creating a potential 'powder keg' for the market.",
+      "view": "Record margin debt is the ultimate indicator of late-cycle complacency, turning every minor pullback into a potential 'forced liquidation' event. When the leverage unwinds, it won't be a slow decline; it will be a violent, automated cascade that ignores fundamental value.",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPanhQa1lQaVR3QTB4Y2J1VGhDeGdXN2lrSjdnby1tRTBzWktpNE03LVAxRDFadzFGeThGUUI4LXFmdEVDTTlKemw5MlVnOHpIbVVyN2R6QzNhZmFmd1pYS1VUdlBIUDZNY0xoU2tyajRHZ3pIdjRlR1hBUmZsX0FHWS05WmlGT1RRa1NpMmthWnY?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Saudi Arabia Pushes Major Investor Summit to 2027",
+      "summary": "The kingdom has delayed its flagship 'Davos in the Desert' conference citing regional security threats.",
+      "view": "The postponement of 'Davos in the Desert' signals a significant cooling of Saudi Arabia's ambitious Vision 2030 spending timeline. Riyadh is likely conserving capital as oil prices remain under pressure, forcing Western private equity and consulting firms to look elsewhere for their next big fee payday.",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSmloanhGMkdyYXFXR2FtNlhRUGw3SW5mSzFWUXRCRWFzSjBsSHlqbGlWeFV2bWs3dlJjT25QRmRYN3REblJPb2VVMHpLRjVPazhqQ2RTbGdEWG5LUEtoTE5wT2cydGoyWVQtOW5LcTh2X2Z4VmpaXzczdEw4blVsbHdiWjRnYThsQjQ3VllvbGNsUzllR3fSAZsBQVVfeXFMTVlUQW9jVVRlaXI4cUJOUDE3NWJNcjVYcElWM2ZoLWJfMTdJeEgta2FHcnRSODNnZFg3b1pzamJXNDNwcFhKX29vZ1VPaFpIMVhHYkFvQUlJc2FmQnowOXRXdGF2bmpBSDNNbVQwb1ZocEd0V1p4TG9mM1ZhU3hhTHotZjFzUmhKZk90b1lKRTBSamJDbS02TlVBb0U?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "JPMorgan Pours $5 Billion Into Modern Defense Technology",
+      "summary": "The banking giant is leading a massive investment wave into robot factories and hypersonic missile tech.",
+      "view": "JPMorgan's $5 billion defense tech bet marks the institutionalization of the 'Silicon Valley Defense' model. By financing hypersonic and robotic factories, JPM is betting that legacy defense primes are too slow to iterate, effectively moving the 'Prime' status to the banks and the founders.",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zMzJUY3phSUlvUEpJMVhaM0w3dmNoaGxleGM3RGRIUGNtZ05JOWxjdUJsSzdDZS1HU2ZKVnE2YjJTQjFaUm9jNi1uaUVKUFozUl9SVDNVNWJBU1BPVUVQQklyQkJjUjJtRHZHc0dWX0lxZDVaclh3aDhpTkszLU3SAYQBQVVfeXFMTnVKX1ZuMlM4MnotcjM4aHJVdno5RXVZUWtGc2R0bVl2cWhvRG5TNlA0QkNxVUM4ZS1qanFyQTZlTUVmdU5iTlJWcmJBUGZ5QWdPSjBiekJka2p3SmtPdm41dTNBaXYwZHhidFpzcXRwTkd5MHBMX3h2dGZBbk1pZ1lNUHlZ?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Climate Report Forecasts Massive Economic Shifts for California",
+      "summary": "New data warns that environmental changes will fundamentally disrupt the California economy and lifestyle.",
+      "view": "California's fiscal future is being undermined by a slow-motion insurance crisis driven by climate risk. As real estate becomes uninsurable and thus unmortgageable, the state's primary tax base will erode, forcing a choice between massive service cuts or an exodus of high-net-worth residents.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdTJ4Szg3Vk9yUTM2SDl0em1LaGlVbXEzLWpNaGdOWkhzMXl3RGE3Uk1aenAxblNkbmJPek9zOTJzR0VUcWJNekxFajhKUkhaTGh4RkF5OVA2Q21oM2RUbGIyc2lqRGRHdHBRMXRjZHF0N25TMXNvblVIaUVyY3QwMGl3?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Voters Likely to Reject California\u2019s Proposed Billionaire Tax",
+      "summary": "Recent polling shows a lack of majority support for a new tax targeting the state's ultra-wealthy.",
+      "view": "The failure of the billionaire tax demonstrates that the electorate recognizes the mobile nature of modern wealth. California has hit the ceiling of its 'tax the rich' strategy; any further moves will trigger a definitive flight of capital that the state's budget cannot survive.",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYko1VWc3U1NlUVRHSEN0NnhEOHlrU0FnZ09YbjNxd0g1eV9EWHF6S1VERWF6UXlrVnJNVTdIVkJVZ04xZHNjSGFDQTBBdDg1LTl1WFNqaklGdExsWWZRbTJPVFdrdE5JVFB1Yi10TVd4b3dlUng1REZhdUIyZGhRQmFMcUc4VGdf?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia Shakes Up Leadership With New Finance Minister",
+      "summary": "In a surprise move, the administration has replaced its top finance official amid investor uncertainty.",
+      "view": "Replacing a finance minister in a period of uncertainty is a clear signal that the administration prioritizes political loyalty over technocratic stability. This move will almost certainly result in a risk premium being added to Indonesian sovereign bonds as investors price in fiscal slippage.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOemN1VUkxek5EQ2NkNGRoMEQ4RjNMY25HVmNWWEhkZ0hfeVd4OXhBTWlIWmJyMWF1TXQ4VUFMbzRYTE5EZEZxbmFrMndjMGNPM3JVNzlIWGVzS09DWHVka3VsUkhIVDV6em5kN2lhREFfOUV0d19XUEk0UGxMc0pnbF9LTngydXNXSi1Hcno2aWhDMGJ0dG50RkFnN0gwQXdDSmRV?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Survey Shows Waning Public Confidence in President Prabowo",
+      "summary": "New polling indicates that Indonesian citizens are becoming increasingly skeptical of the country\u2019s current direction.",
+      "view": "Prabowo's waning confidence is the result of 'continuity' failing to translate into lower food and fuel prices. To regain popularity, he is likely to pivot toward populist 'resource nationalism'\u2014restricting exports to lower domestic costs\u2014which will hurt foreign mining operators.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN2FMRlA1ejZKTm85bjNVR3JDbGVGVGVVd0xCOFBRVFNTVVVESTZYLWRTcmR2MnZFMmxwN2NiMFpsY1NlaVE0ckU4QTlucGdPMi1hak5KaWRaSGkxVjBPSDJFWWdhYldXcEFVYndRVDUxblFMekV5SWhRc25VYTZmTzJ3UHJDMmU4c0Zsc2MtQ1hSZjBBTm9mSndqWTFJSDBpVnBXZHNWaDhLSnpjdXNaOGNqNTBsS3RSRTB1Tw?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia Sacrifices Forests to Secure National Fuel Supply",
+      "summary": "A new report highlights how the country's push for energy independence is leading to rapid deforestation.",
+      "view": "Indonesia is trading its long-term 'green' investment potential for short-term energy independence. By clearing forests for fuel, the government is making its exports vulnerable to EU carbon border taxes and alienating ESG-mandated capital that is critical for its modernization.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa0ZUTlItRFpnUkwzNDRmQjlzbnNwTmZTd0VlY3dHdXRyek1fWlhjd2lZRTIyMm4zMTBybHpZVEIzY3ZPZUd3ZkRKd0cybHJfYzZkQ2ZwdkRpVE9VTFNKY0kxYW5qXzJIWWlUOHBOV3FMN1hBakRkMWtXS0s2eThXQjRoVjZDNU1ZMEhNbVBSMVRCcTlkZEdpa3NPeGdqUzhEWnlQT2o2X0sybG8?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Parliament Passes Law to Centralize All Government Data",
+      "summary": "The 'Satu Data' law aims to unify disparate government databases into a single, cohesive system.",
+      "view": "The 'Satu Data' law is a centralization of power disguised as administrative efficiency. While it may reduce redundancy, it creates a massive, singular target for cyberattacks and gives the state unprecedented surveillance and tax-enforcement leverage over the private sector.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdzlncUh2bUh4T3Z5U3lpSDVMc3FiRTRSM2U3aHZTUDVYdVY0RWctOWRIN0l2d2oxZUgyTTZqVzZ2MXk2Z1lERm1pTXhpLWp0ZXA0Ylptd1pOZlVfVGlfM1hIVHpUVHJ0aDN0RHlaTGs0alNLRHpYWGxFZVRtdUhDVGpkOUdEYmRKYXB6TVo1V0dySlNuUjE4d1N5NjdXRUY0QnIyc25B?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "The \u2018Debasement Trade\u2019 Returns as Investors Buy Crypto",
+      "summary": "Bitcoin and gold are seeing renewed interest as investors bet on the continued weakening of fiat currencies.",
+      "view": "The 'debasement trade' is no longer a fringe theory; it's a structural response to the U.S. Treasury's unsustainable debt path. Bitcoin and gold are functioning as a 'shadow' reserve currency system for investors who believe the Fed will be forced to prioritize debt service over inflation control.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaTFuaUlHTHZ4U3Z3dXJjdEh4WHRTTC1EaTRaSldGaTY3eDNFeGxUVmJEaFdyWTU0ME52emZ3RkFHaUlUczQwRE9aZnlEMEE2Q3h0ZDZJX1NpTjVqTmY5M3B1WWx4VVgxT1ZxRkNseF9rTndrdnJOaUU2Q2RvRFliZEVtZWbSAYoBQVVfeXFMTlNpdEVRZVVEYmhiMlpRUVFkVVFjd3ZGaThEYWliVDFxWnlXUFBhaXJTSWVKSkg2ZEhTaVd3Sm9HTjN3RUI4N2N6N0E4YzdPTkRVQVljTGJHSHhPY3l1RHFiNUpoZkZzQWNkTVlIVjMwa196Zzhaa1huS3ZUTE93aTVielpwakVBeEN3?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Crypto ETFs Pull in $10 Billion in Record Quarter",
+      "summary": "Exchange-traded funds for Bitcoin and Solana saw massive inflows throughout the third quarter of 2026.",
+      "view": "The $10 billion inflow into crypto ETFs represents the 'institutional floor' that will prevent 80% drawdowns in the future. The broadening interest into Solana and XRP proves that the market has moved from 'Bitcoin-only' to a diversified digital asset class mindset.",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaHlMUlJpY21YTGtCRmdPbHN6cDNCaTNaaENBZlFCbG9HR1cxMUE0SURWM0VEdXljZUJreTc1NncxV281ajF1cEgydGtZZGw3b2dDUlpvUTNFZ0dMVktOYTM4anVYZExqd0R6d3NlNk1KN05fRFpGN18yU3JvZ1FQTVNIWk5zTkFNZGgyVUtTLU8weXBKbkNMMWsybUV2bW1Hb0JHRFM3MjJXdlp0bTdoUlZJZWt2a3EyanAtcTFCS0tKd1lUMmFtbFBxajRmYlE?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Falling Yen and Rising Oil Put Pressure on Bitcoin",
+      "summary": "Macroeconomic shifts in Japan and the energy sector are creating new headwinds for the crypto market.",
+      "view": "The 'Yen carry trade' is the sword of Damocles hanging over the crypto market. Any significant strengthening of the Yen forces a global deleveraging that hits high-beta assets like Bitcoin first, regardless of any 'digital gold' narrative.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZnh0anRTV3hxMEtZRzZKcnlhb0k1Z0M5VmdqUG42STgxQzk2SFZ1NXc3VGtVcndTV3lZS2tZSGFyTDQ5X3NUUjYyNWY5YU9oc05HODE0aEs2RkxzVWdIT0ZuZkhhU0o1WGd2MFRqTGZZNGIyakxxSUh1Vk1fZTA4cHlQWnp0NC1OakhHY2gwd3d4UVJvRmFpSXVJQ29zazBOUnhiQ1FDVQ?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "The Hidden Risks of Borrowing Against Your Bitcoin",
+      "summary": "Financial analysts are warning about the costs and potential liquidation risks of using crypto as collateral.",
+      "view": "Borrowing against Bitcoin is the most efficient way to turn a market correction into a total collapse. These lending products create a 'death spiral' mechanism where price drops trigger liquidations, which further drop the price, as seen in the KelpDAO exploit.",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRldjdmViQjNkREhYSzRORkVZMWlCT01IWjNtSXJYN1Mwb0RvN0twUm56THVOSlFmcGY5M0J5WGhTWURpLWItdlJlcVRRcFlaWjU3VnoxUW9lNVpGUVBNcVVWSHJVQUNENDl6WlJGLVh4bFoxdjFNbGxobFZ0OUhPUUtyNGx0XzJnNW4xUU4tX2ZYYVJDS0VaWDB5UkVLYmRQZFYya0w4RjNrNUNuLXYwSjJmdmRhT0E5cmVTYmFkSGVMTkNiQnFldnRWZ1YwVF9McFNnZVh3b1FpaHlWN0E?oc=5"
+    }
+  ]
+}

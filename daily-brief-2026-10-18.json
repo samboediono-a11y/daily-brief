@@ -6,42 +6,54 @@
       "headline": "Tech layoffs continue as companies prioritize efficiency over growth",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ1FEbjRsbk91QTN3R2p5NjU5UWpidEVkeEFXZU9uRmlNYTNnSGVlMFRVUmJ0dmVGT21SMUVOdEcxNlZNRHBoMnAwajJpMGNHS2Rla3JoS1pWMVZNTnZpWWViMV9yQnVCQXFVOEtOY1dtVDNqWk1FRVRpS05DMDZMOUFuY0FuRXJhSC1lQjJmWUVDdmt2cXJCclhUWXBKMi0zTExMRkxfcHBtcXhLNFdn?oc=5",
       "prediction": "Tech sector total headcount will end 2025 lower than 2024 levels despite projected record revenues.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The provided headlines discuss 2026 outlooks and banking trends but do not provide comparative tech sector headcount data for 2024 and 2025."
     },
     {
       "section": "tech",
       "headline": "New York City partners with NYU on major quantum computing hub",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMlNkay11YWo5TDZFNGxhNVoySUR2T3J2VmJHN3FtYThMOFplcFd0YzhycjNuS1pNR2pWU05ob2xuaWtEXzhfal9pcDBQSUhuM1hhWngxT0JMcllveHFWRFliNFBxU1J2d3kxbmFBbE9TNGRnV3JrLXlwSUd6WUdCQTYtYjRSSVpYNzdDdTc0dWFaWWtiem5KQWhiWWdTYW1WNWFJR1pyT3hQcWJPSEpYNQ?oc=5",
       "prediction": "At least three major Wall Street banks will sign multi-year partnership agreements with this hub before the end of 2025.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Current headlines mention AI centers in Singapore and office mandates but contain no information regarding bank partnerships with the NYC quantum hub."
     },
     {
       "section": "tech",
       "headline": "US restricts visas for high-skilled foreign tech workers",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TaG83YlF3czcxOG1FakVIcjNpTEZYMjNjeVhPYU5PdzhDNWFubURrNS1xWkZpZzhLUFVmU08tQk9TaU0zbjdPZmJuMGtQUWUza0tURC04azJaei1pSTFyOEExWGtjTGk1TDBRc3NzaWpRZ3A4Qmc?oc=5",
       "prediction": "H-1B application volumes will drop by at least 15% in the next lottery cycle as talent proactively chooses more stable jurisdictions.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new information was found in the headlines to confirm or contradict changes in H-1B application volumes."
     },
     {
       "section": "tech",
       "headline": "Japan shifts from parts supplier to European defense partner",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yREc5eUxKU0NzZXBhUUdqS3hQdUpSMzVrbU1WVnFXMGVBdmxqVlMtbzFaV0hIQ2FFZnBjUG1FQlFBMnVXcFQ4LTFRQXdmZE4wWHk5YTM0SmNfQQ?oc=5",
       "prediction": "Japan and a major European power\u2014likely the UK or Italy\u2014will announce a formal joint venture for a next-generation drone platform by Q3 2025.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No fresh headlines were provided regarding defense joint ventures between Japan and European powers for drone platforms."
     },
     {
       "section": "markets",
       "headline": "Nasdaq hits worst week in months as AI hype cools",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93d3pqaDdoN1RiVVZKZnIyYl9SZ05PdXNGc3JIMjFqbmF4Um96Z1prZVJVcHBrV3g1YmR6X1ZJNEhINUUtRm5ESXVtTTFMdGUwbUs4N3BjUjNZQzhDX3pjRmhmMlY1YzVjbkFtM2RkWUZZQzhtYURJ0gF8QVVfeXFMTWxnYjlydmY0c2ZnQkdLcHo2NFZVcFpEWUNvcGUxOUZXSVhzSVE5UDJGMUc0ZGttWF95YVFTTmJZeGJpUXYyV2NicmtfdTIyTDRXdjdxemNCaDdtZlRVRzNWU18tWlVDNjdOTU5pTlNPOTZmdWJTRGUwRmE4RA?oc=5",
       "prediction": "The Nasdaq 100 will underperform the S&P 500 equal-weight index for the remainder of this quarter.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "While headlines mention equal-weight ETFs and 2026 market performance, they do not provide a direct performance comparison between the Nasdaq 100 and the S&P 500 equal-weight index."
     },
     {
       "section": "markets",
       "headline": "Investors stop betting on promises and start demanding earnings",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQi1sWlF3NHlZQU9PazJsdFJRdktNeXdaNGZHWndhd0JSelZ6bTRnZEpkVi1SRDlRaDdVR2xhdGpnVkhoOURLdVBKcXRQZzJiWktYYVhxMHdOZ01uOTRkRnAxT0JRNlNyX3pCTUFPR3Vndld5bjlyVjZOdE83MURodWRGdks0QWNQQ01TQnp4aEdYT0hxTHp4ZTBoNWQwYjZ2ZEdlMUtBV0x2dldWQTd4cEd1dVRxWWdXbGc?oc=5",
       "prediction": "At least 20% of current tech companies seeking IPOs will delay their filings until 2026 due to lack of GAAP profitability.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Headlines regarding Klarna and Anthropic provide specific company updates but do not offer data on the broader percentage of tech companies delaying IPO filings."
     },
     {
       "section": "markets",
