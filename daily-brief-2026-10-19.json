@@ -6,42 +6,54 @@
       "headline": "China\u2019s Economy Rides an Artificial Intelligence Export Wave",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKZDdHVkpOendSakJEYTM3TW1fY1JQS3BpYnZkSmtiRDJEdDlyNWZzcmFTclR6WEp5S1VtUS1ZZ0g5aE15YS14c0dsZnc4Z052M1hPZjJha0hWclk?oc=5",
       "prediction": "China will report a 15% increase in tech-related exports to Southeast Asian data center hubs by the end of Q1 2027.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The provided headlines focus on 2025 trends and solar costs, providing no data regarding Chinese tech export volumes to Southeast Asia for 2027."
     },
     {
       "section": "tech",
       "headline": "Silicon Valley Increasingly Aligns With the Republican Party",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdEx5NnluZV9qakVQM29xdUVZbXBudHY3djdlRFZMXzY4UDJMUm9IUTZwRHBQcGRVUFRtRXRsbE1CX3dJZ0Y5eEJZaHQyTUFfMEJGZjlkY2pTLTJ0S2czdllyR20yTTJvWVVudHZURm8ycXQyQzE3QzFOeUVvRGlUeDgyME53R0dkc2xQQTFDa3VoUjQ?oc=5",
       "prediction": "Expect at least three more prominent 'traditionally liberal' Silicon Valley VCs to publicly endorse conservative candidates or PACs before the next major funding cycle.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new headlines were found to confirm or deny recent public political endorsements from Silicon Valley venture capitalists."
     },
     {
       "section": "tech",
       "headline": "Stricter Visa Policies Risk Driving Top Tech Talent Overseas",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN0dKT0x0NzhrQXRVYzF4R3ZjZHZDOWljMFVrSG91QjBNTjFZSXlzN0x2QVdQUzdEekZzc082UEQ1RzEyMFR3Rk4xdWFUN3oxQnN1R29YaTJLOEU1VTQ4WHdPWnBNRko4Ti1CRHBJRmQwY1laTlRRLTRjS05jYWtGSVNLdlBnVVJpRHg0?oc=5",
       "prediction": "Total H-1B applications will drop by more than 10% in the next lottery year as talent proactively targets 'Digital Nomad' visas in Europe and Asia instead.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No fresh information is available regarding H-1B application volumes or shifts toward digital nomad visas."
     },
     {
       "section": "tech",
       "headline": "South Korean Antitrust Rules Put Pressure on US Tech Firms",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTEE4ejdnVTB1blQweTc4TGEyeVRhb0xJbVF3OENfcXN3aXc5cGlzNEEtMUpOdlVTQ3VuQ3dxYzJKWXNDZEVjbl9jaFN1R29EN081R2ZKaGNZNVp1bDd6c3JyaTAwRnkwVnE3VTU1V3BpX2djdklnYVlHVWszdlE2WFA1NXpRaEhOenJFMUs1eHFpWkl1UTNVdV9KUkRsczh5?oc=5",
       "prediction": "The U.S. Trade Representative will issue a formal warning or 'Special 301' mention regarding South Korea's digital platform rules within the next six months.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "A trade probe into South Korea is mentioned, but it specifically concerns the trade surplus rather than digital platform regulations."
     },
     {
       "section": "markets",
       "headline": "The New York Stock Exchange Eyes 24/7 Options Trading",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1MWVBYSy1SNWloVDJIMjN0SThCZTIycXBrLXN5WTQyWEZhU3I5MjhtNDZFdDVWVU9xZzlBeHZhQklvWUZaZ2ZoZ2VWUG1aT1NlZi11eGUtcGkxU1FxTldiMV9XemFvSU0zZm95dXpZTGJ1cFpUZmF1N09hc9IBgAFBVV95cUxNNUk4RkJvMlMxc3RFcndkeGlJNEx5bE1NX1g1N1lZNi0yLVRPdi1GTWIwNmZuU01mR05DZDNXOVJ5Yl85Snd2cjVtYTJsYnVJTkUyeTdFcF9LN251UXBLU2xkMTNaUnNjTnV2OWduaXRuM0lhcGRKV0JfVTZ3M0o2MA?oc=5",
       "prediction": "Expect a high-profile 'fat finger' event or flash crash in a major tech ticker during an overnight session within 90 days of the 24/7 launch.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No headlines were found regarding the implementation of 24/7 options trading or any associated market disruptions."
     },
     {
       "section": "markets",
       "headline": "Tech Stocks Rebound as Investors Return to the AI Trade",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0MwWG9IMlN3MDVva0xabG5QbzNhX09jY3JnaVVTSHJvYXFMSmtHaDhFZ2RTSHVFLUVKYU9za2MxTXA4UGZDN0E3YVk4dEF6QmtIc2Z5YnR5TXB4V2h1QWR6MllZYXRUcGsyOExYMEloYll2RDhHVklKRno4TGhCaGV3RC1OMFJ3c04wWUVCblVFUkdB?oc=5",
       "prediction": "Broadcom (AVGO) will recover all post-earnings losses and hit a new all-time high before the end of the current quarter.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Headlines discuss a 2026 semiconductor selloff and recovery opportunities, but do not confirm if Broadcom reached a new all-time high."
     },
     {
       "section": "markets",
