@@ -1,0 +1,287 @@
+{
+  "date": "2026-10-23",
+  "predictions": [
+    {
+      "section": "tech",
+      "headline": "Global IT spending set to surge despite economic jitters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUHd5WGx4YVNxeG9nOHV6aDNkUVcwYlFCZDFuTEdnTXI2UFRkenQ1Q1M5U3RycnVPcFpEbmNpRll0RExadGlHekZVR2J1T19NM2RFdzZ1LWlwWTQ5R0Vfbko0V2lUR1VxazRKOUEzV1hJQ1VZZEN6Y0dib2psaUhmNm5xRHlpNDVKZ004UG51SGozZl9ScUJqLUw1V0FUYi1DLWNRRXhoYUNsSG80ZzBuYjQ3enlTSUkxcGx4SHNlZGU4QQ?oc=5",
+      "prediction": "Expect at least one major 'Hyperscaler' to announce a significant downward revision to its 2026 infrastructure roadmap by the end of Q3 2025.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "The tech layoff wave continues to reshape the labor market",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTTZHTHdyZ19adGQ3NjhiQ09UeFNJVHBEMnBYV3R4cVQzeGt2SFRfVzhURTNmV2NDUzhtRWotUlZVV250MWd2Y0F6bHNvMWxUSmtFNlJ4WGIwbUVPaHdJQi1lZWVGT3lsQ0s3NDNuaWZtVTVCOUJ4VGI1d0lfbGthSUV5eXlncE9HUUJfUmRIMG5OOUZ0X0N2NnFDMmRtR2RKU0h4enhyei12UnlCUVhFMjNOcHBPYUtqdm1PM215NXZBc2kxdDNZZ2Y4M2txZlA0WTk2U2t5SjNPSWNqX0R3OEZabTMwOXdXNlozR2JQeUtUS3BQekxFX3pTU21FYlVvcTQ3enN5TXM?oc=5",
+      "prediction": "Tech sector unemployment for non-AI-specialized middle management roles will hit a 10-year high by mid-2026.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "Software companies are ditching monthly subscriptions for AI-based pricing",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSzktdnM5VUdvSDBzQ21pQTlCT211U3B1RURQWlJxWW04RHFicGxMQTQ2TTFxWmVfZVJKZ19uTGR2b25wdEs0dGZrTWpMbEpybV82VXlsX3NkNG9PNEtoR3pHOG5HUkN2WGUtNk5UWGd6MHFmczhOaUlidkVRRkw5ZEdkTDJWaDF4RUE?oc=5",
+      "prediction": "At least two major S&P 500 software firms will officially retire their 'per-seat' pricing for flagship products in favor of 'per-token' or 'per-task' billing by EOY 2025.",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "Data centers and farms are fighting over the water tap",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0UFVfdDEwdFNTb3JUZFZab3AzUEJ5R0xDN3VQT0NnQ2w3MngxT3A1bUpIUFA1enlQYnNZbWpoaEVUdGF3RldxaXQxVjJkQ180bnFJMHlKRzl0UlJoWUQ5NzI4VEZydVlOc0E4VkJnMHpheXMyQ2VCZjFnRVFndw?oc=5",
+      "prediction": "At least one major data center project in Arizona or Nevada will be permanently canceled or relocated due to water rights litigation within the next 12 months.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Tech sell-off drags down major indexes despite pockets of growth",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNkpSbFBZWVAtYnhBcUdQR2VtYUl5QldNNjVHeWthdmJaUGxNUVVPV2hsV0RhN2hma0hTcW41Vnl6SFprOTlQNnFfdVFFSWRYUkVKM29XMWpwbExpOTRQSzlxcTFfYUxFRFFoYWQzRHpZNEpUV0lrOXVnTlpmTjVUY091dXI1NlpYbVFKSFN4MEpsTzR6RFl3eWpsWm53bUkyNThoWlA0Vzg3VnRuNUNEQk1HTGMtNEJ3RHp5Qzg1aVBOcFJGTGc?oc=5",
+      "prediction": "The S&P 500 will trade in a narrow 3% range for the next 30 days as capital remains paralyzed by the divergence between tech and traditional stocks.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "The stock market is splitting into two distinct camps",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNR2VKQkQxR3RUaVlmUkhsV1VzOE9Jc1Y1R0NOVE8wZGRtWUpZX3FHbkZFMWNfWjlqejNUQzFvd1F5TmZoaFZsN0JlbkRVUjVVdlFNMW16cXZPWVNsSjE5RDlsTU1NZm8xOWZVSm1zNEdHYV9tVWtMMlhodXdsVzhVb1dyT1d6dnRtb01KQUhidmZTcVN2RkpZMXJMS2lpbEdmMGU3ZUY4emdHWjRaUXo2M0E5ZU9WTHNvVjg2Wjg2QnJFcEtpZWVjYWRqVm1Gem1abHNDRVFMX3AzaF90bG40LWljcw?oc=5",
+      "prediction": "The valuation gap between the top 10% and bottom 90% of the S&P 500 will reach a new all-time high before the end of the current fiscal year.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Indonesia hits market violators with record-breaking fines",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY3MzeE9TNmZPQTI1dUhlSW9PZktuNzdWOUFsdnFkbkcxT01LMjZwRHJEU0xVVU84eERjYjhmcGd4X3FjVnM2NXJKWVptM2RfaE9MeXpraE5oT1BFenV3NTZxR2ptOWFmYkJUYmJmRVpieGhEX0VHRmxYQ2NMTzdwYmRuTUZ4OWxmLVpLZTJNS040TVJjOUIwcDdrbDlXZUh6RU1wNGhSWVV5WGtpWnIzVERpVEt2MWtub2h2Q3JId18?oc=5",
+      "prediction": "Foreign institutional holdings in Indonesian blue-chip stocks will increase by at least 5% over the next six months as transparency scores improve.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Typhoon closes Taiwan\u2019s $5 trillion market, threatening supply chains",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNamV3emJJOWdua2gwT1ZyYnV2U3pQZ0UwaVVneEdwR2I0c3hUaHpGU3JxOXVGMll5MGxyYmY3NTFnWW1ocktQbFdLb1c1RGxFZWFubWxkZUxuc3RIcm02eFdJLVJVQXpjajZvR2l2SjI4d0Z5aEVPZkJHS1cweEtITi03Q0N4WUFEanhsTENNeUY0cUZrcWxheG55c0FLR0cwUUJKd1JYaw?oc=5",
+      "prediction": "Global semiconductor lead times for high-end AI chips will spike by 2-3% if Taiwan's port and market closures extend beyond a third day.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "American Express cuts staff to fund its AI transition",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhblpwLUhvM1dNN2FhWWlUSzZLclJUX2t6RzBLYjFqTDMyV3lSalRvRjlEWWdfb0V6LVFXdTVYZWdsY2YxdHE1R1Y0Tm15aDhNdk90SVlLOUF2M2U0eGhTV3dhQlFaT1JVVU1BN1F1MNIBdEFVX3lxTE55bU1Ia1lKeVUtR0s1VnBCelhlREV2TDdXNDNKU2ZWT2dXZVJPUk0xN3ZkVEtZWm01c0ZwYXpDYkxhNjIxX3ZLaEtqc0NJcHA3S1ZYdWJOWU1mYnIxWnVZa2t6aGlWOWhMZllXekZjTERoVTVp?oc=5",
+      "prediction": "AmEx will report its highest-ever efficiency ratio (lowest cost-to-income) in its next two earnings cycles following these staff cuts.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "First shipment of Russian diesel arrives under new trade deal",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb3Zka2dCZ1RzeXJfN1BWOGlIbHpxODVFbTdvdjFuengzUlVHTkpLVGlOa05wUXNvdWpyNl9MTGRVMTJmWFdMTTFyU3pka3FrZ0hzMGhHVEJTRGpVQXV1TEhPYXBsSjU2UllWZHlfVzBCMnBvT01NbVNUdkJiMER4YWhKZDljRUVMY2N1REdxMEpZVkg1RFhOMGFkT3NnNWljS29Jd05ZLXdNMnhmaUlUZXJWY3hGTzN4b3hEM2ExUGxNcDRLMDVr?oc=5",
+      "prediction": "Average US diesel prices will drop by at least $0.40 per gallon at the pump within 30 days of the first cargo's unloading.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "A surprise ceasefire in Ukraine brokered by Melania Trump",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkVOVkZPUnl6Z2d6SWt4cWJDOUNrSW5Fdmt6WXVUTXJMRXFCMXVVSWRZUWNHUXc3Nk1MZHlLNGVhVzNRMWdsSzByUmtHWFh4YzNRVjVlT2dCbjh5Um13c0kxT2pENE1zS3hmbi15T1FEcHl1SWgwNFVIZTdYaW1LdktVZjVVeUIxOTEzUlZZZnQzVmpSdGd6d0lyTXNjWGUtZERkVXM5N0VZeFhTamI3VGRSeXFqUlJNbU81c2VlcGlrQ01MU1VR?oc=5",
+      "prediction": "This unconventional diplomatic channel will be used to announce at least one more localized ceasefire in a different Ukrainian city before the end of the year.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "California\u2019s wealth tax targets Zuckerberg\u2019s paper billions",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYkk0ZGhZdThjbW14ZFo5X1dtcFUwT2dkQ3NiRHdCNUFXckJHMnJLMEFQWkM5THFoZTBzZlBHWmRDTmo4Q19Sb1BPSUFDMFVxVlJFYjJ4OEljdVM3b0ZsNXdoTGRxMzVBTTlUT05fMXlNX1ZhelA4UGtRWUdxZVladzZBdV9ZQ1U?oc=5",
+      "prediction": "Mark Zuckerberg will officially announce the relocation of his primary residence and Meta's core executive 'Zuck Office' outside of California if the wealth tax passes.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "Prabowo\u2019s flagship meal program hits a fiscal reality wall",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdEZkLWJ3Y0M3bGtmN3BJVE5OZ2hBZURkVjNuaUczRDNxQm55S3dOQy1MRXFFNXhvLWM0Wm84TDZCZ2J6WUk3R1BjaWNxZnVWazYtNWU1dGFHSXF0QW9VdkJUeHNtQ3QzeGJLeW9USjdlVVJsWEozX192Qkp5SDJTZ1plVnhJYlFhVGljOTZJVHprN2hOVU16UE5UOE1xWlN2Y21OMFQ5cjZ1TGNNRjhHbGJQVjFuTk8ycEdTNzVMYVZLel80OGU1cGlZRkNxYkhodGt6WXV1NVBxS2tFVjBoTmtiOUg3akV6OUt0R2hDMW9nRXRPRGFkVzBn?oc=5",
+      "prediction": "The 'Free Meal' program will be officially scaled back to less than 40% of its original scope or re-phased over a decade by the next budget cycle.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Jakarta looks to Chinese 'Panda Bonds' to stabilize debt",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX3ltRDRBanN4c3dUTURiT3RZM0lFWmRpYURpQU1ZWGV3RE10VXc3RXZnTEUzblB1SkViRWtnYzBHMlBYV1BzWDlOMkVZb3ZWblpObXlZNjB2aFpWMEtuLWlQbnZxWWRsZDNpV2NYMFN4OHVpQ1pxUzJPY25rM1pwTXNpSU1Tb0tHWS1ocE5UbkoyN0tBNWVGcFFZa1NwUjRSODRPRWFxOUE1d0hod3NnVGYyMEo?oc=5",
+      "prediction": "Indonesia will successfully issue its first tranche of Panda Bonds, totaling at least $500M equivalent, before the end of Q3 2025.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Interest rates stay put to protect the Rupiah",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVEdxajdIckE5ZmJNVEJISHVSaGhnMXVrX3JENHQ3MjE5UlU3QWQ3TVJuNGtGeDhCU2RTcC03RmtiS09LaEdSemVrODJvZGpqWnVqNlRYQ0theF9Sa19jQ2R2ZlBkVmJBamhkOWROcm5HUkNEYXBLMzIwUk5IMGI2dmZsaW42MmRPZmFLd3luQmZSVU1JQkM5VEpRa09QNFJncEZYdkdJcnhIU28?oc=5",
+      "prediction": "Bank Indonesia will maintain the current benchmark rate through at least the next three policy meetings unless the IDR breaches 16,600.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Economic confidence wobbles under more interventionist policies",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZkpJZUQyb2dua2JwYzlUOGtmVXN1cjRGZUkxYlNkOVRPT0VOWG5PbE1vcGl1OXAwZE9GU3prRHB2WFFacVBVcGNPWkItQkhYV2ZLTDloWURFWGMtaWlxemhQeFNic0RTdDJMR2NaNi1UZnlIVDczRXExel84dFhXbDVSSVB5TUdIQjZNdzZPbUNXMGtYRG5HdkJDQU9JTHQxTWY0a0xldFRwdmY3T3pnbU5R?oc=5",
+      "prediction": "Net foreign sell-offs of Indonesian equities will continue for the third consecutive month as the market adjusts to the more interventionist policy tone.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin volatility now mimics Nvidia rather than currency",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRkhNMW01RS1OdmJZQUlSRkZtQzFnZEIwR1cyekJlYXhZelFxZERsNkd5cVVqVGUzVGdscThsUEZDNXVOSXItbmhMU3RNa3k1MjdrTHZuempTdEZkVWtwZU9JaEhWZDFzX1dYYmlENDIyczdjOUZ0b0ZJd3V3QVdIbnZrZXNQdjRVaTJHNTF4MEYyVU9wWkRRNnNtSXVPcExsZ2lwcUJfcFJfZFltRVEwRVA0bl94MnViR2Fiamd2cHNFMWRsVWNod3RlbW9URjdBaGdQdDBXRVRjUQ?oc=5",
+      "prediction": "The 30-day correlation between Bitcoin and the Nasdaq 100 will remain above 0.75 for the remainder of 2025.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "XRP ETFs see massive $1.8 billion influx after launch",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYWVDWG96NmpRMUk2ZUpUekJiYUlyREgwOVptaElYUGhZU09KRDlISGVSSWE1VW4yeTc4eWQxb1hMTzYwZDdBYnVqY0l0b1lJX2x6WFllS1E0YkFad0NiOXhBRWRGWE45R0pUR19RNmxRY19nWkdPalhrZ204azJvQlFQdlpBYzRTMHNqN2ROalFFR3B3Y2pqOGFmQ092cWc?oc=5",
+      "prediction": "XRP will outperform Bitcoin by at least 15% in total returns over the 30 days following the launch of the second major XRP ETF provider.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "The Bitcoin-Yen link is becoming a crucial macro signal",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5",
+      "prediction": "Expect a sharp Bitcoin price drop of at least 5% within 24 hours of any 'hawkish' policy surprise or rate hike from the Bank of Japan.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Rising yields and a strong Dollar pressure crypto prices",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSzJTNlFLOVduQU9HQW5vOFU0bHVCaXo2SlV6VEdPRW9nekhJUEJaVWxVb1p0N0tPWWRyekVKb1hHX3hpYzh1aXJvb2wzZlhRMDNTREpieFVCdEI3RmpucngwaDhsVk1mOWJYdmhOQ2hIZVFWWTdwcGpjakRyZDd2el9HWFozbUQxUmRhVGNUMkh6NTdyNm80UFh6S1pRV2tNV2VfLUdyaDNva1BUVDNnVjNR?oc=5",
+      "prediction": "Bitcoin will fail to reclaim and hold the $90,000 level as long as the US 10-year Treasury yield stays above 4.5%.",
+      "grounded": true
+    }
+  ],
+  "stories": [
+    {
+      "section": "tech",
+      "headline": "Global IT spending set to surge despite economic jitters",
+      "summary": "Gartner predicts a 15% jump in worldwide technology spending as companies prioritize infrastructure upgrades.",
+      "view": "The projected 15% surge in IT spending is a fundamental reallocation toward physical compute infrastructure, favoring hardware providers like Nvidia and Dell over traditional services. While high profit reports from the likes of Samsung confirm high volumes, the accompanying share jitters signal a 'spend or die' market where massive CapEx is required just to maintain a competitive position, with no guarantee of margin expansion.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUHd5WGx4YVNxeG9nOHV6aDNkUVcwYlFCZDFuTEdnTXI2UFRkenQ1Q1M5U3RycnVPcFpEbmNpRll0RExadGlHekZVR2J1T19NM2RFdzZ1LWlwWTQ5R0Vfbko0V2lUR1VxazRKOUEzV1hJQ1VZZEN6Y0dib2psaUhmNm5xRHlpNDVKZ004UG51SGozZl9ScUJqLUw1V0FUYi1DLWNRRXhoYUNsSG80ZzBuYjQ3enlTSUkxcGx4SHNlZGU4QQ?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "The tech layoff wave continues to reshape the labor market",
+      "summary": "Major players including Apple, Meta, and Netflix are still trimming headcounts through late 2026.",
+      "view": "The tech layoff wave has shifted from pandemic-era corrections to a structural replacement of human operational roles with generative AI workflows. Companies like Oracle are aggressively shedding 'human debt' to fund $50B pivots into AI, suggesting that labor costs are being sacrificed to subsidize the extreme power and compute requirements of the next era.",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTTZHTHdyZ19adGQ3NjhiQ09UeFNJVHBEMnBYV3R4cVQzeGt2SFRfVzhURTNmV2NDUzhtRWotUlZVV250MWd2Y0F6bHNvMWxUSmtFNlJ4WGIwbUVPaHdJQi1lZWVGT3lsQ0s3NDNuaWZtVTVCOUJ4VGI1d0lfbGthSUV5eXlncE9HUUJfUmRIMG5OOUZ0X0N2NnFDMmRtR2RKU0h4enhyei12UnlCUVhFMjNOcHBPYUtqdm1PM215NXZBc2kxdDNZZ2Y4M2txZlA0WTk2U2t5SjNPSWNqX0R3OEZabTMwOXdXNlozR2JQeUtUS3BQekxFX3pTU21FYlVvcTQ3enN5TXM?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Software companies are ditching monthly subscriptions for AI-based pricing",
+      "summary": "The software industry is moving away from flat fees toward pricing based on AI usage and outcomes.",
+      "view": "The death of the SaaS subscription model is imminent as 'per-seat' pricing is replaced by usage-based AI outcomes, transferring efficiency risk from the customer to the vendor. While this aligns costs with value, it creates a 'revenue cliff' for software firms as customers learn to optimize their prompts and minimize their AI usage footprint.",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSzktdnM5VUdvSDBzQ21pQTlCT211U3B1RURQWlJxWW04RHFicGxMQTQ2TTFxWmVfZVJKZ19uTGR2b25wdEs0dGZrTWpMbEpybV82VXlsX3NkNG9PNEtoR3pHOG5HUkN2WGUtNk5UWGd6MHFmczhOaUlidkVRRkw5ZEdkTDJWaDF4RUE?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Data centers and farms are fighting over the water tap",
+      "summary": "The massive water cooling needs of AI data centers are creating a supply crisis for agriculture.",
+      "view": "Water is rapidly becoming the primary physical bottleneck for AI growth, superseding even electricity and chips in drought-prone regions. Hyperscalers are the clear losers here as local municipal resistance, particularly in the US Southwest, forces a transition to significantly more expensive liquid-to-liquid closed-loop cooling or remote Arctic deployments.",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0UFVfdDEwdFNTb3JUZFZab3AzUEJ5R0xDN3VQT0NnQ2w3MngxT3A1bUpIUFA1enlQYnNZbWpoaEVUdGF3RldxaXQxVjJkQ180bnFJMHlKRzl0UlJoWUQ5NzI4VEZydVlOc0E4VkJnMHpheXMyQ2VCZjFnRVFndw?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Tech sell-off drags down major indexes despite pockets of growth",
+      "summary": "The Nasdaq managed a slight gain, but a broader tech retreat pulled the Dow and S&P 500 lower.",
+      "view": "The market is trapped in a 'concentration trade' where the broader indexes cannot sustain growth without the top tech names leading the charge. The divergence between Nasdaq's gains and the Dow's retreat suggests investors are treating AI as a defensive play, which ironically makes the entire market more vulnerable to an AI-specific sentiment shock.",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNkpSbFBZWVAtYnhBcUdQR2VtYUl5QldNNjVHeWthdmJaUGxNUVVPV2hsV0RhN2hma0hTcW41Vnl6SFprOTlQNnFfdVFFSWRYUkVKM29XMWpwbExpOTRQSzlxcTFfYUxFRFFoYWQzRHpZNEpUV0lrOXVnTlpmTjVUY091dXI1NlpYbVFKSFN4MEpsTzR6RFl3eWpsWm53bUkyNThoWlA0Vzg3VnRuNUNEQk1HTGMtNEJ3RHp5Qzg1aVBOcFJGTGc?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "The stock market is splitting into two distinct camps",
+      "summary": "Investors are experiencing whiplash as the market divides between high-growth tech and traditional value stocks.",
+      "view": "The market split is a flight to balance-sheet strength rather than a simple growth vs. value divide, with Microsoft and other cash-rich giants acting as the new 'safe-haven' assets. Companies with high debt loads are being penalized regardless of their industry, while the AI edge is being used as a filter to decide which growth stories are worth the risk in a high-rate environment.",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNR2VKQkQxR3RUaVlmUkhsV1VzOE9Jc1Y1R0NOVE8wZGRtWUpZX3FHbkZFMWNfWjlqejNUQzFvd1F5TmZoaFZsN0JlbkRVUjVVdlFNMW16cXZPWVNsSjE5RDlsTU1NZm8xOWZVSm1zNEdHYV9tVWtMMlhodXdsVzhVb1dyT1d6dnRtb01KQUhidmZTcVN2RkpZMXJMS2lpbEdmMGU3ZUY4emdHWjRaUXo2M0E5ZU9WTHNvVjg2Wjg2QnJFcEtpZWVjYWRqVm1Gem1abHNDRVFMX3AzaF90bG40LWljcw?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Indonesia hits market violators with record-breaking fines",
+      "summary": "Regulators in Jakarta issued massive penalties to companies for stock market transparency violations.",
+      "view": "Indonesian regulators are finally taking governance seriously to attract the institutional foreign capital that has long viewed Jakarta as a 'wild west' market. While these record fines will cause a short-term liquidity crunch for domestic firms, the move is a long-term win for the country's sovereign credit credibility and FDI prospects.",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY3MzeE9TNmZPQTI1dUhlSW9PZktuNzdWOUFsdnFkbkcxT01LMjZwRHJEU0xVVU84eERjYjhmcGd4X3FjVnM2NXJKWVptM2RfaE9MeXpraE5oT1BFenV3NTZxR2ptOWFmYkJUYmJmRVpieGhEX0VHRmxYQ2NMTzdwYmRuTUZ4OWxmLVpLZTJNS040TVJjOUIwcDdrbDlXZUh6RU1wNGhSWVV5WGtpWnIzVERpVEt2MWtub2h2Q3JId18?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Typhoon closes Taiwan\u2019s $5 trillion market, threatening supply chains",
+      "summary": "Taiwan's stock market and essential businesses shuttered as a major typhoon approached.",
+      "view": "The typhoon-induced closure of Taiwan's $5 trillion market exposes the critical fragility of the global electronics supply chain's geographic concentration. TSMC and its ecosystem are the losers here; even a 48-hour disruption in market and logistics operations creates a ripple effect that exposes how vulnerable global tech is to a single-point-of-failure region.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNamV3emJJOWdua2gwT1ZyYnV2U3pQZ0UwaVVneEdwR2I0c3hUaHpGU3JxOXVGMll5MGxyYmY3NTFnWW1ocktQbFdLb1c1RGxFZWFubWxkZUxuc3RIcm02eFdJLVJVQXpjajZvR2l2SjI4d0Z5aEVPZkJHS1cweEtITi03Q0N4WUFEanhsTENNeUY0cUZrcWxheG55c0FLR0cwUUJKd1JYaw?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "American Express cuts staff to fund its AI transition",
+      "summary": "The credit card giant is laying off 5% of its workforce to reallocate resources toward artificial intelligence.",
+      "view": "American Express is using the 'AI transition' as a palatable narrative to mask a traditional headcount reduction aimed at protecting margins during a consumer spending slowdown. By automating high-cost customer service and fraud detection, they are betting that technology can replace human judgment without increasing their credit loss provisions.",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhblpwLUhvM1dNN2FhWWlUSzZLclJUX2t6RzBLYjFqTDMyV3lSalRvRjlEWWdfb0V6LVFXdTVYZWdsY2YxdHE1R1Y0Tm15aDhNdk90SVlLOUF2M2U0eGhTV3dhQlFaT1JVVU1BN1F1MNIBdEFVX3lxTE55bU1Ia1lKeVUtR0s1VnBCelhlREV2TDdXNDNKU2ZWT2dXZVJPUk0xN3ZkVEtZWm01c0ZwYXpDYkxhNjIxX3ZLaEtqc0NJcHA3S1ZYdWJOWU1mYnIxWnVZa2t6aGlWOWhMZllXekZjTERoVTVp?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "First shipment of Russian diesel arrives under new trade deal",
+      "summary": "Data shows Russian fuel is heading to the US following a controversial new deal between the two administrations.",
+      "view": "The arrival of Russian diesel is a pragmatic, 'inflation-first' policy move that prioritizes domestic fuel price relief over geopolitical leverage. The administration is banking on the fact that lower transportation costs\u2014a primary driver of food inflation\u2014will provide more political capital than the maintenance of the Graham Russia-Iran Act sanctions.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb3Zka2dCZ1RzeXJfN1BWOGlIbHpxODVFbTdvdjFuengzUlVHTkpLVGlOa05wUXNvdWpyNl9MTGRVMTJmWFdMTTFyU3pka3FrZ0hzMGhHVEJTRGpVQXV1TEhPYXBsSjU2UllWZHlfVzBCMnBvT01NbVNUdkJiMER4YWhKZDljRUVMY2N1REdxMEpZVkg1RFhOMGFkT3NnNWljS29Jd05ZLXdNMnhmaUlUZXJWY3hGTzN4b3hEM2ExUGxNcDRLMDVr?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "A surprise ceasefire in Ukraine brokered by Melania Trump",
+      "summary": "Russia and Ukraine agreed to a localized truce in a food-stressed city through an unconventional diplomatic channel.",
+      "view": "Using an unconventional diplomatic channel for a ceasefire signals a total bypass of the institutional State Department, favoring personal 'deal-making' as the new foreign policy standard. While the truce is localized, it serves as a pilot for 'modular' peace deals that may eventually lead to a permanent frozen conflict on terms favorable to Russia.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkVOVkZPUnl6Z2d6SWt4cWJDOUNrSW5Fdmt6WXVUTXJMRXFCMXVVSWRZUWNHUXc3Nk1MZHlLNGVhVzNRMWdsSzByUmtHWFh4YzNRVjVlT2dCbjh5Um13c0kxT2pENE1zS3hmbi15T1FEcHl1SWgwNFVIZTdYaW1LdktVZjVVeUIxOTEzUlZZZnQzVmpSdGd6d0lyTXNjWGUtZERkVXM5N0VZeFhTamI3VGRSeXFqUlJNbU81c2VlcGlrQ01MU1VR?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "California\u2019s wealth tax targets Zuckerberg\u2019s paper billions",
+      "summary": "A proposed state tax would bill the Meta CEO on his total equity value, not just his voting power.",
+      "view": "California's wealth tax is a high-stakes game of chicken that underestimates the mobility of paper wealth in the digital age. While the state aims to capture billions from Zuckerberg, the move will likely trigger a massive exodus of founder-led unicorns to low-tax states, permanently hollowing out California's long-term tax base.",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYkk0ZGhZdThjbW14ZFo5X1dtcFUwT2dkQ3NiRHdCNUFXckJHMnJLMEFQWkM5THFoZTBzZlBHWmRDTmo4Q19Sb1BPSUFDMFVxVlJFYjJ4OEljdVM3b0ZsNXdoTGRxMzVBTTlUT05fMXlNX1ZhelA4UGtRWUdxZVladzZBdV9ZQ1U?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Prabowo\u2019s flagship meal program hits a fiscal reality wall",
+      "summary": "Political allies are distancing themselves from the costly free lunch program as budget concerns mount.",
+      "view": "Prabowo's flagship meal program is hitting the hard ceiling of Indonesia's 3% fiscal deficit cap, forcing a choice between populist mandates and sovereign debt stability. The 'fiscal reality wall' proves that the Ministry of Finance still holds the true power in Jakarta, signaling to markets that technocratic discipline will likely prevail over political grandstanding.",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdEZkLWJ3Y0M3bGtmN3BJVE5OZ2hBZURkVjNuaUczRDNxQm55S3dOQy1MRXFFNXhvLWM0Wm84TDZCZ2J6WUk3R1BjaWNxZnVWazYtNWU1dGFHSXF0QW9VdkJUeHNtQ3QzeGJLeW9USjdlVVJsWEozX192Qkp5SDJTZ1plVnhJYlFhVGljOTZJVHprN2hOVU16UE5UOE1xWlN2Y21OMFQ5cjZ1TGNNRjhHbGJQVjFuTk8ycEdTNzVMYVZLel80OGU1cGlZRkNxYkhodGt6WXV1NVBxS2tFVjBoTmtiOUg3akV6OUt0R2hDMW9nRXRPRGFkVzBn?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Jakarta looks to Chinese 'Panda Bonds' to stabilize debt",
+      "summary": "Indonesia is exploring Chinese-denominated bonds to offset the risk of being removed from global stock indexes.",
+      "view": "The move toward 'Panda Bonds' is a strategic pivot toward the Chinese financial orbit as Indonesia seeks to hedge against the volatility of US-led capital markets. By diversifying into Yuan-denominated debt, Jakarta is securing liquidity but at the cost of becoming increasingly dependent on Beijing's monetary policy and the stability of the Chinese economy.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX3ltRDRBanN4c3dUTURiT3RZM0lFWmRpYURpQU1ZWGV3RE10VXc3RXZnTEUzblB1SkViRWtnYzBHMlBYV1BzWDlOMkVZb3ZWblpObXlZNjB2aFpWMEtuLWlQbnZxWWRsZDNpV2NYMFN4OHVpQ1pxUzJPY25rM1pwTXNpSU1Tb0tHWS1ocE5UbkoyN0tBNWVGcFFZa1NwUjRSODRPRWFxOUE1d0hod3NnVGYyMEo?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Interest rates stay put to protect the Rupiah",
+      "summary": "Bank Indonesia kept rates steady in a 'policy mix' designed to support both growth and the currency.",
+      "view": "Bank Indonesia's decision to hold rates reflects a 'policy trap' where they cannot cut to stimulate growth without risking a collapse of the Rupiah against a strong US Dollar. The 'policy mix' is essentially a holding action that relies on burning through FX reserves to maintain currency stability, a strategy that has a finite runway.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVEdxajdIckE5ZmJNVEJISHVSaGhnMXVrX3JENHQ3MjE5UlU3QWQ3TVJuNGtGeDhCU2RTcC03RmtiS09LaEdSemVrODJvZGpqWnVqNlRYQ0theF9Sa19jQ2R2ZlBkVmJBamhkOWROcm5HUkNEYXBLMzIwUk5IMGI2dmZsaW42MmRPZmFLd3luQmZSVU1JQkM5VEpRa09QNFJncEZYdkdJcnhIU28?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Economic confidence wobbles under more interventionist policies",
+      "summary": "A looming crisis of confidence is brewing as the government takes a more active hand in the economy.",
+      "view": "The shift toward interventionist 'Prabowonomics' is eroding the investor confidence built during the technocratic Jokowi era. While the state-led approach may benefit domestic infrastructure projects, it is scaring off the private equity and VC ecosystem that requires predictable, market-driven governance to deploy capital.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZkpJZUQyb2dua2JwYzlUOGtmVXN1cjRGZUkxYlNkOVRPT0VOWG5PbE1vcGl1OXAwZE9GU3prRHB2WFFacVBVcGNPWkItQkhYV2ZLTDloWURFWGMtaWlxemhQeFNic0RTdDJMR2NaNi1UZnlIVDczRXExel84dFhXbDVSSVB5TUdIQjZNdzZPbUNXMGtYRG5HdkJDQU9JTHQxTWY0a0xldFRwdmY3T3pnbU5R?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin volatility now mimics Nvidia rather than currency",
+      "summary": "Bitcoin\u2019s price swings are far higher than traditional FX but have calmed enough to match major tech stocks.",
+      "view": "Bitcoin has effectively become a high-beta tech stock, with its volatility now perfectly mirroring Nvidia rather than acting as a non-correlated currency. This move into the 'tech-proxy' category means Bitcoin has failed its primary test as a 'digital gold' hedge, making it a redundancy in portfolios already heavy on semiconductors and AI.",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRkhNMW01RS1OdmJZQUlSRkZtQzFnZEIwR1cyekJlYXhZelFxZERsNkd5cVVqVGUzVGdscThsUEZDNXVOSXItbmhMU3RNa3k1MjdrTHZuempTdEZkVWtwZU9JaEhWZDFzX1dYYmlENDIyczdjOUZ0b0ZJd3V3QVdIbnZrZXNQdjRVaTJHNTF4MEYyVU9wWkRRNnNtSXVPcExsZ2lwcUJfcFJfZFltRVEwRVA0bl94MnViR2Fiamd2cHNFMWRsVWNod3RlbW9URjdBaGdQdDBXRVRjUQ?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "XRP ETFs see massive $1.8 billion influx after launch",
+      "summary": "The newly launched XRP exchange-traded funds are attracting significant institutional capital.",
+      "view": "The $1.8 billion influx into XRP ETFs reveals a massive 'ghost market' of institutional capital that was simply waiting for a regulated vehicle to bypass legal uncertainty. This level of demand suggests XRP is being positioned not as a speculative asset, but as the primary institutional bridge currency for the next generation of cross-border banking settlements.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYWVDWG96NmpRMUk2ZUpUekJiYUlyREgwOVptaElYUGhZU09KRDlISGVSSWE1VW4yeTc4eWQxb1hMTzYwZDdBYnVqY0l0b1lJX2x6WFllS1E0YkFad0NiOXhBRWRGWE45R0pUR19RNmxRY19nWkdPalhrZ204azJvQlFQdlpBYzRTMHNqN2ROalFFR3B3Y2pqOGFmQ092cWc?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "The Bitcoin-Yen link is becoming a crucial macro signal",
+      "summary": "A strong negative correlation has emerged between Bitcoin and the Japanese Yen/US Dollar pair.",
+      "view": "The emerging Bitcoin-Yen link confirms that BTC is now a primary 'carry trade' asset; when the Yen strengthens and the carry trade unwinds, Bitcoin is sold off as a liquid collateral source. This negative correlation makes Bitcoin a critical 'canary in the coal mine' for global liquidity rather than an independent store of value.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Rising yields and a strong Dollar pressure crypto prices",
+      "summary": "Bitcoin fell as investors moved back into the safety of US Treasuries and the greenback.",
+      "view": "Bitcoin is currently 'yield-poisoned,' with rising US Treasury yields making the opportunity cost of holding a non-yielding asset too high for institutional players. The move back into the Dollar, driven by geopolitical strikes and Fed rate hike bets, proves that in a true crisis, the Greenback remains the only real safe haven, leaving crypto to bleed alongside other risk assets.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSzJTNlFLOVduQU9HQW5vOFU0bHVCaXo2SlV6VEdPRW9nekhJUEJaVWxVb1p0N0tPWWRyekVKb1hHX3hpYzh1aXJvb2wzZlhRMDNTREpieFVCdEI3RmpucngwaDhsVk1mOWJYdmhOQ2hIZVFWWTdwcGpjakRyZDd2el9HWFozbUQxUmRhVGNUMkh6NTdyNm80UFh6S1pRV2tNV2VfLUdyaDNva1BUVDNnVjNR?oc=5"
+    }
+  ]
+}
