@@ -8,7 +8,7 @@
       "prediction": "Expect a double-digit percentage increase in Silicon Valley PAC contributions to Republican candidates compared to the 2020 cycle.",
       "grounded": false,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "No new headlines were found to verify changes in Silicon Valley's PAC contributions to the GOP."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "At least three major SaaS players (e.g., Salesforce, ServiceNow, or HubSpot) will announce a primary 'per-task' or 'success-based' pricing tier by mid-2025.",
       "grounded": false,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "There is no information in the fresh headlines regarding SaaS companies switching to per-task or success-based pricing."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "Autonomous agent revenue will be broken out as a specific growth driver in Microsoft or Google\u2019s quarterly earnings reports by FY 2026.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "While 2026 earnings reports are mentioned, the headlines do not specify if autonomous agent revenue was broken out as a unique growth driver."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Meta or Apple will formally suspend a major feature rollout (like a new AI assistant) in the EU for more than six months to protest DMA enforcement by year-end.",
       "grounded": false,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "No headlines were found indicating that Meta or Apple have suspended major feature rollouts in the EU."
     },
     {
       "section": "markets",
@@ -43,8 +43,8 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQmtVSC1FUS1RTWFJU2t1bmFXenNxZHRsM0ZlRklRb3Fuajh2eXFDLWItTmpKTzZaU25lNzJ3dFZyR01BaXVIY01fbFNXVUVySHZOU0NYelhRSzQtSDlTOF9SWVQ1aUFxUGJKT0lzUExaOW9nNkZFYXpjcFNqT2c4QjE3SXRPdGs?oc=5",
       "prediction": "Tesla\u2019s board will announce the formation of a 'special committee' to evaluate 'strategic synergies' with SpaceX within the next 12 months.",
       "grounded": true,
-      "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "status": "held_up",
+      "note": "Fresh headlines confirm that Elon Musk has formalized a multi-trillion dollar merger push between SpaceX and Tesla."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "The Dow will test its all-time high within the next 45 days as the 'soft landing' narrative becomes the consensus view.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "No new information was found to confirm if the Dow tested an all-time high within the specified 45-day window."
     },
     {
       "section": "markets",
