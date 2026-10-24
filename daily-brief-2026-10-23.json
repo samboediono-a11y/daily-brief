@@ -8,7 +8,7 @@
       "prediction": "Expect Gartner to revise this 15% figure downward by at least 2% by Q4 2026 as hardware lead times and power constraints bottleneck full-scale implementation.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new headlines were found to confirm or contradict a revision in Gartner's technology spending forecast."
+      "note": "No fresh headlines were found to indicate whether Gartner has revised its global technology spending forecast."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "At least three major SaaS firms will report 'usage-based revenue misses' in the next two quarters as enterprise customers implement strict token quotas to control costs.",
       "grounded": true,
       "status": "too_early",
-      "note": "There are no fresh reports concerning SaaS revenue misses or the implementation of token quotas by enterprise customers."
+      "note": "There is no new information regarding SaaS revenue reports or usage-based pricing misses."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "At least one major US data center project in the Southwest will be canceled or indefinitely delayed due to water permit denials by year-end 2026.",
       "grounded": true,
       "status": "too_early",
-      "note": "Fresh headlines discuss general permitting legislation and pipeline delays, but do not mention any Southwest data center cancellations due to water permits."
+      "note": "The provided headlines discuss general permitting bills and pipelines but do not mention Southwest data center cancellations due to water permits."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Total tech-sector political donations to GOP candidates will exceed Democrat contributions for the first time in 20 years by the end of the current election cycle.",
       "grounded": false,
       "status": "held_up",
-      "note": "The headline regarding Elon Musk\u2019s $276 million donation to Republicans and the shift in 'Tech Capital' toward Trump-aligned interests supports the prediction of a GOP-led shift in sector contributions."
+      "note": "Headlines reporting Elon Musk's $276 million Republican donation and Big Tech's influence on Trump-era foreign policy support the predicted shift in political alignment."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "Hedge fund redemptions will hit a three-year high in the next quarterly window as LPs punish managers for excessive concentration in AI and tech names.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new data was provided regarding hedge fund redemption rates or performance issues tied to AI concentration."
+      "note": "No new data or headlines regarding hedge fund redemption rates were found."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "The gap between the top and bottom decile of S&P 500 performers will reach a decade-high by the end of 2026 as the 'split verdict' intensifies.",
       "grounded": true,
       "status": "too_early",
-      "note": "There is no fresh information available regarding the performance gap between the top and bottom deciles of the S&P 500."
+      "note": "There are no fresh headlines regarding the performance gap between the top and bottom deciles of the S&P 500."
     },
     {
       "section": "markets",
