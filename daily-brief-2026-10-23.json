@@ -6,42 +6,54 @@
       "headline": "Global Technology Spending Forecast to Jump 15 Percent",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUHd5WGx4YVNxeG9nOHV6aDNkUVcwYlFCZDFuTEdnTXI2UFRkenQ1Q1M5U3RycnVPcFpEbmNpRll0RExadGlHekZVR2J1T19NM2RFdzZ1LWlwWTQ5R0Vfbko0V2lUR1VxazRKOUEzV1hJQ1VZZEN6Y0dib2psaUhmNm5xRHlpNDVKZ004UG51SGozZl9ScUJqLUw1V0FUYi1DLWNRRXhoYUNsSG80ZzBuYjQ3enlTSUkxcGx4SHNlZGU4QQ?oc=5",
       "prediction": "Expect Gartner to revise this 15% figure downward by at least 2% by Q4 2026 as hardware lead times and power constraints bottleneck full-scale implementation.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new headlines were found to confirm or contradict a revision in Gartner's technology spending forecast."
     },
     {
       "section": "tech",
       "headline": "Software Companies Abandon Per-User Fees for AI Usage Pricing",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSzktdnM5VUdvSDBzQ21pQTlCT211U3B1RURQWlJxWW04RHFicGxMQTQ2TTFxWmVfZVJKZ19uTGR2b25wdEs0dGZrTWpMbEpybV82VXlsX3NkNG9PNEtoR3pHOG5HUkN2WGUtNk5UWGd6MHFmczhOaUlidkVRRkw5ZEdkTDJWaDF4RUE?oc=5",
       "prediction": "At least three major SaaS firms will report 'usage-based revenue misses' in the next two quarters as enterprise customers implement strict token quotas to control costs.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "There are no fresh reports concerning SaaS revenue misses or the implementation of token quotas by enterprise customers."
     },
     {
       "section": "tech",
       "headline": "Data Centers Fight Farmers for Access to Scarce Water",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0UFVfdDEwdFNTb3JUZFZab3AzUEJ5R0xDN3VQT0NnQ2w3MngxT3A1bUpIUFA1enlQYnNZbWpoaEVUdGF3RldxaXQxVjJkQ180bnFJMHlKRzl0UlJoWUQ5NzI4VEZydVlOc0E4VkJnMHpheXMyQ2VCZjFnRVFndw?oc=5",
       "prediction": "At least one major US data center project in the Southwest will be canceled or indefinitely delayed due to water permit denials by year-end 2026.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Fresh headlines discuss general permitting legislation and pipeline delays, but do not mention any Southwest data center cancellations due to water permits."
     },
     {
       "section": "tech",
       "headline": "The Tech Industry Shifts Decisively Toward Republican Political Alignment",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdEx5NnluZV9qakVQM29xdUVZbXBudHY3djdlRFZMXzY4UDJMUm9IUTZwRHBQcGRVUFRtRXRsbE1CX3dJZ0Y5eEJZaHQyTUFfMEJGZjlkY2pTLTJ0S2czdllyR20yTTJvWVVudHZURm8ycXQyQzE3QzFOeUVvRGlUeDgyME53R0dkc2xQQTFDa3VoUjQ?oc=5",
       "prediction": "Total tech-sector political donations to GOP candidates will exceed Democrat contributions for the first time in 20 years by the end of the current election cycle.",
-      "grounded": false
+      "grounded": false,
+      "status": "held_up",
+      "note": "The headline regarding Elon Musk\u2019s $276 million donation to Republicans and the shift in 'Tech Capital' toward Trump-aligned interests supports the prediction of a GOP-led shift in sector contributions."
     },
     {
       "section": "markets",
       "headline": "Hedge Funds Suffer Worst Daily Loss Since the Pandemic",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUk1WMERkSnJGTUZ3OFpKZVk2YTVWRE9KUEduR1lFdFI3REU3MFFnbW9tcTBHeTY2MEYtNXV5a2JZcDc3VnJ3MDNKajh6ZGFGVUhJNkRPMVhuSkpGWmVPTUh0TEkzUmkxRDR5ZWV2eC1VMFZ4VjVZX2lXNE94WmpEVEdKUXlZd3JUOGlGb0FMLWlYNUYza1U2WHFjeUg2WmtoVS00X0liOVkxejlwUERWNUxKdmU?oc=5",
       "prediction": "Hedge fund redemptions will hit a three-year high in the next quarterly window as LPs punish managers for excessive concentration in AI and tech names.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new data was provided regarding hedge fund redemption rates or performance issues tied to AI concentration."
     },
     {
       "section": "markets",
       "headline": "The Stock Market Splits Into Two Very Different Camps",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNR2VKQkQxR3RUaVlmUkhsV1VzOE9Jc1Y1R0NOVE8wZGRtWUpZX3FHbkZFMWNfWjlqejNUQzFvd1F5TmZoaFZsN0JlbkRVUjVVdlFNMW16cXZPWVNsSjE5RDlsTU1NZm8xOWZVSm1zNEdHYV9tVWtMMlhodXdsVzhVb1dyT1d6dnRtb01KQUhidmZTcVN2RkpZMXJMS2lpbEdmMGU3ZUY4emdHWjRaUXo2M0E5ZU9WTHNvVjg2Wjg2QnJFcEtpZWVjYWRqVm1Gem1abHNDRVFMX3AzaF90bG40LWljcw?oc=5",
       "prediction": "The gap between the top and bottom decile of S&P 500 performers will reach a decade-high by the end of 2026 as the 'split verdict' intensifies.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "There is no fresh information available regarding the performance gap between the top and bottom deciles of the S&P 500."
     },
     {
       "section": "markets",
