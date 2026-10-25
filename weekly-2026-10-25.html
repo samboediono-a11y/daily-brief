@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Weekly Rewind — Week of 2026-10-25</title>
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#0B0E11">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0B0E11;
+    --bg-raised:#12161B;
+    --card:#161B21;
+    --card-hi:#1B2129;
+    --line:#252C35;
+    --text:#EDF0F2;
+    --text-dim:#8F98A3;
+    --text-faint:#5B6470;
+    --teal:#2DD4BF;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:
+      radial-gradient(ellipse 900px 400px at 50% -80px, rgba(45,212,191,0.10), transparent 70%),
+      var(--bg);
+    color:var(--text);
+    font-family:'Inter',system-ui,sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{ color:inherit; text-decoration:none; }
+
+  .tabs-wrap{
+    background:var(--bg-raised);
+    border-bottom:1px solid var(--line);
+    overflow-x:auto;
+    -webkit-overflow-scrolling:touch;
+  }
+  .tabs-wrap::-webkit-scrollbar{ height:0; }
+  .tabs{
+    display:flex;
+    max-width:820px;
+    margin:0 auto;
+    padding:8px 20px 0;
+    gap:4px;
+  }
+  .tab{
+    font-family:'JetBrains Mono',monospace;
+    font-size:11px;
+    font-weight:500;
+    letter-spacing:0.03em;
+    color:var(--text-faint);
+    padding:9px 14px;
+    border-radius:8px 8px 0 0;
+    white-space:nowrap;
+    flex-shrink:0;
+    border:1px solid transparent;
+    border-bottom:none;
+  }
+  .tab.active{ color:var(--teal); background:var(--bg); border-color:var(--line); }
+
+  header{
+    max-width:820px;
+    margin:0 auto;
+    padding:38px 20px 26px;
+  }
+  .eyebrow{
+    font-family:'JetBrains Mono',monospace;
+    font-size:10.5px;
+    letter-spacing:0.16em;
+    text-transform:uppercase;
+    color:var(--text-faint);
+    display:flex;
+    justify-content:space-between;
+    margin-bottom:16px;
+  }
+  h1.masthead{
+    font-family:'Space Grotesk',sans-serif;
+    font-weight:700;
+    font-size:38px;
+    line-height:1.05;
+    margin:0 0 12px;
+    letter-spacing:-0.01em;
+    background:linear-gradient(180deg, #FFFFFF 0%, #C9D0D6 100%);
+    -webkit-background-clip:text;
+    background-clip:text;
+    color:transparent;
+  }
+  .dateline{ font-size:13.5px; color:var(--text-dim); }
+  .back-link{
+    display:inline-block;
+    margin-top:16px;
+    font-family:'JetBrains Mono',monospace;
+    font-size:11px;
+    color:var(--teal);
+    border:1px solid var(--line);
+    border-radius:20px;
+    padding:6px 12px;
+  }
+
+  main{ max-width:820px; margin:0 auto; padding:10px 20px 60px; }
+
+  .theme-card{
+    background:linear-gradient(180deg, var(--card-hi), var(--card));
+    border:1px solid var(--line);
+    border-left:3px solid var(--teal);
+    border-radius:10px;
+    padding:22px 24px;
+    margin-bottom:18px;
+    box-shadow:0 10px 28px -18px rgba(0,0,0,0.6);
+  }
+  .theme-title{
+    font-family:'Space Grotesk',sans-serif;
+    font-weight:600;
+    font-size:21px;
+    margin:0 0 12px;
+    color:var(--text);
+  }
+  .theme-synth{
+    font-size:14.5px;
+    line-height:1.65;
+    color:#C7CDD3;
+    margin:0 0 14px;
+  }
+  .theme-watch{
+    padding-top:12px;
+    border-top:1px dashed var(--line);
+    font-size:13.5px;
+    color:#D3D9DE;
+    margin:0;
+  }
+  .watch-label{
+    font-family:'JetBrains Mono',monospace;
+    font-weight:600;
+    font-size:11px;
+    color:var(--teal);
+  }
+  .themes-empty{
+    font-size:13.5px;
+    color:var(--text-faint);
+    padding:20px 0;
+  }
+
+  footer{
+    max-width:820px;
+    margin:0 auto;
+    padding:30px 20px 60px;
+    border-top:1px solid var(--line);
+  }
+  footer p{ font-size:12.5px; line-height:1.6; color:var(--text-faint); margin:0; }
+
+  @media (max-width:600px){
+    h1.masthead{ font-size:29px; }
+    .theme-title{ font-size:18px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="tabs-wrap">
+  <!-- WEEK_TABS_START -->
+  <div class="tabs">
+    <a class="tab active" href="weekly-2026-10-25.html">Week of 2026-10-25</a>
+    <a class="tab" href="weekly-2026-10-18.html">Week of 2026-10-18</a>
+    <a class="tab" href="weekly-2026-10-11.html">Week of 2026-10-11</a>
+    <a class="tab" href="weekly-2026-10-04.html">Week of 2026-10-04</a>
+    <a class="tab" href="weekly-2026-09-27.html">Week of 2026-09-27</a>
+    <a class="tab" href="weekly-2026-09-20.html">Week of 2026-09-20</a>
+    <a class="tab" href="weekly-2026-09-13.html">Week of 2026-09-13</a>
+    <a class="tab" href="weekly-2026-09-06.html">Week of 2026-09-06</a>
+    <a class="tab" href="weekly-2026-08-30.html">Week of 2026-08-30</a>
+    <a class="tab" href="weekly-2026-08-23.html">Week of 2026-08-23</a>
+    <a class="tab" href="weekly-2026-08-16.html">Week of 2026-08-16</a>
+    <a class="tab" href="weekly-2026-08-09.html">Week of 2026-08-09</a>
+    <a class="tab" href="weekly-2026-08-02.html">Week of 2026-08-02</a>
+  </div>
+  <!-- WEEK_TABS_END -->
+</div>
+
+<header>
+  <div class="eyebrow"><span>Weekly Edition</span><span>Auto-generated</span></div>
+  <h1 class="masthead">The Weekly Rewind</h1>
+  <div class="dateline">Week of 2026-10-25</div>
+  <a class="back-link" href="index.html">&larr; Back to today's Daily Brief</a>
+</header>
+
+<main>
+
+  <article class="theme-card">
+    <h2 class="theme-title">Silicon Valley’s Calculated Rightward Pivot</h2>
+    <p class="theme-synth">The tech industry’s shift toward Republican alignment is a pragmatic survival strategy rather than a sudden cultural transformation. Industry leaders are trading their progressive optics to dismantle the FTC’s antitrust momentum and secure a 'soft-touch' regulatory environment for AI and crypto. This realignment marks a definitive attempt by venture capital to protect M&A exit pipelines and founder control from increasingly aggressive state and federal tax proposals.</p>
+    <p class="theme-watch"><span class="watch-label">Watch next —</span> A surge in high-profile tech merger announcements as firms test the current administration's final appetite for antitrust enforcement.</p>
+  </article>
+
+  <article class="theme-card">
+    <h2 class="theme-title">AI Infrastructure Hits the Physical Wall</h2>
+    <p class="theme-synth">The $10 trillion AI building boom is shifting from a hardware-constrained race to a resource-constrained struggle over 1950s-era power grids and water rights. Data centers are now in direct zero-sum competition with the agricultural sector for water, while high European energy costs are forcing manufacturers like Volkswagen to move production to the U.S. Midwest. This physical bottleneck will eventually force a geography-led reshuffling of tech valuations, favoring companies with secured energy and nuclear partnerships.</p>
+    <p class="theme-watch"><span class="watch-label">Watch next —</span> State-level legislative battles in Virginia or Ohio proposing 'water-neutral' mandates for new hyperscale data centers.</p>
+  </article>
+
+  <article class="theme-card">
+    <h2 class="theme-title">Indonesia’s High-Stakes Game of Fiscal Chicken</h2>
+    <p class="theme-synth">Indonesia is facing a potential $65 billion exodus as it clashes with index provider MSCI over market status while pivoting toward Chinese 'Panda Bonds' to bridge its liquidity gap. President Prabowo’s aggressive rhetoric against international financial institutions suggests a pivot toward populist nationalism that prioritizes expensive social programs over technocratic fiscal discipline. This move risks a long-term credit rating downgrade and a 'risk premium' that could choke off the foreign capital required for his infrastructure ambitions.</p>
+    <p class="theme-watch"><span class="watch-label">Watch next —</span> The new Finance Minister's first formal budget proposal and its adherence to the 3% deficit cap.</p>
+  </article>
+
+  <article class="theme-card">
+    <h2 class="theme-title">The Maturity Phase: From AI Hype to ROI</h2>
+    <p class="theme-synth">The market has officially exited the 'imagination' phase of AI and entered a 'show me the money' era where buzzwords no longer provide a valuation bump. Investors are now ruthlessly differentiating between the 'landlords'—Big Tech firms collecting rent on compute—and the 'tenants' who are burning through cash with no clear productivity gains. As companies transition from chatbots to autonomous agents, the winners will be those that can prove tangible GAAP earnings rather than just massive capital expenditure.</p>
+    <p class="theme-watch"><span class="watch-label">Watch next —</span> The next round of big tech earnings calls to see if Capex forecasts are finally being revised downward.</p>
+  </article>
+
+  <article class="theme-card">
+    <h2 class="theme-title">Liquidity Chains and the Yen-Crypto Link</h2>
+    <p class="theme-synth">Bitcoin’s near-perfect -0.90 correlation with the USD/JPY exchange rate confirms that crypto has become the primary vehicle for the 'Yen carry trade' rather than a hedge against inflation. This link, combined with record-high margin debt, makes the crypto market hyper-vulnerable to Japanese monetary policy and sudden global deleveraging events. In this environment, Bitcoin functions as a high-beta tech asset on steroids, where any strengthening of the Yen triggers an automated, cascading liquidation of digital assets.</p>
+    <p class="theme-watch"><span class="watch-label">Watch next —</span> Bank of Japan policy signals that could trigger the next major 'carry trade' unwind.</p>
+  </article>
+
+  <article class="theme-card">
+    <h2 class="theme-title">The Structural Erosion of SaaS Business Models</h2>
+    <p class="theme-synth">The traditional 'per-seat' SaaS model is dying as AI-driven efficiency makes human headcount a liability rather than a growth metric. Software firms are aggressively pivoting to usage-based and outcome-based billing to capture the productivity gains that their own AI tools provide. This shift, coupled with permanent layoffs of middle management across Big Tech, signals a structural transition where corporations prioritize lean, automated workflows over the sprawling, human-centric tech stacks of the last decade.</p>
+    <p class="theme-watch"><span class="watch-label">Watch next —</span> A major enterprise software provider announcing the complete retirement of 'per-user' pricing in favor of 'per-token' billing.</p>
+  </article>
+
+</main>
+
+<footer>
+  <p>Synthesized from the past 7 daily editions using Google's Gemini free API. Same analyst voice as the daily brief, zoomed out to the week's biggest patterns.</p>
+</footer>
+
+</body>
+</html>
