@@ -6,42 +6,54 @@
       "headline": "Silicon Valley swaps blue for red in major political shift",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdEx5NnluZV9qakVQM29xdUVZbXBudHY3djdlRFZMXzY4UDJMUm9IUTZwRHBQcGRVUFRtRXRsbE1CX3dJZ0Y5eEJZaHQyTUFfMEJGZjlkY2pTLTJ0S2czdllyR20yTTJvWVVudHZURm8ycXQyQzE3QzFOeUVvRGlUeDgyME53R0dkc2xQQTFDa3VoUjQ?oc=5",
       "prediction": "At least two major Silicon Valley-led PACs will outspend traditional industry lobbyists by 100% in the current election cycle.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "Companies set to dump billions more into IT next year",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUHd5WGx4YVNxeG9nOHV6aDNkUVcwYlFCZDFuTEdnTXI2UFRkenQ1Q1M5U3RycnVPcFpEbmNpRll0RExadGlHekZVR2J1T19NM2RFdzZ1LWlwWTQ5R0Vfbko0V2lUR1VxazRKOUEzV1hJQ1VZZEN6Y0dib2psaUhmNm5xRHlpNDVKZ004UG51SGozZl9ScUJqLUw1V0FUYi1DLWNRRXhoYUNsSG80ZzBuYjQ3enlTSUkxcGx4SHNlZGU4QQ?oc=5",
       "prediction": "Major IT services firms like Accenture will report double-digit growth in their next two quarterly earnings calls.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "Software companies ditch flat fees for AI usage billing",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSzktdnM5VUdvSDBzQ21pQTlCT211U3B1RURQWlJxWW04RHFicGxMQTQ2TTFxWmVfZVJKZ19uTGR2b25wdEs0dGZrTWpMbEpybV82VXlsX3NkNG9PNEtoR3pHOG5HUkN2WGUtNk5UWGd6MHFmczhOaUlidkVRRkw5ZEdkTDJWaDF4RUE?oc=5",
       "prediction": "By the end of 2025, 50% of the S&P 500 software sector will have introduced at least one consumption-based pricing tier.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "Social media giants sue to block California's warning labels",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcXBlS2tHdnJpcXNZVlI5dFBTdk5RVHl0LW5zNkNhcHdrWllwck82Y0lUX3p6YTJJZllzRk12UEptLWtPV0dMX1lFUGpBZ1BqaE81ZUFOZGk5TVdTdXpqOXd3bWd6R2d1Sml2U21kM3o2U1dPX0UyVXkzTk1tOHAwR3J4S0NlTXlCelFSeDN5U05iZnI4S0k1Z0c4Mk5uTUFlZXNnWC1UNnJjbkFfLTRKWTFn?oc=5",
       "prediction": "A federal judge will issue a preliminary injunction to block the California law before year-end.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
       "headline": "Rising oil prices and tech jitters drag down market futures",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdXJjNWgxTzlXaXBEejRVWmJFVFBISzd6QkFvSTZxX0x3UWllaFJaTVVlOXQtZDlQTV9XZVQ3eWhVckdpLUhJZTVJUl9PSXU3dmtoSWZfM2xSUDZ3SXFVNFN3LWRhREx2NDVmbjhhdlJuM1pETkZ1RGowUjRFaWFReWRoVXdYRVlsdm9pMmdHSFV0N01mN3RIWUhwVEp2eG5PQzdEWTBhZ3dXaFF0MTl5ZVNfblF6Y0VsUmk4Qk1B?oc=5",
       "prediction": "The S&P 500 will test its 50-day moving average before the current earnings season concludes.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
       "headline": "Investors stop rewarding companies just for saying AI",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ILUtHNDlPMWRZdXNwQXlnTnQtVE8zTTJBUmtzVTVudzJMRTV1dHRsRFFsd3puWEJGR0Q0dTZtMXYtbGM3Z3hPZUg1MUR4dVZCMzJGOUMwcWU2MVp3YzR6Tm5fYUZwN3d4Y2NvaDFLV3U?oc=5",
       "prediction": "At least one 'Magnificent Seven' stock will drop more than 5% post-earnings this quarter despite beating revenue, purely due to disappointing AI-related guidance.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
