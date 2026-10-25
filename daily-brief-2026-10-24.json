@@ -8,7 +8,7 @@
       "prediction": "At least two major Silicon Valley-led PACs will outspend traditional industry lobbyists by 100% in the current election cycle.",
       "grounded": false,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "No new information was provided regarding the spending of Silicon Valley PACs versus traditional industry lobbyists."
     },
     {
       "section": "tech",
@@ -16,8 +16,8 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUHd5WGx4YVNxeG9nOHV6aDNkUVcwYlFCZDFuTEdnTXI2UFRkenQ1Q1M5U3RycnVPcFpEbmNpRll0RExadGlHekZVR2J1T19NM2RFdzZ1LWlwWTQ5R0Vfbko0V2lUR1VxazRKOUEzV1hJQ1VZZEN6Y0dib2psaUhmNm5xRHlpNDVKZ004UG51SGozZl9ScUJqLUw1V0FUYi1DLWNRRXhoYUNsSG80ZzBuYjQ3enlTSUkxcGx4SHNlZGU4QQ?oc=5",
       "prediction": "Major IT services firms like Accenture will report double-digit growth in their next two quarterly earnings calls.",
       "grounded": true,
-      "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "status": "missed",
+      "note": "Headlines indicate Accenture's Q3 2026 results sparked a sharp stock selloff and that the firm is 'easing back,' contradicting the prediction of double-digit growth."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "By the end of 2025, 50% of the S&P 500 software sector will have introduced at least one consumption-based pricing tier.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "The provided headlines discuss the general subscription economy but do not mention consumption-based pricing tiers within the S&P 500 software sector."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "A federal judge will issue a preliminary injunction to block the California law before year-end.",
       "grounded": false,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "Today's headlines focus on mail-in voting litigation and do not contain updates on the legal challenge to California's social media warning labels."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The S&P 500 will test its 50-day moving average before the current earnings season concludes.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "While headlines note market volatility and tech jitters, they do not confirm whether the S&P 500 has tested its 50-day moving average during the current season."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "At least one 'Magnificent Seven' stock will drop more than 5% post-earnings this quarter despite beating revenue, purely due to disappointing AI-related guidance.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "The headlines discuss Nvidia's valuation and general stock market updates but do not report a 5% post-earnings drop following a revenue beat for any Magnificent Seven stock."
     },
     {
       "section": "markets",

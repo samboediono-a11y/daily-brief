@@ -1,287 +1,146 @@
 {
   "date": "2026-10-25",
-  "predictions": [
-    {
-      "section": "tech",
-      "headline": "AI Spending Is Currently Producing Zero Financial Gains",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdHBfUzFwS0VPeFU2VnBfLWxLcTRuOUdQbFU5YU5rV3BDTUhyUUtBU1VXdm50eHhzZ2pzTDZUWGp0YXJ1WEtfdUZjSGRHb0xnTjRhOUEtTXdtUG9GNkphZGN2WUtEMGd0VG5sbTc1SWFiRmxzUkhxUzNzZTF4NmFZNDBZTEJPUVV3c3lRdFRlb3RXUTNwcUN6MEVvdFk1Zk1tYlFsV3YyejdOa1U?oc=5",
-      "prediction": "At least two 'Magnificent 7' firms will report a material contraction in free cash flow due to AI capex in the next earnings cycle.",
-      "grounded": true
-    },
-    {
-      "section": "tech",
-      "headline": "Silicon Valley Sues California Over Mandatory Warning Labels",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcXBlS2tHdnJpcXNZVlI5dFBTdk5RVHl0LW5zNkNhcHdrWllwck82Y0lUX3p6YTJJZllzRk12UEptLWtPV0dMX1lFUGpBZ1BqaE81ZUFOZGk5TVdTdXpqOXd3bWd6R2d1Sml2U21kM3o2U1dPX0UyVXkzTk1tOHAwR3J4S0NlTXlCelFSeDN5U05iZnI4S0k1Z0c4Mk5uTUFlZXNnWC1UNnJjbkFfLTRKWTFn?oc=5",
-      "prediction": "A preliminary injunction will be granted before the end of Q2 2026, halting the law's implementation.",
-      "grounded": false
-    },
-    {
-      "section": "tech",
-      "headline": "The Tech Sector Is Rapidly Aligning With Republican Interests",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdEx5NnluZV9qakVQM29xdUVZbXBudHY3djdlRFZMXzY4UDJMUm9IUTZwRHBQcGRVUFRtRXRsbE1CX3dJZ0Y5eEJZaHQyTUFfMEJGZjlkY2pTLTJ0S2czdllyR20yTTJvWVVudHZURm8ycXQyQzE3QzFOeUVvRGlUeDgyME53R0dkc2xQQTFDa3VoUjQ?oc=5",
-      "prediction": "Expect a significant uptick in tech-affiliated PAC donations to Republican candidates in the six months leading up to the midterms.",
-      "grounded": false
-    },
-    {
-      "section": "tech",
-      "headline": "The Relentless Wave of Tech Layoffs Continues Into 2026",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTTZHTHdyZ19adGQ3NjhiQ09UeFNJVHBEMnBYV3R4cVQzeGt2SFRfVzhURTNmV2NDUzhtRWotUlZVV250MWd2Y0F6bHNvMWxUSmtFNlJ4WGIwbUVPaHdJQi1lZWVGT3lsQ0s3NDNuaWZtVTVCOUJ4VGI1d0lfbGthSUV5eXlncE9HUUJfUmRIMG5OOUZ0X0N2NnFDMmRtR2RKU0h4enhyei12UnlCUVhFMjNOcHBPYUtqdm1PM215NXZBc2kxdDNZZ2Y4M2txZlA0WTk2U2t5SjNPSWNqX0R3OEZabTMwOXdXNlozR2JQeUtUS3BQekxFX3pTU21FYlVvcTQ3enN5TXM?oc=5",
-      "prediction": "Meta's 2026 headcount will finish lower than its 2025 level despite record revenue projections.",
-      "grounded": true
-    },
-    {
-      "section": "markets",
-      "headline": "Stocks Fall as Rising Oil Prices Act Like a Tax",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUVdOTmZOSm56YVBnLW5NcjFJa2NTeGVpeGhvdmF4cG5ETjhEU0owdTlfVHhLY0Q2VUt5aXFqczdiY2NOcHQwWmFMQU9jM3F3MzYxcGVjNnlVQ3dOZUo0dEx6QlpiLXlOOWpaclB2T0wwbXpUZ3RhTlhZX1BOZ0pfZU84Qm95Q28?oc=5",
-      "prediction": "Brent crude will test $105 per barrel before the end of the year if the threat to the Strait of Hormuz persists.",
-      "grounded": true
-    },
-    {
-      "section": "markets",
-      "headline": "China's Stock Market Becomes a Trillion-Dollar Money Trap",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObEthY2hVTFl0LTd4dlNRQjJWTF9OdnNWb2NCQUNFTE4xNkR2d0NPUUROdFRRSEREMXBiMUd5aDRlNVY0SWZRUm5OTXdCV3JYNnA2OGdBTGxIRTZCcFV5OUoyUEV4SUNlREh0SHNCQ3hudGZaUDZ4aGNSaC1wd2lDcjlGR0hjVWNWVU9nX21QSVZQSGlXZVBqZHRMV3NUTGF4dTkteWloRmdkd2JRWUUyaUJFWQ?oc=5",
-      "prediction": "Total foreign institutional ownership of Shanghai-listed equities will hit a five-year low by year-end.",
-      "grounded": false
-    },
-    {
-      "section": "markets",
-      "headline": "The Magic Is Fading for AI-Linked Stock Rallies",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ILUtHNDlPMWRZdXNwQXlnTnQtVE8zTTJBUmtzVTVudzJMRTV1dHRsRFFsd3puWEJGR0Q0dTZtMXYtbGM3Z3hPZUg1MUR4dVZCMzJGOUMwcWU2MVp3YzR6Tm5fYUZwN3d4Y2NvaDFLV3U?oc=5",
-      "prediction": "The correlation between Nvidia's price movements and the broader S&P 500 will decouple by at least 20% in the next quarter.",
-      "grounded": false
-    },
-    {
-      "section": "markets",
-      "headline": "Historical Trends Point to a Post-Election Market Relief",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSHFyenkxai1UNFZYM1VTOVVUWlhQT3BTUk1nQXh5NU1TX0dEX2g1d2pWSlFlRWxpckgwUExsN3pPUzRqWmE4RGtoaEFBTDk3dVBBUllWbFhLMmlwSGxyRGo0bkV0WUZoTlUxd2t0OGZ5TjhBVjBUclJrNVRpSEE2bFhtTkNoRWpleGZYVlNPY0FfYUY2T1VmYnNJTkpnZGJ1SXhrZ210ODhtajN5M3Nnd20wallDb1JNejdRV2xCam9aWVJBTHlFTkxLT3pxSFBXSmhqcGxHdUM?oc=5",
-      "prediction": "The VIX will drop below 15 within 10 days of the midterm election results being certified.",
-      "grounded": true
-    },
-    {
-      "section": "us_news",
-      "headline": "Musk Tightens Control Over Ukraine's Starlink Access",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOXBvdGNZdU9CMWpZMWZsSUhGekE3Wkg2M1JVSDlYRTlQM1BTVjRqNGVfbl9vbThtRnh0TXA1eUxOdWhoRDNicXRmVkJ6aVlRdkRaM2tESVg5R1gyRFFzWlZFMXpmcXNmTjlrdmd0Z0JmVDZDTnk2VEdvN3R4WktndktYdG03SmNReDJaN1R5UzNZdTk2LTRGb2lUaDZTQUtmSmlHRGNQQjdJZXJoR0NBdEpWd0VnQQ?oc=5",
-      "prediction": "The Pentagon will sign a major contract with a Starlink competitor, such as Kuiper, before the end of 2026.",
-      "grounded": true
-    },
-    {
-      "section": "us_news",
-      "headline": "Rising Tensions Push US and Iran Toward Direct Conflict",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOenJjWWFLN0xjSXdjOHdmUFJ5ekx1M0FLLWR0dGxDc1p6X2xJbDAzM2Zia0lIZFhwdTBJOExfNnVseXd4M1RzUjRDV2MySDBTTTFuQTFKYmVrd2JEWTdOUG9BM3kzU24waU9zQlJMV0d3cFR1VXJrdVZzd1FITEV4Y3lMbHVOM1hZWlFnQlZKd3FvVDA?oc=5",
-      "prediction": "The US will increase its naval presence in the Persian Gulf by at least one additional carrier strike group within 30 days.",
-      "grounded": true
-    },
-    {
-      "section": "us_news",
-      "headline": "Volkswagen Expands US Manufacturing Despite Cuts in Germany",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTFRYmpOcW9wVmJQcTE1S0dVcHoyeFJldDlKY0ktZnd6ODV5NWVOWEtEUVNvVERjaXFqcDd6S2VSNWp4dmdBMmVsV3VoZ0UtS21NdEZHbTVaRzFRTEZaMnFLZllrVWpncmFsWE5YUGozdUpYTDhUb1Exb2VvYVg4REE0Q3pqVlBtUU15MHdnNmNFRHNzeHc4LUg2YUdwQUFPaUNaMXFqb0poV2ItVWNrSVFuY0J0UWczUE9yTQ?oc=5",
-      "prediction": "VW will announce the first of its German plant closures within the next six months.",
-      "grounded": true
-    },
-    {
-      "section": "us_news",
-      "headline": "Apple Finally Abandons Resistance to Touch-Screen MacBooks",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU050VmdaXzZvZzVfNXRjQXo2SnVzYVRPOHppZ3QxcmN5ejItUy10Mm50Z1VkdGVSUlNKaXJRVnBUbmdmdEs2T1Z2UXhzRmNQYTZzdVFmeVdXcmt5VmRvOFA5dHRCX2RDajBlZFF1ZlZnWE03Qk1ZWUpNUndjTHNEWnpXOEpuV080OXFXTTN1UldKU3N2YjdfNzlCbENQWkNmWVJPbEJ6eHVQRU85MzJBNGMzS2VyakJGanJIZTMzUTlNUnpicXJKbDJR?oc=5",
-      "prediction": "The touch-screen MacBook Pro will be announced as the 'One More Thing' at a hardware event by early 2026.",
-      "grounded": false
-    },
-    {
-      "section": "indonesia",
-      "headline": "Prabowo Plays Hardball With Global Market Ratings Firm",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdVlDS3cyUGVQSkVGNFVfYXExVWNvQXBnZmhnTHNYU244VU1NVS01dmUwX1RCTGw5NW45YllWNm1WWURTRGpNQy1OMm1IUmdwTzVVTHdBRDdUZ1AtV1pVdFNQSDBDdW9nbHFUVmR1OXAwOVIwVHpGalVZZnJ5UGFkQU1SazJsN0J1WU5Db3VCNUxhNndSaG5jUmZGSUtQb3VncUFlbDB1Sl9kY09KNHJsWlZGMA?oc=5",
-      "prediction": "MSCI will keep Indonesia on its 'watch list' for at least two quarters before making a final downgrade decision.",
-      "grounded": false
-    },
-    {
-      "section": "indonesia",
-      "headline": "Free University Program Risks Busting the National Budget",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUG5IVTVZYmstMWdSeXYtM1FMR3BjWWJNVjQyZlVKbDFQSkZrLTdGVk5IUU1tOExCT3VYZXFPVzZnTjZYQlV1MFdudDV6NnU4ZThYWlhSUEM0aGZCZS1hdVdpUUNiM2xfOF9vRkc1Zld0SGRabWIxT1Y3U2h3Y1RxYXIyZm81bEJaY1ZFc2JELXFzQ3c2RksyRzZid0NsbmZXREpsMw?oc=5",
-      "prediction": "The Indonesian government will introduce a 'means test' or GPA requirement for the program within its first year of operation.",
-      "grounded": false
-    },
-    {
-      "section": "indonesia",
-      "headline": "Central Bank Prioritizes Currency Stability Over Cheap Loans",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVEdxajdIckE5ZmJNVEJISHVSaGhnMXVrX3JENHQ3MjE5UlU3QWQ3TVJuNGtGeDhCU2RTcC03RmtiS09LaEdSemVrODJvZGpqWnVqNlRYQ0theF9Sa19jQ2R2ZlBkVmJBamhkOWROcm5HUkNEYXBLMzIwUk5IMGI2dmZsaW42MmRPZmFLd3luQmZSVU1JQkM5VEpRa09QNFJncEZYdkdJcnhIU28?oc=5",
-      "prediction": "Bank Indonesia will keep the benchmark rate unchanged until at least two 25-bps cuts are executed by the US Federal Reserve.",
-      "grounded": true
-    },
-    {
-      "section": "indonesia",
-      "headline": "Gas Supply Cuts Loom Over Indonesia's Electricity Prices",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZkZzbGViam9YdHlXMC1SeDBZdV8zVTRGMGh6UElNQUtLeHR6TkVZdjR1dlVpRkVUelVLVE9qLU10Um1qc1RwRlE2d1lpVmVXLU56bXRUSC1CMWpaZGFrT240cE1Sa0g2OC1pOHVodFQ2bDhXSjdWR3Zxak41d19FNmtaWlJmWDNXRVVaX1dEanhaMXZWXzBtNm9xblZWdnBYN0xjbVJUV2wzSDFaYXppNzBkc1Itb2Y5TXFzRXI0QkFqWWR1RVNKLThONWxMVXFPUUtNdjZmRk9tX2k3R1E?oc=5",
-      "prediction": "Electricity tariffs for industrial consumers in Java will rise by at least 10% by mid-2026.",
-      "grounded": true
-    },
-    {
-      "section": "crypto_fx",
-      "headline": "A Powerful US Dollar Is Sucking the Air Out of Crypto",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSzJTNlFLOVduQU9HQW5vOFU0bHVCaXo2SlV6VEdPRW9nekhJUEJaVWxVb1p0N0tPWWRyekVKb1hHX3hpYzh1aXJvb2wzZlhRMDNTREpieFVCdEI3RmpucngwaDhsVk1mOWJYdmhOQ2hIZVFWWTdwcGpjakRyZDd2el9HWFozbUQxUmRhVGNUMkh6NTdyNm80UFh6S1pRV2tNV2VfLUdyaDNva1BUVDNnVjNR?oc=5",
-      "prediction": "Bitcoin will underperform the S&P 500 as long as the DXY (Dollar Index) remains above 105.",
-      "grounded": false
-    },
-    {
-      "section": "crypto_fx",
-      "headline": "Bitcoin Is Increasingly Moving in Lockstep With the Yen",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5",
-      "prediction": "Any surprise rate hike from the Bank of Japan will trigger a flash crash in Bitcoin of 5% or greater within 24 hours.",
-      "grounded": false
-    },
-    {
-      "section": "crypto_fx",
-      "headline": "Middle East Tensions Trigger a $500 Million Crypto Liquidation",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcjIzel9VSWJJYWg5LXhKTnZFTFk2Y2NKQVVlbVlsWjhENTJ0WkJQWlFEOHV5aWxMd0R1WjdUeTNldDNsZmQ3QmJCN0QwU1BWU2xsRnZfb2J5QVhkRXpDUkplQzBnTFdCZ1NHcDRPWVJPNlpXc0lBTFlobUN6NEZuWFRmS0p2Ung1QkpLc3pXQk0wZ01FMUpFajhmeVpjSnpSa2IyYkp6cVdCelZSR3RjTUI1UU1RQU5GSE15c3NGOVlMTGgyODV1dzlhX0VQRVR0NGU1c1A1MVV2akJselRhRQ?oc=5",
-      "prediction": "Bitcoin will not reclaim the $80,000 level until there is a sustained ceasefire or de-escalation in the Middle East.",
-      "grounded": true
-    },
-    {
-      "section": "crypto_fx",
-      "headline": "Bitcoin Fails to Hold the Crucial $80,000 Mark",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLXFPRFZTWWlraFpwdHo4ZEF1NjdBYXZuODFING9XUFh4ekpSMkxtbndLcGpfcWg3NVdEQXhxdkZ5d25tWEtXT0hqMXVaekZmcjBGbEVVdW1Hanh6eW9NdmMydlp2c1ZVUExXOVdVZ2syUEwxenRod3BLc2VTbVp0azBpdGJlbmNkR1B4S1dyUTVuWW44RnJXZk5XQ25sR0FMUmJ2Y2JSYnZOQlh4cHdfQ09ZOE15SkRnNElKZjVvWE9GZkJzQVJj?oc=5",
-      "prediction": "Bitcoin will retest the $72,000 support level before it makes another attempt at $80,000.",
-      "grounded": false
-    }
-  ],
+  "predictions": [],
   "stories": [
     {
       "section": "tech",
-      "headline": "AI Spending Is Currently Producing Zero Financial Gains",
-      "summary": "Apollo Global Management reports that despite billions in investment, AI has yet to deliver a measurable financial payoff for corporate America.",
-      "view": "The AI capex cycle has hit the 'show me the money' phase, where massive cloud infrastructure builds are outpacing actual software revenue. IBM's margin squeeze and Microsoft's spend-heavy preview confirm that hardware suppliers like Nvidia and TSMC are the only definitive winners right now, while software incumbents are struggling to monetize GenAI beyond incremental seat-price hikes.",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdHBfUzFwS0VPeFU2VnBfLWxLcTRuOUdQbFU5YU5rV3BDTUhyUUtBU1VXdm50eHhzZ2pzTDZUWGp0YXJ1WEtfdUZjSGRHb0xnTjRhOUEtTXdtUG9GNkphZGN2WUtEMGd0VG5sbTc1SWFiRmxzUkhxUzNzZTF4NmFZNDBZTEJPUVV3c3lRdFRlb3RXUTNwcUN6MEVvdFk1Zk1tYlFsV3YyejdOa1U?oc=5"
+      "headline": "Big Tech profits from AI while everyone else pays the bill",
+      "summary": "Recent reports show that while tech giants are raking in cash selling AI tools, the companies buying them haven't seen any real financial return yet.",
+      "view": "The winners here are the 'landlords' of the internet\u2014Microsoft, Google, and Amazon\u2014who charge high fees for the computing power needed to run AI. The losers are traditional companies that are burning through cash on expensive 'tokens' and API fees without seeing a boost in their own sales or productivity. Watch for a 'tech winter' in corporate spending if these companies don't see a profit payoff by the middle of next year.",
+      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPblhPVzNFZ0J5bkExRUg4WTBBWlFfRGNHVmpfR0NOWF9DR2tObW5ZeEg3cVhhMFcta2hZN1R4ZGFEbGEyQnNTUXdkUzNqRzNyaGlsZUE3ZTJta1ZRNU91UURHQmo3SW8zcE1hZnJwcWFIWXh3ZkdXWGJVZElfRllLUTZXYTR3d1pVS1FYblZvbzkxa1BQVEQyWEk5a28xVFVQUXNIamhRZlhQeHJGbjU3dlhkVjRWZUN5dF9QQ0xvTWxKOTRnX0ZvZUVJa1IwbTVWSVZhTmxrUjd3SG92UU45OTR0NmM2UjhTdks0STFyb2M3TUpWV2o3QzdZbFpNNzZDRk9lZVd4bHZZZFF0cmNfX05VSzVsbFdOZXM2RWxlVGczRURVeGNBLXlxZnExLTdkd3ZZTzJQeUtSQmRJYWJCaEpXU2R3M3RJRU5QLVFXbllvRWFUQ3FJREliYUc0QQ?oc=5"
     },
     {
       "section": "tech",
-      "headline": "Silicon Valley Sues California Over Mandatory Warning Labels",
-      "summary": "The tech industry is legally challenging a new California law that requires social media platforms to display warning labels.",
-      "view": "This is a First Amendment defensive play designed to prevent the 'tobacco-ification' of social media. The tech industry wins by delaying enforcement through the courts, forcing California to prove that algorithmic curation constitutes speech that cannot be legally compelled.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcXBlS2tHdnJpcXNZVlI5dFBTdk5RVHl0LW5zNkNhcHdrWllwck82Y0lUX3p6YTJJZllzRk12UEptLWtPV0dMX1lFUGpBZ1BqaE81ZUFOZGk5TVdTdXpqOXd3bWd6R2d1Sml2U21kM3o2U1dPX0UyVXkzTk1tOHAwR3J4S0NlTXlCelFSeDN5U05iZnI4S0k1Z0c4Mk5uTUFlZXNnWC1UNnJjbkFfLTRKWTFn?oc=5"
-    },
-    {
-      "section": "tech",
-      "headline": "The Tech Sector Is Rapidly Aligning With Republican Interests",
-      "summary": "A shift in political leanings shows Silicon Valley moving away from its traditional Democratic roots toward Republican-coded stances.",
-      "view": "The shift isn't ideological; it's a pragmatic pivot toward deregulation and antitrust leniency. Silicon Valley 'winners' are betting that a GOP administration will dismantle the FTC's aggressive stance on M&A, which is the lifeblood of the venture capital exit cycle.",
+      "headline": "Silicon Valley's political identity shifts firmly toward the Republican camp",
+      "summary": "The tech industry, once a reliably liberal stronghold, is increasingly aligning with Republican policies and messaging.",
+      "view": "This isn't just about personal vibes; it's a strategic move to avoid aggressive antitrust crackdowns and heavy regulation on AI and crypto. By 'coding' itself as Republican, the industry is betting that a friendlier regulatory environment will protect their massive profit margins from government interference. Watch how this shift influences which tech startups get funded by increasingly political venture capitalists.",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdEx5NnluZV9qakVQM29xdUVZbXBudHY3djdlRFZMXzY4UDJMUm9IUTZwRHBQcGRVUFRtRXRsbE1CX3dJZ0Y5eEJZaHQyTUFfMEJGZjlkY2pTLTJ0S2czdllyR20yTTJvWVVudHZURm8ycXQyQzE3QzFOeUVvRGlUeDgyME53R0dkc2xQQTFDa3VoUjQ?oc=5"
     },
     {
       "section": "tech",
-      "headline": "The Relentless Wave of Tech Layoffs Continues Into 2026",
-      "summary": "Major firms including Meta, TikTok, and Apple are continuing to shed staff as part of a multi-year efficiency drive.",
-      "view": "The 'year of efficiency' has become a permanent structural shift in tech operations. Firms are using AI not just as a product, but as a mechanism to permanently reduce headcounts in middle management and coding, shifting the value from labor to compute.",
+      "headline": "Massive data centers are sucking up water meant for farmers",
+      "summary": "The tech industry is coming under fire for its massive water consumption, which is beginning to threaten agricultural supplies in dry regions.",
+      "view": "AI requires an enormous amount of water to cool the servers that do the heavy lifting, creating a direct conflict with the food supply. Local governments will soon be forced to choose between high-paying tech jobs and the survival of local farms, which will likely lead to much higher water taxes for big tech. Watch for a rise in 'water-neutral' hardware claims as companies try to get ahead of the inevitable public backlash.",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0UFVfdDEwdFNTb3JUZFZab3AzUEJ5R0xDN3VQT0NnQ2w3MngxT3A1bUpIUFA1enlQYnNZbWpoaEVUdGF3RldxaXQxVjJkQ180bnFJMHlKRzl0UlJoWUQ5NzI4VEZydVlOc0E4VkJnMHpheXMyQ2VCZjFnRVFndw?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Tech layoffs continue as giants pivot away from old projects",
+      "summary": "Major players including Meta, TikTok, and Apple are continuing to trim staff well into 2026 despite overall market stability.",
+      "view": "This isn't a sign of bankruptcy, but a cold-blooded 'efficiency' era where companies are firing expensive middle managers to fund their AI arms race. Workers lose leverage here as the 'dream' of endless tech perks vanishes, replaced by a focus on lean, automated teams. Watch for these companies to report record profits per employee as they automate roles they used to hire humans for.",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTTZHTHdyZ19adGQ3NjhiQ09UeFNJVHBEMnBYV3R4cVQzeGt2SFRfVzhURTNmV2NDUzhtRWotUlZVV250MWd2Y0F6bHNvMWxUSmtFNlJ4WGIwbUVPaHdJQi1lZWVGT3lsQ0s3NDNuaWZtVTVCOUJ4VGI1d0lfbGthSUV5eXlncE9HUUJfUmRIMG5OOUZ0X0N2NnFDMmRtR2RKU0h4enhyei12UnlCUVhFMjNOcHBPYUtqdm1PM215NXZBc2kxdDNZZ2Y4M2txZlA0WTk2U2t5SjNPSWNqX0R3OEZabTMwOXdXNlozR2JQeUtUS3BQekxFX3pTU21FYlVvcTQ3enN5TXM?oc=5"
     },
     {
       "section": "markets",
-      "headline": "Stocks Fall as Rising Oil Prices Act Like a Tax",
-      "summary": "The Dow Jones Industrial Average slipped as oil prices climbed to their highest point in five months.",
-      "view": "The 'oil tax' is back, and it's hitting consumer discretionary spending just as the Fed attempts a soft landing. The geopolitical risk premium from the Iran conflict is now a structural component of the equity risk premium, making any rally in non-energy sectors fragile.",
+      "headline": "Rising oil prices send the Dow lower as inflation fears return",
+      "summary": "The Dow Jones Industrial Average fell as oil prices hit a five-month high, sparking concerns that energy costs will stay elevated.",
+      "view": "When oil goes up, it acts like a hidden tax on every business that ships goods or powers a factory, squeezing their profit margins. This move suggests that the 'easy' part of fighting inflation is over, and the Federal Reserve might have to keep interest rates high for longer than investors hoped. Watch the 'headline' inflation numbers next month; if they don't cool off, the stock market's recent gains could evaporate quickly.",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUVdOTmZOSm56YVBnLW5NcjFJa2NTeGVpeGhvdmF4cG5ETjhEU0owdTlfVHhLY0Q2VUt5aXFqczdiY2NOcHQwWmFMQU9jM3F3MzYxcGVjNnlVQ3dOZUo0dEx6QlpiLXlOOWpaclB2T0wwbXpUZ3RhTlhZX1BOZ0pfZU84Qm95Q28?oc=5"
     },
     {
       "section": "markets",
-      "headline": "China's Stock Market Becomes a Trillion-Dollar Money Trap",
-      "summary": "Shrinking corporate profits have turned China's massive stock market into a danger zone for global investors.",
-      "view": "China's 'uninvestable' label is becoming permanent because the state-driven economy no longer prioritizes shareholder returns over national security. Global funds are trapped in a liquidity squeeze where selling is the only rational move, but finding buyers at current valuations is impossible.",
+      "headline": "China\u2019s stock market becomes a trap as corporate profits sink",
+      "summary": "Investors are fleeing Chinese stocks as a $3.5 trillion rout deepens due to disappointing earnings and a lack of effective stimulus.",
+      "view": "The 'buy the dip' strategy in China has failed because the underlying companies simply aren't making enough money to justify their prices. This creates a global ripple effect where institutional investors pull money out of all emerging markets and park it safely back in U.S. Treasury bonds. Watch for whether Beijing announces a massive 'bazooka' style bailout, or if they continue to let the market slide.",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObEthY2hVTFl0LTd4dlNRQjJWTF9OdnNWb2NCQUNFTE4xNkR2d0NPUUROdFRRSEREMXBiMUd5aDRlNVY0SWZRUm5OTXdCV3JYNnA2OGdBTGxIRTZCcFV5OUoyUEV4SUNlREh0SHNCQ3hudGZaUDZ4aGNSaC1wd2lDcjlGR0hjVWNWVU9nX21QSVZQSGlXZVBqZHRMV3NUTGF4dTkteWloRmdkd2JRWUUyaUJFWQ?oc=5"
     },
     {
       "section": "markets",
-      "headline": "The Magic Is Fading for AI-Linked Stock Rallies",
-      "summary": "Investors are starting to ignore the 'AI pixie dust' that previously sent any tech-adjacent stock soaring.",
-      "view": "The market has entered a 'rationalization phase' where 'AI-adjacent' is no longer a viable pitch for a stock pop. Only firms with clear, recurring revenue from AI deployments will avoid the coming multiple contraction as the hype cycle reaches its trough.",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ILUtHNDlPMWRZdXNwQXlnTnQtVE8zTTJBUmtzVTVudzJMRTV1dHRsRFFsd3puWEJGR0Q0dTZtMXYtbGM3Z3hPZUg1MUR4dVZCMzJGOUMwcWU2MVp3YzR6Tm5fYUZwN3d4Y2NvaDFLV3U?oc=5"
-    },
-    {
-      "section": "markets",
-      "headline": "Historical Trends Point to a Post-Election Market Relief",
-      "summary": "Market analysts suggest that stock volatility may cool off once the US midterm elections are finalized.",
-      "view": "Uncertainty is the only thing markets truly hate; once the midterm results are in, the removal of the 'unknown' will trigger a reflexive rotation back into risk assets. History shows that political gridlock\u2014likely after these elections\u2014is the preferred outcome for Wall Street.",
+      "headline": "Wall Street expects a post-election rally regardless of the winner",
+      "summary": "Historical data suggests that the stock market typically rises after midterm elections as the uncertainty of the campaign ends.",
+      "view": "Markets hate a vacuum of information more than they hate specific policies; once the votes are in, businesses can finally plan their budgets for 2027. This 'relief rally' is usually driven by institutional investors who have been sitting on cash and are finally ready to buy again. Watch for a surge in trading volume the week after the election, which will signal if the big players are truly back in the game.",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSHFyenkxai1UNFZYM1VTOVVUWlhQT3BTUk1nQXh5NU1TX0dEX2g1d2pWSlFlRWxpckgwUExsN3pPUzRqWmE4RGtoaEFBTDk3dVBBUllWbFhLMmlwSGxyRGo0bkV0WUZoTlUxd2t0OGZ5TjhBVjBUclJrNVRpSEE2bFhtTkNoRWpleGZYVlNPY0FfYUY2T1VmYnNJTkpnZGJ1SXhrZ210ODhtajN5M3Nnd20wallDb1JNejdRV2xCam9aWVJBTHlFTkxLT3pxSFBXSmhqcGxHdUM?oc=5"
     },
     {
-      "section": "us_news",
-      "headline": "Musk Tightens Control Over Ukraine's Starlink Access",
-      "summary": "SpaceX has reportedly closed loopholes that allowed Ukraine to bypass Starlink's service terms on the battlefield.",
-      "view": "Elon Musk is asserting himself as a private sovereign with more leverage over battlefield communications than NATO. By closing 'loopholes,' SpaceX is effectively dictating the operational limits of Ukrainian sovereignty, prioritizing its own corporate risks over US foreign policy goals.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOXBvdGNZdU9CMWpZMWZsSUhGekE3Wkg2M1JVSDlYRTlQM1BTVjRqNGVfbl9vbThtRnh0TXA1eUxOdWhoRDNicXRmVkJ6aVlRdkRaM2tESVg5R1gyRFFzWlZFMXpmcXNmTjlrdmd0Z0JmVDZDTnk2VEdvN3R4WktndktYdG03SmNReDJaN1R5UzNZdTk2LTRGb2lUaDZTQUtmSmlHRGNQQjdJZXJoR0NBdEpWd0VnQQ?oc=5"
+      "section": "markets",
+      "headline": "The AI hype trade is showing serious signs of fatigue",
+      "summary": "Market analysts warn that the huge stock gains driven by AI enthusiasm are becoming harder to sustain as risks mount.",
+      "view": "The market is moving from the 'imagination' phase of AI to the 'show me the money' phase, and many stocks are currently priced for perfection. If companies don't deliver explosive growth in the next earnings cycle, we could see a 10-15% correction in tech-heavy indices. Watch the earnings of chipmakers like Nvidia; they are the canary in the coal mine for this entire trade.",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa1hIaGMyX0wwUHdpc1lzeXkwYUlOaEJhNFIwWThiV1o4b19lcl9WS1JNd0FKSE1DV1BVRGlwWUZ1ckMzWmFEYnZXazg0MlNGb194MmNEc0NuT0JkNzZxOU9tbHJ6WGx1clREZXFDXzhDZEgwS2EzNzhuUFQ1Zkd5bTh0TDRoc2ZNdmpyWXdBRlV2MlNqa0otV1ZMVXdtYUp2NFNRQy12alhhM1k1amR2OXZjdHB0S3J6aC1Gazl2Tm8?oc=5"
     },
     {
       "section": "us_news",
-      "headline": "Rising Tensions Push US and Iran Toward Direct Conflict",
-      "summary": "New threats and escalating rhetoric are raising the risk of a full-scale war between the US and Iran.",
-      "view": "We are one miscalculation away from a blockade of the Strait of Hormuz, which would weaponize global energy prices instantly. The US naval blockade and Iran's 'practical response' threats suggest that traditional diplomacy is failing, leaving the market to price in a 'war tax' on all trade.",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOenJjWWFLN0xjSXdjOHdmUFJ5ekx1M0FLLWR0dGxDc1p6X2xJbDAzM2Zia0lIZFhwdTBJOExfNnVseXd4M1RzUjRDV2MySDBTTTFuQTFKYmVrd2JEWTdOUG9BM3kzU24waU9zQlJMV0d3cFR1VXJrdVZzd1FITEV4Y3lMbHVOM1hZWlFnQlZKd3FvVDA?oc=5"
-    },
-    {
-      "section": "us_news",
-      "headline": "Volkswagen Expands US Manufacturing Despite Cuts in Germany",
-      "summary": "VW is investing $4 billion in a new SUV factory in the US while cutting jobs at its home base in Germany.",
-      "view": "Volkswagen is executing a geographic arbitrage, fleeing high energy costs and rigid labor laws in Germany for the subsidies and growth of the US market. The winner is the US EV supply chain, while the loser is the German industrial model, which is dying under the 'second China shock.'",
+      "headline": "Volkswagen commits $4 billion to U.S. plant despite German struggles",
+      "summary": "Volkswagen is moving forward with a massive Audi SUV factory in America while simultaneously cutting jobs at its home base in Europe.",
+      "view": "This is a massive win for U.S. industrial policy, showing that high energy costs in Europe are forcing manufacturers to move production to the States. It creates a 'deindustrialization' crisis in Germany but ensures that the next generation of high-tech cars is built in the American Midwest. Watch for other European brands to follow suit as they look for cheaper power and more stable subsidies.",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTFRYmpOcW9wVmJQcTE1S0dVcHoyeFJldDlKY0ktZnd6ODV5NWVOWEtEUVNvVERjaXFqcDd6S2VSNWp4dmdBMmVsV3VoZ0UtS21NdEZHbTVaRzFRTEZaMnFLZllrVWpncmFsWE5YUGozdUpYTDhUb1Exb2VvYVg4REE0Q3pqVlBtUU15MHdnNmNFRHNzeHc4LUg2YUdwQUFPaUNaMXFqb0poV2ItVWNrSVFuY0J0UWczUE9yTQ?oc=5"
     },
     {
       "section": "us_news",
-      "headline": "Apple Finally Abandons Resistance to Touch-Screen MacBooks",
-      "summary": "After twenty years of saying 'no,' Apple is reportedly preparing to launch a touch-enabled MacBook Pro.",
-      "view": "Apple's capitulation on touch-screens is a forced move to prevent iPad sales from cannibalizing the high-end laptop market. This isn't innovation; it's a defensive hardware refresh meant to drive a massive replacement cycle for users holding 3-to-5-year-old MacBooks.",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU050VmdaXzZvZzVfNXRjQXo2SnVzYVRPOHppZ3QxcmN5ejItUy10Mm50Z1VkdGVSUlNKaXJRVnBUbmdmdEs2T1Z2UXhzRmNQYTZzdVFmeVdXcmt5VmRvOFA5dHRCX2RDajBlZFF1ZlZnWE03Qk1ZWUpNUndjTHNEWnpXOEpuV080OXFXTTN1UldKU3N2YjdfNzlCbENQWkNmWVJPbEJ6eHVQRU85MzJBNGMzS2VyakJGanJIZTMzUTlNUnpicXJKbDJR?oc=5"
+      "headline": "Data centers become a unexpected flashpoint in midterm races",
+      "summary": "Voters are pushing back against the rapid expansion of massive data centers due to concerns over noise, power usage, and land rights.",
+      "view": "What used to be a local zoning issue is now a 'not in my backyard' (NIMBY) political movement that could slow down the national AI infrastructure. If politicians respond by blocking permits, the cost of cloud computing will skyrocket, hurting every startup that relies on digital scale. Watch for candidates in Virginia and Ohio to take hardline stances on power grid 'fairness' to win over local voters.",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSzBTNktOVVRQVUdyVzVvMEY1dzRBdTQ2MU5nUjVPUklpcF9CN1Zfemotc1JXQVdWY2pGN0FvcnFwVThLb3AwZFR2czBTbU9kUWhyS2NxbkZfT1gxT18zaWdLSkRHUGg1SDdNVFpjSXFxZ0NyVS1yVXJLZUNaaFcwZGdTUzRla0hCUEd5cHFGa0lGS3lLQkE?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Home sellers start cutting prices as the housing market stalls",
+      "summary": "Real estate data shows an increase in price cuts as sellers realize that buyers can no longer afford high prices at current interest rates.",
+      "view": "The standoff between sellers and buyers is finally breaking in favor of the buyers, as 'stagnant' inventory forces realistic pricing. However, this isn't a crash\u2014it's more of a painful reset that will likely keep total sales volumes low until next spring. Watch the 'days on market' metric; as it climbs, sellers lose their remaining leverage and we see more aggressive concessions.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOTNTNTg5NlBaRGZXQ1RtUjltdlpvYkFjMmxBRkZTLWhZVnVZSUFvM3pjTE9PQzE0MGRLbW9zODlwQ00zbWlkb1VObTRPQ2hPa1d2WWtaTVk0QXBhZVJabTVreEI2VW5oYW1ObjVCVmJaMW9lUGN4aXY3Z0tDWl9zVURsS0Frcl9TWTF6ZmhGejBBU2paU2NWSzRPSE9vSjFLY19qYTRSeV9VNlc0Mzk4?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Kim Jong Un\u2019s surprise China visit hints at a new trade bloc",
+      "summary": "North Korea\u2019s leader made a rare trip to China to open a new bridge and discuss economic cooperation.",
+      "view": "This signals a hardening 'anti-Western' economic alliance that aims to bypass global sanctions through direct land-based trade. For businesses, this means the geopolitical map is becoming more bifurcated, making it riskier to source materials from the region. Watch for a spike in shipping insurance costs in the Yellow Sea as military tensions usually follow these high-profile diplomatic huddles.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcjBPZ3dxSHBGNGpJN0dCX1JYT09lUDgyQW1SSUZKRHNRWF90SW5NVENhZEtQRHZjUzYyVnVYLXdRWkxuVmt2RGtTSDVSalVrVURxbFlTQzZ5UFd3b2dxelVhVkNuS3J6cmF2Y2h4NEJfQWNsSklmZk1MSWxtbEFOb3lIUTV0RzNwenNCZVVYUGxSUVZIblpUS2VYdzMxZ1RX?oc=5"
     },
     {
       "section": "indonesia",
-      "headline": "Prabowo Plays Hardball With Global Market Ratings Firm",
-      "summary": "President Prabowo is resisting pressure from MSCI after the firm issued a warning about Indonesia's market status.",
-      "view": "Prabowo is signal-testing a more nationalist economic agenda, prioritizing domestic stability over the approval of Western ratings agencies. This 'hardball' approach risks a capital flight if MSCI follows through on a downgrade, which would raise borrowing costs for Indonesian corporates.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdVlDS3cyUGVQSkVGNFVfYXExVWNvQXBnZmhnTHNYU244VU1NVS01dmUwX1RCTGw5NW45YllWNm1WWURTRGpNQy1OMm1IUmdwTzVVTHdBRDdUZ1AtV1pVdFNQSDBDdW9nbHFUVmR1OXAwOVIwVHpGalVZZnJ5UGFkQU1SazJsN0J1WU5Db3VCNUxhNndSaG5jUmZGSUtQb3VncUFlbDB1Sl9kY09KNHJsWlZGMA?oc=5"
+      "headline": "Prabowo attacks global index provider over downgrade warning",
+      "summary": "President Prabowo has accused MSCI of trying to 'intimidate' Indonesia after the firm suggested it might downgrade the country's market status.",
+      "view": "This is a high-stakes game of chicken: if MSCI actually downgrades Indonesia, billions of dollars in 'passive' pension fund money will automatically be forced to sell Indonesian stocks. Prabowo's aggressive rhetoric might please his base, but it risks spooking the very foreign investors he needs to fund his infrastructure plans. Watch for the 'Rupiah' exchange rate; if it starts sliding, it means the big money is betting that MSCI won't back down.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeUxUcXhVazFEc01GWkZiSEZqaTQ1dXlEMlpuVFdXN1QzeXZEUUxlZEloYjkxVmFMX1pyYWFJOXVHX2xTd2NTOEFSV21RQTU2R25yR2JocWFCejFoSjAxdG44NFhDVFNJUkFfY0ZCOUYxNy02THNNM3JQVzVZOU95bDFRdEV3S3U3WDhyNlRKVWVuZFFoZ3BTSF9iN2tLU3VZUW5sWGlVX0xmeUhRTUR6S3dOQkY?oc=5"
     },
     {
       "section": "indonesia",
-      "headline": "Free University Program Risks Busting the National Budget",
-      "summary": "A plan to offer free university education focused on AI is creating significant fiscal pressure in Indonesia.",
-      "view": "This is a classic populist 'fiscal trap' where the desire for long-term human capital (AI skills) creates a short-term deficit crisis. The program will likely be scaled back or restricted to high-achieving STEM students once the reality of the 2026 budget hits.",
+      "headline": "Ambitious 'Free University' plan puts Indonesia's budget at risk",
+      "summary": "The government's plan to offer free university to attract AI talent is raising major concerns about the nation's fiscal deficit.",
+      "view": "Indonesia is trying to 'leapfrog' into the tech economy, but they are doing it with money they don't necessarily have. This could lead to a credit rating downgrade if the government can't show a clear way to pay for it without blowing out the national debt. Watch for whether the government cuts fuel subsidies to pay for these education perks, which would cause immediate inflation for the average citizen.",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUG5IVTVZYmstMWdSeXYtM1FMR3BjWWJNVjQyZlVKbDFQSkZrLTdGVk5IUU1tOExCT3VYZXFPVzZnTjZYQlV1MFdudDV6NnU4ZThYWlhSUEM0aGZCZS1hdVdpUUNiM2xfOF9vRkc1Zld0SGRabWIxT1Y3U2h3Y1RxYXIyZm81bEJaY1ZFc2JELXFzQ3c2RksyRzZid0NsbmZXREpsMw?oc=5"
     },
     {
       "section": "indonesia",
-      "headline": "Central Bank Prioritizes Currency Stability Over Cheap Loans",
-      "summary": "Indonesia's central bank held interest rates steady to support the Rupiah and manage growth.",
-      "view": "Bank Indonesia is correctly identifying that currency stability is the only way to prevent imported inflation. By holding rates steady, they are sacrificing domestic credit growth to prevent a Rupiah death spiral that would occur if they cut ahead of the Fed.",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVEdxajdIckE5ZmJNVEJISHVSaGhnMXVrX3JENHQ3MjE5UlU3QWQ3TVJuNGtGeDhCU2RTcC03RmtiS09LaEdSemVrODJvZGpqWnVqNlRYQ0theF9Sa19jQ2R2ZlBkVmJBamhkOWROcm5HUkNEYXBLMzIwUk5IMGI2dmZsaW42MmRPZmFLd3luQmZSVU1JQkM5VEpRa09QNFJncEZYdkdJcnhIU28?oc=5"
+      "headline": "Jakarta refuses to declare disaster despite choking wildfire haze",
+      "summary": "The government is resisting a national disaster declaration for ongoing wildfires, citing the potential impact on tourism and investment.",
+      "view": "This is a classic 'economics vs. environment' trade-off where the government is prioritizing the country's image over public health to keep foreign capital flowing. By avoiding the 'disaster' label, they also avoid certain legal liabilities for palm oil companies that may be responsible for the fires. Watch for 'ESG' focused investors to start flagging Indonesian commodities if the environmental damage continues to be downplayed.",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWV9Zc05GYzZMWE5WbTFKTHJYeW1XRGdjUkM5ZnNlVW9mS3BnTXpnVmVoVTFkSC1USlJQcDZoY1k3WHozWDZMSjN6cG1nY1c5X2JUcjZxdmRVU1JjTnZQaTQ0OTdCWHc5RTZYeGNHQ3VmVWR6OUpUYXA3ZGpXS1Q0RVRxNTM5azVWR1hpMzZqZlVCN09aSWF6X1JVdWoxeHA3eHp5czE0NlJkNmVUa3A0ZGVGcGRlMzUyR0RELXFUYU_SAcABQVVfeXFMTmM0VW93UUFJZjFqcFV4Q1JJb2c1SzE2WkdkSVZkNnYzTmdpbnI2cno2QnY0blg5bU5QdVdwR1NwWk9HMW9pQkVnRlFKX1JsRUVGQlJOa2wxdnAzQXNIWE9YbkoweU9NYm9MenkyOGk3WkI2OFZiWVh2NGdLRThXSnIzXy1HNEM3bWVnX3ktaEtTYTVRTThFX2dWN3VXU0Rwb3Q2TlA3QkdhdEV0ejdqQjc3ekt2YU9vS09mS1ppYVNH?oc=5"
     },
     {
       "section": "indonesia",
-      "headline": "Gas Supply Cuts Loom Over Indonesia's Electricity Prices",
-      "summary": "The government is downplaying the impact of gas supply shortages on national electricity costs.",
-      "view": "The government is playing a dangerous game of optics, downplaying shortages while global energy markets are stressed. Industrial users will be the first to feel the pinch, leading to 'stealth' inflation as manufacturing costs are passed to consumers via higher electricity tariffs.",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZkZzbGViam9YdHlXMC1SeDBZdV8zVTRGMGh6UElNQUtLeHR6TkVZdjR1dlVpRkVUelVLVE9qLU10Um1qc1RwRlE2d1lpVmVXLU56bXRUSC1CMWpaZGFrT240cE1Sa0g2OC1pOHVodFQ2bDhXSjdWR3Zxak41d19FNmtaWlJmWDNXRVVaX1dEanhaMXZWXzBtNm9xblZWdnBYN0xjbVJUV2wzSDFaYXppNzBkc1Itb2Y5TXFzRXI0QkFqWWR1RVNKLThONWxMVXFPUUtNdjZmRk9tX2k3R1E?oc=5"
+      "headline": "Prabowo consolidates power as his public popularity wanes",
+      "summary": "After two years in office, the President is tightening his grip on the political system while facing a dip in voter approval.",
+      "view": "When a leader's popularity falls while their 'grip' tightens, it often leads to less predictable economic policy as they try to buy back support with populist spending. This creates a 'country risk' premium for investors who fear that long-term stability is being traded for short-term political survival. Watch for any changes to the central bank's independence, which would be a major red flag for the markets.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeWhxazZFbVk4eHZfbDVzNkZFU082ek1KWExmT1NhM0tXSkJPZzVoZnE2VVBUVXU4SGx4cnZUeVNDOExVMlZad0ZQZ3VndGV6WUxOOWlXYzVRQW1iamFoUm9MV2g4Tlk5N0Z3d3lIU2JaOWtSU2JqLUJtVzFFMUVRcU4wbWw1eWVobGwyWHd0Z2tCY0JJazJqdTRybmRtcGU0SkJ5aWlxTEdxVWp5Z2JPT0dpRHhna0czaDdF?oc=5"
     },
     {
       "section": "crypto_fx",
-      "headline": "A Powerful US Dollar Is Sucking the Air Out of Crypto",
-      "summary": "Bitcoin prices fell as rising Treasury yields and a strengthening dollar made 'risk-off' assets more attractive.",
-      "view": "Bitcoin is currently behaving like a 'high-beta NASDAQ' stock rather than digital gold. As long as US Treasury yields remain elevated, the opportunity cost of holding non-yielding crypto assets will keep a hard ceiling on Bitcoin's price.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSzJTNlFLOVduQU9HQW5vOFU0bHVCaXo2SlV6VEdPRW9nekhJUEJaVWxVb1p0N0tPWWRyekVKb1hHX3hpYzh1aXJvb2wzZlhRMDNTREpieFVCdEI3RmpucngwaDhsVk1mOWJYdmhOQ2hIZVFWWTdwcGpjakRyZDd2el9HWFozbUQxUmRhVGNUMkh6NTdyNm80UFh6S1pRV2tNV2VfLUdyaDNva1BUVDNnVjNR?oc=5"
+      "headline": "Bitcoin slips below $80,000 as high bond yields lure investors",
+      "summary": "The price of Bitcoin fell back below the key $80,000 level as rising U.S. Treasury yields made 'safe' investments more attractive.",
+      "view": "Bitcoin is currently acting like a 'tech stock on steroids'\u2014it thrives on cheap money. When government bonds start paying high interest, investors don't feel the need to take big risks on crypto, leading to a sell-off. Watch the 10-year Treasury yield; if it keeps climbing toward 5%, Bitcoin will likely struggle to regain its all-time highs.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLXFPRFZTWWlraFpwdHo4ZEF1NjdBYXZuODFING9XUFh4ekpSMkxtbndLcGpfcWg3NVdEQXhxdkZ5d25tWEtXT0hqMXVaekZmcjBGbEVVdW1Hanh6eW9NdmMydlp2c1ZVUExXOVdVZ2syUEwxenRod3BLc2VTbVp0azBpdGJlbmNkR1B4S1dyUTVuWW44RnJXZk5XQ25sR0FMUmJ2Y2JSYnZOQlh4cHdfQ09ZOE15SkRnNElKZjVvWE9GZkJzQVJj?oc=5"
     },
     {
       "section": "crypto_fx",
-      "headline": "Bitcoin Is Increasingly Moving in Lockstep With the Yen",
-      "summary": "The correlation between Bitcoin and the USD/JPY currency pair has reached an extreme -0.90 level.",
-      "view": "The extreme -0.90 correlation suggests Bitcoin is being used as a liquidity proxy for the 'yen carry trade.' When the yen strengthens, Bitcoin is sold off to cover margin calls or rebalance portfolios, making it a victim of Japanese monetary policy.",
+      "headline": "Bitcoin now moves in almost perfect opposition to the Japanese Yen",
+      "summary": "The correlation between Bitcoin and the USD/JPY exchange rate has reached a near-perfect -0.90.",
+      "view": "This means Bitcoin is being used as a primary tool for the 'carry trade'\u2014investors borrow cheap Yen to buy high-risk assets. If the Bank of Japan raises interest rates, those investors will have to sell their Bitcoin to pay back their Yen loans, potentially causing a massive crypto crash. Watch for any 'hawkish' comments from Japanese central bankers, as they now hold the remote control for crypto prices.",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5"
     },
     {
       "section": "crypto_fx",
-      "headline": "Middle East Tensions Trigger a $500 Million Crypto Liquidation",
-      "summary": "A sudden crash in crypto prices was driven by geopolitical fears and the forced closing of 'long' positions.",
-      "view": "Crypto remains the first asset sold in a geopolitical crisis because it's the only 24/7 liquid market where traders can raise cash instantly. The $500 million liquidation proves that the 'store of value' narrative is still secondary to Bitcoin's role as a global liquidity sponge.",
+      "headline": "Geopolitical tensions trigger half a billion in crypto liquidations",
+      "summary": "Fears of war in the Middle East led to a sudden drop in prices, forcing $500 million worth of 'leveraged' trades to close automatically.",
+      "view": "This 'crash' wasn't about Bitcoin's value, but about 'leverage'\u2014traders using borrowed money who got caught when prices dipped even slightly. This flushing out of the system is actually healthy for the long term, as it removes the gamblers and leaves the 'real' holders. Watch the 'funding rates' on crypto exchanges; when they go negative, it usually means the bottom is near.",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcjIzel9VSWJJYWg5LXhKTnZFTFk2Y2NKQVVlbVlsWjhENTJ0WkJQWlFEOHV5aWxMd0R1WjdUeTNldDNsZmQ3QmJCN0QwU1BWU2xsRnZfb2J5QVhkRXpDUkplQzBnTFdCZ1NHcDRPWVJPNlpXc0lBTFlobUN6NEZuWFRmS0p2Ung1QkpLc3pXQk0wZ01FMUpFajhmeVpjSnpSa2IyYkp6cVdCelZSR3RjTUI1UU1RQU5GSE15c3NGOVlMTGgyODV1dzlhX0VQRVR0NGU1c1A1MVV2akJselRhRQ?oc=5"
     },
     {
       "section": "crypto_fx",
-      "headline": "Bitcoin Fails to Hold the Crucial $80,000 Mark",
-      "summary": "Bitcoin slipped back into the high $70,000s after failing to sustain its recent breakout momentum.",
-      "view": "The failure at $80,000 is a psychological rejection that signals a lack of new institutional buyers at these levels. Without a fresh catalyst, Bitcoin will likely consolidate in the $72k-$78k range as retail exhaustion sets in.",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLXFPRFZTWWlraFpwdHo4ZEF1NjdBYXZuODFING9XUFh4ekpSMkxtbndLcGpfcWg3NVdEQXhxdkZ5d25tWEtXT0hqMXVaekZmcjBGbEVVdW1Hanh6eW9NdmMydlp2c1ZVUExXOVdVZ2syUEwxenRod3BLc2VTbVp0azBpdGJlbmNkR1B4S1dyUTVuWW44RnJXZk5XQ25sR0FMUmJ2Y2JSYnZOQlh4cHdfQ09ZOE15SkRnNElKZjVvWE9GZkJzQVJj?oc=5"
+      "headline": "Borrowing against your Bitcoin remains a high-risk gamble",
+      "summary": "New reports highlight the dangers of using crypto as collateral for loans, as sudden price swings can lead to total loss of assets.",
+      "view": "In the traditional world, if your house value drops 5%, the bank doesn't take it away; in crypto, a 5% drop can trigger an instant 'margin call' where your coins are sold in seconds. This creates a 'liquidation cascade' where one person's forced sale drives the price down for everyone else. Watch for new 'over-collateralization' rules from crypto lenders as they try to prevent these systemic meltdowns.",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRldjdmViQjNkREhYSzRORkVZMWlCT01IWjNtSXJYN1Mwb0RvN0twUm56THVOSlFmcGY5M0J5WGhTWURpLWItdlJlcVRRcFlaWjU3VnoxUW9lNVpGUVBNcVVWSHJVQUNENDl6WlJGLVh4bFoxdjFNbGxobFZ0OUhPUUtyNGx0XzJnNW4xUU4tX2ZYYVJDS0VaWDB5UkVLYmRQZFYya0w4RjNrNUNuLXYwSjJmdmRhT0E5cmVTYmFkSGVMTkNiQnFldnRWZ1YwVF9McFNnZVh3b1FpaHlWN0E?oc=5"
     }
   ]
 }
