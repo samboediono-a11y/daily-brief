@@ -8,7 +8,7 @@
       "prediction": "Expect a significant pullback in non-tech AI capex budgets by Q3 2025 as CFOs demand proof of productivity before approving further infrastructure spend.",
       "grounded": true,
       "status": "too_early",
-      "note": "No fresh headlines were found to confirm or deny a pullback in non-tech AI capex budgets."
+      "note": "No new headlines were found to confirm or contradict the predicted pullback in non-tech AI capex budgets by Q3 2025."
     },
     {
       "section": "tech",
@@ -16,8 +16,8 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVzlNLXBtNW03aVo3Y1FMdzkxa003VjVZVnJGSmphSEZBaTRETXlDUGh6WXJPUnQxc0g0S3paS1ZSa25mSllzUzF6MWtOMWJWcjdKODEwcFJjSHAzU0lsM3ZjbjFQVVBDZ1k3bTFWeEdqd0d0U0hkT2cwdG5BM2dZaU94T0tDcE9vWU5NMXlUQTJqRGJmU1RTUll5OWFvVnd5SzkwZVVCRkRWdXhWQldUU1VYWGQ?oc=5",
       "prediction": "Texas will announce a new 'fast-track' utility surcharge specifically for data center operators before the end of the current year.",
       "grounded": false,
-      "status": "too_early",
-      "note": "While headlines report a freeze on Texas data center projects for state audits, they do not mention the announcement of a specific 'fast-track' utility surcharge."
+      "status": "missed",
+      "note": "The prediction of a 'fast-track' surcharge is contradicted by the fresh headline stating that new Texas data center projects have been frozen for state audits."
     },
     {
       "section": "tech",
@@ -25,8 +25,8 @@
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQd2h0T3FENEs0M1dPLW5oSUZ6VGNhRWwxYU04ak82ajFWTjlyeGZXYm9oYmN6LVFGMWpTczlfdGNuRDJoM0xTbmNMXzVTNTd4Nm0yWlIwRG9oZ0lVbjBtZUFkOEdnVFJGaE8yMHlNdU9WSGVHZmdhcGlUTkdoVHVQX3BQTzNNZERVVm5jYjRPcVFKbzhPMHZBRTJaOTNXeXI2NzhvSDNPOVV4UGotb2NkZWdSRThEbjVyd1lsdkQtLW5XU2Z2eFowQ3RVdEZIWmJNRFZuMzN2QUpQVWlsRDBrbEFpdVQ2V3lQdV9saFhmbWpKdkgxUER1Y1pZRjhWMHZtVDF2VDE0d2Y?oc=5",
       "prediction": "Meta's total headcount will stay flat or decline through the end of 2026 despite record-breaking capital expenditure.",
       "grounded": false,
-      "status": "too_early",
-      "note": "Headlines confirm broad tech layoffs and financial commitments at Meta in 2026, but do not provide specific headcount figures to verify if the total declined or stayed flat."
+      "status": "held_up",
+      "note": "Reports of over 128,000 tech job cuts in 2026 and Meta's first negative free cash flow support the prediction of flat or declining headcount."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Disney will announce a 'simplified' guest experience tier by summer 2025 that allows visitors to bypass app requirements for a premium price.",
       "grounded": false,
       "status": "too_early",
-      "note": "The provided headline regarding Lightning Lane Multi Pass does not address the launch of a premium tier that specifically bypasses app requirements."
+      "note": "The fresh headline regarding Lightning Lane Multi Pass does not mention a 'simplified' tier that bypasses app requirements."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The ANT ticker will see a massive first-day pop of at least 30% but will trade below its opening price within six months of the IPO.",
       "grounded": true,
       "status": "too_early",
-      "note": "Recent headlines identify the Anthropic IPO as a market 'red flag' but do not provide specific ticker performance or pricing data to evaluate the prediction."
+      "note": "Headlines confirm the Anthropic IPO occurred and is viewed as a major market event, but they provide no specific data on its first-day pop or six-month price trend."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "The Bovespa will underperform the S&P 500 by at least 15% over the next 12 months as capital seeks safer emerging markets.",
       "grounded": true,
       "status": "too_early",
-      "note": "No fresh headlines were found to evaluate the performance of the Bovespa relative to the S&P 500."
+      "note": "No fresh information was found to evaluate the performance of the Bovespa relative to the S&P 500."
     },
     {
       "section": "markets",
