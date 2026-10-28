@@ -6,42 +6,54 @@
       "headline": "Apollo analyst warns AI provides zero profit boost for non-tech firms",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdHBfUzFwS0VPeFU2VnBfLWxLcTRuOUdQbFU5YU5rV3BDTUhyUUtBU1VXdm50eHhzZ2pzTDZUWGp0YXJ1WEtfdUZjSGRHb0xnTjRhOUEtTXdtUG9GNkphZGN2WUtEMGd0VG5sbTc1SWFiRmxzUkhxUzNzZTF4NmFZNDBZTEJPUVV3c3lRdFRlb3RXUTNwcUN6MEVvdFk1Zk1tYlFsV3YyejdOa1U?oc=5",
       "prediction": "Expect a significant pullback in non-tech AI capex budgets by Q3 2025 as CFOs demand proof of productivity before approving further infrastructure spend.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No fresh headlines were found to confirm or deny a pullback in non-tech AI capex budgets."
     },
     {
       "section": "tech",
       "headline": "Texas leaders negotiate with tech giants over massive grid demands",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVzlNLXBtNW03aVo3Y1FMdzkxa003VjVZVnJGSmphSEZBaTRETXlDUGh6WXJPUnQxc0g0S3paS1ZSa25mSllzUzF6MWtOMWJWcjdKODEwcFJjSHAzU0lsM3ZjbjFQVVBDZ1k3bTFWeEdqd0d0U0hkT2cwdG5BM2dZaU94T0tDcE9vWU5NMXlUQTJqRGJmU1RTUll5OWFvVnd5SzkwZVVCRkRWdXhWQldUU1VYWGQ?oc=5",
       "prediction": "Texas will announce a new 'fast-track' utility surcharge specifically for data center operators before the end of the current year.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "While headlines report a freeze on Texas data center projects for state audits, they do not mention the announcement of a specific 'fast-track' utility surcharge."
     },
     {
       "section": "tech",
       "headline": "Tech layoff cycle continues as giants prioritize AI hardware costs",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQd2h0T3FENEs0M1dPLW5oSUZ6VGNhRWwxYU04ak82ajFWTjlyeGZXYm9oYmN6LVFGMWpTczlfdGNuRDJoM0xTbmNMXzVTNTd4Nm0yWlIwRG9oZ0lVbjBtZUFkOEdnVFJGaE8yMHlNdU9WSGVHZmdhcGlUTkdoVHVQX3BQTzNNZERVVm5jYjRPcVFKbzhPMHZBRTJaOTNXeXI2NzhvSDNPOVV4UGotb2NkZWdSRThEbjVyd1lsdkQtLW5XU2Z2eFowQ3RVdEZIWmJNRFZuMzN2QUpQVWlsRDBrbEFpdVQ2V3lQdV9saFhmbWpKdkgxUER1Y1pZRjhWMHZtVDF2VDE0d2Y?oc=5",
       "prediction": "Meta's total headcount will stay flat or decline through the end of 2026 despite record-breaking capital expenditure.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Headlines confirm broad tech layoffs and financial commitments at Meta in 2026, but do not provide specific headcount figures to verify if the total declined or stayed flat."
     },
     {
       "section": "tech",
       "headline": "Theme parks struggle as complex systems create massive visitor headaches",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdGpGVGh1dHlUS29xQUJrOE8tRGpwQzdES1JQM0E2cllhLTNJM3lCMEJaRlZSUnNwbWRQWmM5MGhCTDZ3b0RBSFExZzAxTVdiSWJwc0JQbWQyTGFCVVJPU0d2SHA1SkdSLUlMQjIyZHI2UGtPQmtWUDRLNGNzVkotdEtlNGdIY0pXU3o0SDhNTU4?oc=5",
       "prediction": "Disney will announce a 'simplified' guest experience tier by summer 2025 that allows visitors to bypass app requirements for a premium price.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "The provided headline regarding Lightning Lane Multi Pass does not address the launch of a premium tier that specifically bypasses app requirements."
     },
     {
       "section": "markets",
       "headline": "Anthropic reveals massive $16 billion revenue in landmark IPO filing",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZVVwTHk4NkFMRjBSRDl6cWxNbTluOU5tVnBab0t5Sm1VYjF1LS1hOUJUZTNLajViMTNrbDJZamZNOEx1MEpXVjhlaHRHb011MFVOX19CY0Y4a0xPSHFBcFd2QUpULTdTZEstc0R4czRFRVhEdDhKNmFUV0gzNHpNejVkSkVWYmpxanhOdEtoN0NkSTQ1U21CZEp1WE5Ccm1LRTdKbEdwUU4tLVZXYV9JOTJYT21kNWNpU0lqam9fcUI2cHd3ZzJEVEJpM0ZiaFRXdXpvcWZRaEZMN1B2MlBxV194RENONlV0Rms1b0hrOEJxZw?oc=5",
       "prediction": "The ANT ticker will see a massive first-day pop of at least 30% but will trade below its opening price within six months of the IPO.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Recent headlines identify the Anthropic IPO as a market 'red flag' but do not provide specific ticker performance or pricing data to evaluate the prediction."
     },
     {
       "section": "markets",
       "headline": "Brazil stock market plummets following shock election results",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOblVTTEF5cnF5WUdUNUc2bG53aS1WY0ljVjhhZkZ6X1dINTFZcElFUUlDTEJFSE5PdUUzT2hELXRJT1oydExsM1R2eWJGX09Rdm5FVnRUa2VsckE4cHVCQzFreXluSlZxUWdfczc3STAtcXdaMlJURW96dFNlenFXbnBVTjdIZWlhaUhlVkhIcENYNG1aZVlySFVvX0k?oc=5",
       "prediction": "The Bovespa will underperform the S&P 500 by at least 15% over the next 12 months as capital seeks safer emerging markets.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No fresh headlines were found to evaluate the performance of the Bovespa relative to the S&P 500."
     },
     {
       "section": "markets",
