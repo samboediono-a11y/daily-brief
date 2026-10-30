@@ -6,42 +6,54 @@
       "headline": "Samsung profits explode as the AI chip boom stays white-hot",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbjY2bzJuNWxWYWRZZzJuc2RjYXAzdEpQYlNFTmxOeVpUY1FQZ0JWeklHSTZJc1pyc1hDUUxfR3FONGdrSDV6X1lqaFZ5VmdOWjN2d0JoWHdQT1dqOWFuQ1hOYmVmSWJKYUxiWTVtY0JMWkYwSVZkTXNSaWh1X2NqOWc0ZlZvaERTdFlnNVVGUHpDeWd3ZGYwSUZKa1NvSGZfTVRHR0JqNTZISmU2WG83cWFQTWFHSm9XU1Ew?oc=5",
       "prediction": "Samsung will announce a dedicated, multi-billion dollar capital expenditure increase specifically for HBM4 production lines before their Q1 2025 earnings call.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "While a 2026 HBM4 deal with OpenAI is mentioned, the headlines do not confirm a multi-billion dollar CapEx announcement specifically occurring before Q1 2025."
     },
     {
       "section": "tech",
       "headline": "AI agents are now designing the next generation of semiconductors",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQjJHZzBaelhWQTNnek9xSjlZX0pKZHZRSjlGTjNCbDk2OTF3OEljQWk3UUQ1c0pxQzJSVjhyaVVLalhxQkJ2dFJGTzdsdWo5WEdZSHlGdzZseEU5M25INWxIbEVJVXBPdGFabjcydmQ2VWhsZTNQWEY3MENFVDdNTncza3VRTmczTEVUZ0JBcU5JRU5pZlZ0RXgzWllOc2pMaW9MZldCaW1FLTFEYUhr?oc=5",
       "prediction": "At least two top-tier global chipmakers will explicitly credit 'AI design agents' for shortening their 2025 product development cycles in upcoming annual reports.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new information was found to confirm whether chipmakers have explicitly credited AI design agents for shortening development cycles in their reports."
     },
     {
       "section": "tech",
       "headline": "Investors dump Chinese tech giants as growth and regulation fears mount",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTWVd1YTFDSWZoT2hydUtkZnVnTUt3UmFRNjBJTVVwank4NGRtOUZPRTJxOVpXNWdnY0U4Tk9ZU2xTcWFOVjdFRHdEYS1CTjdZSzdfUHgtUm11MHFqT2dLSzVZNlQ2RGdWdl90b2ViY9IBdEFVX3lxTE9KN0k3M2QtTmxuN2g2dWlScW5BR1ZWSGZTNE11cEoxaXVUNUZSLWg3T2dHT0RPc1p3aFBvQVJQR090NXNzTHo4TXNveWllRllsb2l2OHowenZ0U3hLN2VSMHdrOTFJdFE4dDI1T09GT2FIOXo5?oc=5",
       "prediction": "Institutional outflows from China-focused tech ETFs will reach a trailing 12-month high by the end of the current quarter.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "The provided headline from August 2026 contains no specific data regarding institutional outflows or trailing 12-month highs for China-focused tech ETFs."
     },
     {
       "section": "tech",
       "headline": "Police arrests send a chill through the ransomware negotiation industry",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ0N0bTRVc3ZaSW5vM0tGdDVreDBETTZ1Sk5PTzJjOU1Mc1lmeFhMQWRSakJVMEpRemYwRXA1Y0RsU1RHaDk0OWtjdG4yYUVib3hVU2czOWZoUlg4aXMtNjVpR2xuR1E5RW5ocWhjcndJa0s4d1pPN1VpWDFlQnprWGlPQlhsV2NQNW5PcC1DZ0p4SXdlbjYyMWctODFRSnU4bnNCTFIwLThVWjRoV1FLN2dGUG55UFU?oc=5",
       "prediction": "A major US cyber insurance provider will announce a formal ban on the use of third-party negotiators in all policy renewals starting January 1st.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "The available headline discusses trade agreements (USMCA) and does not contain information regarding cyber insurance provider bans on third-party negotiators."
     },
     {
       "section": "markets",
       "headline": "Google faces historic market value wipeout as AI anxiety grows",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb0pfRGxYakdFTWU5eXlYYTd5cGVuVmpzMDFiMDBuX2ZOQVB5aFV1Qmk1dEhXQWwtSVNtU2ZOSTNfVDMxS2NoMUpTbmJ3a0hYOGtvOGJldXlkU3k2N3djaVhDMUNGN0g5Q1J2SzRXMkhXbzI3MUxqd2t5SEszX0JEZWZPUmRSd3VZQmYyZzZZeDNvY0hKaExMcnNTbHhzeTItckpZaEJmbWxodHVla2FKTTN4cmdFY2VjWk96cjdwLUtjX3FMRmZwLVp3SHJiX2xNajBR?oc=5",
       "prediction": "Alphabet will announce a major internal restructuring of its 'Google Services' segment to isolate and protect search margins before the next fiscal year.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No fresh headlines were found to provide information about a restructuring of Alphabet's Google Services segment."
     },
     {
       "section": "markets",
       "headline": "Caterpillar stock crumbles despite beating its latest earnings targets",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQk5icEllSDRCZkxZWk9JRDNoLWtacDBFWVh6QjZxcUpIa1VIbXBxa3pSbV9lc2JzejN3aEQ3THloSWp2TzQzeGJZcDAtZFU4WXlQWjhrNS1OVFU2ZkZBT0QyMG5JRHVaTjdJbmxoakpFWUNqbGNKRkxPbEMxUVF6LXgyelNZVlN4YUJHTUd3cTVSSVVjVE9ZTkpPSlNCdkNYX1VjSkdSenNxYmtSekx4eFVqU3Z5QU9SekNDUmpSZXdWelFOektIQlljclZWUlhOdmpkajJpRkFhOUh2TWVBc0ln?oc=5",
       "prediction": "Caterpillar\u2019s stock will underperform the Dow Jones Industrial Average by at least 5% over the next 60 days as demand forecasts continue to soften.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "There is no new evidence available to evaluate Caterpillar's stock performance relative to the Dow Jones Industrial Average over the specified 60-day window."
     },
     {
       "section": "markets",
