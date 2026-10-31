@@ -1,0 +1,287 @@
+{
+  "date": "2026-10-31",
+  "predictions": [
+    {
+      "section": "tech",
+      "headline": "Big Tech's Slim-Down Continues as More Layoffs Hit Major Players",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPWjc2bDlEWHNuV1BZeENVamFNMVlhdzQzRTctOENHYmJFbVVwOGZxNXhDU0E3bXRXemlkSXl3OUtvTXZ4SDE2ODBmOUVtZjJrQjFzbDhEeUd0Q0lrc01yRnctNmdmSzM0a1hsVVJTVUo3X3ZjdWswVlhDNTJxN2c1NEM5M2hqT0JoM0RNZC03cmMwUmw5X0xXcnB2UzdtNzFFaDRicWdJVThTZ3IwMC1OYjIzeGNCWVdTX2ZmT2NJaURqU2Z3aXBNN0NCdm04aF9pTXNUX0tWX2xOWWxDQXB1R3Y3NkJOR00ySjFpU0Z5UnU4M3RTd1hzdm9DLWh6NHBYbHZVT1RPR1ViM3pweUpJ?oc=5",
+      "prediction": "Meta or Amazon will announce a net increase in AI-specific roles for their next fiscal year, despite total headcount staying flat or falling.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "Tech Giants Load Up on Debt to Fund AI Expansion",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQTBvenotcUhPTDQ0SFNROGZBcTFvek9WLTlubGtEY0FCZkhtc0ZQbWhOaXZFVlNwa251TGVXQmxRaGo2WklFZ0x3emE2NDk5bXhDTFdPd1NINlBoa3BrSUVyQUtkQk0xVmctRkx1SDN3UUxJUUYwcU5kNlQ0UE5ZVVl5VEQxc3NCUVBlUXlmRjZpd203U1picE9vZ1RyRGd5R3NIaVJhU0JoTk5SakZSdFI4YmI?oc=5",
+      "prediction": "Expect at least one 'Magnificent Seven' member to issue a $10B+ bond specifically earmarked for 'AI Infrastructure' before the end of Q4.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "Analysts Warn $3.5 Trillion in AI Spending is at Risk",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWllLcC1jU19wMGZsQjluRTZWckN3eDNEMGUwX2hJWWxtUjg4RE9XR3pCTzhOMEJaQjM4MThiTVhzdFJ3cnZzTEFhRGNjdUJLM05tZzVxQUI3dG1jc1Bqamk4V0Mzc25uRmtzbmVjOTFsTVlrQmpZeFhQaFF3NWNWb0haNHpEbDRPc1piaW5acnE4ekpNYi1SWXQwZGhiMEJYMnUyRXFhV1kwcWNZV3JpOVpyWGxBazBsZnJlLVZaUWM?oc=5",
+      "prediction": "A major cloud provider will announce an impairment charge of over $500M related to a cancelled or stalled data center project due to resource constraints by mid-2025.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "AI Agents Take Over the Hard Work of Chip Design",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQjJHZzBaelhWQTNnek9xSjlZX0pKZHZRSjlGTjNCbDk2OTF3OEljQWk3UUQ1c0pxQzJSVjhyaVVLalhxQkJ2dFJGTzdsdWo5WEdZSHlGdzZseEU5M25INWxIbEVJVXBPdGFabjcydmQ2VWhsZTNQWEY3MENFVDdNTncza3VRTmczTEVUZ0JBcU5JRU5pZlZ0RXgzWllOc2pMaW9MZldCaW1FLTFEYUhr?oc=5",
+      "prediction": "A top-tier mobile chip manufacturer will announce its first 100% AI-designed circuitry block in a commercial product within the next 12 months.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "The AI Reckoning Arrives as Nasdaq Dives Three Percent",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVEJYRTREa2JJM1FSeW1nTTVldXlmeElCanRweTcwcVpudjZ0WUtBVjU5RURERzdESU8tVV9GanJ3VHlBUlhkWjVmbG5ielVFbEx5cXNLX0M1Vk9XTU5nTUtLVm0xaDA4LTlaZ1BnS0Z0d1FrNXBHVTJHLVFYUExYQjhCNDVGRWhNWm0wOEFjbG05R2toV25YMlZ2LTEyUUVNR0t5R3A0WF9NZWw0Zk1LWjBUaFpWdHVHdVJqWmJ4UkMxaUJaX3NrS3M3eFBWQQ?oc=5",
+      "prediction": "The Nasdaq 100 will retest its 200-day moving average before the end of the current earnings season.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Wall Street Bets the Fed Will Rescue Struggling Markets",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUVJyRm4wTnJjSmtiU3lKWWZ5WVFndHdqWGlsZzVHd3BRdEhQa2o0UnRablMyblVsbHl0MDVwTFhPRGdCemo1ODhjUGl5ZEJPLUdSQk0taHZCSG4zUV94YXlSeXBLSFV3c3FOdTdvSmhpSkh5Q25STW9sRVI3Tk44TmdQYWIxOF9LeEV0VnVyQVptdTJkaVVCeXhiZlVqb19NYmktQUJ0NldISmpnNFoyTUROYWZuLUd4WUxoT1BMWmJrNGtYcVNab19QZElzaFNwc1N5MUVEVQ?oc=5",
+      "prediction": "The Fed will maintain current interest rates at the next meeting regardless of whether the S&P 500 drops another 5% in the interim.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Economists Sound the Alarm on Proposed Massive Trade Tariffs",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVXhSaThYaF9nejVpYnVpSXFMeHJENUZ0WGhMdlZCY2FfZ0RaY05nT0ItYThId3VUT2VPVkhHRmYyZ2RHRUtpZG4yUml2dFY3UlJWdnVLVEpiUlpZbUM1UXNZc20xUzhmbVJKLWhWY1BhYXlIZWNjVl8tWEwzVkluejBtMmpQM01EQVczWFVfQjlYellvOTZMU0pvRHg4NzF1NGJEUk5zaEhqclBjUTVDNzcyRFFpMXA0b2hUbmgwYU5ZNG4yVnJqbzFlSHRHb2xsSGFjbGlMSjdIQQ?oc=5",
+      "prediction": "Major US retailers like Walmart and Target will issue formal earnings warnings citing 'import cost uncertainty' within 30 days of the next major tariff policy announcement.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Election Jitters and Jobs Data Loom Over Volatile Market",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMDJJM0JmU1Nreks0a1ViM1lWX2VRX043dHpXd2xjR091TTNJd1UyZjZ4a2kwMURZLXkwLTBHSWZaMG41VU5nbTE0VW1iNDdCbHNCTjc5RG5BZUx3QzM2d0IzUmJkWXB3VkNsMW5EMDVFUlQ1NmhvdDBVTy05RkpxaDZ4QW9xRExsY2QwVzFpMTJmRG52bW0tSWgwbkdCTlJlaFFnU2tUcEEyQml0cV9VRktaVTh4VDVFNkIwVjkyWmN6dFpTNE9FZkx4dw?oc=5",
+      "prediction": "The VIX (volatility index) will close above 25 on the day of the next Non-Farm Payrolls release.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Oil Giants Rake in Billions as Energy Prices Stay High",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMlFhc1hubko5aGY3RGJEN1Z4QnFMell4RUdDOENlak9tUnJYQ1BxSXVURjhHQWdyNi1lMGpjRUtwek9IbkVMTEcxb2lFUlNTeVpTOWl2WlVReVQ4R3pBRUZ1R2RqbFhUdy1EQzJMTHduOUl6MGx1bTJGRmZGYUtidnczV1lyS3hRNGx5MlRpSW4?oc=5",
+      "prediction": "At least one major US presidential candidate will formally propose a federal windfall tax on oil companies before election day.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "OpenAI Slashes Funding Goal by Ten Billion Dollars",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNamxPa09kV2VNeERWR3RpM2NoN1k0STRYb0pyWW5xbWxXdmJ3Qkp1VVdMU1BkcW00bE81LXZkQ1ZGd0RGWlQtMnNvYzA4NnlaRmxNZG9GNVN5UWxmTnlLb3RNajlIdTEzNUFGVUQxcFN1Tm1Pd0F0ME1JZ1kyQWRfZkFTWEd6YlJ0ZW4wekJiZ1pZbXBvLTRxRWwxanQtM25GR1U1a1EyNXFPVUp1cXZNTVpaOA?oc=5",
+      "prediction": "OpenAI will announce a funding round at a valuation lower than its last reported internal valuation of $80B+ within the next six months.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "The Battle Between Data Centers and National Parks",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZEdMM1hfZVBOM2I2MENtWFFNRVY5TFpacmU4dEhYWlBWVEd3dnhBSHlfdnFhNmZUZy1Sb04zd2pPeVUxajdGbkZRcm4wX3g4clhsTVQxUDRxdGpkQVdpRVhXY25hZmJ6eGh3S2ZvUDlKWlBHeDZjTVkyX2oxR3BxdHBXTmxvOGJtZjBZcEloRGxVWEE?oc=5",
+      "prediction": "A major data center project in the Appalachian region will be officially canceled or moved to a different state due to environmental litigation by year-end.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Ford and Rivian Use 3D Printing to Cut Costs",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03VHpWQVNudE80cmxIdHllS2R0MzVjQmd0ekVWREJZYXlIYjNlMG4xU0FoV3J6aC1FZEZIWFpkbWhXUVZVR2JBMU1rVUYwOGU3MFRsQWpJYzJNd3hHeVZzN2FsVFoyT0pMRlM5UGxLRjNHeXVKS29HS0M4WmxPalHSAYQBQVVfeXFMUG84TU5ISlg2amdTb1dVSjR1cjM1TnlFSVFnMlFEdjlGQ1Q0T25YQkcwdTFFM2gtT1RkaHE3c1djcnJJTzhBVDh3WkpMbTJIUi1CUmhXTmhMc2NncElLS014ZmJhZE90akhCd1dtRTdtS2RZMk1iUWlvS1dFX3RnRUdjbm1O?oc=5",
+      "prediction": "Rivian will report a reduction in its 'cost of goods sold' per vehicle in its next earnings call, explicitly citing manufacturing efficiencies.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Capital Flees Indonesia as Government Targets Wealthy Tycoons",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOalFscFpzY2tVX0VwSUxzNXdpUWgybHRhdzM4N3hxV0diMWVhY01tUENNaXdGM3Fsa0stYUI4RUFwcUpQTk9uMXBXb3d4cDZreXRINTIwQjR0YkJCY2xJdXBWTjJINkNXMnB2R3NBRGZmcGp5M2FvdkhBZzItZklYRGpZbW0tUWYxWVRiOXRVbWhxT2NlRFpHQ1JjV3hQcUtKWURoUE9BMkdUcFQ0M1lIT0dtSGZRTlBPZHQyVEZGUFk4LTU3VC1NRWZ6VQ?oc=5",
+      "prediction": "Indonesia\u2019s net capital account will show a significant deficit in the next quarterly report as private outflows accelerate.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "China Tightens Its Grip on Indonesia's Nickel Industry",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTGNxaHRjdWlmUXB2Vm9GOWRjTTJjTHk3cmN4akNmQUh3dkdfVTEzS0pTa1lhS1RVWFNmV2VwdHJmTkxCanBvVHpMelFSNURVVzhRLWpjSTBSdl8tSk42aUlmN3JBN2k4S0o2d2RTd3B1WUo0VE1ON2FibWZNdmJLRVJBaGZpbnpnVG94VGFzRFpzZ21sLXo5TnpXTDBkY0RPUFNIUEg1MlB4azhNNU5sX3otV25GRnVEZXY5WFFVYm52ckdHa1I0?oc=5",
+      "prediction": "The US Treasury will issue a clarification before 2025 that excludes Indonesian-processed nickel from tax credit eligibility if Chinese ownership exceeds 25%.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "Toxic Smoke From Forest Fires Sparks Massive Student Protests",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRFluNEk2RWtBR2RSMHQ2cGdBWElPa3QtdUZaTldvVnNLaTR1RThyWDNBSWtfQk1pVkFHQzBGUXg4dWxyTERGRlRFWEg1V09sc0xScmVTNTlNb25LRmRLUFNFUFFKN3pJdGJ0STBvTExyWE1HYzVmRVFVZFNfdUFzT2l2MUhFSWh0bGc?oc=5",
+      "prediction": "The Indonesian government will announce a temporary moratorium on new palm oil land clearing in response to the protests within the next 60 days.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "Digital Tension Rises Over Undersea Internet Cable Rights",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbUhJUDAwV1lJLVVaZXFpMl8tcmVTSmhpclpVaDhGZWpZaG9EV20zcV9yRjFjSk1VMUpMa3F1aXc0dnJWa0NYUEpFZkJLUURHT3owT29RMXdnM25yczRWcm1taXJJT2FDR0Y2X3Q5VUxDUlFOdFFSSmh2cWlOTkJrNFJFdVZBTXdaTkFPZ2ZCUWtTRmNKNVY3Y09aUGM1OUZhSVJpdHNiNURrRmFPOFNvbUVJVkFzMU5tRWVBM2FPSnhXZ1Bid2NoNVdB0gHKAUFVX3lxTFBDVm5UVjhjVFBfZ0Y2QUh3aWpYS2Q4cGNvVEZ3RkpBUGN4SHpHdzB6OUdoTUUwNktKSW9Qb1Z1S2dxWHhaV19nUDlNRWF3VUFVdkpFVWtQc3h5UjFFQlZ6MkJWS1A3QTRWeFh4UE5BMlFfWEVTWklJNTc2S1lYWHZVRjlZQjNCZ1lIT2RUWHZXX2RiSTFYdk95bGg1bXpnZExmdXZBdHZFT21IU1FOMldoMTI4QlBiU3ktLUttRjBsMU4wQ0VaNmJwOEE?oc=5",
+      "prediction": "A major consortium-led subsea cable project will announce a delay or a route change avoiding Indonesian territorial waters by the end of 2024.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Major Binance Breach Sends Bitcoin Prices Into a Tailspin",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRHEtek1QR0VDQnZJV2NES0hQdDlrZlF6ZlI2WDhUS3pRd3lRWXA5T1g0NmVxOG9rN3BFUXhhYjJxeXBHV1NRRGRUTS0wVG1xSUpZVTdFOVByT0RDaHp4U3JRYm9YTzV1X1Jtc0JVV1dESjJ6b0ZRaEhpaktqOWNzTA?oc=5",
+      "prediction": "DEX-to-CEX volume ratios will hit a 12-month high in the 30 days following this breach report.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Canada Debuts Mortgages Backed by Bitcoin Holdings",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbDhRZHhZbWt0bHdNRTdPcVVFZlVrNE8xN043VmFwekZVOEF3ZDVCaWJxdnVvUF9hbDRfRDFUUmdEM0stRTNJTVZocGhKZWlyRlFGcDA2OVhyWWNqbUp5c1FkYWNKVmVrTzAyRldrQS1PSUcyU1pJTTE2T1dpV1I4aFJQZFVRT2NtSDRuMWNxVWo0cVFFbnJ2bnhmOEZ1dU9KVEVKY3BxNjRZd0VPeTRwTXd2SVY3RXF5alZKVFJ2UVNjdjIxQ2k4V3NhYzR0QQ?oc=5",
+      "prediction": "At least one major US-based fintech or neo-bank will launch a pilot BTC-backed mortgage product in 2025.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin and Japanese Yen Now Move in Perfect Sync",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5",
+      "prediction": "Bitcoin will see a 3%+ price move on the next day the Bank of Japan makes a surprise rate announcement.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Strong Dollar and High Yields Drain the Crypto Market",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSzJTNlFLOVduQU9HQW5vOFU0bHVCaXo2SlV6VEdPRW9nekhJUEJaVWxVb1p0N0tPWWRyekVKb1hHX3hpYzh1aXJvb2wzZlhRMDNTREpieFVCdEI3RmpucngwaDhsVk1mOWJYdmhOQ2hIZVFWWTdwcGpjakRyZDd2el9HWFozbUQxUmRhVGNUMkh6NTdyNm80UFh6S1pRV2tNV2VfLUdyaDNva1BUVDNnVjNR?oc=5",
+      "prediction": "Bitcoin will remain range-bound or decline as long as the US 10-year yield stays above 4.2%.",
+      "grounded": true
+    }
+  ],
+  "stories": [
+    {
+      "section": "tech",
+      "headline": "Big Tech's Slim-Down Continues as More Layoffs Hit Major Players",
+      "summary": "Amazon, Microsoft, and Meta are leading a new wave of job cuts across the industry. This follows a trend of tech giants trimming headcount even as they spend billions on new technology.",
+      "view": "These layoffs are no longer about post-pandemic survival but a strategic resource pivot where legacy headcounts are sacrificed to fund the astronomical salaries of GenAI engineers. Amazon and Meta win by shedding 'middling' talent to boost margins while aggressively competing for a shrinking pool of top-tier AI researchers. This is a shift from horizontal growth to vertical tech depth, and the mechanism is simple: profit preservation for CapEx reinvestment.",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPWjc2bDlEWHNuV1BZeENVamFNMVlhdzQzRTctOENHYmJFbVVwOGZxNXhDU0E3bXRXemlkSXl3OUtvTXZ4SDE2ODBmOUVtZjJrQjFzbDhEeUd0Q0lrc01yRnctNmdmSzM0a1hsVVJTVUo3X3ZjdWswVlhDNTJxN2c1NEM5M2hqT0JoM0RNZC03cmMwUmw5X0xXcnB2UzdtNzFFaDRicWdJVThTZ3IwMC1OYjIzeGNCWVdTX2ZmT2NJaURqU2Z3aXBNN0NCdm04aF9pTXNUX0tWX2xOWWxDQXB1R3Y3NkJOR00ySjFpU0Z5UnU4M3RTd1hzdm9DLWh6NHBYbHZVT1RPR1ViM3pweUpJ?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Tech Giants Load Up on Debt to Fund AI Expansion",
+      "summary": "Companies are tapping debt and equity markets to pay for the massive cloud and AI infrastructure needed to compete. The capital is being funneled directly into data centers and specialized hardware.",
+      "view": "We are witnessing a debt-fueled arms race where tech giants are leveraging their balance sheets to fund 'circular financing' loops, particularly with hardware vendors like Nvidia. Goldman is right to flag the macro risk: if the AI revenue-lag lasts longer than two years, the interest burden on this doubled debt will force a massive contraction in R&D. The winner is the GPU provider getting paid today; the loser is the shareholder holding the debt tomorrow.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQTBvenotcUhPTDQ0SFNROGZBcTFvek9WLTlubGtEY0FCZkhtc0ZQbWhOaXZFVlNwa251TGVXQmxRaGo2WklFZ0x3emE2NDk5bXhDTFdPd1NINlBoa3BrSUVyQUtkQk0xVmctRkx1SDN3UUxJUUYwcU5kNlQ0UE5ZVVl5VEQxc3NCUVBlUXlmRjZpd203U1picE9vZ1RyRGd5R3NIaVJhU0JoTk5SakZSdFI4YmI?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Analysts Warn $3.5 Trillion in AI Spending is at Risk",
+      "summary": "Gartner suggests that the astronomical sums being spent on AI infrastructure might not see a return by 2030. There is growing concern that the 'build it and they will come' strategy is flawed.",
+      "view": "The $3.5 trillion risk isn't just about software adoption; it's about physical constraints like the 'global water bankruptcy' and energy limits that Gartner and Fortune are tracking. Markets are fundamentally mispricing the environmental 'rent' these data centers must pay, which will squeeze margins far more than a lack of AI apps will. The build-out is hitting a hard ceiling of natural resources, not just investor patience.",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWllLcC1jU19wMGZsQjluRTZWckN3eDNEMGUwX2hJWWxtUjg4RE9XR3pCTzhOMEJaQjM4MThiTVhzdFJ3cnZzTEFhRGNjdUJLM05tZzVxQUI3dG1jc1Bqamk4V0Mzc25uRmtzbmVjOTFsTVlrQmpZeFhQaFF3NWNWb0haNHpEbDRPc1piaW5acnE4ekpNYi1SWXQwZGhiMEJYMnUyRXFhV1kwcWNZV3JpOVpyWGxBazBsZnJlLVZaUWM?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "AI Agents Take Over the Hard Work of Chip Design",
+      "summary": "Cadence has released new AI tools that handle the complex task of designing semiconductors. This allows engineers to focus on high-level architecture rather than manual circuitry layout.",
+      "view": "Cadence and Synopsys are effectively automating the 'grunt work' of their own customer base to defend their territory against disruptors like OpenAI's Jalape\u00f1o project. By integrating AI agents, they reduce the barrier for tech giants to design their own custom silicon, which ironically accelerates the trend of Big Tech moving away from off-the-shelf Nvidia hardware. This is a survival play by EDA (Electronic Design Automation) firms to stay relevant in an era of in-house chip design.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQjJHZzBaelhWQTNnek9xSjlZX0pKZHZRSjlGTjNCbDk2OTF3OEljQWk3UUQ1c0pxQzJSVjhyaVVLalhxQkJ2dFJGTzdsdWo5WEdZSHlGdzZseEU5M25INWxIbEVJVXBPdGFabjcydmQ2VWhsZTNQWEY3MENFVDdNTncza3VRTmczTEVUZ0JBcU5JRU5pZlZ0RXgzWllOc2pMaW9MZldCaW1FLTFEYUhr?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "The AI Reckoning Arrives as Nasdaq Dives Three Percent",
+      "summary": "Wall Street suffered a brutal sell-off today, with tech stocks leading a broader market decline. Investors are starting to panic about whether the massive AI investments will ever pay off.",
+      "view": "This isn't a market crash; it's a necessary valuation reset for 'AI tourists' who treated tech stocks as a monolithic bet. The sell-off targets high-multiple software firms that have talked about AI but haven't shown it in their GAAP earnings. The real pain is being felt by momentum traders, while long-term value will eventually re-emerge in hardware and infrastructure once the froth is gone.",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVEJYRTREa2JJM1FSeW1nTTVldXlmeElCanRweTcwcVpudjZ0WUtBVjU5RURERzdESU8tVV9GanJ3VHlBUlhkWjVmbG5ielVFbEx5cXNLX0M1Vk9XTU5nTUtLVm0xaDA4LTlaZ1BnS0Z0d1FrNXBHVTJHLVFYUExYQjhCNDVGRWhNWm0wOEFjbG05R2toV25YMlZ2LTEyUUVNR0t5R3A0WF9NZWw0Zk1LWjBUaFpWdHVHdVJqWmJ4UkMxaUJaX3NrS3M3eFBWQQ?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Wall Street Bets the Fed Will Rescue Struggling Markets",
+      "summary": "Strategists are whispering that the 'Fed Put' is back, meaning they expect the central bank to cut interest rates if the stock market keeps sliding. This belief is keeping some buyers in the game.",
+      "view": "The 'Fed Put' is a dangerous psychological trap; the central bank will prioritize crushing inflation over protecting the portfolios of Nasdaq investors. While 'stealth bailouts' for banks might keep the plumbing working, the equity market is on its own this time. Buyers betting on an immediate rate-cut rescue are ignoring the Fed's explicit commitment to 'higher for longer' until the labor market truly breaks.",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUVJyRm4wTnJjSmtiU3lKWWZ5WVFndHdqWGlsZzVHd3BRdEhQa2o0UnRablMyblVsbHl0MDVwTFhPRGdCemo1ODhjUGl5ZEJPLUdSQk0taHZCSG4zUV94YXlSeXBLSFV3c3FOdTdvSmhpSkh5Q25STW9sRVI3Tk44TmdQYWIxOF9LeEV0VnVyQVptdTJkaVVCeXhiZlVqb19NYmktQUJ0NldISmpnNFoyTUROYWZuLUd4WUxoT1BMWmJrNGtYcVNab19QZElzaFNwc1N5MUVEVQ?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Economists Sound the Alarm on Proposed Massive Trade Tariffs",
+      "summary": "Proposed new tariffs are being touted as a way to grow US wealth, but experts warn they could lead to higher prices for everyone. The debate over protectionism vs. free trade is heating up ahead of the election.",
+      "view": "Tariffs are being weaponized as a campaign tool, but the mechanism is a guaranteed inflationary tax on the US consumer and a disruptor of global supply chains. Protectionism will force companies to build redundant, expensive domestic facilities, permanently raising the floor for baseline prices. The 'winners' are a few domestic manufacturers, but the 'losers' are the American household and global trade stability.",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVXhSaThYaF9nejVpYnVpSXFMeHJENUZ0WGhMdlZCY2FfZ0RaY05nT0ItYThId3VUT2VPVkhHRmYyZ2RHRUtpZG4yUml2dFY3UlJWdnVLVEpiUlpZbUM1UXNZc20xUzhmbVJKLWhWY1BhYXlIZWNjVl8tWEwzVkluejBtMmpQM01EQVczWFVfQjlYellvOTZMU0pvRHg4NzF1NGJEUk5zaEhqclBjUTVDNzcyRFFpMXA0b2hUbmgwYU5ZNG4yVnJqbzFlSHRHb2xsSGFjbGlMSjdIQQ?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Election Jitters and Jobs Data Loom Over Volatile Market",
+      "summary": "Between the upcoming midterms and new employment numbers, the market is bracing for a chaotic week. Traders are hesitant to place big bets until the political landscape is clearer.",
+      "view": "Election jitters are a convenient excuse for a market that is actually terrified of the cooling labor market. The 'fearless' market noted by Reuters is finally pricing in the reality that political uncertainty combined with negative employment revisions is a recipe for a volatility spike. Traders are hedging for a contested outcome, making liquidity thin and swings more violent.",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMDJJM0JmU1Nreks0a1ViM1lWX2VRX043dHpXd2xjR091TTNJd1UyZjZ4a2kwMURZLXkwLTBHSWZaMG41VU5nbTE0VW1iNDdCbHNCTjc5RG5BZUx3QzM2d0IzUmJkWXB3VkNsMW5EMDVFUlQ1NmhvdDBVTy05RkpxaDZ4QW9xRExsY2QwVzFpMTJmRG52bW0tSWgwbkdCTlJlaFFnU2tUcEEyQml0cV9VRktaVTh4VDVFNkIwVjkyWmN6dFpTNE9FZkx4dw?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Oil Giants Rake in Billions as Energy Prices Stay High",
+      "summary": "Major oil companies are reporting another quarter of record-shattering profits. These gains come even as the public faces high costs at the pump and for home heating.",
+      "view": "Big Oil has successfully transitioned from a growth industry to a disciplined cash-harvesting machine, prioritizing dividends over production. These record profits are the direct result of wartime supply shocks and a refusal to over-invest in new supply, which creates a political target for 'windfall' taxes. The companies win on cash flow, but they are losing the long-term battle for public and regulatory sentiment.",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMlFhc1hubko5aGY3RGJEN1Z4QnFMell4RUdDOENlak9tUnJYQ1BxSXVURjhHQWdyNi1lMGpjRUtwek9IbkVMTEcxb2lFUlNTeVpTOWl2WlVReVQ4R3pBRUZ1R2RqbFhUdy1EQzJMTHduOUl6MGx1bTJGRmZGYUtidnczV1lyS3hRNGx5MlRpSW4?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "OpenAI Slashes Funding Goal by Ten Billion Dollars",
+      "summary": "The world's leading AI startup has reportedly lowered its fundraising target as the broader AI market cools. This suggests that even the biggest names are feeling the pinch of investor skepticism.",
+      "view": "OpenAI slashing its goal by $10 billion is the first real crack in the 'infinite capital' thesis for LLMs. This isn't just skepticism; it's a realization that the cost of compute is scaling faster than the revenue from chat subscriptions. Even the industry leader is being forced to accept that the era of valuation-at-any-cost is officially over.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNamxPa09kV2VNeERWR3RpM2NoN1k0STRYb0pyWW5xbWxXdmJ3Qkp1VVdMU1BkcW00bE81LXZkQ1ZGd0RGWlQtMnNvYzA4NnlaRmxNZG9GNVN5UWxmTnlLb3RNajlIdTEzNUFGVUQxcFN1Tm1Pd0F0ME1JZ1kyQWRfZkFTWEd6YlJ0ZW4wekJiZ1pZbXBvLTRxRWwxanQtM25GR1U1a1EyNXFPVUp1cXZNTVpaOA?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "The Battle Between Data Centers and National Parks",
+      "summary": "Plans to build massive data centers in West Virginia are being met with fierce resistance from environmentalists. The projects threaten scenic views and local wildlife habitats.",
+      "view": "The backlash against data centers in West Virginia and Utah is a sign that the 'cloud' is finally hitting the physical reality of local resource limits. This 'rage against the machine' is no longer just NIMBYism; it's a conflict over fossil fuel use and water rights that will force Big Tech to pay a premium for 'clean' energy sites. The winners are local communities that can leverage these needs for massive infrastructure upgrades.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZEdMM1hfZVBOM2I2MENtWFFNRVY5TFpacmU4dEhYWlBWVEd3dnhBSHlfdnFhNmZUZy1Sb04zd2pPeVUxajdGbkZRcm4wX3g4clhsTVQxUDRxdGpkQVdpRVhXY25hZmJ6eGh3S2ZvUDlKWlBHeDZjTVkyX2oxR3BxdHBXTmxvOGJtZjBZcEloRGxVWEE?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Ford and Rivian Use 3D Printing to Cut Costs",
+      "summary": "Automakers are moving away from traditional manufacturing for certain parts, using 3D printing to speed up production. This shift is helping them lower the price of electric vehicles.",
+      "view": "3D printing is the 'secret weapon' for Ford and Rivian to fix their broken EV unit economics by eliminating the need for expensive, long-lead-time traditional tooling. This move increases supply chain resilience and allows for faster iterations, which is vital for competing with Chinese EV manufacturers. This is a win for engineering flexibility, but a long-term loss for traditional Tier-1 parts suppliers.",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03VHpWQVNudE80cmxIdHllS2R0MzVjQmd0ekVWREJZYXlIYjNlMG4xU0FoV3J6aC1FZEZIWFpkbWhXUVZVR2JBMU1rVUYwOGU3MFRsQWpJYzJNd3hHeVZzN2FsVFoyT0pMRlM5UGxLRjNHeXVKS29HS0M4WmxPalHSAYQBQVVfeXFMUG84TU5ISlg2amdTb1dVSjR1cjM1TnlFSVFnMlFEdjlGQ1Q0T25YQkcwdTFFM2gtT1RkaHE3c1djcnJJTzhBVDh3WkpMbTJIUi1CUmhXTmhMc2NncElLS014ZmJhZE90akhCd1dtRTdtS2RZMk1iUWlvS1dFX3RnRUdjbm1O?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Capital Flees Indonesia as Government Targets Wealthy Tycoons",
+      "summary": "President Prabowo's aggressive crackdown on the country's business elite is causing investors to pull their money out. There are fears that the 'rule of law' is being replaced by political targeting.",
+      "view": "Prabowo\u2019s crackdown on tycoons is a classic consolidation of power disguised as 'rule of law,' which will cause a permanent discount on Indonesian assets. Wealthy elites are moving capital to Singapore not because they are guilty, but because the judicial system is now a weaponized tool for political alignment. The loser is the Indonesian middle class, who will see FDI dry up as institutional investors flee the unpredictability.",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOalFscFpzY2tVX0VwSUxzNXdpUWgybHRhdzM4N3hxV0diMWVhY01tUENNaXdGM3Fsa0stYUI4RUFwcUpQTk9uMXBXb3d4cDZreXRINTIwQjR0YkJCY2xJdXBWTjJINkNXMnB2R3NBRGZmcGp5M2FvdkhBZzItZklYRGpZbW0tUWYxWVRiOXRVbWhxT2NlRFpHQ1JjV3hQcUtKWURoUE9BMkdUcFQ0M1lIT0dtSGZRTlBPZHQyVEZGUFk4LTU3VC1NRWZ6VQ?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "China Tightens Its Grip on Indonesia's Nickel Industry",
+      "summary": "A massive influx of Chinese capital is rebalancing Indonesia's nickel sector, which is vital for electric vehicle batteries. This moves the country closer to Beijing's economic orbit.",
+      "view": "China is effectively colonizing Indonesia's nickel supply chain to bypass Western trade barriers, turning the archipelago into a 'critical mineral province' of Beijing. While Indonesia attempts 'hostile takeovers' to maintain a semblance of control, the technical and financial reliance on China is already too deep to reverse. This puts Indonesia on a collision course with US IRA-compliance rules, potentially locking them out of the American EV market.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTGNxaHRjdWlmUXB2Vm9GOWRjTTJjTHk3cmN4akNmQUh3dkdfVTEzS0pTa1lhS1RVWFNmV2VwdHJmTkxCanBvVHpMelFSNURVVzhRLWpjSTBSdl8tSk42aUlmN3JBN2k4S0o2d2RTd3B1WUo0VE1ON2FibWZNdmJLRVJBaGZpbnpnVG94VGFzRFpzZ21sLXo5TnpXTDBkY0RPUFNIUEg1MlB4azhNNU5sX3otV25GRnVEZXY5WFFVYm52ckdHa1I0?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Toxic Smoke From Forest Fires Sparks Massive Student Protests",
+      "summary": "A thick haze caused by agricultural burning is choking cities and fueling a new wave of anti-government demonstrations. Students are linking the environmental crisis to broader political failures.",
+      "view": "The toxic haze is the spark that is reigniting student activism against the 'Omnibus Law,' linking environmental degradation directly to corporate-friendly deregulation. The government is losing its grip on the narrative as 'public health' becomes a rallying cry for broader democratic reforms. This haze isn't just an ecological disaster; it's a political vulnerability that could destabilize the current administration's honeymoon period.",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRFluNEk2RWtBR2RSMHQ2cGdBWElPa3QtdUZaTldvVnNLaTR1RThyWDNBSWtfQk1pVkFHQzBGUXg4dWxyTERGRlRFWEg1V09sc0xScmVTNTlNb25LRmRLUFNFUFFKN3pJdGJ0STBvTExyWE1HYzVmRVFVZFNfdUFzT2l2MUhFSWh0bGc?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Digital Tension Rises Over Undersea Internet Cable Rights",
+      "summary": "Indonesia and Singapore are at odds over the placement and regulation of subsea cables. This infrastructure is the literal backbone of the regional digital economy.",
+      "view": "The cable dispute between Jakarta and Singapore is a fight for the 'digital chokepoint' of Southeast Asia, with Indonesia demanding more sovereign control over data transit. This friction threatens the regional digital boom by making subsea infrastructure more expensive and politically risky for investors like Google and Meta. Indonesia wins on sovereignty but loses on its goal to become a regional tech hub if the cables simply route around it.",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbUhJUDAwV1lJLVVaZXFpMl8tcmVTSmhpclpVaDhGZWpZaG9EV20zcV9yRjFjSk1VMUpMa3F1aXc0dnJWa0NYUEpFZkJLUURHT3owT29RMXdnM25yczRWcm1taXJJT2FDR0Y2X3Q5VUxDUlFOdFFSSmh2cWlOTkJrNFJFdVZBTXdaTkFPZ2ZCUWtTRmNKNVY3Y09aUGM1OUZhSVJpdHNiNURrRmFPOFNvbUVJVkFzMU5tRWVBM2FPSnhXZ1Bid2NoNVdB0gHKAUFVX3lxTFBDVm5UVjhjVFBfZ0Y2QUh3aWpYS2Q4cGNvVEZ3RkpBUGN4SHpHdzB6OUdoTUUwNktKSW9Qb1Z1S2dxWHhaV19nUDlNRWF3VUFVdkpFVWtQc3h5UjFFQlZ6MkJWS1A3QTRWeFh4UE5BMlFfWEVTWklJNTc2S1lYWHZVRjlZQjNCZ1lIT2RUWHZXX2RiSTFYdk95bGg1bXpnZExmdXZBdHZFT21IU1FOMldoMTI4QlBiU3ktLUttRjBsMU4wQ0VaNmJwOEE?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Major Binance Breach Sends Bitcoin Prices Into a Tailspin",
+      "summary": "A security hack at Binance, the world's largest exchange, has caused a massive 'flash crash' in crypto prices. Trust in centralized platforms is being tested once again.",
+      "view": "The Binance breach is a 'trust stress test' that will ironically drive more volume to decentralized exchanges (DEXs) while Binance uses its massive reserves to paper over the hole. This crash was a liquidation event for over-leveraged retail traders, but the $6.3B figure shows that centralized exchanges remain a massive single point of failure for the entire ecosystem. Trust is the mechanism here, and it is fraying.",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRHEtek1QR0VDQnZJV2NES0hQdDlrZlF6ZlI2WDhUS3pRd3lRWXA5T1g0NmVxOG9rN3BFUXhhYjJxeXBHV1NRRGRUTS0wVG1xSUpZVTdFOVByT0RDaHp4U3JRYm9YTzV1X1Jtc0JVV1dESjJ6b0ZRaEhpaktqOWNzTA?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Canada Debuts Mortgages Backed by Bitcoin Holdings",
+      "summary": "New financial products in Canada allow homeowners to use their Bitcoin as collateral for house loans. It's a major step toward making crypto part of everyday banking.",
+      "view": "Canada's Bitcoin-backed mortgages are the ultimate 'financialization' move, turning a speculative asset into a productive one without triggering a taxable event. This is a massive win for early BTC adopters who want to diversify into real estate without selling their 'digital gold.' It signals the start of crypto being integrated into the foundational layers of the traditional banking system.",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbDhRZHhZbWt0bHdNRTdPcVVFZlVrNE8xN043VmFwekZVOEF3ZDVCaWJxdnVvUF9hbDRfRDFUUmdEM0stRTNJTVZocGhKZWlyRlFGcDA2OVhyWWNqbUp5c1FkYWNKVmVrTzAyRldrQS1PSUcyU1pJTTE2T1dpV1I4aFJQZFVRT2NtSDRuMWNxVWo0cVFFbnJ2bnhmOEZ1dU9KVEVKY3BxNjRZd0VPeTRwTXd2SVY3RXF5alZKVFJ2UVNjdjIxQ2k4V3NhYzR0QQ?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin and Japanese Yen Now Move in Perfect Sync",
+      "summary": "Data shows a record-high correlation between Bitcoin and the USD/JPY exchange rate. Crypto is no longer an outlier; it's behaving like a major global currency play.",
+      "view": "Bitcoin has officially become a 'high-beta yen,' moving in lockstep with global carry trade liquidity rather than acting as an independent store of value. This perfect sync with USD/JPY proves that institutional algos now treat Bitcoin as just another liquidity proxy. The 'uncorrelated asset' narrative is dead for as long as the yen remains the world's primary funding currency.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Strong Dollar and High Yields Drain the Crypto Market",
+      "summary": "As US Treasury yields rise, investors are dumping 'risky' assets like Bitcoin to buy safe, high-paying government bonds. The 'digital gold' narrative is failing to hold up against high interest rates.",
+      "view": "The 'digital gold' narrative is failing its greatest test: a high-yield environment. For institutional capital, holding a zero-yield, high-risk asset like Bitcoin is irrational when 10-year US Treasuries offer a 'risk-free' 4%+. The strong dollar is effectively draining the speculative pool that crypto needs to survive, proving that liquidity, not scarcity, is the real price driver.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSzJTNlFLOVduQU9HQW5vOFU0bHVCaXo2SlV6VEdPRW9nekhJUEJaVWxVb1p0N0tPWWRyekVKb1hHX3hpYzh1aXJvb2wzZlhRMDNTREpieFVCdEI3RmpucngwaDhsVk1mOWJYdmhOQ2hIZVFWWTdwcGpjakRyZDd2el9HWFozbUQxUmRhVGNUMkh6NTdyNm80UFh6S1pRV2tNV2VfLUdyaDNva1BUVDNnVjNR?oc=5"
+    }
+  ]
+}

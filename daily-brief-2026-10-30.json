@@ -6,42 +6,54 @@
       "headline": "Gartner warns that $3.5 trillion in AI spending is at risk",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWllLcC1jU19wMGZsQjluRTZWckN3eDNEMGUwX2hJWWxtUjg4RE9XR3pCTzhOMEJaQjM4MThiTVhzdFJ3cnZzTEFhRGNjdUJLM05tZzVxQUI3dG1jc1Bqamk4V0Mzc25uRmtzbmVjOTFsTVlrQmpZeFhQaFF3NWNWb0haNHpEbDRPc1piaW5acnE4ekpNYi1SWXQwZGhiMEJYMnUyRXFhV1kwcWNZV3JpOVpyWGxBazBsZnJlLVZaUWM?oc=5",
       "prediction": "Expect at least two major neocloud providers to announce restructuring or fire-sale acquisitions by Q3 2026.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No fresh headlines were found to confirm or deny the restructuring or acquisition of neocloud providers."
     },
     {
       "section": "tech",
       "headline": "China\u2019s tech giants lose their luster as investors bail",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTWVd1YTFDSWZoT2hydUtkZnVnTUt3UmFRNjBJTVVwank4NGRtOUZPRTJxOVpXNWdnY0U4Tk9ZU2xTcWFOVjdFRHdEYS1CTjdZSzdfUHgtUm11MHFqT2dLSzVZNlQ2RGdWdl90b2ViY9IBdEFVX3lxTE9KN0k3M2QtTmxuN2g2dWlScW5BR1ZWSGZTNE11cEoxaXVUNUZSLWg3T2dHT0RPc1p3aFBvQVJQR090NXNzTHo4TXNveWllRllsb2l2OHowenZ0U3hLN2VSMHdrOTFJdFE4dDI1T09GT2FIOXo5?oc=5",
       "prediction": "Alibaba (BABA) will underperform the S&P 500 by at least 15% over the next 12 months.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "The provided headlines discuss SpaceX IPOs and general Alibaba analysis but do not provide comparative performance data against the S&P 500."
     },
     {
       "section": "tech",
       "headline": "New AI agents take over the heavy lifting of chip design",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQjJHZzBaelhWQTNnek9xSjlZX0pKZHZRSjlGTjNCbDk2OTF3OEljQWk3UUQ1c0pxQzJSVjhyaVVLalhxQkJ2dFJGTzdsdWo5WEdZSHlGdzZseEU5M25INWxIbEVJVXBPdGFabjcydmQ2VWhsZTNQWEY3MENFVDdNTncza3VRTmczTEVUZ0JBcU5JRU5pZlZ0RXgzWllOc2pMaW9MZldCaW1FLTFEYUhr?oc=5",
       "prediction": "Cadence will report a 20% year-over-year increase in its AI-specific licensing revenue in the next fiscal year.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Headlines indicate that AI design tools are a key focus for Cadence, but specific revenue growth percentages are not mentioned."
     },
     {
       "section": "tech",
       "headline": "Trump\u2019s plans to reshape the tech industry are stalling",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOelYzbkl0V2RRRU9rNTdEcC1HQjRMSkZKR2tMZ2x6M3ZfNjExYndPZ2xRZjJJMWkyQWloSkh1Z2Nya2h2bkFBZkRRcnZpMjdaNDF4MnlXUG9WNng4eU92YThXWUotdVN5UzFkZkFwLUdTMVRNR3ZqejdqamlzdG5oR3doU2k?oc=5",
       "prediction": "Legislation aimed at 'Tech Localization' will fail to pass the committee stage through the end of 2026.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "The fresh headlines do not contain any information regarding the progress or failure of 'Tech Localization' legislation."
     },
     {
       "section": "markets",
       "headline": "Alphabet loses nearly half a trillion dollars in record wipeout",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb0pfRGxYakdFTWU5eXlYYTd5cGVuVmpzMDFiMDBuX2ZOQVB5aFV1Qmk1dEhXQWwtSVNtU2ZOSTNfVDMxS2NoMUpTbmJ3a0hYOGtvOGJldXlkU3k2N3djaVhDMUNGN0g5Q1J2SzRXMkhXbzI3MUxqd2t5SEszX0JEZWZPUmRSd3VZQmYyZzZZeDNvY0hKaExMcnNTbHhzeTItckpZaEJmbWxodHVla2FKTTN4cmdFY2VjWk96cjdwLUtjX3FMRmZwLVp3SHJiX2xNajBR?oc=5",
       "prediction": "Alphabet\u2019s operating margins will compress by at least 150 basis points over the next two earnings cycles.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No information regarding Alphabet's operating margins was found in the provided headlines."
     },
     {
       "section": "markets",
       "headline": "Intel stock collapses to a half-century low",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWUNkbFdtOFpFalJSNEk4SnFjbVI0c3ZzbjFvVU50WGpoZURxeURhajJET1RmQzVrcW8tbzJKMGpYRjhKTndfeVI4YnhaSV9NXzFHYlc0OEwtZVhOYTFNa3B4Wks3OGRxcmVBenA5MnI0LVdCQW5hYnBEMU5FVEN4ZVBUbUtiaGNGUmFrZERIcUYzZ9IBlwFBVV95cUxNYTZPZTVqb0NZbTNWc1VacjRLODhlUmpUekNhaUtlbkx2SkJXQ2VNbFdMSlNENUR5UXVtR0VTeUU1LUVSS09JY0NOVWhFWHE1RWVFeGpiLWF6b1VWWmp6QUdHZXJwX1NodjI1WFlSRTRmYWF2NEwyZlJxdWRVVlhjUFZLQWwweW5SOEdHcWVNTzhJRm5UY3ZR?oc=5",
       "prediction": "Intel will be forced to cut its dividend or announce an additional 10% workforce reduction before the end of the fiscal year.",
-      "grounded": true
+      "grounded": true,
+      "status": "held_up",
+      "note": "Fresh headlines confirm Intel is suspending its dividend and laying off over 15,000 employees, fulfilling both parts of the prediction."
     },
     {
       "section": "markets",
