@@ -8,7 +8,7 @@
       "prediction": "Expect at least two major neocloud providers to announce restructuring or fire-sale acquisitions by Q3 2026.",
       "grounded": true,
       "status": "too_early",
-      "note": "No fresh headlines were found to confirm or deny the restructuring or acquisition of neocloud providers."
+      "note": "No new headlines were provided to evaluate the status of neocloud provider restructuring or acquisitions."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "Alibaba (BABA) will underperform the S&P 500 by at least 15% over the next 12 months.",
       "grounded": false,
       "status": "too_early",
-      "note": "The provided headlines discuss SpaceX IPOs and general Alibaba analysis but do not provide comparative performance data against the S&P 500."
+      "note": "The available headlines discuss IPOs for other companies and general stock analysis for Alibaba without providing performance data relative to the S&P 500."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "Cadence will report a 20% year-over-year increase in its AI-specific licensing revenue in the next fiscal year.",
       "grounded": false,
       "status": "too_early",
-      "note": "Headlines indicate that AI design tools are a key focus for Cadence, but specific revenue growth percentages are not mentioned."
+      "note": "Headlines indicate that AI design tools are a key focus for Cadence, but specific year-over-year licensing revenue figures are not yet reported."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Legislation aimed at 'Tech Localization' will fail to pass the committee stage through the end of 2026.",
       "grounded": false,
       "status": "too_early",
-      "note": "The fresh headlines do not contain any information regarding the progress or failure of 'Tech Localization' legislation."
+      "note": "The fresh headlines focus on SpaceX and biotech layoffs and provide no information regarding 'Tech Localization' legislation."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "Alphabet\u2019s operating margins will compress by at least 150 basis points over the next two earnings cycles.",
       "grounded": true,
       "status": "too_early",
-      "note": "No information regarding Alphabet's operating margins was found in the provided headlines."
+      "note": "The provided headline discusses Nvidia's market capitalization and does not contain information about Alphabet's operating margins."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "Intel will be forced to cut its dividend or announce an additional 10% workforce reduction before the end of the fiscal year.",
       "grounded": true,
       "status": "held_up",
-      "note": "Fresh headlines confirm Intel is suspending its dividend and laying off over 15,000 employees, fulfilling both parts of the prediction."
+      "note": "Fresh headlines from The Verge and Intel confirm the company is laying off over 15,000 employees, which aligns with the predicted workforce reduction."
     },
     {
       "section": "markets",
