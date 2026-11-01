@@ -6,42 +6,54 @@
       "headline": "Samsung profits soar as AI hardware demand stays hot",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbjY2bzJuNWxWYWRZZzJuc2RjYXAzdEpQYlNFTmxOeVpUY1FQZ0JWeklHSTZJc1pyc1hDUUxfR3FONGdrSDV6X1lqaFZ5VmdOWjN2d0JoWHdQT1dqOWFuQ1hOYmVmSWJKYUxiWTVtY0JMWkYwSVZkTXNSaWh1X2NqOWc0ZlZvaERTdFlnNVVGUHpDeWd3ZGYwSUZKa1NvSGZfTVRHR0JqNTZISmU2WG83cWFQTWFHSm9XU1Ew?oc=5",
       "prediction": "Expect Samsung to announce a dedicated 'AI Foundry' expansion plan or a specific partnership with a top-tier US chip designer by the end of Q1 2026.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "The provided headlines discuss general AI chip trends and bottlenecks in 2026 but do not mention specific Samsung foundry expansions or partnerships."
     },
     {
       "section": "tech",
       "headline": "Gartner warns that $3.5 trillion in AI spending is risky",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWllLcC1jU19wMGZsQjluRTZWckN3eDNEMGUwX2hJWWxtUjg4RE9XR3pCTzhOMEJaQjM4MThiTVhzdFJ3cnZzTEFhRGNjdUJLM05tZzVxQUI3dG1jc1Bqamk4V0Mzc25uRmtzbmVjOTFsTVlrQmpZeFhQaFF3NWNWb0haNHpEbDRPc1piaW5acnE4ekpNYi1SWXQwZGhiMEJYMnUyRXFhV1kwcWNZV3JpOVpyWGxBazBsZnJlLVZaUWM?oc=5",
       "prediction": "At least two major venture-backed 'Neocloud' providers will face bankruptcy or a fire-sale acquisition before the end of 2026.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new headlines were found to verify the financial status or potential bankruptcies of Neocloud providers."
     },
     {
       "section": "tech",
       "headline": "AI agents are now designing the next generation of chips",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQjJHZzBaelhWQTNnek9xSjlZX0pKZHZRSjlGTjNCbDk2OTF3OEljQWk3UUQ1c0pxQzJSVjhyaVVLalhxQkJ2dFJGTzdsdWo5WEdZSHlGdzZseEU5M25INWxIbEVJVXBPdGFabjcydmQ2VWhsZTNQWEY3MENFVDdNTncza3VRTmczTEVUZ0JBcU5JRU5pZlZ0RXgzWllOc2pMaW9MZldCaW1FLTFEYUhr?oc=5",
       "prediction": "By mid-2026, over 40% of all new commercial chip tape-outs will cite AI-agent assistance as the primary driver for design-cycle reduction.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "There is no new information available regarding the adoption rate of AI-agent assistance in commercial chip design."
     },
     {
       "section": "tech",
       "headline": "Tech layoffs continue despite record profits and AI hype",
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPWjc2bDlEWHNuV1BZeENVamFNMVlhdzQzRTctOENHYmJFbVVwOGZxNXhDU0E3bXRXemlkSXl3OUtvTXZ4SDE2ODBmOUVtZjJrQjFzbDhEeUd0Q0lrc01yRnctNmdmSzM0a1hsVVJTVUo3X3ZjdWswVlhDNTJxN2c1NEM5M2hqT0JoM0RNZC03cmMwUmw5X0xXcnB2UzdtNzFFaDRicWdJVThTZ3IwMC1OYjIzeGNCWVdTX2ZmT2NJaURqU2Z3aXBNN0NCdm04aF9pTXNUX0tWX2xOWWxDQXB1R3Y3NkJOR00ySjFpU0Z5UnU4M3RTd1hzdm9DLWh6NHBYbHZVT1RPR1ViM3pweUpJ?oc=5",
       "prediction": "Total tech industry layoffs in 2026 will exceed 150,000 even if the broader economy maintains positive GDP growth.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "The provided headline regarding Bitcoin price predictions does not contain any data related to tech industry layoffs."
     },
     {
       "section": "markets",
       "headline": "Nasdaq suffers its worst month in over a year",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa05JWDlEbXJoOEgwUkRMc0ducHRVaG9wQzdUUmRYNUs5XzFpYXMyOF9jYnNDOVFweVlmWUtJRmtxbnE5SVpEazBFRzNzSkZoS0V0X2pnRExXNTNWQXBJZ05STmtmTHh4TVVabkljcEpUVDFmNHoxclJfanVmZWpod3NmZ0JmdDg?oc=5",
       "prediction": "The Nasdaq will retest its 200-day moving average before finding a definitive bottom in early December.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new headlines were found to confirm the Nasdaq's technical positioning relative to its 200-day moving average."
     },
     {
       "section": "markets",
       "headline": "Equity markets lose $2 trillion in a massive crash",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcjlRTU43TkdfbDlpakpvNXRhVFBWT21NMUg2S2lLSURqeVRtSjZsX25GZE03MnpaNUhBTmdmSVpfd1AxdjQ2VW9OYzlrMnFqcHJPeTIwNVFZRTJ5WmF4cXNlaU9TYmJPZUxuWlNPcGxIVnhnbGFKc1AtQjJTcnFJZVhmOFNqQVBKdmlLRW1GZzI?oc=5",
       "prediction": "Tech sector volatility (VIX) will remain at least 25% higher than its three-year historical average for the next 90 days.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Headlines suggest general market unease and volatility but do not provide the specific VIX data relative to historical averages needed to confirm the prediction."
     },
     {
       "section": "markets",
