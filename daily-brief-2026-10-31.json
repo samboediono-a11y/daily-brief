@@ -8,7 +8,7 @@
       "prediction": "Expect Samsung to announce a dedicated 'AI Foundry' expansion plan or a specific partnership with a top-tier US chip designer by the end of Q1 2026.",
       "grounded": false,
       "status": "too_early",
-      "note": "The provided headlines discuss general AI chip trends and bottlenecks in 2026 but do not mention specific Samsung foundry expansions or partnerships."
+      "note": "Fresh headlines discuss the AI chip market generally but do not mention a specific Samsung AI Foundry expansion or US chip designer partnership."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "At least two major venture-backed 'Neocloud' providers will face bankruptcy or a fire-sale acquisition before the end of 2026.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new headlines were found to verify the financial status or potential bankruptcies of Neocloud providers."
+      "note": "No new information was provided to verify the status of Neocloud provider bankruptcies or fire-sale acquisitions."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "By mid-2026, over 40% of all new commercial chip tape-outs will cite AI-agent assistance as the primary driver for design-cycle reduction.",
       "grounded": true,
       "status": "too_early",
-      "note": "There is no new information available regarding the adoption rate of AI-agent assistance in commercial chip design."
+      "note": "No fresh headlines were found regarding the percentage of commercial chip tape-outs citing AI-agent assistance."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Total tech industry layoffs in 2026 will exceed 150,000 even if the broader economy maintains positive GDP growth.",
       "grounded": false,
       "status": "too_early",
-      "note": "The provided headline regarding Bitcoin price predictions does not contain any data related to tech industry layoffs."
+      "note": "The provided headline on Hawaii's economic outlook does not contain information regarding total tech industry layoffs for 2026."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The Nasdaq will retest its 200-day moving average before finding a definitive bottom in early December.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new headlines were found to confirm the Nasdaq's technical positioning relative to its 200-day moving average."
+      "note": "No fresh headlines were provided to track the Nasdaq's movement relative to its 200-day moving average or a December bottom."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "Tech sector volatility (VIX) will remain at least 25% higher than its three-year historical average for the next 90 days.",
       "grounded": true,
       "status": "too_early",
-      "note": "Headlines suggest general market unease and volatility but do not provide the specific VIX data relative to historical averages needed to confirm the prediction."
+      "note": "Headlines suggest market unease and volatility but lack the specific VIX data relative to historical averages needed to confirm the prediction."
     },
     {
       "section": "markets",
