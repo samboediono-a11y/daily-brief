@@ -8,7 +8,7 @@
       "prediction": "Anthropic will set an initial price range that values the company at least 15-20% lower than its internal 'target' to ensure a successful day-one pop in this fragile market.",
       "grounded": false,
       "status": "too_early",
-      "note": "No new information was found regarding Anthropic's IPO plans or pricing strategies."
+      "note": "No fresh headlines were found to provide information on Anthropic's IPO status or pricing strategy."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "At least two major hyperscalers will signal a significant reduction or flattening of AI-related capex growth during their Q4 2024 earnings calls.",
       "grounded": false,
       "status": "too_early",
-      "note": "While fresh headlines discuss general AI market bubbles and semiconductor cycles, they do not provide specific data on hyperscaler capex signals from Q4 2024 earnings calls."
+      "note": "The fresh headlines discuss general industry cycles and 2026 outlooks, but do not confirm specific Q4 2024 capex guidance from hyperscalers."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "Apple will explicitly counter this narrative at its next hardware event by doubling down on 'on-device memory' as a primary privacy and performance differentiator.",
       "grounded": false,
       "status": "too_early",
-      "note": "There is no new information available concerning Apple's hardware marketing or its response to Sam Altman's comments on RAM."
+      "note": "No new information is available regarding Apple's hardware messaging or its response to the narrative of RAM obsolescence."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "A major European legacy automaker will announce a multi-billion dollar partnership or outright acquisition of a Silicon Valley autonomous driving or OS startup by mid-2025.",
       "grounded": false,
       "status": "too_early",
-      "note": "No fresh headlines confirm or deny a multi-billion dollar partnership between a European legacy automaker and a Silicon Valley startup."
+      "note": "There are no fresh headlines regarding acquisitions or partnerships between European automakers and Silicon Valley software startups."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The Nasdaq 100 will fail to reclaim its 50-day moving average for at least the next 30 trading days.",
       "grounded": false,
       "status": "too_early",
-      "note": "Current headlines focus on cryptocurrency moving averages and general market sentiment rather than specific technical status for the Nasdaq 100."
+      "note": "While headlines mention technical averages for Bitcoin, they do not provide data on the Nasdaq 100's position relative to its 50-day moving average."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "The Bank of Korea will be forced into an emergency rate cut or significant liquidity injection before year-end to stabilize the domestic equity market.",
       "grounded": false,
       "status": "too_early",
-      "note": "No updates were found regarding the Bank of Korea's response to the reported stock market wipeout."
+      "note": "No new information was provided concerning the Bank of Korea's response to the equity market wipeout."
     },
     {
       "section": "markets",
