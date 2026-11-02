@@ -6,42 +6,54 @@
       "headline": "AI heavyweight Anthropic moves toward IPO despite market chaos",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZTh5VnY3cURMaUJFYjNhSUFIQ2pqSVRyeVR2cGF3cW9pVnpacThDQUlMRy1OSkZFMTlzR0JlUTVtX3BmdVpzRE5yZkR5WXZNenVOQTJEYjVoUU54MXNrYkJCSjZTbHI1eU5uTkJQaUwzR1RCVlRiN0tIT3g0Wmg0ZG10c2JnSm5BSlN1SHVDQ0o1R3dXMnBFUjVTUThhQ3BYUkkxRnI4enNDd0Vud0E?oc=5",
       "prediction": "Anthropic will set an initial price range that values the company at least 15-20% lower than its internal 'target' to ensure a successful day-one pop in this fragile market.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No new information was found regarding Anthropic's IPO plans or pricing strategies."
     },
     {
       "section": "tech",
       "headline": "Gartner warns of a massive $3.5 trillion AI spending trap",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWllLcC1jU19wMGZsQjluRTZWckN3eDNEMGUwX2hJWWxtUjg4RE9XR3pCTzhOMEJaQjM4MThiTVhzdFJ3cnZzTEFhRGNjdUJLM05tZzVxQUI3dG1jc1Bqamk4V0Mzc25uRmtzbmVjOTFsTVlrQmpZeFhQaFF3NWNWb0haNHpEbDRPc1piaW5acnE4ekpNYi1SWXQwZGhiMEJYMnUyRXFhV1kwcWNZV3JpOVpyWGxBazBsZnJlLVZaUWM?oc=5",
       "prediction": "At least two major hyperscalers will signal a significant reduction or flattening of AI-related capex growth during their Q4 2024 earnings calls.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "While fresh headlines discuss general AI market bubbles and semiconductor cycles, they do not provide specific data on hyperscaler capex signals from Q4 2024 earnings calls."
     },
     {
       "section": "tech",
       "headline": "OpenAI chief Sam Altman says your computer's RAM is obsolete",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQV0JjNVJDNmxJSXdsWk4ySjhKVDRmdkhPTlNBWlliM28tbG1JM055YkdpYUhQUHZHazFIYjJyWXd0LU54NU9FUEpPNGU4REFDLUJpQmx4QlRwWjdDaU1MeTZhUDQwdmdHQ1RvTVdJYnRlMko4WlUxNXJpR2tNZVQwWDFwdXBUMGQyaWF1dkNyUzQzNDctMWdQci1aWjkxb2JjdlFLenNBdHpmMDc3eEEzUWFYY05WZ1dPblhHXzJwcVlua19ic1RqVzFMUXN4UnRwYUgyaEppM3h2TVQ2MEFsMFRyZTZxWWpYZlRGbGJ0ZkhoV1lHd2JyN3hsMko?oc=5",
       "prediction": "Apple will explicitly counter this narrative at its next hardware event by doubling down on 'on-device memory' as a primary privacy and performance differentiator.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "There is no new information available concerning Apple's hardware marketing or its response to Sam Altman's comments on RAM."
     },
     {
       "section": "tech",
       "headline": "Auto executives prepare for major pain from software-led disruption",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUVRzd1BaVGNnUG5odXMxX3l2a05ydDlhNXFSRW4tRW92bHVfWjdBZ3p0eWk5dTFfdzloMmRBTk05LU4xNEJVVE9hN29WVHhCLUdpYjctYjk3Mjhnd0F5NGZINGpNTXBoZUZlamFRZ3FSbVdPbEFLNExkbXRMNlFIcmVUMDk5RUVKWk1ESzczanZRcWtSRHFXMF82VUl2V29O?oc=5",
       "prediction": "A major European legacy automaker will announce a multi-billion dollar partnership or outright acquisition of a Silicon Valley autonomous driving or OS startup by mid-2025.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No fresh headlines confirm or deny a multi-billion dollar partnership between a European legacy automaker and a Silicon Valley startup."
     },
     {
       "section": "markets",
       "headline": "Wall Street reels as the tech-heavy Nasdaq dives 3%",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVEJYRTREa2JJM1FSeW1nTTVldXlmeElCanRweTcwcVpudjZ0WUtBVjU5RURERzdESU8tVV9GanJ3VHlBUlhkWjVmbG5ielVFbEx5cXNLX0M1Vk9XTU5nTUtLVm0xaDA4LTlaZ1BnS0Z0d1FrNXBHVTJHLVFYUExYQjhCNDVGRWhNWm0wOEFjbG05R2toV25YMlZ2LTEyUUVNR0t5R3A0WF9NZWw0Zk1LWjBUaFpWdHVHdVJqWmJ4UkMxaUJaX3NrS3M3eFBWQQ?oc=5",
       "prediction": "The Nasdaq 100 will fail to reclaim its 50-day moving average for at least the next 30 trading days.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Current headlines focus on cryptocurrency moving averages and general market sentiment rather than specific technical status for the Nasdaq 100."
     },
     {
       "section": "markets",
       "headline": "South Korea's stock market suffers a staggering $1 trillion wipeout",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FaUZ6X3pJUGlzeWEyMTRZSE1WT0QwTmFJb0Q1d3lLYUt6clBpVDNvdDhIeTEtM09UeGhoZjA4cjBBY1ZTdEhnNHVsdXh2LVFaeVRtQjJGVWhOQjlvY1lKOWRVMDFiVFkzY0VmZE1OUHhRSms4R184?oc=5",
       "prediction": "The Bank of Korea will be forced into an emergency rate cut or significant liquidity injection before year-end to stabilize the domestic equity market.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No updates were found regarding the Bank of Korea's response to the reported stock market wipeout."
     },
     {
       "section": "markets",
