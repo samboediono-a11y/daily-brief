@@ -1,0 +1,287 @@
+{
+  "date": "2026-11-03",
+  "predictions": [
+    {
+      "section": "tech",
+      "headline": "Big Tech Builds Gas Plants to Power AI Data Centers",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeGtwdTdHSFItR1U5SmZJck9sOTIyVzlPRTBMbG5YaTBTdnF1bVJnUmdLcUZtelJyclVmaHhnbUNvQkRuUjJud0Z3bGVjYTZuTHFHNGJLZEM0UHFqaVdrQ0xBZFduMFB3VU9BeTNwS0FBamxaMHFtTW9jSXNTRDRqdDU3eUQtem1pdTVhajlXZVhzNEpmbDFrSFFJVFRKY0RPLWJEUDBjNXAwTGJMSGVyYmw0UXE?oc=5",
+      "prediction": "At least one major tech cloud provider will announce a direct utility-style joint venture with a gas producer by Q2 2025.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "Elon Musk Targets Traditional Wireless Carriers with New Plan",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3hVb1R3X1JVWkxpZ04wdUZDLXMyVFdGbXA5OFprUFZUcUM1TkpUTXZMRXNzNXoxWFF4cHBDemFWazhzLUFlcTl5cGgyRzh3UWVYZFVhdmVBUkY4cl8tTm5TeUpKNS1jcnZrMmtuRFplRDNBYVpwSktjUTl3NDgwYi15aU5Eb2swR05TTlhZZ1haUURmNHhuYkZ2bHBERER6blh0eWk5Rnk1QQ?oc=5",
+      "prediction": "Starlink Mobile will announce a 'beta' launch for standard smartphones with a major US retail partner before the end of 2025.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "Oil Giant ADNOC Pairs with OpenAI for Energy Efficiency",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTFA0TWo3cWFYSGVSb0k4Z1lfYnJEaGdJa1h3NmprWUp4T0I3eFhhaXVxN0ZTb045SDROWnY3MnpaY0wtSjhNZGhIaHYtaEd3VFZZdXp5MjI4bVVfcWVkSFJGWmJVNV82MklzUHNNZlNfMzFVNUFxZUVBRU4xaTl2NjM4NmJtbk44STRKczBFU0RXY1dv?oc=5",
+      "prediction": "ADNOC will report a minimum 5% increase in production efficiency directly attributed to AI-optimized drilling within its next annual report.",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "AI Industry Braces for Post-Election Regulatory Crackdown",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS0hnNHBoa0JuODROcmpLN2ZSeUx1YXB5WklJckZyYmtHVHRMZ1ZMVTdfYXgzVVJxYzVYZlFGS3BDWUVzTUtOekFqSXFYd1VHRU04RFE0S0dFR29yc2RrQWtIMzlDV1EyUk83TWdzcVRkUVRsRFNGWTVaZ184dEc5dDBUVW1tUjR0ZS1LUlZqWmFBOHQ0dUlQMHZBQVFMbjBreE53?oc=5",
+      "prediction": "The first major piece of federal AI-specific legislation with civil penalty powers will clear a House committee by mid-2025.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Dow Futures Tumble as Middle East Conflict Spikes Oil",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObWh3bllKRDFaQU4tbnRhVFpNUGVKUjB0WjEwTTh0cnNfbnFYdjZYWDFKRXI3dHhIWGVDQVNxSkoxemg4NGxYM0hvbl9DZVpialRXLXcwRXd4NmVnOXlIQk51Z1lNRjJ5dTh1OTd4WVZpZ21neXdXNmlIYTBKNFZmS1VlUGhZU05RbGJxNlpIMkZ4dEQ5cmNNR3YzTjRVbTdRNXNMV1ROdjlycTI2cl9VRXp4bkp4b0Q0ZTVTdkhyZlpaOHU1LTFFMVJuVWdyYnVheVA5UQ?oc=5",
+      "prediction": "Brent crude will breach and hold above $90/bbl for at least 10 consecutive trading days if Iranian infrastructure is directly targeted.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Chips Recover but Apple Drags Down the Dow",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PbWNuUmM3YXpROGVjV016d1ZUZzlCQmc4a3dJaWpoLTcxeXVzTEFMbTY2bjNGWXljaUtXLWo2bE1QNzZ5NGlTMnA3M0VVQjlhaWN6eUVzOW4xS05EQnd0bEJYMEw0aXJJT3NXWklaNmcxcjVnOWVz0gF8QVVfeXFMTVAyTUQ0UV9iNzQyaThOY04yU1FlSEtRRHpLQXBXZnpvLUV5TklWSzhRaGw2ckowNEtJcXRtWldwelIxYnhDMDFSTzVJVFZwbXZ1Q2QxZWlTUHdUdzdqaW0xMGZIUHlpWlBYWHJ6UGE3cVhRWkpDdTExU29VRQ?oc=5",
+      "prediction": "Nvidia and TSMC will outpace the Dow Jones Industrial Average by at least 15% through the end of the next earnings cycle.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Investors Hedge Against Potential Debt Ceiling Drama",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSndxQlZKTnRLd3BYVTNReUZRU1Z5dDlrdGpidzBlWVhITzgzTkJrXzJlNlhHZHZvQS1JV0E3YUZmT3gzNy1KbWVGVGs4NjR0bVFDanJ4RjYybjU2Rm9DS2tNR0w3SVNpb0puX2NwUjctM1U2cm1EYmZRUWRXd08tY1dfT1BGYmF0TG5UREVHTUVfM0s5MGhHZE1EVVhVUlRCbk5tZmExZU8zUi05bm9B?oc=5",
+      "prediction": "The 1-year US Credit Default Swap (CDS) spread will widen by at least 20 basis points by January 2025.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Bill Ackman Labels Current Stock Market a Speculative Casino",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jVkpJM1FyU1pqQ25PNXRiN2Y4U2wyYjE1RWpQaEd2SjhYWUNjVUJQNzRGZ1hVangyVW1lNzdlWFZtczU2dVNJYjNKN2s3RS1WX3hDTFRCU1NnMUhkS0ltbk9BcnhwcUY2MHJVXzlOM1hoUVNQdnBZ0gF8QVVfeXFMUHdwYndqc01nM3dmWmp6WTFmN0ZOUXdwdkFLejBVNm5fMlpGMi1mZmFKU2ROSDZ2TTVyVG8zOE0zamN4eVNDTWxQZjhnLVQ5c0VSaUZJSTZCYXVZTEJUNWlrVUFwWXAzbVM0ajZRRDAzQ1BNaVhzbUtYQzQxWQ?oc=5",
+      "prediction": "A major retail-favored S&P 500 ticker will see a one-day move of +/- 20% on zero fundamental news before year-end.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "America Heads to Polls with Congressional Control at Stake",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdlZaYXc2NEh3eXJ0Ulc2cGtPeDF4OFZ0X2NvNFlOQzlVRDlIUFpmSTRRUld1VEFyS29nV2xjSHpzX2ZaV2RqVjBhckdxVVJ0R3luejNFN2VtazhQekVxYUM1aENBM2t4cGRGMUJHdVN0SDRZaWgyRE9mczFRenVRVg?oc=5",
+      "prediction": "Control of at least one chamber will remain officially undecided for more than 48 hours after polls close due to tight margins and legal challenges.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Trump Proposes Cutting Billions in Military Aid to Israel",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTnAzZzVDS3N1RTJJdnkxYUJPQkl1X3h4d3hZaC1MX0RwXzRHOGRybmM3QjEzR1kybkJIUmNYcnVPbkNPMkt6TFBnTEdOYWFJemJkelBhVXZsRDQ5VG4wc1lSS0Q2dlRlUmV0VHI2Y3YxNWstRWVPUV95Y2pNUVp5TUlES3pCMC1GUzNTTXVfWWlGd1JlQ3p1XzJUWmJmbzlWUmtYTFlXNDFlZw?oc=5",
+      "prediction": "Major pro-Israel lobbying groups will spend record amounts on primary challenges for any Republican endorsing the aid cut within the next 12 months.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "U.S. Military Launches New Strikes on Iranian Targets",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLTRLaEl5M0lIVGl0V3RQNExrMk1vQW5iOTRxUi1NdFRpbDkwSm1icXpsZXBQbXFpdjM4SjFWd0I0VEFIT2RDUm5mQWtzbmlaSTlFYXFpbUlHTktINVB4WDVuNmdRWGtmYUlOQW92OGhJc2NweWoyZ3RJbU9VT0ZlN3FvaHdLaU5rSDJHMXBEZi1tNHJXUjJXRF9weFJIRUlPOW5aaTM5eEFFRjkxa2QtQ3RtSkVWdGx5SU9JU2JVQ2JYT3BqSjMtVGZ30gHPAUFVX3lxTFBLelpzanoyMy01cGRURlBiNloyMmVGdF92enpCTDZBMzJQNXNObzI1bGVXa2Y3THBYbS1aRnU1RXJlV213MUo0bm9DWTVIcDUwZzdpX0llOUNnOWwtN0d2STlIZnU2ZWxVUElUMDVJcVBqM2RneFFNTU9DQ2NaVHNXUjRKQW1GR0o1OURmQk1FVEtsbDN5ZUQybTktcl9vQjQtbGFDUkxpS0dkWGxGMXFFX21tZkFObFV5dlVnYWtRV2ZCemNXSkxGQnVJSnF3bw?oc=5",
+      "prediction": "Maritime insurance premiums for tankers in the Persian Gulf will rise by 30% or more within the next seven days.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Cyber-Attacks Hit Supermarket Cooling Systems Across Europe",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zckFEbEd5YVVILVJUcHBxdU5jclBSSlZKQzRhWGZHY19maUgwUlZUcVM1OXNrLUstQW4yZTlEcy13bElzUVEwbUIzRU1RRS1aOWJaOXJKZnl0RWs?oc=5",
+      "prediction": "The EU will mandate 'offline redundancy' requirements for critical food and refrigeration infrastructure by the end of 2025.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "Multinational Corporations Lose Faith in Indonesia\u2019s Economy",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbVRLbkZLZTZOTGNZa3F6VFJ6WTE2WUI2TjBBWjk0R1BodV9mX3lpbFdlYmZnXzVjS1hGOW5yR1NFYm5XZ0o1ZGIxWHRJVnBXSDdsM2tmNlpBTFJfLWJ3MUNpQkZwR0lrNUJ4X1dlOEs5MWJLcC1oT18tZC1uUGN6elFvbnk5U3hDai1iS3k4WXJnVzh6bXlzNk0wemhhT1RnUS1JaVNBT0w?oc=5",
+      "prediction": "FDI inflows for the next quarter will show a year-over-year decline of at least 10% in real terms.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "Political Infighting Halts Crucial Economic Market Reforms",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON3RBdFhybUNtVDJLVTdzUG9IT0NKS0RRdUw0N2lkNlQ1ZU5zNTNTdDhUNDdpZkdFMGRvOVp1U20xdWFnRFhWS3VFbFF6cVZvU1Q5OWxQTDhod1FCWHRxZjlxQ1czNkpFS0VwbUpNOG1mMHhsSEVUZnJ0TFlDVHUtWGIySlhzNU9YemdiZndaOGJGNmxMc285ZmxBbUNnZHRsREJmNE94cXE3c1NGMTB3Ry1RTnpuOHA5ZFpiNFVKNkhDcERjRlQxcA?oc=5",
+      "prediction": "At least one major credit rating agency will move Indonesia\u2019s outlook to 'Negative' by the end of Q1 2025.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Student Protests Erupt Over Toxic Haze and Spending",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdTdTaTVucGFVYkJCMWhpMEhkTXQyRE4wXzFqcUNvaFZVMVhnTkJjOEM4TG5fUGR4MVFPNTNNMTRBT3dsd0JaSmp4Z3BwX2ZVT3lHME1rRjZHVGQ1MFNWWktTYWNLZ2NRcXFXZzNId2F0R00zY0J2b0Jla1dHRy1pWExDUXFIeDlDN0U1b3NCZlJyLUVMdjRFVHc2UUxSQ3lRUjhOZ3JjSGg2RWRfRkM4Uy1aRnl4Smp6cVMzYnR4ZmVOeXlqYU1B0gHHAUFVX3lxTE1uRldxWnBRYmd4OXVpdGlpdU5mWGhEOWVFczJHMEp4MVlReENpUUZqLW9LcHRoWHAxcmdVRlhlbi1FaS1WRHRmaHRDMlY3TndWcUpOSndNa0ZMN0xST096bEtwalBBUUNuS3VMcFBocmN2ZWZ1YmFpTXFDY3RaMjFpNVV4d2M2bDNlbzV6NXlDTnN6QksyUlRybG0yR3hwVWllN3FOMDJlcWhOYUgyS0NreW92WUtQSngyVmp4dnlraXVxeEk5bmc?oc=5",
+      "prediction": "The government will announce a symbolic 're-allocation' of defense funds to environmental protection programs before the end of the year.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesian Court Voids Vice President\u2019s Academic Credentials",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWpMdWJteDhla2I5OHlFcDJ0UGlOZ0Rick0xOHZVS3gwM0JoRFVHTFBTNGFnU1hqTEVyLW5vN3E3LWRCNFFRTUV2UjdWczRpVmNhOEEzNlZTSXoxeHhRM2kzZVloN2xXUjhjM3V5QWJWeExXbEJ6U1pSR3NSb1pBbWNhMHFVcTJhaGNHeEdVT2FxVlIxa3JQVGJZUFVFaW03aFRrVF9xeEJmNzlrM09DQV81dw?oc=5",
+      "prediction": "Pro-opposition lawmakers will file a formal motion for an inquiry into the Vice President's eligibility within 30 days.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "U.S. Dollar Wobbles as Election Results Trickle In",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQXEwWExzY3ZuRmlnbmVGS3FRR1VXaE9xVi1JRTZHbWY0SEFMUHNFY1BVcm1TdkhtMTVwbVRZLXBpdW8tMzEzQTNId05NenRKUjV6eVRfU3o4V0pIMEUzSXNLLWhLMU5IZTdMc2JzUVNrWE1vRlM3TWNUVm1ZRC1VU2R1aE5aM2ptbEtobHQ4Ny04V2l1X1puUllEMllROVhQQ2NZVVlsamxJZzZjd2FVMFk5ZUIzWkJiZkE?oc=5",
+      "prediction": "The DXY index will experience a 2% swing in either direction within 4 hours of the first major swing state being called.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin Drops Below Key Level as Election Fever Fades",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNEtqckFZRzZHclBKMzh2MEc2WnNIN1RsRVY1c1poeVY5d1lMcmVsQUk0aTMzdGYtOUpnbWs4X2JiZ1otZFd5a2h6bjhzUEI0Y1RWLVd0NEtPcEZYWV8wTW1pTVhPN1FRaTdiMDM1T2pyTFVYSl8zZThfZENpQ3I5LWpMdVNkNzQxdHd2QWpINmtQRnAtVDFpcV9FYnJnOWZSbnBVcDNEYl81aFZKZWhjVjU5c093SEnSAbwBQVVfeXFMTlZLOHN2NEJGdWIwcm5WeXRhaTZMbVJ1N2Y0VjhGMkhkb2JCNmpYZ2VJSmhyVjdqMDVuYUZUbGdtU1ZWY3FMWWxhdU1FRmNXcEhZNTBrNDFBWFIzR20wZUZHdDJqWGxrZG1TYXFHV0paSDl6Qk0wX2ZjUE5xQjN5Qk8yTDdQOUpiZWR1dVNhOUlscVF3c3FZTXFQR2ZyaC1ubnNDeDBCQ25PNDlaYmhSQlJmQks4LUYyZFdxQmY?oc=5",
+      "prediction": "Bitcoin will test the $60,000 support level before month-end if the House of Representatives remains in a dead heat.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bolivian Small Businesses Abandon Local Currency for Crypto",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcHNKT1ZtUHVhSDhkc2NuZDYwU2RjQXRfZ3FWeDFTRHRGdmI5OWdOZl9LTy01b0YtOGhDWU03WTFvb2lsQ2t0azhneGRqOURJU291ZUJ5UHZCNVJ2Vzdfc1hweUh4RE5HeU5lUm1ybER5elA3MWhUd2ZYVE9Ba3p5WEhIQ09DQ3NmMkFGS21BbTNsanBldDFJU1lrTTdTc0h6MTlHa2M2NVhrYmw4RzFYandMTnZjZjhZenVSVXVKTmJIQQ?oc=5",
+      "prediction": "Tether (USDT) will become the de facto unit of account for wholesale trade in Bolivia\u2019s informal markets by mid-2025.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin Price Targets Range from $75k to $225k",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXdtTEl1bmtPZFR6dHJwNUhLWFlzNkVTLVk5bjVjdFNBYzE2VjBxMUUxQXJ5SkRzcjg5am9jcm9OVmtRNF83WlR1UVhaYnJTLTFNa2NMbWs3Y3JKV3QwdC1DZndMZ09UUmFYWFA1S0NIRjNwa3o1aVhmb2NZZE9oVNIBhgFBVV95cUxPOUFtQ2RRUFJtaUdTUlhtUFdjRENqQUFXZjB1eHpvblZPZWR2clhDTDNFcFNOQnBoelpxS19UOFFVbEc2blRwdnN3MlJ1LU1KM2pwQ09kaGhPcnhfNmphZEM2X2hnenZOd2R3RHFpWVQ3dnFHN0JlQ1E4TWQ4MkVTSXMwZ0JnZw?oc=5",
+      "prediction": "Bitcoin will fail to close the year above $100,000, as the 'boring sideways' era of high outflows persists.",
+      "grounded": true
+    }
+  ],
+  "stories": [
+    {
+      "section": "tech",
+      "headline": "Big Tech Builds Gas Plants to Power AI Data Centers",
+      "summary": "Major technology firms are now investing in large-scale natural gas power plants to meet the massive electricity demands of their AI operations.",
+      "view": "Tech giants are abandoning green optics for uptime reality as AI's power hunger outstrips the grid. By building captive natural gas plants, Amazon and others are signaling that renewable intermittency and the sclerotic pace of utility build-outs are now primary threats to their competitive lead in AI.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeGtwdTdHSFItR1U5SmZJck9sOTIyVzlPRTBMbG5YaTBTdnF1bVJnUmdLcUZtelJyclVmaHhnbUNvQkRuUjJud0Z3bGVjYTZuTHFHNGJLZEM0UHFqaVdrQ0xBZFduMFB3VU9BeTNwS0FBamxaMHFtTW9jSXNTRDRqdDU3eUQtem1pdTVhajlXZVhzNEpmbDFrSFFJVFRKY0RPLWJEUDBjNXAwTGJMSGVyYmw0UXE?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Elon Musk Targets Traditional Wireless Carriers with New Plan",
+      "summary": "Elon Musk is moving forward with a strategy to use satellite technology to compete directly with traditional mobile phone networks.",
+      "view": "Starlink is moving from a rural niche to a direct assault on the core revenue of AT&T and Verizon. By leveraging SpaceX's launch cadence to bypass terrestrial tower infrastructure, Musk can undercut legacy pricing models and offer seamless global roaming that traditional carriers simply cannot match.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3hVb1R3X1JVWkxpZ04wdUZDLXMyVFdGbXA5OFprUFZUcUM1TkpUTXZMRXNzNXoxWFF4cHBDemFWazhzLUFlcTl5cGgyRzh3UWVYZFVhdmVBUkY4cl8tTm5TeUpKNS1jcnZrMmtuRFplRDNBYVpwSktjUTl3NDgwYi15aU5Eb2swR05TTlhZZ1haUURmNHhuYkZ2bHBERER6blh0eWk5Rnk1QQ?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Oil Giant ADNOC Pairs with OpenAI for Energy Efficiency",
+      "summary": "Abu Dhabi\u2019s state-owned oil company is deploying high-end AI from OpenAI to optimize energy production and discovery.",
+      "view": "This partnership represents the industrialization of LLMs for high-margin resource extraction rather than general chat. ADNOC is using OpenAI to solve the 'last mile' of reservoir engineering, turning AI into a physical-world efficiency play that lowers the breakeven cost of crude for the Emirates.",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTFA0TWo3cWFYSGVSb0k4Z1lfYnJEaGdJa1h3NmprWUp4T0I3eFhhaXVxN0ZTb045SDROWnY3MnpaY0wtSjhNZGhIaHYtaEd3VFZZdXp5MjI4bVVfcWVkSFJGWmJVNV82MklzUHNNZlNfMzFVNUFxZUVBRU4xaTl2NjM4NmJtbk44STRKczBFU0RXY1dv?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "AI Industry Braces for Post-Election Regulatory Crackdown",
+      "summary": "Industry experts warn that the free-wheeling era of AI development may end once the midterm election results are in.",
+      "view": "The era of 'strategic ambiguity' in AI regulation is closing. Post-election, legislators will pivot from toothless safety guidelines to hard enforcement on copyright and liability, effectively raising the barrier to entry for startups while entrenching incumbents who can afford the compliance legal teams.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS0hnNHBoa0JuODROcmpLN2ZSeUx1YXB5WklJckZyYmtHVHRMZ1ZMVTdfYXgzVVJxYzVYZlFGS3BDWUVzTUtOekFqSXFYd1VHRU04RFE0S0dFR29yc2RrQWtIMzlDV1EyUk83TWdzcVRkUVRsRFNGWTVaZ184dEc5dDBUVW1tUjR0ZS1LUlZqWmFBOHQ0dUlQMHZBQVFMbjBreE53?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Dow Futures Tumble as Middle East Conflict Spikes Oil",
+      "summary": "Stock futures fell sharply and oil prices surged following reports of new military strikes involving Iran.",
+      "view": "Markets are reacting to the sudden death of the 'energy peace' narrative. This spike in oil isn't just a supply shock; it's a re-inflationary force that will compel the Fed to keep rates higher for longer, effectively capping the valuation of growth stocks for the foreseeable future.",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObWh3bllKRDFaQU4tbnRhVFpNUGVKUjB0WjEwTTh0cnNfbnFYdjZYWDFKRXI3dHhIWGVDQVNxSkoxemg4NGxYM0hvbl9DZVpialRXLXcwRXd4NmVnOXlIQk51Z1lNRjJ5dTh1OTd4WVZpZ21neXdXNmlIYTBKNFZmS1VlUGhZU05RbGJxNlpIMkZ4dEQ5cmNNR3YzTjRVbTdRNXNMV1ROdjlycTI2cl9VRXp4bkp4b0Q0ZTVTdkhyZlpaOHU1LTFFMVJuVWdyYnVheVA5UQ?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Chips Recover but Apple Drags Down the Dow",
+      "summary": "The Nasdaq rose slightly as semiconductor stocks bounced back, though Apple\u2019s disappointing performance weighed on broader indexes.",
+      "view": "We are seeing a fundamental divergence between 'AI infrastructure' and 'AI consumer' stocks. While the semiconductor build-out remains a buy-the-dip event, Apple's struggle suggests the market is losing patience with consumer AI stories that haven't yet translated into bottom-line growth.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PbWNuUmM3YXpROGVjV016d1ZUZzlCQmc4a3dJaWpoLTcxeXVzTEFMbTY2bjNGWXljaUtXLWo2bE1QNzZ5NGlTMnA3M0VVQjlhaWN6eUVzOW4xS05EQnd0bEJYMEw0aXJJT3NXWklaNmcxcjVnOWVz0gF8QVVfeXFMTVAyTUQ0UV9iNzQyaThOY04yU1FlSEtRRHpLQXBXZnpvLUV5TklWSzhRaGw2ckowNEtJcXRtWldwelIxYnhDMDFSTzVJVFZwbXZ1Q2QxZWlTUHdUdzdqaW0xMGZIUHlpWlBYWHJ6UGE3cVhRWkpDdTExU29VRQ?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Investors Hedge Against Potential Debt Ceiling Drama",
+      "summary": "Markets are pricing in the risk of a fiscal standoff as the U.S. midterms decide control of the budget.",
+      "view": "The market is pricing in a return to the 'crisis-as-governance' model. With a split Congress likely, the debt ceiling becomes the only remaining leverage point for the minority, making a technical default or a credit rating downgrade a non-zero probability that investors must hedge today.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSndxQlZKTnRLd3BYVTNReUZRU1Z5dDlrdGpidzBlWVhITzgzTkJrXzJlNlhHZHZvQS1JV0E3YUZmT3gzNy1KbWVGVGs4NjR0bVFDanJ4RjYybjU2Rm9DS2tNR0w3SVNpb0puX2NwUjctM1U2cm1EYmZRUWRXd08tY1dfT1BGYmF0TG5UREVHTUVfM0s5MGhHZE1EVVhVUlRCbk5tZmExZU8zUi05bm9B?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Bill Ackman Labels Current Stock Market a Speculative Casino",
+      "summary": "The prominent hedge fund manager warned that speculative trading is making market prices increasingly detached from reality.",
+      "view": "Ackman is correctly identifying the 'gamma squeeze' era of market mechanics where retail options and algorithmic momentum have decoupled prices from reality. This isn't a traditional bubble; it's a change in market plumbing that makes volatility the only reliable asset class.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jVkpJM1FyU1pqQ25PNXRiN2Y4U2wyYjE1RWpQaEd2SjhYWUNjVUJQNzRGZ1hVangyVW1lNzdlWFZtczU2dVNJYjNKN2s3RS1WX3hDTFRCU1NnMUhkS0ltbk9BcnhwcUY2MHJVXzlOM1hoUVNQdnBZ0gF8QVVfeXFMUHdwYndqc01nM3dmWmp6WTFmN0ZOUXdwdkFLejBVNm5fMlpGMi1mZmFKU2ROSDZ2TTVyVG8zOE0zamN4eVNDTWxQZjhnLVQ5c0VSaUZJSTZCYXVZTEJUNWlrVUFwWXAzbVM0ajZRRDAzQ1BNaVhzbUtYQzQxWQ?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "America Heads to Polls with Congressional Control at Stake",
+      "summary": "Voters across the U.S. are casting ballots today in midterm elections that will determine the balance of power in Washington.",
+      "view": "This midterm is a referendum on the feasibility of 'Trump 2.0'. A split Congress will guarantee two years of legislative paralysis, forcing the executive branch to govern entirely through agency rule-making, which dramatically increases legal uncertainty for US corporations.",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdlZaYXc2NEh3eXJ0Ulc2cGtPeDF4OFZ0X2NvNFlOQzlVRDlIUFpmSTRRUld1VEFyS29nV2xjSHpzX2ZaV2RqVjBhckdxVVJ0R3luejNFN2VtazhQekVxYUM1aENBM2t4cGRGMUJHdVN0SDRZaWgyRE9mczFRenVRVg?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Trump Proposes Cutting Billions in Military Aid to Israel",
+      "summary": "During the election cycle, Donald Trump suggested the U.S. should stop the $4 billion in annual aid sent to Israel.",
+      "view": "Trump\u2019s proposal is a radical shift in Republican orthodoxy, intended to leverage Netanyahu for better terms rather than a true policy pivot. However, the mere suggestion creates a power vacuum that allows regional rivals to test U.S. commitment, increasing the risk of a miscalculated escalation.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTnAzZzVDS3N1RTJJdnkxYUJPQkl1X3h4d3hZaC1MX0RwXzRHOGRybmM3QjEzR1kybkJIUmNYcnVPbkNPMkt6TFBnTEdOYWFJemJkelBhVXZsRDQ5VG4wc1lSS0Q2dlRlUmV0VHI2Y3YxNWstRWVPUV95Y2pNUVp5TUlES3pCMC1GUzNTTXVfWWlGd1JlQ3p1XzJUWmJmbzlWUmtYTFlXNDFlZw?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "U.S. Military Launches New Strikes on Iranian Targets",
+      "summary": "The U.S. has increased its military activity against Iranian-linked targets following pressure from regional allies.",
+      "view": "The timing of these strikes on the eve of the election is a calculated show of force to preempt Iranian interference. However, 'limited' strikes rarely deter; they typically just shift the theater of conflict to the Strait of Hormuz, threatening global shipping lanes.",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLTRLaEl5M0lIVGl0V3RQNExrMk1vQW5iOTRxUi1NdFRpbDkwSm1icXpsZXBQbXFpdjM4SjFWd0I0VEFIT2RDUm5mQWtzbmlaSTlFYXFpbUlHTktINVB4WDVuNmdRWGtmYUlOQW92OGhJc2NweWoyZ3RJbU9VT0ZlN3FvaHdLaU5rSDJHMXBEZi1tNHJXUjJXRF9weFJIRUlPOW5aaTM5eEFFRjkxa2QtQ3RtSkVWdGx5SU9JU2JVQ2JYT3BqSjMtVGZ30gHPAUFVX3lxTFBLelpzanoyMy01cGRURlBiNloyMmVGdF92enpCTDZBMzJQNXNObzI1bGVXa2Y3THBYbS1aRnU1RXJlV213MUo0bm9DWTVIcDUwZzdpX0llOUNnOWwtN0d2STlIZnU2ZWxVUElUMDVJcVBqM2RneFFNTU9DQ2NaVHNXUjRKQW1GR0o1OURmQk1FVEtsbDN5ZUQybTktcl9vQjQtbGFDUkxpS0dkWGxGMXFFX21tZkFObFV5dlVnYWtRV2ZCemNXSkxGQnVJSnF3bw?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Cyber-Attacks Hit Supermarket Cooling Systems Across Europe",
+      "summary": "Hackers targeted the refrigeration systems of grocery stores in 10 countries, causing widespread food spoilage.",
+      "view": "This is a pivotal shift from data theft to physical infrastructure sabotage. By targeting perishability, hackers are demonstrating a 'proof of concept' for causing domestic unrest and supply chain chaos without a single kinetic shot being fired.",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zckFEbEd5YVVILVJUcHBxdU5jclBSSlZKQzRhWGZHY19maUgwUlZUcVM1OXNrLUstQW4yZTlEcy13bElzUVEwbUIzRU1RRS1aOWJaOXJKZnl0RWs?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Multinational Corporations Lose Faith in Indonesia\u2019s Economy",
+      "summary": "Major global businesses are reportedly scaling back investments due to concerns over Indonesia's shifting regulatory environment.",
+      "view": "Prabowo\u2019s populist pivot is triggering a 'flight to quality' as investors realize 'Buy Indonesia' is protectionism masquerading as development. This creates a doom-loop where capital flight weakens the Rupiah, forcing higher rates that stifle the very growth the government promised.",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbVRLbkZLZTZOTGNZa3F6VFJ6WTE2WUI2TjBBWjk0R1BodV9mX3lpbFdlYmZnXzVjS1hGOW5yR1NFYm5XZ0o1ZGIxWHRJVnBXSDdsM2tmNlpBTFJfLWJ3MUNpQkZwR0lrNUJ4X1dlOEs5MWJLcC1oT18tZC1uUGN6elFvbnk5U3hDai1iS3k4WXJnVzh6bXlzNk0wemhhT1RnUS1JaVNBT0w?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Political Infighting Halts Crucial Economic Market Reforms",
+      "summary": "Maneuvering within the ruling coalition is delaying reforms needed to avoid a credit rating downgrade.",
+      "view": "The ruling coalition is prioritizing patronage over the fiscal discipline needed to satisfy ratings agencies. This gridlock is effectively a 'slow-motion downgrade' as the window to fix the budget deficit before a global slowdown closes rapidly.",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON3RBdFhybUNtVDJLVTdzUG9IT0NKS0RRdUw0N2lkNlQ1ZU5zNTNTdDhUNDdpZkdFMGRvOVp1U20xdWFnRFhWS3VFbFF6cVZvU1Q5OWxQTDhod1FCWHRxZjlxQ1czNkpFS0VwbUpNOG1mMHhsSEVUZnJ0TFlDVHUtWGIySlhzNU9YemdiZndaOGJGNmxMc285ZmxBbUNnZHRsREJmNE94cXE3c1NGMTB3Ry1RTnpuOHA5ZFpiNFVKNkhDcERjRlQxcA?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Student Protests Erupt Over Toxic Haze and Spending",
+      "summary": "Massive student-led rallies are targeting the government\u2019s failure to stop forest fires and its military spending choices.",
+      "view": "While the toxic haze is the catalyst, the grievance over military spending is the real threat to the regime. Students are connecting environmental failure to the diversion of state funds, a potent anti-corruption narrative that has historically toppled Indonesian administrations.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdTdTaTVucGFVYkJCMWhpMEhkTXQyRE4wXzFqcUNvaFZVMVhnTkJjOEM4TG5fUGR4MVFPNTNNMTRBT3dsd0JaSmp4Z3BwX2ZVT3lHME1rRjZHVGQ1MFNWWktTYWNLZ2NRcXFXZzNId2F0R00zY0J2b0Jla1dHRy1pWExDUXFIeDlDN0U1b3NCZlJyLUVMdjRFVHc2UUxSQ3lRUjhOZ3JjSGg2RWRfRkM4Uy1aRnl4Smp6cVMzYnR4ZmVOeXlqYU1B0gHHAUFVX3lxTE1uRldxWnBRYmd4OXVpdGlpdU5mWGhEOWVFczJHMEp4MVlReENpUUZqLW9LcHRoWHAxcmdVRlhlbi1FaS1WRHRmaHRDMlY3TndWcUpOSndNa0ZMN0xST096bEtwalBBUUNuS3VMcFBocmN2ZWZ1YmFpTXFDY3RaMjFpNVV4d2M2bDNlbzV6NXlDTnN6QksyUlRybG0yR3hwVWllN3FOMDJlcWhOYUgyS0NreW92WUtQSngyVmp4dnlraXVxeEk5bmc?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesian Court Voids Vice President\u2019s Academic Credentials",
+      "summary": "A court ruled that the Vice President\u2019s high-school equivalency document is invalid, sparking a constitutional crisis.",
+      "view": "The court ruling creates a direct legitimacy crisis for the Gibran-Prabowo ticket. Even if he remains in office, the ruling makes every executive action he touches legally vulnerable, effectively paralyzing the administrative state and scaring off institutional investors.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWpMdWJteDhla2I5OHlFcDJ0UGlOZ0Rick0xOHZVS3gwM0JoRFVHTFBTNGFnU1hqTEVyLW5vN3E3LWRCNFFRTUV2UjdWczRpVmNhOEEzNlZTSXoxeHhRM2kzZVloN2xXUjhjM3V5QWJWeExXbEJ6U1pSR3NSb1pBbWNhMHFVcTJhaGNHeEdVT2FxVlIxa3JQVGJZUFVFaW03aFRrVF9xeEJmNzlrM09DQV81dw?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "U.S. Dollar Wobbles as Election Results Trickle In",
+      "summary": "The dollar index dipped slightly as investors moved to the sidelines to await the outcome of the midterm elections.",
+      "view": "The dollar's dip is a classic 'uncertainty hedge.' Investors are unloading the Greenback not because they have lost faith, but because the safe haven itself is currently the source of volatility; they are waiting to see if they need to price in a protectionist or stimulative outcome.",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQXEwWExzY3ZuRmlnbmVGS3FRR1VXaE9xVi1JRTZHbWY0SEFMUHNFY1BVcm1TdkhtMTVwbVRZLXBpdW8tMzEzQTNId05NenRKUjV6eVRfU3o4V0pIMEUzSXNLLWhLMU5IZTdMc2JzUVNrWE1vRlM3TWNUVm1ZRC1VU2R1aE5aM2ptbEtobHQ4Ny04V2l1X1puUllEMllROVhQQ2NZVVlsamxJZzZjd2FVMFk5ZUIzWkJiZkE?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin Drops Below Key Level as Election Fever Fades",
+      "summary": "Bitcoin has fallen below $67,000, erasing gains made during the peak of campaign-driven speculation.",
+      "view": "the 'Trump Trade' in crypto is unwinding as investors realize Bitcoin was being used as a proxy for a deregulation win. The fall below $67,000 proves BTC is still a high-beta risk asset, not a digital gold hedge against political chaos.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNEtqckFZRzZHclBKMzh2MEc2WnNIN1RsRVY1c1poeVY5d1lMcmVsQUk0aTMzdGYtOUpnbWs4X2JiZ1otZFd5a2h6bjhzUEI0Y1RWLVd0NEtPcEZYWV8wTW1pTVhPN1FRaTdiMDM1T2pyTFVYSl8zZThfZENpQ3I5LWpMdVNkNzQxdHd2QWpINmtQRnAtVDFpcV9FYnJnOWZSbnBVcDNEYl81aFZKZWhjVjU5c093SEnSAbwBQVVfeXFMTlZLOHN2NEJGdWIwcm5WeXRhaTZMbVJ1N2Y0VjhGMkhkb2JCNmpYZ2VJSmhyVjdqMDVuYUZUbGdtU1ZWY3FMWWxhdU1FRmNXcEhZNTBrNDFBWFIzR20wZUZHdDJqWGxrZG1TYXFHV0paSDl6Qk0wX2ZjUE5xQjN5Qk8yTDdQOUpiZWR1dVNhOUlscVF3c3FZTXFQR2ZyaC1ubnNDeDBCQ25PNDlaYmhSQlJmQks4LUYyZFdxQmY?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bolivian Small Businesses Abandon Local Currency for Crypto",
+      "summary": "Faced with a failing local currency, Bolivian entrepreneurs are increasingly using crypto for daily transactions.",
+      "view": "Bolivia is the new test case for crypto as a 'survival currency'. When a state fails to provide a stable medium of exchange, bottom-up adoption of stablecoins creates a shadow economy that the central bank can neither control nor tax.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcHNKT1ZtUHVhSDhkc2NuZDYwU2RjQXRfZ3FWeDFTRHRGdmI5OWdOZl9LTy01b0YtOGhDWU03WTFvb2lsQ2t0azhneGRqOURJU291ZUJ5UHZCNVJ2Vzdfc1hweUh4RE5HeU5lUm1ybER5elA3MWhUd2ZYVE9Ba3p5WEhIQ09DQ3NmMkFGS21BbTNsanBldDFJU1lrTTdTc0h6MTlHa2M2NVhrYmw4RzFYandMTnZjZjhZenVSVXVKTmJIQQ?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin Price Targets Range from $75k to $225k",
+      "summary": "Analysts remain deeply divided on where Bitcoin will end the year, with wildly varying price predictions.",
+      "view": "The massive range in price targets reflects a total lack of consensus on Bitcoin's role in a high-rate environment. The $225k bulls are banking on an ETF supply shock, but the $75k realists are correctly identifying the end of the 'easy money' era.",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXdtTEl1bmtPZFR6dHJwNUhLWFlzNkVTLVk5bjVjdFNBYzE2VjBxMUUxQXJ5SkRzcjg5am9jcm9OVmtRNF83WlR1UVhaYnJTLTFNa2NMbWs3Y3JKV3QwdC1DZndMZ09UUmFYWFA1S0NIRjNwa3o1aVhmb2NZZE9oVNIBhgFBVV95cUxPOUFtQ2RRUFJtaUdTUlhtUFdjRENqQUFXZjB1eHpvblZPZWR2clhDTDNFcFNOQnBoelpxS19UOFFVbEc2blRwdnN3MlJ1LU1KM2pwQ09kaGhPcnhfNmphZEM2X2hnenZOd2R3RHFpWVQ3dnFHN0JlQ1E4TWQ4MkVTSXMwZ0JnZw?oc=5"
+    }
+  ]
+}

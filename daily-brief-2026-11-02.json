@@ -6,42 +6,54 @@
       "headline": "Big Tech turns to mega gas plants for AI power",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeGtwdTdHSFItR1U5SmZJck9sOTIyVzlPRTBMbG5YaTBTdnF1bVJnUmdLcUZtelJyclVmaHhnbUNvQkRuUjJud0Z3bGVjYTZuTHFHNGJLZEM0UHFqaVdrQ0xBZFduMFB3VU9BeTNwS0FBamxaMHFtTW9jSXNTRDRqdDU3eUQtem1pdTVhajlXZVhzNEpmbDFrSFFJVFRKY0RPLWJEUDBjNXAwTGJMSGVyYmw0UXE?oc=5",
       "prediction": "At least two 'Magnificent Seven' companies will announce direct ownership or long-term off-take agreements for dedicated natural gas facilities by the end of Q1 2025.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "Major publishers sue Brave browser over AI copyright",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPempudGhjd2FYalVIUVRJR0RPM1VGd2tkV1hydVg4NEJmWm9TajlEUE5RNnFqcEd4UjB4MGNxMlBiejJnbzdqSWw1Y1JqNnBHcmFKSkRTeW0xLVprOFp0alJUWUNhLUZFWkViVDBtX1lPRklxVmxHMEpJbk1nVXlGSWN5QXlSUDJmUml3aWRsdW96VlZ4UW41S3Z6Nl9wS0ZNRW5B?oc=5",
       "prediction": "A preliminary injunction will force Brave to disable its AI-summarization features for paywalled domains before the end of 2025.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "Elon Musk plans to disrupt the wireless carrier industry",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3hVb1R3X1JVWkxpZ04wdUZDLXMyVFdGbXA5OFprUFZUcUM1TkpUTXZMRXNzNXoxWFF4cHBDemFWazhzLUFlcTl5cGgyRzh3UWVYZFVhdmVBUkY4cl8tTm5TeUpKNS1jcnZrMmtuRFplRDNBYVpwSktjUTl3NDgwYi15aU5Eb2swR05TTlhZZ1haUURmNHhuYkZ2bHBERER6blh0eWk5Rnk1QQ?oc=5",
       "prediction": "SpaceX will sign an exclusive partnership with a major US smartphone OEM to integrate Starlink connectivity as a standard, non-emergency feature by late 2025.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "Tech industry warns visa crackdowns will drain global talent",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN0dKT0x0NzhrQXRVYzF4R3ZjZHZDOWljMFVrSG91QjBNTjFZSXlzN0x2QVdQUzdEekZzc082UEQ1RzEyMFR3Rk4xdWFUN3oxQnN1R29YaTJLOEU1VTQ4WHdPWnBNRko4Ti1CRHBJRmQwY1laTlRRLTRjS05jYWtGSVNLdlBnVVJpRHg0?oc=5",
       "prediction": "At least three major tech firms (Google, Meta, or Microsoft) will report a record-high percentage of international-based engineering hires in their 2025 annual reports.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
       "headline": "AMD earnings to test Nvidia's grip on the AI market",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaFdXSXUySHJYTlRzM1UwQ0t5WTJpNl9jMUlGOFJxT1RWbGJqcnBEQmYxQTcxc3Q4dDU5My1PcFVZWk5KNE1tMjU4LVV2WjZ0VzM1a1NoaHNuTWNpa0Vrc1Q5V0xNZGVCVTFFdnQ0YUJPanNmNHplUDdhNjFXd2tVa3FmMlUtQ3lORWd3UHFfanNQWklSMGdOb3ZqaUxGUQ?oc=5",
       "prediction": "AMD will revise its 2025 AI chip revenue guidance upward by at least $1 billion in its next earnings call.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
       "headline": "China regulators step in to support flagging stock prices",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOendaOF9OYUpHU1R3Q25VVXptSDk0dU1FQkJkcXN2Q0ctRjBzdlNIdHNlcmxIMHFKdlZmM25SZ0pTdUlyMXlGaXBvUFBvZlhFV3VxNks1RGtIQ3FmeXBBNEFDekVYdkFtVC1VR2k2Nl93a0owS0dkaHRaWEpqcFhpdlRIM1MwOVBvNmd4dFJtb0JaeXpjX2otZnZlU0ZBRjh5MllKbzZIc2RnSVJlR2dJWDRDOHA?oc=5",
       "prediction": "The CSI 300 will give back at least 50% of its 'intervention rally' gains within 30 days of the announcement.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
