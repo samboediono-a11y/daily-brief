@@ -8,7 +8,7 @@
       "prediction": "Expect at least two major tech firms to announce proprietary natural gas pipeline or storage acquisitions by Q3 2025 to secure fuel supply.",
       "grounded": true,
       "status": "too_early",
-      "note": "The fresh headlines provided offer general 2026 industry outlooks but do not mention any specific natural gas infrastructure acquisitions by tech firms."
+      "note": "The provided 2026 Deloitte outlooks for the energy industry do not mention any tech firm acquisitions of natural gas pipelines or storage."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "T-Mobile will announce the first commercial, non-beta Starlink-enabled roaming plan before the end of 2025.",
       "grounded": true,
       "status": "too_early",
-      "note": "While headlines confirm progress with satellite launches and app functionality, they do not explicitly state that a commercial, non-beta roaming plan has been announced."
+      "note": "Fresh headlines mention satellite launches and expanded app support but do not confirm a commercial, non-beta plan launch."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "Intel will announce a major restructuring or spinoff of its foundry business before mid-2025 as it struggles to balance AI spend with manufacturing losses.",
       "grounded": true,
       "status": "too_early",
-      "note": "No fresh headlines were provided to confirm or contradict the prediction regarding Intel's foundry business restructuring."
+      "note": "No fresh headlines were provided regarding Intel's foundry business or restructuring."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "At least three AI 'unicorns' valued over $5B will undergo down rounds or fire-sale acquisitions by the end of 2025.",
       "grounded": true,
       "status": "too_early",
-      "note": "No fresh headlines were provided to confirm or contradict the prediction regarding AI unicorn down rounds or acquisitions."
+      "note": "No fresh headlines were provided concerning AI unicorn valuations or fire-sale acquisitions."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The S&P 500 will hit a new all-time high within 30 days of the election being officially certified.",
       "grounded": true,
       "status": "too_early",
-      "note": "The provided headline concerning Ethereum prices does not contain information regarding the S&P 500 or its performance following the election certification."
+      "note": "The provided headline regarding Ethereum prices does not contain information about the S&P 500 or post-election results."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "The SEC will propose new disclosure or margin requirements for retail 0DTE trading before the end of 2025.",
       "grounded": false,
       "status": "too_early",
-      "note": "No fresh headlines were provided to confirm or contradict the prediction regarding SEC requirements for 0DTE trading."
+      "note": "No fresh headlines were provided regarding SEC proposals for retail 0DTE trading requirements."
     },
     {
       "section": "markets",
