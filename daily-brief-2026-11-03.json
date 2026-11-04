@@ -6,42 +6,54 @@
       "headline": "Big Tech builds its own gas plants to power AI",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeGtwdTdHSFItR1U5SmZJck9sOTIyVzlPRTBMbG5YaTBTdnF1bVJnUmdLcUZtelJyclVmaHhnbUNvQkRuUjJud0Z3bGVjYTZuTHFHNGJLZEM0UHFqaVdrQ0xBZFduMFB3VU9BeTNwS0FBamxaMHFtTW9jSXNTRDRqdDU3eUQtem1pdTVhajlXZVhzNEpmbDFrSFFJVFRKY0RPLWJEUDBjNXAwTGJMSGVyYmw0UXE?oc=5",
       "prediction": "Expect at least two major tech firms to announce proprietary natural gas pipeline or storage acquisitions by Q3 2025 to secure fuel supply.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The fresh headlines provided offer general 2026 industry outlooks but do not mention any specific natural gas infrastructure acquisitions by tech firms."
     },
     {
       "section": "tech",
       "headline": "Elon Musk moves to disrupt the cellular phone industry",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3hVb1R3X1JVWkxpZ04wdUZDLXMyVFdGbXA5OFprUFZUcUM1TkpUTXZMRXNzNXoxWFF4cHBDemFWazhzLUFlcTl5cGgyRzh3UWVYZFVhdmVBUkY4cl8tTm5TeUpKNS1jcnZrMmtuRFplRDNBYVpwSktjUTl3NDgwYi15aU5Eb2swR05TTlhZZ1haUURmNHhuYkZ2bHBERER6blh0eWk5Rnk1QQ?oc=5",
       "prediction": "T-Mobile will announce the first commercial, non-beta Starlink-enabled roaming plan before the end of 2025.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "While headlines confirm progress with satellite launches and app functionality, they do not explicitly state that a commercial, non-beta roaming plan has been announced."
     },
     {
       "section": "tech",
       "headline": "Tech layoffs continue through 2026 despite the AI surge",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQY1dMa2JSQTk3UE9NWFFkaURrMDJVM3hhN2RWZmNkWXAzTWlITFZMQmttenY2T1RGT2ctOXRrY20tNjVoeTBMek1iVFd5MjFUdl9zWUt3eDloQndkajQ1ZkxUc0FXckUyNWdJN2ZHZHFrd1Vub0hXU2owUVRQYlFxU193UU9pZDRuSXBSSUJnVVp1bW1oRFdUY1BnZGRwZDF6ekNPMVozd3kwcV9mUU5JM0pFbldVZHVfRUpDTWpPaFBZR2JpLVZ5aDcxSVhwUGZGWmNaMHhwYUw0MkpkZ1B3RFFkVWFOYjVTYndGVnV5ZENlRVVkODVjdjBFMkYzS1VCWC1NbGo2OXhlSTRpU056Qg?oc=5",
       "prediction": "Intel will announce a major restructuring or spinoff of its foundry business before mid-2025 as it struggles to balance AI spend with manufacturing losses.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No fresh headlines were provided to confirm or contradict the prediction regarding Intel's foundry business restructuring."
     },
     {
       "section": "tech",
       "headline": "Wall Street warns that AI deals are getting too risky",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ2xHcnFKSzZIWm80UDJnQWMzYkctWHVoZk1GTTVDbHMxRTFJd0xNaldGNFNMMG1KelBpSUYzU1EwOU83Zk90YnFnSGtDQ2FXVlMtcUl6TFV2LUZCeTByOUFGZGN0UktWWjh4MHNndTdnTnBod1oySTY3OUFmRnNpSkFuQlNUZnV0SUFibVl5VGYxQjkzUlNWMTJZaUY5OFJBY0R2VDZjS1FObEhXX3VsM2NBTUY0WkVaOWlLbmkxVkRXc2hjeEg4Sw?oc=5",
       "prediction": "At least three AI 'unicorns' valued over $5B will undergo down rounds or fire-sale acquisitions by the end of 2025.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No fresh headlines were provided to confirm or contradict the prediction regarding AI unicorn down rounds or acquisitions."
     },
     {
       "section": "markets",
       "headline": "Stocks bounce back as voters head to the polls",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PbWNuUmM3YXpROGVjV016d1ZUZzlCQmc4a3dJaWpoLTcxeXVzTEFMbTY2bjNGWXljaUtXLWo2bE1QNzZ5NGlTMnA3M0VVQjlhaWN6eUVzOW4xS05EQnd0bEJYMEw0aXJJT3NXWklaNmcxcjVnOWVz0gF8QVVfeXFMTVAyTUQ0UV9iNzQyaThOY04yU1FlSEtRRHpLQXBXZnpvLUV5TklWSzhRaGw2ckowNEtJcXRtWldwelIxYnhDMDFSTzVJVFZwbXZ1Q2QxZWlTUHdUdzdqaW0xMGZIUHlpWlBYWHJ6UGE3cVhRWkpDdTExU29VRQ?oc=5",
       "prediction": "The S&P 500 will hit a new all-time high within 30 days of the election being officially certified.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The provided headline concerning Ethereum prices does not contain information regarding the S&P 500 or its performance following the election certification."
     },
     {
       "section": "markets",
       "headline": "Bill Ackman warns that markets have become a casino",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jVkpJM1FyU1pqQ25PNXRiN2Y4U2wyYjE1RWpQaEd2SjhYWUNjVUJQNzRGZ1hVangyVW1lNzdlWFZtczU2dVNJYjNKN2s3RS1WX3hDTFRCU1NnMUhkS0ltbk9BcnhwcUY2MHJVXzlOM1hoUVNQdnBZ0gF8QVVfeXFMUHdwYndqc01nM3dmWmp6WTFmN0ZOUXdwdkFLejBVNm5fMlpGMi1mZmFKU2ROSDZ2TTVyVG8zOE0zamN4eVNDTWxQZjhnLVQ5c0VSaUZJSTZCYXVZTEJUNWlrVUFwWXAzbVM0ajZRRDAzQ1BNaVhzbUtYQzQxWQ?oc=5",
       "prediction": "The SEC will propose new disclosure or margin requirements for retail 0DTE trading before the end of 2025.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No fresh headlines were provided to confirm or contradict the prediction regarding SEC requirements for 0DTE trading."
     },
     {
       "section": "markets",
