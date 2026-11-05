@@ -8,7 +8,7 @@
       "prediction": "Prop 40 will fail to clear 45% of the vote when final tallies are certified.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new headlines were found to confirm or deny the final certified vote percentage for Prop 40."
+      "note": "No new headlines were provided to confirm the final certified vote count for California's Prop 40."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "At least three new multi-state lawsuits targeting AI data privacy will be filed before the end of Q1 2026.",
       "grounded": false,
       "status": "too_early",
-      "note": "Today's headlines mention general privacy law updates and security trends but do not provide data on the filing of multi-state AI data privacy lawsuits."
+      "note": "The provided headlines discuss general privacy laws and cyber trends but do not mention any specific multi-state AI data privacy lawsuits being filed."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "The cost per megawatt for permitted data center land in Northern Virginia will rise by 25% within six months.",
       "grounded": true,
       "status": "too_early",
-      "note": "While headlines report high data center construction delays and energy use trends, they do not provide specific pricing data for land in Northern Virginia."
+      "note": "While headlines mention data center construction delays and general energy use, they lack the specific land pricing data for Northern Virginia needed to verify the prediction."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "At least one 'Magnificent Seven' tech giant will announce a direct equity stake in a natural gas firm or pipeline project before the end of 2026.",
       "grounded": true,
       "status": "too_early",
-      "note": "The provided headlines regarding private equity outlooks do not contain information about tech giant equity stakes in natural gas firms or pipelines."
+      "note": "There is no information in the fresh headlines regarding 'Magnificent Seven' companies taking direct equity stakes in natural gas or pipeline projects."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The S&P 500 will hold these gains and finish the year up at least 5% from its pre-election level.",
       "grounded": true,
       "status": "too_early",
-      "note": "The headlines provide historical context and general outlooks for 2026 midterm results but do not state the actual performance of the S&P 500 relative to pre-election levels."
+      "note": "The headlines discuss historical midterm trends and potential future market movements but do not provide the actual year-end closing figures for the S&P 500 in 2026."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "Equinix and Digital Realty will underperform the broader Nasdaq by at least 10% over the next 90 days.",
       "grounded": false,
       "status": "too_early",
-      "note": "No information was provided to track the stock performance of Equinix and Digital Realty against the Nasdaq."
+      "note": "No fresh headlines were found to evaluate the performance of Equinix and Digital Realty relative to the Nasdaq."
     },
     {
       "section": "markets",
