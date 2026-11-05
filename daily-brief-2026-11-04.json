@@ -6,42 +6,54 @@
       "headline": "California voters to decide on a new tax for billionaires",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWmktTEhPd3IzODRXX2JoUjIxekltcHlwcVl2M3dzaDVNRDFBRnhhcUtlNHNkdjR6LXN4NmFDWkprdFBQbi1pUG81THY4T0VVcUNBanA4TnBQTUNLb0Job3hGYnhYcWxiam5yWmdRV2w2dDRkOU9KczBSNUZETkluQm9uQ0RKMXRNSkxaU0t4MkQwenpzRlNJaThCSDR3T1JpeFZKcC10R25HZ3c?oc=5",
       "prediction": "Prop 40 will fail to clear 45% of the vote when final tallies are certified.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new headlines were found to confirm or deny the final certified vote percentage for Prop 40."
     },
     {
       "section": "tech",
       "headline": "Democratic attorney general wins signal tougher tech oversight",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZUhiRTMxSGxBZ3labElJTHZmZmgtaGRSS2h6N1JuRGpSWVVsOVBaZ1pwVzA5NUZDRWE4QmIwTnEzamVCaVFPd0VrMGVveDBua0hURzBVWk4tMFJ4TnNxZkJ5RzRVZUhVWE84cjhDY2pUVllYWElIRktPS0RYWEtYS2xiQ2k1TGJUUlVuZHpiY0paLUd2cGlEM3FvQjBoWnlCZ2c?oc=5",
       "prediction": "At least three new multi-state lawsuits targeting AI data privacy will be filed before the end of Q1 2026.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Today's headlines mention general privacy law updates and security trends but do not provide data on the filing of multi-state AI data privacy lawsuits."
     },
     {
       "section": "tech",
       "headline": "Voters across the country are rejecting new data centers",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU1dtLXh4bkZMU0R3X1ZqXzVKNXBjRE1JbkNuQUg5R3o2VEE4SUVEM3lqUFZZOHlKTVkyN2tYUEZIdXJTOWZuVWRlQXY1dl9vVkdTVHZFWkpuajdIX2U5UEtjQ2wwQkx4MnM1SnhpeVZCVU96cXc3U1pBekJXWlAya05CN1Q5QTNmQ2Zyc0Y4WDFLWndvQS1tdHM2eHA5R3pUdW9RUU9UcG5mSk13dUhTQ2t2V1JMWmdLU3c?oc=5",
       "prediction": "The cost per megawatt for permitted data center land in Northern Virginia will rise by 25% within six months.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "While headlines report high data center construction delays and energy use trends, they do not provide specific pricing data for land in Northern Virginia."
     },
     {
       "section": "tech",
       "headline": "Tech giants build their own gas plants to power AI",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeGtwdTdHSFItR1U5SmZJck9sOTIyVzlPRTBMbG5YaTBTdnF1bVJnUmdLcUZtelJyclVmaHhnbUNvQkRuUjJud0Z3bGVjYTZuTHFHNGJLZEM0UHFqaVdrQ0xBZFduMFB3VU9BeTNwS0FBamxaMHFtTW9jSXNTRDRqdDU3eUQtem1pdTVhajlXZVhzNEpmbDFrSFFJVFRKY0RPLWJEUDBjNXAwTGJMSGVyYmw0UXE?oc=5",
       "prediction": "At least one 'Magnificent Seven' tech giant will announce a direct equity stake in a natural gas firm or pipeline project before the end of 2026.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The provided headlines regarding private equity outlooks do not contain information about tech giant equity stakes in natural gas firms or pipelines."
     },
     {
       "section": "markets",
       "headline": "Stocks skyrocket following clear Democratic victory in midterms",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVk1FS3BzdHJTaGpXZ0RUNjRmcFczWmFBZ2xiU2ZrM0tKM0w5VzhNWUFsbk5ENzBCdDg3Y1M3MWM5OWJLb3U4UjRxODg0U2xIUTZhT1ZLNDNZeWNhU3lndWlBUW9BVGlGQUZqMHN3cjk4QTQ1d0pmVkNyTldqWWdmYmtGR2wtd1ZrLVoxcWNaM1o2WHFuZlc0MUIzUGZJOF91SVJFMjVhYXl4VVBwOGlnbll6dUNjd2ppa09hTkU5TldxZ1hFM2s3YkRVV3l4Q20tZFU5bnRxS0lWWnZl?oc=5",
       "prediction": "The S&P 500 will hold these gains and finish the year up at least 5% from its pre-election level.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The headlines provide historical context and general outlooks for 2026 midterm results but do not state the actual performance of the S&P 500 relative to pre-election levels."
     },
     {
       "section": "markets",
       "headline": "Data center stocks dive even as broader market climbs",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONm5Ud2VYUjZneURleGJoRnBaVmFUaWJWY3VHYUVCUFBCY0VYODNPRGVZT0lVYjZkT19YTDJ2cURRZXNzaHhFbENmeC1NWkY1c3BJT2NvbDh3Ti0zVmRQMTRqb0N2cEFiR0JGeGlnLWNuNHlqbFdLSWtIR0dHb2VFZkdhWnU2S3FjbmFvTmdDUkJnTWRJa0lsZ1R3?oc=5",
       "prediction": "Equinix and Digital Realty will underperform the broader Nasdaq by at least 10% over the next 90 days.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No information was provided to track the stock performance of Equinix and Digital Realty against the Nasdaq."
     },
     {
       "section": "markets",

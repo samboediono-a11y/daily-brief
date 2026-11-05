@@ -1,0 +1,287 @@
+{
+  "date": "2026-11-05",
+  "predictions": [
+    {
+      "section": "tech",
+      "headline": "Democrats win big by using tech giants as a political foil",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZDUtbWZCQWRvX3luUjRzTUFQbEprVEZCR0xnMld6cmZvQURMQ2tQc2NZT016RVNtODBLRXBIZFdaTWNQNEJyOEhEZ0VQdGNqM2ZsU0JnX3VGUnI5MVg0TkJ3Sm9sdnVPNWNQQlFZcFVNYTl0a29Nd2lmZlJ1eGdPX3JFYUZMTHlkWnJ3NWkxRC1KUmNxTEowZlJ6MTJ4MFJjcWtOa3BnY3Q?oc=5",
+      "prediction": "Expect the DOJ to file at least one new major divestiture suit against a 'Big Tech' advertising or cloud unit before Q3 2025.",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "The trillion-dollar data center boom hits a local wall",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWGxtWlRYSjZjaEliNm1oUlJ0YmtSeUtubUxmQXJLcGx4ZXRrYWxUbm9PYXNCWUZmaEJNWlRhVld0bTQ2UkhBTFlXN0x5NlZpcEprU1NwZUYzTjI0Qkx0b0xZRnl1SDdyNEFZcDF5S0RnZnIxZkV1MUJQS3NGUEpOTERKWTk?oc=5",
+      "prediction": "At least two major AI data center projects in Virginia or Arizona will be officially canceled or moved to different states by mid-2025 due to local zoning opposition.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "Europe\u2019s defense tech players are finally teaming up",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa0s3cV9Tc2lrOWN0ajhhc0M3ZU94dGk1STRHbXFSZXZDejlTRURURm9rN2RCb0JfT296LVMyYlEwNVk0X1lPbTNVQnBfOXB5WnlmZXB2LVBMMkNYT0l3UVZ0U2VJRy1IWGVXUDZPM0ZkWExVZXZzaERKQXFzaDhRWFJ2T3ltS0ZPT2dmc3AxZmdveC1qWWNjejZiUnhZbDluamFLUg?oc=5",
+      "prediction": "A major cross-border merger involving a Tier-1 German and French defense contractor will be announced before the end of the next fiscal year.",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "HP\u2019s new boss brings a confrontational style to the C-suite",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdEppTkdfaXg1ZWNsbkx4TDZ6OE16NFFDTUlMcDRTWXAya0huVS1kdWZTUEg2NC1EakJDS3dPZUkyZGhkM0k0LXdEcl9BcG1CVjJOMzFWSVJBMlB5dHZsbWNCZDd1cFNfM3BIWGliYnZjX2NZd2FZdzhaTU0tN1ZPeDZEZUJhVmpQazFZ?oc=5",
+      "prediction": "HP will announce a major spin-off or total exit from a legacy hardware segment (like consumer printers) within the CEO's first four quarters.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "A massive chip sell-off wipes out the post-election rally",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZTZIZ0tKbklnYWJvNVFoSXUtcEFER2lUNXBpaUpWeW0zMVgxakZfODVnb0NwdG0tUDFVcGFoakZPbWhNRUlBcHFSM2dlN2RmQ256c19feE1PNjFNclZwQl9aSXFSRi10eGNoc1JjQUxpRGhEa05JT0dJdzBXLXI1LXNoa3pQZEJ4ZjAyNjBLSkF3VGhMckwzVFl4SnJLSlBtTEJXLUc4S2x4NFk3S1lsUGxDc3BKZ3dkeEZ5TmRNbVptdjFxOGFXMUFsQy1UR2l1UklaMUd3?oc=5",
+      "prediction": "NVIDIA will test its 200-day moving average before the end of the current earnings season as investors rotate into defensive sectors.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Wall Street braces for impact as Democrats flip Congress",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ0ktb3JQam9saVhrUDhjbXZWTDVQaV9tVGFyX0VWdnh1Y3lTd3BDYlBlTFN3WS1tN0szdm4zb184WkZEcnhDZWVaS3h1RHp3azFaUEFfTWNtSjY4UXhXTG5ESjBvRmRHTzluZks0VlBrS1RzR1ZuNVJSa0s3eFNVU3J2WmZpQQ?oc=5",
+      "prediction": "The VIX (volatility index) will remain elevated above 20 for at least 60 days as the market adjusts to the new legislative power structure.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "AI cooling-off period stalls the year's biggest IPOs",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQldfc2ZGcnUxaFlFY0lackJqRmU3d2FicGlRWklhYnIxekMya1lJLW1kYTJZQV90SG9QczZia0lTRk5fT0kzUGthM1JLa3BQZktEYjIzZUNPUjlDNkM5SEREVTRQUHJ4WGVHSjc1MFNlTXF2VGt1VmFoR2p5VThiTnhOWGFZeGFCRVhnMW9UdDRfZzFhRTZjcDJRWk1pS1JXb0I1Y1lwMGVSLTJXZlNuVWtOUVBkamRmbU9jOWh2RHRvQWhiMkE?oc=5",
+      "prediction": "Anthropic will be forced to raise an internal bridge round or a 'down-round' by mid-2025 rather than proceeding with a public offering.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "The first humanoid robot company hits the public market",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUU5SZUNqV1pBT2E3RU1QR0ExS2w1SUszaGpOckxzODVOZFJZR0xQVUhqNUViS0VTWFpGNzNQdXBBVC13Zmw0bWlfNTZRc2ZjMC1vNUtiR1A4ZUFsRDJ0OWJxaGkyMUNSWmQtbXZJUThvUlI5b3FqdHFMSnFZd2U3cC1ZRzlKbEhJZlVQNTcxRHl4WV95enRHdW8taHhFZzBmRzBiV0dqc3R5aDJEdEdLN0tsM2ljT29fRmc?oc=5",
+      "prediction": "Agility Robotics will announce a multi-facility deployment contract with a Fortune 100 logistics or retail firm within 6 months of its public debut.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Oil prices tank as election results suggest a policy shift",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbjRzOW02X1N3VzNXZG41a1RLTF9aWEkyYnFfZy1OLThNbjhFTXlHN3FRLVRPM0l1ZWJPSGdVUGk0YTZBRHREWXlNS1l0SXp6Z3VnX3ByUUZFeV91V1F3cE5QRnBUY3JUWlY0V25IbnNHRmlJQnRhZEVpRVgtZUk3cC1yZW9UWC1NTHh2UDVtbGNKeDEzaVdUMEdVNC15dkNjN21oaFVQaGx5OUJRUWtQNXZ2RmdodXZFdjE1ZDN4OU90Zw?oc=5",
+      "prediction": "Brent crude will trade in a narrow band between $70 and $75 for the remainder of the quarter as geopolitical risk premiums evaporate.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Wendy's rejects a billion-dollar buyout to focus on bacon",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOdFh1VnJwbC1GQmk4a0hrLW1lclBoMlg4bHM3Mlp2T3hsUG5jNDRYa1V6S2lzdWIwZkU0N1hHMzhXTUhlUC1Fd0dzaXhQSlRwSF9iUGdHc2JCRXYxXzlqSl9nb0VkMHk0ckV6dGdHSndPRzVyRnlueUJBeHk0clFGam5JYTl6dzlzYl9TUTZaZmliR0I0VnhrN0hHUmNZU2ZWc0V3RF9aVlNpeTd6NVVXZlJ3RHpDSk9Za29HRENjMTFiQUNxU1N4dDlaQzVfYS1HSjl0SHhCT1FoZ3FCSlZiRzYyU2Z1LUNwcjNTRGY2Mnh0cTY0NGlYVU00Zl92MjNqcFZR?oc=5",
+      "prediction": "Wendy's will announce a significant dividend hike or share buyback within 90 days to appease shareholders after rejecting the buyout.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "Paraguay\u2019s president impeached instantly after a bank collapse",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVnRtcmhVdFd2ZHpHcldHYk9VQVdySlQ3djBZNDRWWmgxZ3B1TXJuT2RqVDVaQ21pOXItajJ6ZVVOSW03bXlxMTgtcENoeHQwVDJISnBDOW1fTTJqNHctcy1LS2VxS1lFMWtOUzBfSkNCYU9rMWd0Y0xfRzhnOUhJRjNpNHRoMDd5Rm5pZjZPNmI?oc=5",
+      "prediction": "Standard & Poor's or Moody's will move Paraguay's credit outlook to 'Negative' within the next 30 days.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Los Angeles picks a socialist mayor in a major political shift",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOUNzeXA3RjZvNHE2OVQxZ19oUjEwdG4wbm40SVNLalFUVlY5amgyVHItTFdqT1IxaXFIUkM1cjZtTjVVdXpkbWg4RnZkTXJQcXpTZnF1ajE3WTZpVUtnam1iRlFMNXg0bmZmNGRfTzVUdDhfNWZpRENNaDJlVTZUaEJ5aDFMeUFuZ3Y4eGthbC1YbEZaV1NJMlhuVnBUdk5PZks0dVdqT29WbkpOOExJUVdGbTB2TkVxMW5FWWt1U2duUQ?oc=5",
+      "prediction": "Expect a double-digit percentage increase in commercial property listings in the LA basin as institutional landlords seek to exit before new tax policies take effect.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia\u2019s economy defies global gloom with strong growth",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS1VMTmtXUjBJSVNYYURISjBHWXJwVTZMVjdwUG92aFl6VFpCRk03a1M0Nkp3eThQWVJ1am5RWDVBTFFKOXRGRWVWcTZ3MGtPQndxOVIwQ3hVZVZkNHpoMk5sODVzXzF3RlJTQ2ZGYWhvaFNGVFNaOEtnRmF5TVhsVklhblhONW1RQnE5NjkwVDg0S1hrdEd4Q0dmWTNyd20tNnpQY0hvbmVPMndWd3J4MHNR?oc=5",
+      "prediction": "Indonesia will outperform the broader MSCI Emerging Markets index by at least 400 basis points over the next six months.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "A massive wiretapping scandal rocks the Indonesian presidency",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2hPeGc3OGsxOW51c2k3cm0tLVY4bG9Pc3MtUGZmeURqY1ZQRzZVTHRkVnRtWTVTamF1b3hvVkRyZ3hwbWU5VkM5cTVkRWVuLTVjZEI1UkdNQXV5XzRsUkt4Z1kyNmF0ZGl4VGlodVEwajhPU1BwLWF0TVA1OTBiX0NXQ0l5MW83OUFYc25xUVVCV05GU2FQUU0zaUhYUU04RWVkR2VtUndQQkY3ZTM4TGp1NUJabFBLMWlRbDdsRVJ3bktnc21ua2xn0gHKAUFVX3lxTE02Ujl1eV8zODhoN2xJUHR0Q0UxcVpTUkkxZkxOM2d6Q0VST1JudmRlMWVZMUdFblRvWjVKdEVpUkRIYmc2Y2QxYWxTbGk3NnNWSjVxTUFTYXlNT2RYMTMtZWNLV1UtazN1N0RXUE9YTGE3Zm1VVFBjZ2NYY01ib094blJoVWJFSGgyY0NFVHh0c3UyczNUMFlnRzUzOWNpaV96bFNpRWpJZk9VOVkwNmF4eFVBWXRZQW1LbklMSUM5emZCTmtzTzVlaFE?oc=5",
+      "prediction": "A cabinet reshuffle will be announced within the next 30 days, placing more military-affiliated loyalists in key economic oversight positions.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia tests the market with a fresh dollar bond sale",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOW9hWGdXcjU2c0VGcXpPMXppNmtHenpLcFB1bzdWdEppU1podFNiTlFVNzJiVDVWWk10TGVNbVhySkItNEV1bFNESl9JeVpEV09GY2FHSmNWN2xIWHFhNVJnb0ZMMmhSbTNud29fa09WZnFpNEhERkU0aURkRmdtTXFaVGlRVThRTzNTQ2VXQzEyeGRwX1BPMkpGZjZyanRpMERYV3NXb3hrOGdyakRBdUl3?oc=5",
+      "prediction": "The bond offering will be at least 2.5x oversubscribed, confirming that fixed-income investors are ignoring the 'MSCI fallout' noise.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Political infighting threatens to kill urgent market reforms",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON3RBdFhybUNtVDJLVTdzUG9IT0NKS0RRdUw0N2lkNlQ1ZU5zNTNTdDhUNDdpZkdFMGRvOVp1U20xdWFnRFhWS3VFbFF6cVZvU1Q5OWxQTDhod1FCWHRxZjlxQ1czNkpFS0VwbUpNOG1mMHhsSEVUZnJ0TFlDVHUtWGIySlhzNU9YemdiZndaOGJGNmxMc285ZmxBbUNnZHRsREJmNE94cXE3c1NGMTB3Ry1RTnpuOHA5ZFpiNFVKNkhDcERjRlQxcA?oc=5",
+      "prediction": "Moody\u2019s will issue a formal warning or 'outlook change' before the end of the year if the current reform package is not passed by the Indonesian parliament.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin takes a dive as post-election jitters hit crypto",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTBRcDhwNTBlX3hYcTBjX0Z5b0hwLUdGVndtb1VnSTM3QWVyVU03Sjd5S29KbVNPdWxWZ0NKMjNGTmdKSktpdDRzLWFKR010RnlFd2o5ZzdnTDEwUjVybnNfT0VLUktuOFFTang5bzVoQlg0OVJhSi1tMGhkcVVnM19VNzJ6X01wNTVVMVJVLWNKRkhYX2d5YWdvM2V1R0VQUlFfd3NqNVJJc2c?oc=5",
+      "prediction": "Bitcoin will re-test the $72,000 support level before finding a floor in the current post-election cycle.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "US Dollar wobbles while Bitcoin deals with heist fallout",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQXEwWExzY3ZuRmlnbmVGS3FRR1VXaE9xVi1JRTZHbWY0SEFMUHNFY1BVcm1TdkhtMTVwbVRZLXBpdW8tMzEzQTNId05NenRKUjV6eVRfU3o4V0pIMEUzSXNLLWhLMU5IZTdMc2JzUVNrWE1vRlM3TWNUVm1ZRC1VU2R1aE5aM2ptbEtobHQ4Ny04V2l1X1puUllEMllROVhQQ2NZVVlsamxJZzZjd2FVMFk5ZUIzWkJiZkE?oc=5",
+      "prediction": "At least one major crypto exchange will announce a significant increase in their insurance or 'safeguard' fund in response to this breach within 60 days.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bolivia\u2019s small businesses turn to crypto as a life raft",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcHNKT1ZtUHVhSDhkc2NuZDYwU2RjQXRfZ3FWeDFTRHRGdmI5OWdOZl9LTy01b0YtOGhDWU03WTFvb2lsQ2t0azhneGRqOURJU291ZUJ5UHZCNVJ2Vzdfc1hweUh4RE5HeU5lUm1ybER5elA3MWhUd2ZYVE9Ba3p5WEhIQ09DQ3NmMkFGS21BbTNsanBldDFJU1lrTTdTc0h6MTlHa2M2NVhrYmw4RzFYandMTnZjZjhZenVSVXVKTmJIQQ?oc=5",
+      "prediction": "Stablecoin transaction volume in Bolivia will increase by over 200% year-over-year as the local currency's purchasing power continues to erode.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "New US laws and ETF outflows reshape the crypto landscape",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaHV5aEwydHdXU3g1TXFnNDBIb3oyUjVHS2NPMVgzWEpPSkFZeG5OVTlkeW5fNndrczFueENUNWlGMnJRSExObnJWQTdkOUdqUFJjZ1NldEJleW5nRkxMNlJQdjRxcXdQWWNRd2ZLQ2pOZEEyU2UxMS1HU2oybVozUk5rUlJZLUIwNFlGNWNlTHBWLUhhTUtUZG1admlrRkNmN3J2OHZMMlozdjU4?oc=5",
+      "prediction": "Bitcoin and Ethereum ETF outflows will persist for at least another three weeks as the market recalibrates for a 'no-reform' environment in Washington.",
+      "grounded": true
+    }
+  ],
+  "stories": [
+    {
+      "section": "tech",
+      "headline": "Democrats win big by using tech giants as a political foil",
+      "summary": "Midterm results suggest that aggressive rhetoric against Big Tech was a winning strategy for Democrats across the country.",
+      "view": "Politicians have successfully rebranded 'Big Tech' as the new 'Wall Street'\u2014a convenient, bipartisan punching bag for populist anger. Democrats' midterm success using this foil ensures that the DOJ and FTC will stay aggressive, focusing on breaking up ecosystems rather than just fining them. This is a direct win for smaller software competitors and a long-term valuation ceiling for the 'Magnificent Seven'.",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZDUtbWZCQWRvX3luUjRzTUFQbEprVEZCR0xnMld6cmZvQURMQ2tQc2NZT016RVNtODBLRXBIZFdaTWNQNEJyOEhEZ0VQdGNqM2ZsU0JnX3VGUnI5MVg0TkJ3Sm9sdnVPNWNQQlFZcFVNYTl0a29Nd2lmZlJ1eGdPX3JFYUZMTHlkWnJ3NWkxRC1KUmNxTEowZlJ6MTJ4MFJjcWtOa3BnY3Q?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "The trillion-dollar data center boom hits a local wall",
+      "summary": "Tech leaders warn that a growing public backlash against massive data campuses could stall the infrastructure needed for AI.",
+      "view": "The 'NIMBY' backlash against data centers is the single greatest physical threat to the AI arms race, shifting the bottleneck from GPU supply to power and land. Bloomberg's report of a post-election 'upheaval' and the tech-insider warning of a 7 GW capacity crisis by 2026 suggest that compute-heavy firms will see their project timelines double. The winners are rural, 'red' states that will trade land and power for tax revenue, while high-cost tech hubs lose the infrastructure race.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWGxtWlRYSjZjaEliNm1oUlJ0YmtSeUtubUxmQXJLcGx4ZXRrYWxUbm9PYXNCWUZmaEJNWlRhVld0bTQ2UkhBTFlXN0x5NlZpcEprU1NwZUYzTjI0Qkx0b0xZRnl1SDdyNEFZcDF5S0RnZnIxZkV1MUJQS3NGUEpOTERKWTk?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Europe\u2019s defense tech players are finally teaming up",
+      "summary": "Investors observe a wave of consolidation in the European defense industry as companies seek scale to compete globally.",
+      "view": "Europe is finally attempting to pay its way out of the 'fragmentation tax' that has long hampered its defense sector. Consolidation is the only path to achieving the scale necessary to compete with US giants like Lockheed Martin or the growing threat of Chinese hardware. This is a win for large European primes (like Rheinmetall or Leonardo) who will swallow up smaller innovative startups to bolster their AI and drone capabilities.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa0s3cV9Tc2lrOWN0ajhhc0M3ZU94dGk1STRHbXFSZXZDejlTRURURm9rN2RCb0JfT296LVMyYlEwNVk0X1lPbTNVQnBfOXB5WnlmZXB2LVBMMkNYT0l3UVZ0U2VJRy1IWGVXUDZPM0ZkWExVZXZzaERKQXFzaDhRWFJ2T3ltS0ZPT2dmc3AxZmdveC1qWWNjejZiUnhZbDluamFLUg?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "HP\u2019s new boss brings a confrontational style to the C-suite",
+      "summary": "The incoming CEO of HP is known for a 'love of confrontation' as the company navigates a shifting hardware market.",
+      "view": "Confrontation is exactly the medicine HP needs to break out of its legacy hardware coma. The incoming CEO's aggressive style suggests a pivot toward higher-margin services and a 'burning of the boats' regarding low-margin PC sales. This will likely lead to a painful but necessary period of restructuring that favors long-term profitability over short-term market share.",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdEppTkdfaXg1ZWNsbkx4TDZ6OE16NFFDTUlMcDRTWXAya0huVS1kdWZTUEg2NC1EakJDS3dPZUkyZGhkM0k0LXdEcl9BcG1CVjJOMzFWSVJBMlB5dHZsbWNCZDd1cFNfM3BIWGliYnZjX2NZd2FZdzhaTU0tN1ZPeDZEZUJhVmpQazFZ?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "A massive chip sell-off wipes out the post-election rally",
+      "summary": "The Nasdaq plunged 5% as semiconductor stocks led a broader market decline following the midterm results.",
+      "view": "The $2 trillion market wipeout is a violent 'reality check' for the AI bubble, accelerated by fears that a blue Congress will target tech subsidies and antitrust. As Investopedia notes, the hottest AI ETFs are now in the crosshairs, and CNBC's data on the massive single-day loss shows that investor sentiment has flipped from 'FOMO' to 'protection of principal'. Semiconductors are the clear losers here as the 'Trump trade' unwinds in real-time.",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZTZIZ0tKbklnYWJvNVFoSXUtcEFER2lUNXBpaUpWeW0zMVgxakZfODVnb0NwdG0tUDFVcGFoakZPbWhNRUlBcHFSM2dlN2RmQ256c19feE1PNjFNclZwQl9aSXFSRi10eGNoc1JjQUxpRGhEa05JT0dJdzBXLXI1LXNoa3pQZEJ4ZjAyNjBLSkF3VGhMckwzVFl4SnJLSlBtTEJXLUc4S2x4NFk3S1lsUGxDc3BKZ3dkeEZ5TmRNbVptdjFxOGFXMUFsQy1UR2l1UklaMUd3?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Wall Street braces for impact as Democrats flip Congress",
+      "summary": "Stocks initially fluctuated but settled into a cautious stance as the shift in Congressional control became clear.",
+      "view": "Wall Street hates a 'regulatory overhang,' and a Democrat-controlled Congress brings exactly that. Fortune's concerns about tariffs and a government shutdown are valid, but the real impact is a freeze on M&A activity as companies wait for the new 'rules of the road.' This shift benefits value stocks and traditional energy, while penalizing high-growth tech and crypto sectors that thrived under lighter oversight.",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ0ktb3JQam9saVhrUDhjbXZWTDVQaV9tVGFyX0VWdnh1Y3lTd3BDYlBlTFN3WS1tN0szdm4zb184WkZEcnhDZWVaS3h1RHp3azFaUEFfTWNtSjY4UXhXTG5ESjBvRmRHTzluZks0VlBrS1RzR1ZuNVJSa0s3eFNVU3J2WmZpQQ?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "AI cooling-off period stalls the year's biggest IPOs",
+      "summary": "Anthropic's massive IPO plans are under threat as investors liquidate AI positions amid a broader market dip.",
+      "view": "The AI cooling-off period is the death knell for 'unprofitable scale' IPOs. Anthropic\u2019s stalled plans prove that public markets are no longer willing to subsidize massive R&D burn without a clear, near-term path to cash flow. This is a win for incumbents like Microsoft and Google, who can now acquire these distressed AI unicorns at a fraction of their peak private valuations.",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQldfc2ZGcnUxaFlFY0lackJqRmU3d2FicGlRWklhYnIxekMya1lJLW1kYTJZQV90SG9QczZia0lTRk5fT0kzUGthM1JLa3BQZktEYjIzZUNPUjlDNkM5SEREVTRQUHJ4WGVHSjc1MFNlTXF2VGt1VmFoR2p5VThiTnhOWGFZeGFCRVhnMW9UdDRfZzFhRTZjcDJRWk1pS1JXb0I1Y1lwMGVSLTJXZlNuVWtOUVBkamRmbU9jOWh2RHRvQWhiMkE?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "The first humanoid robot company hits the public market",
+      "summary": "Agility Robotics has become the first pure-play humanoid robot company to trade publicly.",
+      "view": "Agility Robotics is the canary in the coal mine for the 'Industrial AI' trade. By going public now, they are betting that investors want hardware exposure to solve the labor shortage. Morningstar\u2019s note on Chinese blacklists is a massive tailwind for Agility, effectively creating a 'moat by regulation' that keeps cheaper Chinese humanoid robots out of the US domestic market.",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUU5SZUNqV1pBT2E3RU1QR0ExS2w1SUszaGpOckxzODVOZFJZR0xQVUhqNUViS0VTWFpGNzNQdXBBVC13Zmw0bWlfNTZRc2ZjMC1vNUtiR1A4ZUFsRDJ0OWJxaGkyMUNSWmQtbXZJUThvUlI5b3FqdHFMSnFZd2U3cC1ZRzlKbEhJZlVQNTcxRHl4WV95enRHdW8taHhFZzBmRzBiV0dqc3R5aDJEdEdLN0tsM2ljT29fRmc?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Oil prices tank as election results suggest a policy shift",
+      "summary": "Crude oil hit a two-month low as markets reacted to a decisive shift in US political leadership.",
+      "view": "The oil price collapse is a direct result of markets pricing in a 'de-escalation premium.' As the WSJ notes, the midterm results have raised hopes for a Middle East solution, and Reuters highlights that a divided Washington means fewer 'policy shocks' like sudden sanctions. This is a net loss for US domestic drillers but a massive tailwind for global transport and manufacturing sectors.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbjRzOW02X1N3VzNXZG41a1RLTF9aWEkyYnFfZy1OLThNbjhFTXlHN3FRLVRPM0l1ZWJPSGdVUGk0YTZBRHREWXlNS1l0SXp6Z3VnX3ByUUZFeV91V1F3cE5QRnBUY3JUWlY0V25IbnNHRmlJQnRhZEVpRVgtZUk3cC1yZW9UWC1NTHh2UDVtbGNKeDEzaVdUMEdVNC15dkNjN21oaFVQaGx5OUJRUWtQNXZ2RmdodXZFdjE1ZDN4OU90Zw?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Wendy's rejects a billion-dollar buyout to focus on bacon",
+      "summary": "The fast-food giant turned down a $1.4 billion offer from Nelson Peltz, betting on menu improvements instead.",
+      "view": "Wendy's rejection of Peltz\u2019s $1.4 billion offer is a high-stakes gamble on operational execution over financial engineering. Management is betting that their focus on 'bacon'\u2014essentially menu differentiation\u2014can drive better returns than a private equity overhaul. If they don't see immediate margin improvement, Peltz will likely return with a hostile proxy fight.",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOdFh1VnJwbC1GQmk4a0hrLW1lclBoMlg4bHM3Mlp2T3hsUG5jNDRYa1V6S2lzdWIwZkU0N1hHMzhXTUhlUC1Fd0dzaXhQSlRwSF9iUGdHc2JCRXYxXzlqSl9nb0VkMHk0ckV6dGdHSndPRzVyRnlueUJBeHk0clFGam5JYTl6dzlzYl9TUTZaZmliR0I0VnhrN0hHUmNZU2ZWc0V3RF9aVlNpeTd6NVVXZlJ3RHpDSk9Za29HRENjMTFiQUNxU1N4dDlaQzVfYS1HSjl0SHhCT1FoZ3FCSlZiRzYyU2Z1LUNwcjNTRGY2Mnh0cTY0NGlYVU00Zl92MjNqcFZR?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Paraguay\u2019s president impeached instantly after a bank collapse",
+      "summary": "In a lightning-fast political move, Paraguay's leader was removed after a systemic failure in the nation's banking sector.",
+      "view": "The Paraguay situation is a classic case of financial contagion triggering political collapse. The Ueno Bank failure was the 'black swan' that gave Congress the excuse to purge the executive branch, as detailed by Americas Quarterly and WTAJ. This signals extreme volatility for South American banking ETFs and likely leads to a period of capital flight from the region.",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVnRtcmhVdFd2ZHpHcldHYk9VQVdySlQ3djBZNDRWWmgxZ3B1TXJuT2RqVDVaQ21pOXItajJ6ZVVOSW03bXlxMTgtcENoeHQwVDJISnBDOW1fTTJqNHctcy1LS2VxS1lFMWtOUzBfSkNCYU9rMWd0Y0xfRzhnOUhJRjNpNHRoMDd5Rm5pZjZPNmI?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Los Angeles picks a socialist mayor in a major political shift",
+      "summary": "Nithya Raman defeated Karen Bass in the LA mayoral race, signaling a progressive turn for the city.",
+      "view": "Nithya Raman\u2019s victory in LA is the most significant data point yet that major US cities are doubling down on progressive fiscal policy rather than pivoting to the center. This will likely accelerate the flight of commercial capital and high-net-worth residents who fear aggressive wealth taxes or radical zoning changes. Real estate developers in Southern California are the clear losers here.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOUNzeXA3RjZvNHE2OVQxZ19oUjEwdG4wbm40SVNLalFUVlY5amgyVHItTFdqT1IxaXFIUkM1cjZtTjVVdXpkbWg4RnZkTXJQcXpTZnF1ajE3WTZpVUtnam1iRlFMNXg0bmZmNGRfTzVUdDhfNWZpRENNaDJlVTZUaEJ5aDFMeUFuZ3Y4eGthbC1YbEZaV1NJMlhuVnBUdk5PZks0dVdqT29WbkpOOExJUVdGbTB2TkVxMW5FWWt1U2duUQ?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia\u2019s economy defies global gloom with strong growth",
+      "summary": "The country\u2019s GDP grew by 5.47% in the third quarter, beating most analyst expectations.",
+      "view": "Indonesia is the standout winner of the 'China+1' supply chain shift, with 5.47% GDP growth proving its resilience. This isn't just a commodity story; it's the result of aggressive 'downstreaming' policies that force manufacturing to stay onshore. While the rest of the world slows, Indonesia\u2019s domestic consumption and infrastructure spend are creating a high-growth sanctuary for emerging market capital.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS1VMTmtXUjBJSVNYYURISjBHWXJwVTZMVjdwUG92aFl6VFpCRk03a1M0Nkp3eThQWVJ1am5RWDVBTFFKOXRGRWVWcTZ3MGtPQndxOVIwQ3hVZVZkNHpoMk5sODVzXzF3RlJTQ2ZGYWhvaFNGVFNaOEtnRmF5TVhsVklhblhONW1RQnE5NjkwVDg0S1hrdEd4Q0dmWTNyd20tNnpQY0hvbmVPMndWd3J4MHNR?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "A massive wiretapping scandal rocks the Indonesian presidency",
+      "summary": "President Prabowo sacked his chief of staff after allegations of treasonous wiretapping surfaced.",
+      "view": "The wiretapping scandal is a classic Prabowo 'palace purge' designed to consolidate power and eliminate leaks before his major policy rollouts. By sacking his chief of staff under the guise of national security, he is sending a clear signal to the bureaucracy: loyalty is the only currency. This reduces near-term political friction but increases the risk of 'groupthink' in the executive office.",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2hPeGc3OGsxOW51c2k3cm0tLVY4bG9Pc3MtUGZmeURqY1ZQRzZVTHRkVnRtWTVTamF1b3hvVkRyZ3hwbWU5VkM5cTVkRWVuLTVjZEI1UkdNQXV5XzRsUkt4Z1kyNmF0ZGl4VGlodVEwajhPU1BwLWF0TVA1OTBiX0NXQ0l5MW83OUFYc25xUVVCV05GU2FQUU0zaUhYUU04RWVkR2VtUndQQkY3ZTM4TGp1NUJabFBLMWlRbDdsRVJ3bktnc21ua2xn0gHKAUFVX3lxTE02Ujl1eV8zODhoN2xJUHR0Q0UxcVpTUkkxZkxOM2d6Q0VST1JudmRlMWVZMUdFblRvWjVKdEVpUkRIYmc2Y2QxYWxTbGk3NnNWSjVxTUFTYXlNT2RYMTMtZWNLV1UtazN1N0RXUE9YTGE3Zm1VVFBjZ2NYY01ib094blJoVWJFSGgyY0NFVHh0c3UyczNUMFlnRzUzOWNpaV96bFNpRWpJZk9VOVkwNmF4eFVBWXRZQW1LbklMSUM5emZCTmtzTzVlaFE?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia tests the market with a fresh dollar bond sale",
+      "summary": "The government is launching its first dollar bond offering since a major fallout with MSCI indices.",
+      "view": "The dollar bond sale is a high-stakes test of investor 'selective memory.' The government is gambling that the lure of high yields in a stable macro environment will outweigh concerns about the MSCI index fallout. A successful sale proves that Indonesia has 'decoupled' its sovereign credit reputation from its equity market volatility.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOW9hWGdXcjU2c0VGcXpPMXppNmtHenpLcFB1bzdWdEppU1podFNiTlFVNzJiVDVWWk10TGVNbVhySkItNEV1bFNESl9JeVpEV09GY2FHSmNWN2xIWHFhNVJnb0ZMMmhSbTNud29fa09WZnFpNEhERkU0aURkRmdtTXFaVGlRVThRTzNTQ2VXQzEyeGRwX1BPMkpGZjZyanRpMERYV3NXb3hrOGdyakRBdUl3?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Political infighting threatens to kill urgent market reforms",
+      "summary": "Maneuvers within the government are stalling reforms as rating agencies threaten a downgrade.",
+      "view": "Political infighting is the 'reform killer' that rating agencies have been warning about. If Prabowo cannot control the maneuvers within his own coalition, the market reforms required for a rating upgrade will die in committee. The mechanism here is a 'slow bleed' of investor confidence as the timeline for structural change slips indefinitely.",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON3RBdFhybUNtVDJLVTdzUG9IT0NKS0RRdUw0N2lkNlQ1ZU5zNTNTdDhUNDdpZkdFMGRvOVp1U20xdWFnRFhWS3VFbFF6cVZvU1Q5OWxQTDhod1FCWHRxZjlxQ1czNkpFS0VwbUpNOG1mMHhsSEVUZnJ0TFlDVHUtWGIySlhzNU9YemdiZndaOGJGNmxMc285ZmxBbUNnZHRsREJmNE94cXE3c1NGMTB3Ry1RTnpuOHA5ZFpiNFVKNkhDcERjRlQxcA?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin takes a dive as post-election jitters hit crypto",
+      "summary": "The price of Bitcoin plummeted to $76,000 as investors reassess the regulatory landscape after the midterms.",
+      "view": "Bitcoin's dive to $76,000 is a classic 'sell the news' reaction to the midterm results. The market is pricing out the 'Trump trade' and realizing that a blue-shifted Congress means the SEC\u2019s aggressive posture is unlikely to soften as quickly as hoped. Bitcoin is being treated as a high-beta tech asset rather than a 'digital gold' hedge right now.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTBRcDhwNTBlX3hYcTBjX0Z5b0hwLUdGVndtb1VnSTM3QWVyVU03Sjd5S29KbVNPdWxWZ0NKMjNGTmdKSktpdDRzLWFKR010RnlFd2o5ZzdnTDEwUjVybnNfT0VLUktuOFFTang5bzVoQlg0OVJhSi1tMGhkcVVnM19VNzJ6X01wNTVVMVJVLWNKRkhYX2d5YWdvM2V1R0VQUlFfd3NqNVJJc2c?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "US Dollar wobbles while Bitcoin deals with heist fallout",
+      "summary": "The dollar index dipped ahead of political results, while crypto markets reacted to a fresh security breach.",
+      "view": "Security breaches remain the 'un-hedgeable' tail risk that prevents crypto from achieving true institutional maturity. While the dollar's wobble is a temporary macro event, the heist fallout destroys the trust needed for long-term holders to stay on-chain. This keeps the 'security premium' high and retail participation low.",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQXEwWExzY3ZuRmlnbmVGS3FRR1VXaE9xVi1JRTZHbWY0SEFMUHNFY1BVcm1TdkhtMTVwbVRZLXBpdW8tMzEzQTNId05NenRKUjV6eVRfU3o4V0pIMEUzSXNLLWhLMU5IZTdMc2JzUVNrWE1vRlM3TWNUVm1ZRC1VU2R1aE5aM2ptbEtobHQ4Ny04V2l1X1puUllEMllROVhQQ2NZVVlsamxJZzZjd2FVMFk5ZUIzWkJiZkE?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bolivia\u2019s small businesses turn to crypto as a life raft",
+      "summary": "Local businesses in Bolivia are increasingly using stablecoins to bypass local currency instability.",
+      "view": "Bolivia is becoming a textbook case for 'hyper-stablecoinization.' In economies where the local currency is failing, stablecoins like USDT are not 'crypto'\u2014they are the actual functioning currency. This bottom-up adoption by small businesses creates a permanent, parallel economy that the central bank will eventually be forced to recognize or tax.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcHNKT1ZtUHVhSDhkc2NuZDYwU2RjQXRfZ3FWeDFTRHRGdmI5OWdOZl9LTy01b0YtOGhDWU03WTFvb2lsQ2t0azhneGRqOURJU291ZUJ5UHZCNVJ2Vzdfc1hweUh4RE5HeU5lUm1ybER5elA3MWhUd2ZYVE9Ba3p5WEhIQ09DQ3NmMkFGS21BbTNsanBldDFJU1lrTTdTc0h6MTlHa2M2NVhrYmw4RzFYandMTnZjZjhZenVSVXVKTmJIQQ?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "New US laws and ETF outflows reshape the crypto landscape",
+      "summary": "The CLARITY Act and significant outflows from Bitcoin ETFs are signaling a move toward more institutional oversight.",
+      "view": "The 'institutionalization' of crypto is hitting a brick wall of legislative reality. As CryptoTicker notes, the collapsing odds of the CLARITY Act mean the regulatory 'wild west' will continue, which is toxic for ETF providers like BlackRock. The mechanism is simple: without legal clarity, institutional 'risk committees' will continue to vote 'no' on larger allocations.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaHV5aEwydHdXU3g1TXFnNDBIb3oyUjVHS2NPMVgzWEpPSkFZeG5OVTlkeW5fNndrczFueENUNWlGMnJRSExObnJWQTdkOUdqUFJjZ1NldEJleW5nRkxMNlJQdjRxcXdQWWNRd2ZLQ2pOZEEyU2UxMS1HU2oybVozUk5rUlJZLUIwNFlGNWNlTHBWLUhhTUtUZG1admlrRkNmN3J2OHZMMlozdjU4?oc=5"
+    }
+  ]
+}
