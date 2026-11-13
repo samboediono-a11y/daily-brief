@@ -8,7 +8,7 @@
       "prediction": "Expect at least two major US data center projects to be canceled or indefinitely stalled due to zoning or environmental litigation by the end of Q3.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "No fresh headlines were found regarding US data center project cancellations or litigation."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "A major legislative proposal specifically targeting tech platform advertising revenue will be introduced and gain traction in the House before year-end.",
       "grounded": false,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "The fresh headlines provided do not mention any legislative proposals in the House targeting tech platform advertising revenue."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "Watch for a formal merger announcement between two top-tier European aerospace or defense startups, involving at least one French and one German player, by mid-2025.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "No fresh headlines were found reporting a merger between French and German defense or aerospace startups."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "China will announce a new round of strategic export restrictions on gallium or germanium before the end of the current quarter to signal its continued leverage.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "No fresh headlines were found regarding Chinese export restrictions on gallium or germanium."
     },
     {
       "section": "markets",
@@ -43,8 +43,8 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZTZIZ0tKbklnYWJvNVFoSXUtcEFER2lUNXBpaUpWeW0zMVgxakZfODVnb0NwdG0tUDFVcGFoakZPbWhNRUlBcHFSM2dlN2RmQ256c19feE1PNjFNclZwQl9aSXFSRi10eGNoc1JjQUxpRGhEa05JT0dJdzBXLXI1LXNoa3pQZEJ4ZjAyNjBLSkF3VGhMckwzVFl4SnJLSlBtTEJXLUc4S2x4NFk3S1lsUGxDc3BKZ3dkeEZ5TmRNbVptdjFxOGFXMUFsQy1UR2l1UklaMUd3?oc=5",
       "prediction": "The Philadelphia Semiconductor Index (SOX) will finish the current month down at least 10% from its recent peak.",
       "grounded": false,
-      "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "status": "held_up",
+      "note": "Fresh headlines reporting a $3.4 trillion chip sell-off nearing a bear market support the prediction of a deep decline in semiconductor stocks."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "The 10-year Treasury yield will dip below 3.8% within 30 days as the flight to safety intensifies.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "No fresh headlines were found with updated data on 10-year Treasury yield levels."
     },
     {
       "section": "markets",
