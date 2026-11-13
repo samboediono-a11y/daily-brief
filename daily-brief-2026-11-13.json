@@ -1,0 +1,287 @@
+{
+  "date": "2026-11-13",
+  "predictions": [
+    {
+      "section": "tech",
+      "headline": "Nvidia CEO Jensen Huang Resigns Following Executive Misconduct Scandal",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9COTBhQm10U2l3a05hRFV3STlBY2lzTFBITFdmYUdEV0dpQm5scjlCYzhZN1pXLWF5V3RieDRqVFN0V3V3S2JPdGVhdVF5azk4N2FjQVV5aDZXcnc5MXFXaVVR?oc=5",
+      "prediction": "Expect Nvidia shares to underperform the PHLX Semiconductor Index by at least 15% over the next two quarters as executive transition costs and litigation overhead mount.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "Nvidia Confirms Ability to Track AI Chips to Stop Smuggling",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZRHNvWGxhc3RWbEt3ZTZ2emhUel9EUzFrU01YVE1hUno1bS1uU3d1SldtbVNvWG5RMTk2VGpNX09sNmtPQXR6RzZnMi1VOGxjT184RV9pLXpLLTc5OFlnV2twcGZUaVJMajBsZXplLVV1UHNYS05uNGRjcFltQdIBgwFBVV95cUxOUDNQX2tCZFM2MTYydndJcXVfdWNLUUNQQkZYSVQ2ZHRxWXZkc2ZGSEZRZ0g4SDltVVVISXdBZUktMC05ZUFBaWlyclZhcmVtRUE3UktNRlFzMGY3aDZQVTFVSTBsZ1NIWFRPRGh0a2V6eDlhbHJDd1VUdWJhYkpmOFp1RQ?oc=5",
+      "prediction": "The US Department of Commerce will issue mandatory hardware-level tracking compliance regulations for all high-end accelerator exports within the next 90 days.",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "Microsoft Pressures White House to Drop Ban on Chinese Data Tech",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYVBfNG04eWF0OFp6WHJFRFh3YjdHTHlhdU9xTkZiU3h1Qk9OdXpmM0FaZS1vcXJkdFdHRmE2a0ROLWRWYzNWUXhtcGpmVjREYjBJUC1nYzVSZkxPaHA5dVNNSlhpZzVlX2FOVElnZWNPZ0VuVS1sWEQ5cVNQYXYtT3MtUGppSTIzQ25YX0Q1UnFDbzZxc1RITGRRT1ZNeUFKQTZxWlJxc0E5Z0JjdVVEaXIxbmlqdGRZYzVsLWtRWTBuUlJsb3BTZVAwN1RYWlk?oc=5",
+      "prediction": "Microsoft will report a sequential 200-300 basis point contraction in Azure gross margins within the next two earnings cycles if the equipment ban takes full effect.",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "Nonprofits Sue Top Tech Companies to Freeze Advanced AI Development",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZTFGbzdtVzREUTBscG9FbC1HSHU2N3pRcDg2TFR3RzRORW9oRWQwTHZrSnBENGRmcno3Nkt4M2lYOElvT2pnNDV5UFRCU3QyMGpkVnRLVXhVRGFWV2cydEI2WlRLaWs5Nmg4eUZ3T2RHbXBFT3ViX3ZmaW9MZ3B6OFZ0QmlJS3g5cFF3Q3cxVERlRExkbDBxRVowdmR1V0pZ?oc=5",
+      "prediction": "Federal district courts will dismiss the preliminary injunction requests from the nonprofit coalition within 60 days, leaving frontier training schedules intact.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Nasdaq Slumps as Nvidia Shockwave Meets 5 Percent Treasury Yields",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeU1MbkhnZll4OHpIdGV2VlI1ZVFhWGhKX1F1bnZvWVRGWnVkYnBfcmRIaG1PRzcyN1pTUFJzY2VWVzRMN2VqNjQ1Tkwyb3E5bGpQN1NOcTFnTVFQVmdPRjdZX2h3LTh2d2F1Y1F6SW5JWTVPWmRwXzBsVlpIbGNEWTBZLUhaRnFIWTVIY1gxSVc0T2J0blE?oc=5",
+      "prediction": "The Nasdaq 100 will retest its 200-day moving average, posting a drawdown of at least 8% before the end of the current month.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Broader Stock Market Shows Resilience Despite Big Tech Pullback",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR24xVXdIX1BsTUE0UGtwdkJwZS1WcmE0VUxyVWR3MXBDblFxcTk0TzRqcEFSVTRJbl9WVEh2bGRDN1NiT0dVc3otWUdNSWFKRXl0Mkg1dDZfVHZnMmctZ1ppM1h0VG1rQkJLVEs2WGVVdjF2Q3F2QlBtckxQNUUxV0wtemFnNWdUZ2dEZVExLUg2d0lobEE?oc=5",
+      "prediction": "The S&P 500 Equal Weight Index will outperform the cap-weighted S&P 500 by at least 300 basis points over the next calendar quarter.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "European Stock Markets Gain Ground as US Tech Stocks Stumble",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZm83NjIxZ3NuUW9jZldpdFpOclFTLWpwSWVFNG44bm1LYmNLaDk2Y3M1bTBOejlWVWlJeHh6VTBnem93eUVuYW1jaTdaVnVMOTZ0eF9EaGNUOGRMQVBzaUFPNmdYLWZlQkNOb2dsdWZwdTY5Nm1BU1QtUmxVay1VSGp2NVNFNlhxRW1zQ2pHRFpsV05YVE52aFNHaVNSZVVGY0E?oc=5",
+      "prediction": "The Euro Stoxx 50 relative gain against the S&P 500 will peak within 30 days before reversing as US mega-cap tech valuations stabilize.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Wall Street Forecasters Warn of Corporate Profit Squeeze by 2027",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ1pFVjgzd3M2ZWJwSWxhdXJzSm90ZE55R2FqYlB3REFkSi1wd1k3eTZGS1FHQm5SazdEb3dBQ1ZjemZYVEdsQW1Fd3dkcThNd3lyelFmZkp4MU9QTVp6WldfclNpSi1Fak1CWTNQbXVPSkhUUkNMOWlLR3VOUkg0SUQ0ZU8wMms2aUNXYkdYOXRtdldET2NXMTZGWQ?oc=5",
+      "prediction": "Consensus S&P 500 EPS growth estimates for 2026-2027 will be revised downward by at least 5% across major sell-side research notes over the next two earnings cycles.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Lauren Boebert Defeated in High-Profile Colorado Congressional Race",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS1oydGg0dGktdzQ5Q0QxX1VQRVZJQUdkZUdwNnRHTGxxZWpjeWJGNlM4cV9CVkxjbko3NXlKcm9qeVBra2lON3k2Y1p5X28tNXo4aGdZUDFUaUoxT0tZcFNnNUNtRnFINTJwVzhDb0lNeWdiRTdBZjRYVVpCc3QzemtWWVBPVG1pQlE?oc=5",
+      "prediction": "House GOP leadership will trim financial allocations to populist primary challengers in swing districts by at least 25% for the upcoming campaign cycle.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Presidential Approval Rating Drops to New Second-Term Low",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSmt2eWlXZTVjNU5obVUtMlY1dTJjcTVrbTVjaUFzUTRtbWxLb2JYYk5yNlA3bWRVMjdwZ3lBckJBS2hxenVWcy1GVHRHVVN6TGZ4cnBpdXU2VFVSdUl5YkJpcXppZHBvc3BnN0ZuU1JtanF0dnkzcFNRSlVHUEMyaVp0T2dDQ0szeGJNbmdYSdIBlAFBVV95cUxPOFMtZGtIVXd4c0MyZHNWOHI1dDJGQnlGN2ZfVUlvU3l5UFVPZDNrOS1pQ1RTRDJ1TTJmSUZWRllLX1RaUmtPeTFQUnpIQXlVbC04MERQUzdsa3FYQjlyeEQ4Tmh4ajZTYTdkQ3k3R3dlaXBuREZMamZZN2ZmZTdDbm1ZYWlMM2JTQ1F1aGZJN0xLcGhM?oc=5",
+      "prediction": "The administration's net polling approval on economic management will remain pinned below 40% in Nate Silver's aggregate index through the end of Q3.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Democrats Face Strategic Friction Over Post-Election Priorities",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORlo3bGltNVRSZzFZVnhaWHlGUkQ2bXdfQzZVRHJrdDY2TWxQWlB2RGJPSGRiTVlmZFJIWG1FSmJ4ZWFIMU15eFdobFc0TExYWF9uNTBjOU82MHJOUmxkOHZQcUtwcFZmV0xVSl90WVh5RWJFSXowQmNDVVJwOWhqMExGUHhKMEt5QWxWTzFmRFVybGJwMk5ld2hEN2I4dVE?oc=5",
+      "prediction": "Democratic leadership will fail to pass a major unified policy platform package through caucus vote prior to the upcoming legislative recess.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "Israeli Intelligence Chief Visits Washington to Push War Strategy",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc0RsNzRSR3JhRUdIYkdjZ0VGRFdfeGJkUDd6NzRmV1FWMVRtSGtHYlFCQTZoRElpN2pBcmF6OXlQblJDaXlIeElKRjRXaXdvSkZNNGJTc21GaTdDTzRnUlJJcXVRZWx3N1pRYkhTSnZTNHVmc3VmQ19PdEttQ1FLV0t3dzd5VG1z?oc=5",
+      "prediction": "Brent crude futures will trade up past $90 per barrel on escalating Middle East risk premiums within 14 days of strategic military talks concluding.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesian Vice President Resigns as Governing Coalition Fractures",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUUtpUnNUVEtISXB5Q2NTdU1lSnhNYzBMb0ZjTnRpSnFrM2VDck16ZGVwZ2VJVjktWWxHX2hWUXM0cFBTSG5wU2RiLUZ2ZnNVVXF2Z3pvV0ttQi1ISjJ2WnJuRWpvQWdUcnl3VDR6UDZzeGtuWWhwdXo0V0tlZlFLSFlKNkRJRWNjd3dYLWwxbWN4X05BNnRXUU5LMjlZU3YtV2p2ZkhwWXhVTWlXQnFYb0RJbHlqZzMxQ1BkZXZhYk5VUlU?oc=5",
+      "prediction": "Indonesian sovereign CDS spreads will widen by 20 to 30 basis points within 30 days as political risk pricing ramps up.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "Explosive Wiretap Scandal Ignites Open Political Conflict in Jakarta",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaGdCT2swWWJlLVZjaGYwNG5PU01DUDM0akw3SnYtYXBkamdnMVUxZW1iamkyMkh3cnJjSGpJRnVNalVQN0RYWk1Rb3RKLTJ2d2JJN3U0QmV6SUVjcHVld2RVb0lsVlpmLW1mRUZ6Z0JMSTJCV0E2TGdnQUFwdWZEc0pB?oc=5",
+      "prediction": "Indonesia's parliament will announce a formal special committee investigation into state intelligence agencies before the current legislative session closes.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia Allocates $9.5 Billion to Signature Free Meals Program",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWDIwdGlxakNNVUtFYVZtcHpkZ1dkaTk0RHhianB1SURnZm96ejhId1pLOHZVeWhYamNHZWYtcENQMFltbTNkNjQyby15OTJ4Vk5UWDFTM3NwUkI0R3pOTHc2VDUyLWhFc0VCRF91X2RSblJlR0hMa2NaUmhMM2xqeGFCMHg5ZnB3X0VjLURIdTk2ajVxeWpsaklrYm1Ca0dyR2l5VlFqc0lWUVh6bElfTmFtcVZDcEZmcGtrUWNBRmFCZ2M?oc=5",
+      "prediction": "Indonesia's fiscal deficit-to-GDP ratio will breach the 2.8% mark in upcoming official budget revisions, threatening the constitutional 3% cap.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Political Turmoil Squeezes International Investor Confidence in Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObWJrN0pxbWJrZW9zMW1CRkRPMGhsRE5ya0lXbV9CeVFrUDNyeml2M2NtSmFIU3lCSmc4QXdnTkRDSGx5UmM3QzNhZFVfZmxrcWpZcWRpRGQzSFFkMjlidHU0b0R3UHp6MWhjYlZKbzluZGxkMi1neEtjYnloblhhaDV0Z1BIVWtRa3YxeTRGbWVpQlM0OU94RVlqSW1Sa3UxS3BibzViYUlaSlBnclo3QkhqbzRVUXBLR19jNVJrRFExamI3?oc=5",
+      "prediction": "Foreign direct investment inflows into Indonesia will post a year-over-year decline of at least 12% in the next quarterly economic release.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin Plunges Below $70,000 Wiping Out $1.6 Billion in Trades",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbmN2SHc5R3NaLW95Rkw4bzdvbzA5NldfS0ZDTFlES0hYZjAwVlBXS2t1bk5ocDJfZjlkS0NmTWFqUjdVWFVmYThReUxyWmFueEU5RXQ4NXZoRGxXS3N1UVc4enJueVdwdlZYc2xSQmtsVnNaZTJWWExFU0s5c1N1YjhJMkpIOGtxSmlQbEpveU44OWxSWUtJVC11R09KQlB4TktFd296RE5RODdicENOemhtZU5YLWxmdWhxc0RZZmt3Y24tN1ZES05vSFM5elVsVGYyNjRkUC00cTg?oc=5",
+      "prediction": "Bitcoin will test major technical support around $62,000 before establishing a sustainable price floor within the next 30 days.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Miami-Dade Accepts Bitcoin for Local Taxes via Instant Dollar Settlement",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsazVXX2cwczd0WlVWdW9pZ183OEhwRVBqT0I0S2lKZy1SMGoxckJoc3hJc016cF9mVWhJRU5WSlRQVjE5XzY0X2M0MGdTUGYxZE9uZVAwUUZaWHhSc05sd1ZwLUxBbDZrcjQtdkhYWHRkajdsZWc?oc=5",
+      "prediction": "Fewer than 1% of total Miami-Dade property tax transactions will be settled via Bitcoin during the upcoming tax collection cycle.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bolivian Businesses Adopt Crypto to Bypass National Currency Shortages",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcHNKT1ZtUHVhSDhkc2NuZDYwU2RjQXRfZ3FWeDFTRHRGdmI5OWdOZl9LTy01b0YtOGhDWU03WTFvb2lsQ2t0azhneGRqOURJU291ZUJ5UHZCNVJ2Vzdfc1hweUh4RE5HeU5lUm1ybER5elA3MWhUd2ZYVE9Ba3p5WEhIQ09DQ3NmMkFGS21BbTNsanBldDFJU1lrTTdTc0h6MTlHa2M2NVhrYmw4RzFYandMTnZjZjhZenVSVXVKTmJIQQ?oc=5",
+      "prediction": "Monthly stablecoin transaction volume across Bolivian peer-to-peer exchanges will double within the next six months.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Think Tank Report Rejects Bitcoin as Solution to US Dollar Deficits",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa2NiQktLS29NZzlBWk8wbEpzaFRDbHVjU0ZJOE1vQmhJbmlyeEtnaXcyNmtYcjhkZ09xakFZVFZpMjU1eklDRWctM1lFMXIyVDdodktDdDlhUHVobGExZUJPc0gwQ0FYWGlCWFJNSlM4Q2RsNVdlaUdUbkpHa3luV0plYjhlQVVlS0Fn?oc=5",
+      "prediction": "Congressional proposals attempting to establish a US Strategic Bitcoin Reserve will fail to advance out of committee during the current legislative session.",
+      "grounded": false
+    }
+  ],
+  "stories": [
+    {
+      "section": "tech",
+      "headline": "Nvidia CEO Jensen Huang Resigns Following Executive Misconduct Scandal",
+      "summary": "Nvidia chief executive Jensen Huang has stepped down after an internal affair scandal derailed leadership at the world's premier AI chipmaker.",
+      "view": "Jensen Huang's sudden departure under executive misconduct and spying allegations strips Nvidia of its chief visionary right as hyper-scaler AI capex faces peak scrutiny. The immediate losers are Nvidia shareholders and hyperscalers tied to single-source GPU roadmaps, while AMD and custom ASIC developers gain strategic leverage. With Congressional inquiries pending, executive instability will paralyze critical enterprise sales negotiations and roadmap execution for quarters.",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9COTBhQm10U2l3a05hRFV3STlBY2lzTFBITFdmYUdEV0dpQm5scjlCYzhZN1pXLWF5V3RieDRqVFN0V3V3S2JPdGVhdVF5azk4N2FjQVV5aDZXcnc5MXFXaVVR?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Nvidia Confirms Ability to Track AI Chips to Stop Smuggling",
+      "summary": "Internal company documents reveal Nvidia privately told officials it could remotely track its advanced AI chips, contradicting its public statements about feasibility.",
+      "view": "The revelation that Nvidia can remotely disable or track hardware directly undermines its defense against stricter export control enforcement, handing US regulators bulletproof justification for tighter supply chain mandates. This hurts Nvidia's grey-market distributors and Chinese tech giants relying on covert smuggling channels, while benefiting Western regulatory authorities seeking absolute enforcement. Acknowledging remote kill-switch capabilities will spark severe backlash from foreign sovereign buyers who now view US hardware as a security liability.",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZRHNvWGxhc3RWbEt3ZTZ2emhUel9EUzFrU01YVE1hUno1bS1uU3d1SldtbVNvWG5RMTk2VGpNX09sNmtPQXR6RzZnMi1VOGxjT184RV9pLXpLLTc5OFlnV2twcGZUaVJMajBsZXplLVV1UHNYS05uNGRjcFltQdIBgwFBVV95cUxOUDNQX2tCZFM2MTYydndJcXVfdWNLUUNQQkZYSVQ2ZHRxWXZkc2ZGSEZRZ0g4SDltVVVISXdBZUktMC05ZUFBaWlyclZhcmVtRUE3UktNRlFzMGY3aDZQVTFVSTBsZ1NIWFRPRGh0a2V6eDlhbHJDd1VUdWJhYkpmOFp1RQ?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Microsoft Pressures White House to Drop Ban on Chinese Data Tech",
+      "summary": "Microsoft is actively lobbying the Trump administration to scrap proposed restrictions targeting Chinese equipment inside domestic data centers.",
+      "view": "Microsoft's aggressive lobbying against Chinese data tech bans reveals how deeply reliant domestic hyperscalers remain on cost-effective, high-throughput network hardware to maintain data center margins. If Microsoft fails, capex spending for US cloud providers will surge as they are forced to tear out existing infrastructure and buy higher-margin domestic substitutes. Microsoft and Amazon take the margin hit, while Western telecom hardware vendors like Arista Networks and Cisco stand to capture market share.",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYVBfNG04eWF0OFp6WHJFRFh3YjdHTHlhdU9xTkZiU3h1Qk9OdXpmM0FaZS1vcXJkdFdHRmE2a0ROLWRWYzNWUXhtcGpmVjREYjBJUC1nYzVSZkxPaHA5dVNNSlhpZzVlX2FOVElnZWNPZ0VuVS1sWEQ5cVNQYXYtT3MtUGppSTIzQ25YX0Q1UnFDbzZxc1RITGRRT1ZNeUFKQTZxWlJxc0E5Z0JjdVVEaXIxbmlqdGRZYzVsLWtRWTBuUlJsb3BTZVAwN1RYWlk?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Nonprofits Sue Top Tech Companies to Freeze Advanced AI Development",
+      "summary": "A coalition of public interest groups filed lawsuits against major AI labs, demanding an immediate freeze on training next-generation models.",
+      "view": "Public interest lawsuits demanding a moratorium on advanced AI training will fail legally, but they create immediate regulatory and PR drag for frontier labs like OpenAI, Anthropic, and Google. The litigation plays directly into the hands of open-weight developers and foreign competitors who operate entirely outside US court jurisdiction. While major labs spend capital on legal defense and compliance audits, safety-oriented PR pressures will slow model release cycles across Silicon Valley.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZTFGbzdtVzREUTBscG9FbC1HSHU2N3pRcDg2TFR3RzRORW9oRWQwTHZrSnBENGRmcno3Nkt4M2lYOElvT2pnNDV5UFRCU3QyMGpkVnRLVXhVRGFWV2cydEI2WlRLaWs5Nmg4eUZ3T2RHbXBFT3ViX3ZmaW9MZ3B6OFZ0QmlJS3g5cFF3Q3cxVERlRExkbDBxRVowdmR1V0pZ?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Nasdaq Slumps as Nvidia Shockwave Meets 5 Percent Treasury Yields",
+      "summary": "Technology stocks dragged down major indexes as Nvidia's turmoil coincided with 10-year US Treasury yields touching 5%.",
+      "view": "The convergence of 5% 10-year Treasury yields and Nvidia leadership turmoil strikes at the core of the tech-led mega-cap rally, triggering an aggressive valuation reset. High-multiple growth tech loses heavily as discount rates rise, driving capital into short-duration cash equivalents and defensive value sectors. Until yields stabilize below 4.5%, equity risk premiums for semiconductor and AI stocks remain unjustifiably tight.",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeU1MbkhnZll4OHpIdGV2VlI1ZVFhWGhKX1F1bnZvWVRGWnVkYnBfcmRIaG1PRzcyN1pTUFJzY2VWVzRMN2VqNjQ1Tkwyb3E5bGpQN1NOcTFnTVFQVmdPRjdZX2h3LTh2d2F1Y1F6SW5JWTVPWmRwXzBsVlpIbGNEWTBZLUhaRnFIWTVIY1gxSVc0T2J0blE?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Broader Stock Market Shows Resilience Despite Big Tech Pullback",
+      "summary": "Mainstream stock indexes managed to avoid deep crashes as investors shifted money out of tech and into traditional business sectors.",
+      "view": "Capital is actively rotating out of over-concentrated tech growth into neglected industrial, financial, and value sectors, creating a healthy market breadth expansion rather than a macro systemic crisis. Traditional sector equities win as multi-asset funds rebalance away from single-factor tech dominance to capture elevated dividend yields and moderate valuation multiples. This broad-based resilience signals that underlying corporate fundamentals outside Silicon Valley remain sturdy.",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR24xVXdIX1BsTUE0UGtwdkJwZS1WcmE0VUxyVWR3MXBDblFxcTk0TzRqcEFSVTRJbl9WVEh2bGRDN1NiT0dVc3otWUdNSWFKRXl0Mkg1dDZfVHZnMmctZ1ppM1h0VG1rQkJLVEs2WGVVdjF2Q3F2QlBtckxQNUUxV0wtemFnNWdUZ2dEZVExLUg2d0lobEE?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "European Stock Markets Gain Ground as US Tech Stocks Stumble",
+      "summary": "European stock indices outperformed American markets as international capital fled executive uncertainty in the US technology industry.",
+      "view": "European equities are benefiting from a temporary flight-to-quality as institutional allocators flee idiosyncratic US executive governance shocks and tech concentration risk. European value benchmarks win near-term inflows, but this outperformance is a structural mirage driven by currency swings and temporary equity rotations rather than superior European organic growth. Without internal revenue catalysts, European indexes will surrender these gains once US leadership resets.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZm83NjIxZ3NuUW9jZldpdFpOclFTLWpwSWVFNG44bm1LYmNLaDk2Y3M1bTBOejlWVWlJeHh6VTBnem93eUVuYW1jaTdaVnVMOTZ0eF9EaGNUOGRMQVBzaUFPNmdYLWZlQkNOb2dsdWZwdTY5Nm1BU1QtUmxVay1VSGp2NVNFNlhxRW1zQ2pHRFpsV05YVE52aFNHaVNSZVVGY0E?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Wall Street Forecasters Warn of Corporate Profit Squeeze by 2027",
+      "summary": "Analysts are scaling back long-term corporate earnings forecasts, citing sustained high interest rates and slowing consumer demand.",
+      "view": "Wall Street analysts are finally pricing in the real-world squeeze of sustained higher borrowing costs and waning consumer pricing power, with Goldman Sachs rightly highlighting AI capex monetization lags. Enterprise software and consumer discretionary sectors lose as margin expansion halts under elevated debt refinancing costs and geopolitical fuel surcharges. Companies without positive free cash flow will face severe equity dilution or debt restructurings by 2027.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ1pFVjgzd3M2ZWJwSWxhdXJzSm90ZE55R2FqYlB3REFkSi1wd1k3eTZGS1FHQm5SazdEb3dBQ1ZjemZYVEdsQW1Fd3dkcThNd3lyelFmZkp4MU9QTVp6WldfclNpSi1Fak1CWTNQbXVPSkhUUkNMOWlLR3VOUkg0SUQ0ZU8wMms2aUNXYkdYOXRtdldET2NXMTZGWQ?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Lauren Boebert Defeated in High-Profile Colorado Congressional Race",
+      "summary": "Representative Lauren Boebert lost her seat in Colorado, handing a significant defeat to the populist wing of the Republican party.",
+      "view": "Lauren Boebert's defeat signals a structural voter pullback from hard-line MAGA populism in competitive swing districts, empowering moderate Republicans and suburban Democrats. The immediate winners are pragmatic district-focused candidates, while national MAGA political action committees lose political leverage over House primary slates. This shift forces House Republican leadership to pivot toward suburban economic issues rather than culture-war messaging.",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS1oydGg0dGktdzQ5Q0QxX1VQRVZJQUdkZUdwNnRHTGxxZWpjeWJGNlM4cV9CVkxjbko3NXlKcm9qeVBra2lON3k2Y1p5X28tNXo4aGdZUDFUaUoxT0tZcFNnNUNtRnFINTJwVzhDb0lNeWdiRTdBZjRYVVpCc3QzemtWWVBPVG1pQlE?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Presidential Approval Rating Drops to New Second-Term Low",
+      "summary": "Surveys show public approval for President Trump has fallen to its lowest point since he re-entered the White House.",
+      "view": "Slumping second-term approval ratings reflect persistent public dissatisfaction with persistent cost-of-living pressures and economic execution under the current administration. The presidency loses structural leverage over Congress, neutralizing its ability to push controversial fiscal or foreign policy initiatives through narrow legislative majorities. Democrats stand to gain mid-term momentum while vulnerable congressional incumbents increasingly distance themselves from executive policy.",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSmt2eWlXZTVjNU5obVUtMlY1dTJjcTVrbTVjaUFzUTRtbWxLb2JYYk5yNlA3bWRVMjdwZ3lBckJBS2hxenVWcy1GVHRHVVN6TGZ4cnBpdXU2VFVSdUl5YkJpcXppZHBvc3BnN0ZuU1JtanF0dnkzcFNRSlVHUEMyaVp0T2dDQ0szeGJNbmdYSdIBlAFBVV95cUxPOFMtZGtIVXd4c0MyZHNWOHI1dDJGQnlGN2ZfVUlvU3l5UFVPZDNrOS1pQ1RTRDJ1TTJmSUZWRllLX1RaUmtPeTFQUnpIQXlVbC04MERQUzdsa3FYQjlyeEQ4Tmh4ajZTYTdkQ3k3R3dlaXBuREZMamZZN2ZmZTdDbm1ZYWlMM2JTQ1F1aGZJN0xLcGhM?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Democrats Face Strategic Friction Over Post-Election Priorities",
+      "summary": "Democratic leaders are clashing internally over party messaging and spending proposals following mixed midterm election results.",
+      "view": "Internal ideological friction over post-election messaging demonstrates that Democrats remain deeply divided between progressive spending advocates and moderate fiscal pragmatists. Mainstream party leadership loses political momentum as public infighting prevents a unified response to executive branch policies. Until national leaders align on a clear middle-class economic platform, fund-raising efficiency and legislative discipline will drag.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORlo3bGltNVRSZzFZVnhaWHlGUkQ2bXdfQzZVRHJrdDY2TWxQWlB2RGJPSGRiTVlmZFJIWG1FSmJ4ZWFIMU15eFdobFc0TExYWF9uNTBjOU82MHJOUmxkOHZQcUtwcFZmV0xVSl90WVh5RWJFSXowQmNDVVJwOWhqMExGUHhKMEt5QWxWTzFmRFVybGJwMk5ld2hEN2I4dVE?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Israeli Intelligence Chief Visits Washington to Push War Strategy",
+      "summary": "Israel's top intelligence official arrived in Washington to press the Trump administration for renewed support regarding ongoing Middle East conflicts.",
+      "view": "The Israeli intelligence chief's high-level delegation highlights intense diplomatic leverage being exerted on Washington to secure direct backing for expanded military action against Iran. Prime Minister Netanyahu and defense hawks win short-term diplomatic momentum, while global energy markets face immediate geopolitical risk premiums. If Washington accedes to renewed strike protocols, regional escalation will spike crude futures instantly.",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc0RsNzRSR3JhRUdIYkdjZ0VGRFdfeGJkUDd6NzRmV1FWMVRtSGtHYlFCQTZoRElpN2pBcmF6OXlQblJDaXlIeElKRjRXaXdvSkZNNGJTc21GaTdDTzRnUlJJcXVRZWx3N1pRYkhTSnZTNHVmc3VmQ19PdEttQ1FLV0t3dzd5VG1z?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesian Vice President Resigns as Governing Coalition Fractures",
+      "summary": "Vice President Gibran Rakabuming Raka stepped down as President Prabowo consolidated executive control, splitting the ruling alliance.",
+      "view": "Vice President Gibran Rakabuming Raka's resignation marks the formal breakdown of the Prabowo-Jokowi political alliance, leaving President Prabowo with absolute, unconstrained executive power. The immediate losers are Jokowi loyalists facing systemic purge from state enterprises and ministries, while Prabowo's nationalist coalition allies consolidate patronage networks. Coalition instability will stall administrative execution on major legislative reforms.",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUUtpUnNUVEtISXB5Q2NTdU1lSnhNYzBMb0ZjTnRpSnFrM2VDck16ZGVwZ2VJVjktWWxHX2hWUXM0cFBTSG5wU2RiLUZ2ZnNVVXF2Z3pvV0ttQi1ISjJ2WnJuRWpvQWdUcnl3VDR6UDZzeGtuWWhwdXo0V0tlZlFLSFlKNkRJRWNjd3dYLWwxbWN4X05BNnRXUU5LMjlZU3YtV2p2ZkhwWXhVTWlXQnFYb0RJbHlqZzMxQ1BkZXZhYk5VUlU?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Explosive Wiretap Scandal Ignites Open Political Conflict in Jakarta",
+      "summary": "Allegations that state agencies wiretapped senior Indonesian politicians have broken into open political warfare among the elite.",
+      "view": "The wiretapping scandal tearing through Jakarta exposes a weaponized state security machinery operating outside constitutional boundaries to undermine domestic political rivals. Security agencies and executive loyalists gain immediate tactical leverage over targeted opposition figures, but institutional trust and state authority suffer permanent damage. Expect legal challenges and cabinet reshuffles as senior officials attempt to deflect direct liability.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaGdCT2swWWJlLVZjaGYwNG5PU01DUDM0akw3SnYtYXBkamdnMVUxZW1iamkyMkh3cnJjSGpJRnVNalVQN0RYWk1Rb3RKLTJ2d2JJN3U0QmV6SUVjcHVld2RVb0lsVlpmLW1mRUZ6Z0JMSTJCV0E2TGdnQUFwdWZEc0pB?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia Allocates $9.5 Billion to Signature Free Meals Program",
+      "summary": "Government records confirm Indonesia spent over $9 billion in ten months to fund its massive national free school lunch initiative.",
+      "view": "Spending $9.5 billion on the national free school lunch program in just ten months underscores President Prabowo's commitment to populist social spending at the expense of fiscal discipline. Agricultural importers and state food distributors win immediate revenue boosts, while long-term infrastructure funding and state budget deficits suffer. This massive outlay severely limits Indonesia's fiscal buffer against external economic shocks.",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWDIwdGlxakNNVUtFYVZtcHpkZ1dkaTk0RHhianB1SURnZm96ejhId1pLOHZVeWhYamNHZWYtcENQMFltbTNkNjQyby15OTJ4Vk5UWDFTM3NwUkI0R3pOTHc2VDUyLWhFc0VCRF91X2RSblJlR0hMa2NaUmhMM2xqeGFCMHg5ZnB3X0VjLURIdTk2ajVxeWpsaklrYm1Ca0dyR2l5VlFqc0lWUVh6bElfTmFtcVZDcEZmcGtrUWNBRmFCZ2M?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Political Turmoil Squeezes International Investor Confidence in Indonesia",
+      "summary": "Foreign business groups warned that sudden vice-presidential resignations and security leaks threaten foreign investment plans.",
+      "view": "Foreign capital is fleeing Indonesia as executive instability, security leaks, and potential foreign rating downgrades combine into a classic emerging market risk storm. Multinational corporations and foreign portfolio investors are actively deferring direct investment decisions, while domestic state-owned enterprises lose access to cheap offshore dollar financing. Until political stability is re-established, the rupiah will remain under intense depreciation pressure.",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObWJrN0pxbWJrZW9zMW1CRkRPMGhsRE5ya0lXbV9CeVFrUDNyeml2M2NtSmFIU3lCSmc4QXdnTkRDSGx5UmM3QzNhZFVfZmxrcWpZcWRpRGQzSFFkMjlidHU0b0R3UHp6MWhjYlZKbzluZGxkMi1neEtjYnloblhhaDV0Z1BIVWtRa3YxeTRGbWVpQlM0OU94RVlqSW1Sa3UxS3BibzViYUlaSlBnclo3QkhqbzRVUXBLR19jNVJrRFExamI3?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin Plunges Below $70,000 Wiping Out $1.6 Billion in Trades",
+      "summary": "A sudden sell-off sent Bitcoin beneath $70,000 as a strengthening US dollar triggered massive automated liquidation of leveraged positions.",
+      "view": "Bitcoin's collapse below $70,000 was a textbook leverage purge forced by a surging US Dollar Index and hawkish Fed rate expectations. Highly leveraged crypto long positions lose as automated liquidations trigger cascading sell-offs across offshore derivative venues like Binance and Bybit. Until US dollar strength cools and rate cut bets re-emerge, institutional buyers will stay on the sidelines.",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbmN2SHc5R3NaLW95Rkw4bzdvbzA5NldfS0ZDTFlES0hYZjAwVlBXS2t1bk5ocDJfZjlkS0NmTWFqUjdVWFVmYThReUxyWmFueEU5RXQ4NXZoRGxXS3N1UVc4enJueVdwdlZYc2xSQmtsVnNaZTJWWExFU0s5c1N1YjhJMkpIOGtxSmlQbEpveU44OWxSWUtJVC11R09KQlB4TktFd296RE5RODdicENOemhtZU5YLWxmdWhxc0RZZmt3Y24tN1ZES05vSFM5elVsVGYyNjRkUC00cTg?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Miami-Dade Accepts Bitcoin for Local Taxes via Instant Dollar Settlement",
+      "summary": "Miami-Dade County launched a system letting residents settle property tax bills in Bitcoin using automatic real-time conversion into US dollars.",
+      "view": "Miami-Dade's instant dollar-settlement model for Bitcoin tax payments is a pragmatic template for municipal crypto adoption that eliminates balance sheet risk for local government. Third-party crypto payment processors win transaction processing fees, while taxpayers holding appreciated crypto gain convenient liquidity options. Crucially, because local governments convert crypto to USD instantly, this moves adoption forward without forcing municipalities to hold volatile digital assets.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsazVXX2cwczd0WlVWdW9pZ183OEhwRVBqT0I0S2lKZy1SMGoxckJoc3hJc016cF9mVWhJRU5WSlRQVjE5XzY0X2M0MGdTUGYxZE9uZVAwUUZaWHhSc05sd1ZwLUxBbDZrcjQtdkhYWHRkajdsZWc?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bolivian Businesses Adopt Crypto to Bypass National Currency Shortages",
+      "summary": "Merchants in Bolivia are turning to cryptocurrencies to pay foreign suppliers due to acute domestic shortages of US dollars.",
+      "view": "Bolivian businesses turning to crypto to settle foreign trade debts illustrates how stablecoins and major digital assets function as essential secondary monetary rails in FX-starved developing economies. Local merchants and foreign suppliers win by bypassing defunct official dollar clearing systems, while the Bolivian central bank loses control over domestic capital controls. Expect regulatory cracking down as state authorities try to defend national reserve monopolies.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcHNKT1ZtUHVhSDhkc2NuZDYwU2RjQXRfZ3FWeDFTRHRGdmI5OWdOZl9LTy01b0YtOGhDWU03WTFvb2lsQ2t0azhneGRqOURJU291ZUJ5UHZCNVJ2Vzdfc1hweUh4RE5HeU5lUm1ybER5elA3MWhUd2ZYVE9Ba3p5WEhIQ09DQ3NmMkFGS21BbTNsanBldDFJU1lrTTdTc0h6MTlHa2M2NVhrYmw4RzFYandMTnZjZjhZenVSVXVKTmJIQQ?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Think Tank Report Rejects Bitcoin as Solution to US Dollar Deficits",
+      "summary": "A study from the Cato Institute argues Bitcoin cannot act as digital gold to rescue the US dollar from structural inflation.",
+      "view": "The Cato Institute's report correctly dismantles the narrative that Bitcoin can act as a sovereign balance-sheet fix for US fiscal deficits and structural inflation. Institutional fiat investors win analytical clarity, while crypto maximalists lose key talking points used to lobby for a strategic US Bitcoin reserve. Without sovereign reserve adoption, Bitcoin remains a speculative risk asset rather than a systemic monetary backstop.",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa2NiQktLS29NZzlBWk8wbEpzaFRDbHVjU0ZJOE1vQmhJbmlyeEtnaXcyNmtYcjhkZ09xakFZVFZpMjU1eklDRWctM1lFMXIyVDdodktDdDlhUHVobGExZUJPc0gwQ0FYWGlCWFJNSlM4Q2RsNVdlaUdUbkpHa3luV0plYjhlQVVlS0Fn?oc=5"
+    }
+  ]
+}

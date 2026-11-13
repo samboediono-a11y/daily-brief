@@ -6,42 +6,54 @@
       "headline": "Nvidia Chief Executive Resigns Amid Spreading Personal Scandals",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaGdweXF1cjU3bERrSG9hbnFlUHJJVFhzS0dWWFdWdTBDcDRaQnlmT2lUenRvVjZ1eURUYWNBLW9mTzQ2eU1KVGJiMGRoWVA4MjZYVlQydHVaYktXTUt5REJVSjlYNzNoUjBJUlAzUkozMmhHd1Ytb01vaTNBVV9PNWtaaXbSAYoBQVVfeXFMTzRzRDhIQ0FCOGN2bEs5R05ZQndCZ1V6UVNfeHlYNG5GMW9taGVOUWkwaHdaNHhCdEo0Q2dndmQtbFhER3RYb0I5YXU2SkVPbzZCRFdhQmU4Zl9MaXEyY0puZGw3TldkMG5TREFQZEZleV9wU2Q4bzhYbjMtSkY0em1wVUFfZnF6RGp3?oc=5",
       "prediction": "Nvidia shares will underperform the Philadelphia Semiconductor Index (SOX) by at least 8% over the next 60 days.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "The chart analysis headline provides no concrete data regarding Nvidia's performance relative to the SOX index."
     },
     {
       "section": "tech",
       "headline": "Microsoft Presses Washington to Cancel Restrictions on Chinese Data Tech",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYVBfNG04eWF0OFp6WHJFRFh3YjdHTHlhdU9xTkZiU3h1Qk9OdXpmM0FaZS1vcXJkdFdHRmE2a0ROLWRWYzNWUXhtcGpmVjREYjBJUC1nYzVSZkxPaHA5dVNNSlhpZzVlX2FOVElnZWNPZ0VuVS1sWEQ5cVNQYXYtT3MtUGppSTIzQ25YX0Q1UnFDbzZxc1RITGRRT1ZNeUFKQTZxWlJxc0E5Z0JjdVVEaXIxbmlqdGRZYzVsLWtRWTBuUlJsb3BTZVAwN1RYWlk?oc=5",
       "prediction": "The US Department of Commerce will officially deny Microsoft's regulatory relief request within the next 90 days.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No fresh headlines were found regarding the Department of Commerce's decision on Microsoft's regulatory relief request."
     },
     {
       "section": "tech",
       "headline": "Venture Firm Raises $135 Million to Automate Heavy Industries",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOclQ2eVFVV3hBNXBHVkRXdWpXWk9TVlJoMjlJMmZQVkNvRVA3eEpkT1R5QVN4SVE2XzZmdnBsS3lWaURJU2FDSWtjVWZUT3dMdUJqUEVxai1zZGptdnZnWHZrVWRGcUlFa0xJaWI3ckV2MzdMTnNjbzVCU1hWNU1GX2VKbG9GV3BYa1B2ZnFna1p4X1VuR191b1dTbGJjNC1KTEFHQk1zYkN1NXpzRUZaejlTRFpCQTg?oc=5",
       "prediction": "Zacua Ventures will announce its first three seed-stage industrial automation investments before Q3 2026.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No new information was found concerning Zacua Ventures' seed-stage industrial automation investments."
     },
     {
       "section": "tech",
       "headline": "Tech Industry Layoffs Persist Across Major Corporate Giants",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZktvdXZ1WTZ4NWR3NnJxeUxwbzdyXzZYMTd4NlFrOGlGdTNqcnJhbnAyN18tYUFJSGlTOWxSSHRRWkVmYzFrVFExcVozWktlQWkzaFkzMTlSTjhfVmlJLWhKcDdocVhjUzRCUk9hVm9BZnJzVjhEZWx6X0hBX01UNnktblNuQktQSEhHNDhKM3dESVlDd1NPaHNad3V6RDF4OGlESjVWeW1sZ1JQNmR4YnpYbDZycEpVVWJDRW51MmJ4cXdZbXRqR21Tckh0NGZGZXZ3SzUyYW5lOUo0RC1IbWdINkJubEtkVXoteDdMZUJmdURscUE?oc=5",
       "prediction": "S&P 500 tech sector operating margins will expand by at least 150 basis points year-over-year in upcoming quarterly earnings reporting.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The provided earnings headlines cover individual firms but offer no aggregate data on S&P 500 tech sector operating margins."
     },
     {
       "section": "markets",
       "headline": "Stock Indexes Fall Following Executive Exit at Nvidia",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQXzdoajdJLXc3MUJTYU9DWVVGZHlwamh3MUxkRWxRTEt4eXVaMnBzdXZpYXc4SWFoTmVQUF9sNEhhaHlzaFhFQ1dnMk1zblo5V1hqbDJ4M1d3ZmxZaTluZjhrUVNaT3k4OVZaMWtmX1FBWVIyOVlVM3BlRE9lM0RvYVZGVVFMYkE?oc=5",
       "prediction": "The Nasdaq 100 will underperform consumer staples and healthcare sectors by at least 2% over the next two weeks.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new headlines were found to evaluate the Nasdaq 100's performance against consumer staples and healthcare sectors."
     },
     {
       "section": "markets",
       "headline": "Amazon Stock Surges as Market Valuation Drops Below Walmart",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZVNyaW1Yajlrd1M0ZEdpQUFURlJsLVVFTFNEeFNhLXhvZDVGLXlWcFltQlZmeEptVnp5TGktcHRVVkN5b0QzQnlUNTVnN0k3Z1BDd0RZaFlhN0h6Y0o1MUNlSmdsQTJJcUtFeFhsY0syc1VnUUY2UGpIVWEwSmViLUJaLVFpemZvVXZYSlZaSG9YS3d2VUNkS0x3blJDNzQzSlE?oc=5",
       "prediction": "Amazon stock will outperform Walmart by at least 10 percentage points over the next fiscal quarter.",
-      "grounded": true
+      "grounded": true,
+      "status": "held_up",
+      "note": "Headlines reporting a 9% drop in Walmart shares following a disappointing outlook support that the prediction of Amazon's 10 percentage point outperformance is on track."
     },
     {
       "section": "markets",
