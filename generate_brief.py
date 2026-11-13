@@ -76,8 +76,11 @@ def gemini_generate(client, prompt):
             return resp
         except Exception as e:  # noqa: BLE001
             msg = str(e)
-            if "404" in msg or "NOT_FOUND" in msg or "no longer available" in msg:
-                print(f"Model {name} unavailable, trying next: {msg[:120]}")
+            retryable = ("404", "NOT_FOUND", "no longer available", "503", "UNAVAILABLE",
+                         "high demand", "overloaded", "429", "RESOURCE_EXHAUSTED")
+            if any(k in msg for k in retryable):
+                print(f"Model {name} unavailable/busy, trying next: {msg[:120]}")
+                time.sleep(3)
                 last_err = e
                 continue
             raise
