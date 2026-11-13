@@ -28,7 +28,31 @@ from zoneinfo import ZoneInfo
 
 from google import genai
 
-GEMINI_MODEL = "gemini-3-flash-preview"
+# Models are tried in order; a 404/NOT_FOUND (retired model) moves on to the next one.
+GEMINI_MODELS = ["gemini-3.8-flash", "gemini-3.6-flash", "gemini-2.5-flash"]
+GEMINI_MODEL = GEMINI_MODELS[0]
+_working_model = {"name": None}
+
+
+def gemini_generate(client, prompt):
+    """generate_content with automatic fallback when Google retires a model."""
+    order = ([_working_model["name"]] if _working_model["name"] else []) + [
+        m for m in GEMINI_MODELS if m != _working_model["name"]
+    ]
+    last_err = None
+    for name in order:
+        try:
+            resp = client.models.generate_content(model=name, contents=prompt)
+            _working_model["name"] = name
+            return resp
+        except Exception as e:  # noqa: BLE001
+            msg = str(e)
+            if "404" in msg or "NOT_FOUND" in msg or "no longer available" in msg:
+                print(f"Model {name} unavailable, trying next: {msg[:120]}")
+                last_err = e
+                continue
+            raise
+    raise last_err
 LOCAL_TIMEZONE = "America/Los_Angeles"  # see generate_brief.py for why this matters
 LOOKBACK_DAYS = 7
 MAX_THEMES = 6
@@ -121,7 +145,7 @@ def call_gemini_weekly(material: str, week_of: str, days: int, max_themes: int) 
         prompt = WEEKLY_PROMPT_TEMPLATE.format(
             days=days, max_themes=max_themes, week_of=week_of, material=material
         )
-        response = client.models.generate_content(model=GEMINI_MODEL, contents=prompt)
+        response = gemini_generate(client, prompt)
         raw = response.text.strip()
         if raw.startswith("```"):
             raw = raw.strip("`")
