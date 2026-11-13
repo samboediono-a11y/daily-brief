@@ -57,7 +57,31 @@ from google import genai
 LOCAL_TIMEZONE = "America/Los_Angeles"
 
 STORIES_PER_SECTION = 4  # change to taste
-GEMINI_MODEL = "gemini-3-flash-preview"  # free-tier model, current as of July 2026
+# Models are tried in order; a 404/NOT_FOUND (retired model) moves on to the next one.
+GEMINI_MODELS = ["gemini-3.8-flash", "gemini-3.6-flash", "gemini-2.5-flash"]
+GEMINI_MODEL = GEMINI_MODELS[0]
+_working_model = {"name": None}
+
+
+def gemini_generate(client, prompt):
+    """generate_content with automatic fallback when Google retires a model."""
+    order = ([_working_model["name"]] if _working_model["name"] else []) + [
+        m for m in GEMINI_MODELS if m != _working_model["name"]
+    ]
+    last_err = None
+    for name in order:
+        try:
+            resp = client.models.generate_content(model=name, contents=prompt)
+            _working_model["name"] = name
+            return resp
+        except Exception as e:  # noqa: BLE001
+            msg = str(e)
+            if "404" in msg or "NOT_FOUND" in msg or "no longer available" in msg:
+                print(f"Model {name} unavailable, trying next: {msg[:120]}")
+                last_err = e
+                continue
+            raise
+    raise last_err
 CANDIDATES_PER_SECTION = 20  # how many raw headlines to fetch before picking the best ones
 EARNINGS_LOOKAHEAD_DAYS = 7   # how many calendar days ahead to check for earnings
 EARNINGS_MAX_ROWS = 8         # how many upcoming earnings to show, picked by market cap
@@ -520,7 +544,7 @@ def call_gemini(candidates_block: str, today: str) -> dict:
     prompt = PROMPT_TEMPLATE.format(
         n=STORIES_PER_SECTION, date=today, candidates=candidates_block
     )
-    response = client.models.generate_content(model=GEMINI_MODEL, contents=prompt)
+    response = gemini_generate(client, prompt)
     raw = response.text.strip()
 
     if raw.startswith("```"):
@@ -617,7 +641,7 @@ def call_gemini_meanings(stories_block: str, count: int) -> dict | None:
         api_key = os.environ["GEMINI_API_KEY"]
         client = genai.Client(api_key=api_key)
         prompt = MEANING_PROMPT_TEMPLATE.format(count=count, stories=stories_block)
-        response = client.models.generate_content(model=GEMINI_MODEL, contents=prompt)
+        response = gemini_generate(client, prompt)
         raw = response.text.strip()
         if raw.startswith("```"):
             raw = raw.strip("`")
@@ -1138,7 +1162,7 @@ def call_gemini_callcheck(prompt_body: str, count: int, prev_date: str) -> dict 
         api_key = os.environ["GEMINI_API_KEY"]
         client = genai.Client(api_key=api_key)
         prompt = CALLCHECK_PROMPT_TEMPLATE.format(count=count, prev_date=prev_date, predictions=prompt_body)
-        response = client.models.generate_content(model=GEMINI_MODEL, contents=prompt)
+        response = gemini_generate(client, prompt)
         raw = response.text.strip()
         if raw.startswith("```"):
             raw = raw.strip("`")
