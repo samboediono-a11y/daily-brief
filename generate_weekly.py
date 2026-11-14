@@ -28,6 +28,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 from google import genai
+from google.genai import types as genai_types
 
 # Models are tried in order; a 404/NOT_FOUND (retired model) moves on to the next one.
 GEMINI_MODELS = ["gemini-3.8-flash", "gemini-3.6-flash", "gemini-2.5-flash"]
@@ -49,7 +50,7 @@ def gemini_generate(client, prompt):
         except Exception as e:  # noqa: BLE001
             msg = str(e)
             retryable = ("404", "NOT_FOUND", "no longer available", "503", "UNAVAILABLE",
-                         "high demand", "overloaded", "429", "RESOURCE_EXHAUSTED")
+                         "high demand", "overloaded", "timed out", "Timeout", "DEADLINE_EXCEEDED", "429", "RESOURCE_EXHAUSTED")
             if any(k in msg for k in retryable):
                 print(f"Model {name} unavailable/busy, trying next: {msg[:120]}")
                 time.sleep(3)
@@ -145,7 +146,7 @@ def call_gemini_weekly(material: str, week_of: str, days: int, max_themes: int) 
         return None
     try:
         api_key = os.environ["GEMINI_API_KEY"]
-        client = genai.Client(api_key=api_key)
+        client = genai.Client(api_key=api_key, http_options=genai_types.HttpOptions(timeout=90_000))
         prompt = WEEKLY_PROMPT_TEMPLATE.format(
             days=days, max_themes=max_themes, week_of=week_of, material=material
         )
