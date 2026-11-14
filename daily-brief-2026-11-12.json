@@ -8,7 +8,7 @@
       "prediction": "Nvidia shares will underperform the Philadelphia Semiconductor Index (SOX) by at least 8% over the next 60 days.",
       "grounded": false,
       "status": "too_early",
-      "note": "The available headline mentions chart commentary for Nvidia but does not provide performance data relative to the SOX index."
+      "note": "The technical chart commentary offers no specific performance data comparing Nvidia's returns to the SOX index."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "The US Department of Commerce will officially deny Microsoft's regulatory relief request within the next 90 days.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new information is available regarding the Department of Commerce's ruling on Microsoft's regulatory relief request."
+      "note": "No fresh headlines were found regarding the US Department of Commerce's decision on Microsoft's regulatory relief request."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "Zacua Ventures will announce its first three seed-stage industrial automation investments before Q3 2026.",
       "grounded": false,
       "status": "too_early",
-      "note": "No new headlines were found regarding Zacua Ventures or its industrial automation investments."
+      "note": "No new information was found concerning Zacua Ventures or its seed-stage investment announcements."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "S&P 500 tech sector operating margins will expand by at least 150 basis points year-over-year in upcoming quarterly earnings reporting.",
       "grounded": true,
       "status": "too_early",
-      "note": "The fresh headlines cover individual earnings and stock picks but provide no aggregate data on S&P 500 tech sector operating margins."
+      "note": "The available earnings headlines cover unrelated companies rather than aggregate S&P 500 tech sector operating margin trends."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The Nasdaq 100 will underperform consumer staples and healthcare sectors by at least 2% over the next two weeks.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new headlines were found to measure the relative performance of the Nasdaq 100 against consumer staples and healthcare."
+      "note": "No new headlines were found to measure the Nasdaq 100's relative performance against consumer staples and healthcare."
     },
     {
       "section": "markets",
@@ -52,8 +52,8 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZVNyaW1Yajlrd1M0ZEdpQUFURlJsLVVFTFNEeFNhLXhvZDVGLXlWcFltQlZmeEptVnp5TGktcHRVVkN5b0QzQnlUNTVnN0k3Z1BDd0RZaFlhN0h6Y0o1MUNlSmdsQTJJcUtFeFhsY0syc1VnUUY2UGpIVWEwSmViLUJaLVFpemZvVXZYSlZaSG9YS3d2VUNkS0x3blJDNzQzSlE?oc=5",
       "prediction": "Amazon stock will outperform Walmart by at least 10 percentage points over the next fiscal quarter.",
       "grounded": true,
-      "status": "too_early",
-      "note": "Although headlines report a 9% drop in Walmart stock, there is insufficient data to confirm whether Amazon outperformed Walmart by at least 10 percentage points over the fiscal quarter."
+      "status": "held_up",
+      "note": "Reports that Walmart shares fell 9% while ceding ground to Amazon indicate the prediction of a 10-percentage-point outperformance is on track."
     },
     {
       "section": "markets",
