@@ -38,6 +38,7 @@ Usage:
 import os
 import re
 import time
+import hashlib
 import json
 import shutil
 import datetime
@@ -742,22 +743,46 @@ def fetch_og_image(url: str, timeout: int = 6) -> str:
     return ""
 
 
-def _placeholder_image_url(seed_text: str, width: int = 480, height: int = 640) -> str:
-    """A free, no-signup stand-in photo (Lorem Picsum) for stories where we
-    couldn't pull the real article image. Seeded so the same story tends to
-    get the same placeholder rather than a random one on every rebuild."""
-    seed = re.sub(r"[^a-zA-Z0-9]+", "-", seed_text).strip("-").lower()[:60] or "news"
-    return f"https://picsum.photos/seed/{urllib.parse.quote(seed)}/{width}/{height}"
+def _placeholder_image_url(seed_text: str, color: str = "#6EE7B7", width: int = 480, height: int = 640) -> str:
+    """A locally drawn stand-in image (inline SVG data URI) for stories where
+    we couldn't pull the real article photo. No network, so it can't break.
+    Seeded by the story text so each story gets its own stable abstract art
+    in its section color."""
+    h = int(hashlib.md5(seed_text.encode("utf-8")).hexdigest(), 16)
+
+    def pick(n, lo, hi):
+        nonlocal h
+        v = lo + (h % 1000) / 1000 * (hi - lo)
+        h //= 1000
+        return round(v)
+
+    c = color.lstrip("#")
+    if len(c) != 6:
+        c = "6EE7B7"
+    shapes = ""
+    for i in range(5):
+        cx, cy, r = pick(i, 0, width), pick(i, 0, height), pick(i, 70, 230)
+        op = 0.10 + (pick(i, 0, 100) / 100) * 0.22
+        shapes += f'<circle cx="{cx}" cy="{cy}" r="{r}" fill="#{c}" fill-opacity="{op:.2f}"/>'
+    angle = pick(0, 0, 360)
+    svg = (
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}">'
+        f'<defs><linearGradient id="g" gradientTransform="rotate({angle} .5 .5)">'
+        f'<stop offset="0" stop-color="#{c}" stop-opacity=".32"/>'
+        f'<stop offset="1" stop-color="#0d1117"/></linearGradient></defs>'
+        f'<rect width="100%" height="100%" fill="url(#g)"/>{shapes}</svg>'
+    )
+    return "data:image/svg+xml;utf8," + urllib.parse.quote(svg)
 
 
 def attach_images(data: dict) -> dict:
-    for key, _label, _color, _url in SECTIONS:
+    for key, _label, color, _url in SECTIONS:
         for story in data["sections"].get(key, []):
             real_image = fetch_og_image(story.get("link", ""))
-            if real_image:
+            if real_image and "google" not in real_image.lower():
                 story["image"] = real_image
             else:
-                story["image"] = _placeholder_image_url(f"{key}-{story.get('headline', '')}")
+                story["image"] = _placeholder_image_url(f"{key}-{story.get('headline', '')}", color)
     return data
 
 
