@@ -49,6 +49,7 @@ from zoneinfo import ZoneInfo
 import feedparser
 import requests
 from google import genai
+from google.genai import types as genai_types
 
 # "Today" is computed in this timezone explicitly, rather than trusting
 # whatever timezone the server happens to be in (GitHub Actions runners use
@@ -78,7 +79,7 @@ def gemini_generate(client, prompt):
         except Exception as e:  # noqa: BLE001
             msg = str(e)
             retryable = ("404", "NOT_FOUND", "no longer available", "503", "UNAVAILABLE",
-                         "high demand", "overloaded", "429", "RESOURCE_EXHAUSTED")
+                         "high demand", "overloaded", "timed out", "Timeout", "DEADLINE_EXCEEDED", "429", "RESOURCE_EXHAUSTED")
             if any(k in msg for k in retryable):
                 print(f"Model {name} unavailable/busy, trying next: {msg[:120]}")
                 time.sleep(3)
@@ -543,7 +544,7 @@ def build_candidates_block(all_items: dict) -> str:
 
 def call_gemini(candidates_block: str, today: str) -> dict:
     api_key = os.environ["GEMINI_API_KEY"]
-    client = genai.Client(api_key=api_key)
+    client = genai.Client(api_key=api_key, http_options=genai_types.HttpOptions(timeout=90_000))
 
     prompt = PROMPT_TEMPLATE.format(
         n=STORIES_PER_SECTION, date=today, candidates=candidates_block
@@ -643,7 +644,7 @@ def call_gemini_meanings(stories_block: str, count: int) -> dict | None:
     """
     try:
         api_key = os.environ["GEMINI_API_KEY"]
-        client = genai.Client(api_key=api_key)
+        client = genai.Client(api_key=api_key, http_options=genai_types.HttpOptions(timeout=90_000))
         prompt = MEANING_PROMPT_TEMPLATE.format(count=count, stories=stories_block)
         response = gemini_generate(client, prompt)
         raw = response.text.strip()
@@ -1188,7 +1189,7 @@ def call_gemini_callcheck(prompt_body: str, count: int, prev_date: str) -> dict 
         return None
     try:
         api_key = os.environ["GEMINI_API_KEY"]
-        client = genai.Client(api_key=api_key)
+        client = genai.Client(api_key=api_key, http_options=genai_types.HttpOptions(timeout=90_000))
         prompt = CALLCHECK_PROMPT_TEMPLATE.format(count=count, prev_date=prev_date, predictions=prompt_body)
         response = gemini_generate(client, prompt)
         raw = response.text.strip()
