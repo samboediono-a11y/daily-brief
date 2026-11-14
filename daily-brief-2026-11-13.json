@@ -8,7 +8,7 @@
       "prediction": "Nvidia stock will underperform the Nasdaq 100 by at least 8% over the next 30 days until a permanent CEO with proven supply chain credentials is announced.",
       "grounded": false,
       "status": "too_early",
-      "note": "No fresh headlines were found to assess Nvidia's stock performance relative to the Nasdaq 100."
+      "note": "No new headlines were found to confirm or contradict the prediction regarding Nvidia's relative stock performance."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "BIS will issue a draft rule within six months requiring mandatory hardware telemetry compliance for all advanced sub-3nm AI accelerators sold globally.",
       "grounded": false,
       "status": "too_early",
-      "note": "No new headlines were found regarding BIS telemetry compliance rules."
+      "note": "No fresh information is available regarding whether the BIS issued a draft rule on hardware telemetry compliance."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "Cisco\u2019s AI networking revenue growth rate will decelerate in its next quarterly report, keeping the stock range-bound below $60 through Q3.",
       "grounded": true,
       "status": "too_early",
-      "note": "No fresh headlines were found concerning Cisco's quarterly revenue growth or stock price."
+      "note": "There are no new headlines available to assess Cisco's quarterly revenue growth rate or stock trajectory."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Meta and Amazon will report operating margin expansions of at least 150 basis points in their upcoming quarterly results due to payroll savings offsetting AI capex.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new information was reported regarding Meta and Amazon's quarterly operating margins."
+      "note": "No fresh headlines were found reporting upcoming quarterly operating margin results for Meta or Amazon."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The Stoxx Europe 600 will outperform the S&P 500 by over 400 basis points over the next full calendar quarter.",
       "grounded": false,
       "status": "too_early",
-      "note": "The fresh headlines on US credit spreads and defense contractors do not provide performance data comparing the Stoxx Europe 600 to the S&P 500."
+      "note": "The provided fresh headlines discuss US credit spreads and defense contractors, offering no relevant data on Stoxx Europe 600 versus S&P 500 performance."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "CoreWeave\u2019s upcoming loan facility will price at a yield spread at least 350 basis points above SOFR, forcing management to dial back 2027 capex guidance.",
       "grounded": false,
       "status": "too_early",
-      "note": "No fresh headlines were found regarding CoreWeave's loan facility pricing or capex guidance."
+      "note": "No new headlines were found to evaluate the pricing of CoreWeave's loan facility or changes to its capex guidance."
     },
     {
       "section": "markets",
