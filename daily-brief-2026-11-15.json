@@ -3,284 +3,284 @@
   "predictions": [
     {
       "section": "tech",
-      "headline": "Anthropic files for IPO to test market appetite for AI startups",
+      "headline": "Anthropic Hits Wall Street in a Critical Test for AI Valuation",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOFFaaTFOMmRsSmNwRlBQZTNqWUJhZXlDbzRYQk5TRWpoLVQ5R0trbFZySzNhQU9pa1JZRXE5Q2VhVTNBUVhxOFB2b0JiUVNLZHpWQkxsYW5EeHY5YW9jU09hNzFhbnMxMnctaVFaUTdyYnhGS1g2Z2pNU0pWdmlYUUtuR0pWR2ZnMVhMWHhjd3VweXMyd0h2X2ZRc9IBoAFBVV95cUxObFlSaHJnalF6bnZ6eDUwbTlYZGlPNjlFN2xxZ3Q1blZNREx3YTlQaWx4NEtXeHlEbmZqc0doTExsM1RXSXMzM05TaVEzTjIxd1N6OGVWYkFhZUZLaXZKZWkyLW5EaW85eHQtMk5FMUcxMmVkNmJwSHZOWWZpVUZVd1FROVJKYjBlWUxERUpxZTNYdUZ0aldWX3RIa0ZrUXR3?oc=5",
-      "prediction": "Anthropic will complete its listing within the next six months, pricing at a higher market cap than its last private valuation but trading down over 15% within its first 30 days of public trading.",
+      "prediction": "Expect Anthropic's final S-1 filing to show over 100% year-over-year revenue growth but negative operating margins exceeding 50%, leading to a volatile first-week trading range of +/- 20%.",
       "grounded": true
     },
     {
       "section": "tech",
-      "headline": "Nvidia admitted behind closed doors it can trace smuggled microchips",
+      "headline": "Nvidia Privately Admits It Can Track Smuggled Microchips",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZRHNvWGxhc3RWbEt3ZTZ2emhUel9EUzFrU01YVE1hUno1bS1uU3d1SldtbVNvWG5RMTk2VGpNX09sNmtPQXR6RzZnMi1VOGxjT184RV9pLXpLLTc5OFlnV2twcGZUaVJMajBsZXplLVV1UHNYS05uNGRjcFltQdIBgwFBVV95cUxOUDNQX2tCZFM2MTYydndJcXVfdWNLUUNQQkZYSVQ2ZHRxWXZkc2ZGSEZRZ0g4SDltVVVISXdBZUktMC05ZUFBaWlyclZhcmVtRUE3UktNRlFzMGY3aDZQVTFVSTBsZ1NIWFRPRGh0a2V6eDlhbHJDd1VUdWJhYkpmOFp1RQ?oc=5",
-      "prediction": "The Commerce Department's Bureau of Industry and Security will launch a formal enforcement investigation into Nvidia's channel partners within 90 days.",
-      "grounded": false
+      "prediction": "The Bureau of Industry and Security will mandate remote-kill or hardware-attestation features for all high-performance AI chip export licenses within six months.",
+      "grounded": true
     },
     {
       "section": "tech",
-      "headline": "Big tech overrules local voters to push through data center projects",
+      "headline": "Tech Giants Overrule Local Voters to Build Massive Data Centers",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSlVDTV9nNjhWT0FKRmxJaXJVMUpoZlQ4WWRISEZWUHA3MEN0NDlKVnZqSC1tZTJnZ0pLdVZRcENFS0ZKQnR4YkR4blJfRFNuelVseVhwUnFsbDNabEpSWlRURWZid3FYVVpQNTFYQUhKMXppdWItTGszTVNHSllfa1FkZDgtTHBWTmJr?oc=5",
-      "prediction": "At least two major US state legislatures will introduce bipartisan bills restricting executive preemption for data center power hookups before the end of Q3.",
-      "grounded": false
+      "prediction": "At least two major state legislatures in key data center hubs will introduce bills capping grid power allocations for AI data centers by Q3.",
+      "grounded": true
     },
     {
       "section": "tech",
-      "headline": "Cisco projects nine billion dollars in enterprise AI gear sales",
+      "headline": "Cisco Targets $9 Billion in AI Hardware Sales by 2027",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObW1OaFUtUUZ0VWlZRjZyc3NFS29OTHZPcURpWWp6bHB2OWNoTzh5cnJhS296c2tIRzFJMW42eVpxa1JPd2VRR2JRSFhaNTlkNnNuYkFDbDdKMjF3M0k1cEttN25OOG9VenNqRGh6OEVQUmZxTUxkcEZvVmRMdHpUdkxPbVdWUmV6QVhCY0gzNWZLZWExTXhZZWEwTmlrdHc3SDZIUHBwTDR6SFlwcktCU2Rn?oc=5",
-      "prediction": "Cisco will report at least 25% year-over-year growth in its optical networking and high-speed switching segment in its next quarterly earnings report.",
-      "grounded": false
-    },
-    {
-      "section": "markets",
-      "headline": "Nvidia stock drops as investors panic over chief executive exit",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUhad2VoUnU5VjNDX3N6UW5WX1FFaFA1eUU2V1kxX3BTQlpVX2twdVVaUHEtTWozYWZBRzRwbHZ6NE1OdHpQWXV2cml5b2R5bGY0bVk1Y19qM0pFcjk1V1NWUFNuX2lHOUlVLXVpeVRJam9mSjdiMTI2OG1KS3FvcmVQVGV0Uzh0TldXa2NLUmhNeTQtZS1oS3dydFJHTWNDcHdDLUtpakNCcV85eDdKTG15M3hqNnZOUko5RVB3aHhvbEJuVVE?oc=5",
-      "prediction": "Nvidia stock will remain volatile and retest the $140 level before finding an institutional floor within the next quarter.",
+      "prediction": "Cisco\u2019s next two quarterly earnings reports will show AI order backlog expansion alongside a 100-150 bps contraction in consolidated gross margin.",
       "grounded": true
     },
     {
       "section": "markets",
-      "headline": "Fintech lender SoFi promises strong profits without taking on debt",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcktqSVFvTDFHTnhvQklZbE1UMVBYbHA5TU05NmhUSXYxWERwTi1fSTFhcmJtUG9zOU51X0h0Q2plT3NkOUY2cUd0UnNMNEJfSkJWa3VRaTZwTDNOaGNMVkszWnEwN0lPYWY3bHFBeGtRazVlT2RrRWtEQTdRVllFWVBsMWNFUmRQZHZGbkhZakdjbmFXVkJYbGlGRHM?oc=5",
-      "prediction": "SoFi will report deposit growth exceeding $1.5 billion in its upcoming quarterly filing while maintaining its 50% earnings trajectory guide.",
+      "headline": "Nasdaq Dips as Tech Stocks Fall After Strong Weekly Rally",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DUGhtX3RkQk1tTVc3WFZQOGhSalVKd2RzNks0R1dHRlFMSUd1bUhOeVVmNTQxS09JQjhaaTBQVWVnY3RBblNRRlc3a21TVEJJUnZmVm9pYmJMSVNWazl5bU9lZkdyOVpSSXhoSUlfeEx1ZUdvakVR0gF8QVVfeXFMUEZVRDFwUjNBQ01QTjdQX0h5WXU5R3BqdDZwVFJiNU9obl9qYk1lWC1XTWUxbDhFaGR4V2x0cERQdDAyNFlJQk1fNXBqdFItb3FaTDdyV2R6WklkbExBZHNnQ3k1WFR4X0FaeGpRM09SZHprem0zajZXbEx6Vg?oc=5",
+      "prediction": "The Nasdaq 100 will retest its 50-day moving average before rebounding to new highs within the next 30 trading days.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Boeing Offloads Three Subsidiaries to Archer in Massive Defense Restructure",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUlA0Ti1sUnR4ckZOZDFLS1R2OHpPRVdNVUxjcWlEbEtvUEdxSlR1MWM4Slp2VnRTMW5QVFhybWUtSVdDTzVFeVJUZ0JiajBBaUZuWXpYMVZjQVV0VDdNWkR0TFpCaGppVGFnQmRlNjlsdE1FQmVSX0IxSVNNSzBiS1BSa19wZU1oZUQwOTNRdERBZlhOaGdiU2wwazc0SDByTU80N1drd29RUEd1WXlSbDhUZUk1ejhoQ05Wc21kZHJ2RDJuTTR3N1lXakhiaEhfbDIzM3dpRTlkWVg3VVRBWFRiWGhVLXM1QUNObVg2WjBLY3JxbVlYckpXTWU?oc=5",
+      "prediction": "Archer Aviation will announce an equity dilutive capital raise or debt issuance within nine months to finance the integration of Boeing's offloaded units.",
       "grounded": false
     },
     {
       "section": "markets",
-      "headline": "Top wealth managers declare an end to European stock rally",
+      "headline": "Top Asset Managers Declare End to Europe\u2019s Stock Rally",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMV9OTzctbzluVS1TekxzVnM1UlRVYmFzV0l6aWt5NW1xcDRoQzRvNW4xTGxzTWZLeF9rVDkzbWJITUJNU2Q2SHJ4ZHZHdG1UNEw0X25GN0c0VEhQVllvVDk3bXZvSENDVnYyeUhXSWZlSlE2YXJ3d0dKeG5CajY3RHRDcE02bnM5RVBRTXJ4dXZfWnNjR1N0azdsT2ZtV1RnV3Q2UWZMTVBDVEVyVy1ZZA?oc=5",
-      "prediction": "The Stoxx Europe 600 index will underperform the S&P 500 by at least 500 basis points over the next six months.",
+      "prediction": "The STOXX Europe 600 index will underperform the S&P 500 by at least 5% over the next two quarters.",
       "grounded": false
     },
     {
       "section": "markets",
-      "headline": "Preferred stock yields hit eight percent presenting rare income opportunities",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb2d5WjlTOGJpSWNEd2twZ2p0bFVTTExBQ01IVzFCV0pPOFpWWk9lX0ZBVDc4QnRHV25jLVZJVXdkSm1CNjNsX0kxdE93X0tnZGNvRGFZOVA0M0RVNE5GdGxCV2w5RlZtdEMzaFRsZWllVUhpYXRDVzU3UDhiVk8xRjZB?oc=5",
-      "prediction": "The iShares Preferred and Income Securities ETF (PFF) will generate a positive total return of over 4% over the next 90 days as yield buyers step in.",
-      "grounded": false
+      "headline": "Wall Street Sours on Nvidia Stock Following Leadership Shakeup",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUhad2VoUnU5VjNDX3N6UW5WX1FFaFA1eUU2V1kxX3BTQlpVX2twdVVaUHEtTWozYWZBRzRwbHZ6NE1OdHpQWXV2cml5b2R5bGY0bVk1Y19qM0pFcjk1V1NWUFNuX2lHOUlVLXVpeVRJam9mSjdiMTI2OG1KS3FvcmVQVGV0Uzh0TldXa2NLUmhNeTQtZS1oS3dydFJHTWNDcHdDLUtpakNCcV85eDdKTG15M3hqNnZOUko5RVB3aHhvbEJuVVE?oc=5",
+      "prediction": "Nvidia stock will undergo multiple compression, with its forward P/E contracting by at least 15-20% over the next two earnings cycles.",
+      "grounded": true
     },
     {
       "section": "us_news",
-      "headline": "Commerce nominee Lutnick lobbied against chip rules favoring family firm",
+      "headline": "Trump Demands Emergency Aviation Funds Following Nationwide Flight Grounding",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQlN2bms3WThwX1hyY1pvcjVBa0FJeUNjaWE5Mll0MzNRVTZKUHltaDZwZlVLb3RtSHc3VjZEQzVkd29NbXpGZjdRTEQ5MjRTU3VMRWRiNHVjOUk3cU9jaUNzeGF3VWVyUDF0LW45bEZ4anNYcVRYQTNHVVd2OXZiY0s5ZWtMbnZlVlAxb1NkUjFyaFZtMTEwOXNiclMyM0VUOHVvWThCQnpzM2kxM1I3Q0k2QTltY0hMakJja3J30gHDAUFVX3lxTFBVMmdTSjk0cS12a29lalFrWVVtSXVHWFFycV9SS00yMTJvUGNYbVNkS01BV2o3ajFuR01xTmQ0MVhTYUhITGdQb0NGQzh0YVpacGVpWWZkRDhEYk5ValFhSjgwbUtNM3hTbkNTVjM5ZEswT2hHakZkRmZwRF9LTjBtUUJnX0g5QkJ5Y1ZPVGdldnJObEVBeHFmVTUxbllBLTJQQlc0ZF8tVG1wNXdhTURtTnBnTDN2MDBlNWdVTU1VWnFHdw?oc=5",
+      "prediction": "Congress will pass a dedicated aviation modernization funding bill worth over $10 billion within six months.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Cabinet Nominee Lutnick Pushed to Soften Microchip Trade Rules",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSG5Ua0Eya2ctVDEweEN2X3Z4VmxHU0EtZU5ERk5HRUNLZ3lLdWx3VFkzYjBjMzZKS0FPRE9CaHp2MUJNTWJaenk0UV9OQldvdGVrdndRakI2UmxwSllMQVVUZUM3Wi1aaEd3WllvNVRpNWdhaE9aRWJ2Z204WE5nRmtiNFgwMFJfMGlpMmIwdUdIN3gtVk52dXZscHFYRUFF?oc=5",
-      "prediction": "Senate confirmation hearings for Lutnick will be delayed by at least three weeks to allow the Ethics Committee to review financial disclosure filings.",
+      "prediction": "Senate confirmation hearings for Lutnick will feature bipartisan demands for strict divestment agreements, pushing the final confirmation vote back by several weeks.",
       "grounded": false
     },
     {
       "section": "us_news",
-      "headline": "Transportation chief refuses to apologize for nationwide air travel shutdown",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa3RIWXBhc1Z1ZzBMWXZHTG5qYkx3dVh2VGFHbmdiMUNvbjFLM2hsaHNWNlZfdDlMZ0VmNERIVWRoekF0Y0gwLXA5ZmtjYkpvTkVwOFNvdERGSlRGZkZXNUpHS2NVWGlMM0dnSTZUSHJsSVJMSERUUlV4Wjg2eW1GX2kzQnVZTGJSSm1RWEJxODVkNGxpNG9RNUtOY1A3YWVKU3VoYS1MOTVkYnpoaFNDX3A0MmNZQ3lfSVlFV2ZBRGRHUDJzWlRHSEtUYw?oc=5",
-      "prediction": "Congress will draft emergency FAA oversight legislation requiring a full infrastructure audit within the next 60 days.",
-      "grounded": false
+      "headline": "Two Passenger Jets Collide at Miami Airport Amid System Chaos",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbnlqY0IwelVhVGQxdGoxSjVjOVNVRDY2NjJDZFVad1Z5Q05ORWlXX1QzVUZseWhnVVBNOGRBX0dqbWVtOFJTTFVGdko5ZnlETEhMVU41R1VWTm1Fek8tLV85bDVOdXh4Nng1TzJucEZ4ZEVlR2Q0Vk15dnZSUU5UYW9R?oc=5",
+      "prediction": "The FAA will issue mandatory nationwide taxiway separation buffers within 30 days, causing a 5-8% reduction in peak hourly arrival rates at top 10 US airports.",
+      "grounded": true
     },
     {
       "section": "us_news",
-      "headline": "Midterm losses spark intense debate over Republican electoral strategy",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZk1lMUUtcVRZTVhCVmpJTThwUmFidVU0cU9ycHVJTkZ0ZVN3VEIxc0lVWHRIdzhxdUt2aC1MQzFfa0hyd3BSTWs1dWVLWmpHOEhVcVBwR25QS2lPeklucDZHMF9XOXJ5UkJ6WEFfcm9BZ19QdGw2aFhXRms3aWhGMll1T1RvT05t?oc=5",
-      "prediction": "National Republican committee fundraising totals will drop by over 15% quarter-over-quarter as major donor networks withhold funds pending leadership realignment.",
-      "grounded": false
-    },
-    {
-      "section": "us_news",
-      "headline": "US offers Ukraine NATO seat in exchange for territorial concessions",
+      "headline": "U.S. Drafts Ukraine Plan Trading Territory for NATO Membership",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOFZxYzB6N3djaUJMOWI1QW1oaTFhLVc1bDZXNVlEMERPNlR5Z2FSMl9rdnJJSkNnVVhQclUteWJYWE1rM1F4amRadVRJQk1YZHNHU2UxcmtFYTRqNWk4eXhLTjhNWlBPbE1uNU1zMzFWMWJaZGpDUFgzSml5V29ZeVgwQUFuNzZMaXpWQVV2YUxaQ0wwckNfLWR4a3pYV3ROSjVHcVhCTnlEQlItWFBuctIBtgFBVV95cUxOV2YtTEY4U180dER0UjRwQUFDdUhDWVRLTnpMVzhJVkdJUTlhbXc0UEVvaHN1cnV3bWJud2FDZldDZ2h2WEtlVG9uWWlfZEI2OF82M05oMlRzUUxRaUg5cGgxM19acGEyeVpkMnNrcDZxaS1NTFQzdXNoZUJyVk9iUnFfTHQyeHZ6Nmc5cWtPcGM0LWpqVDcwUG9RNEExV0h5cEJwNXNVMzVZQ0hkM245SUdjM0F2QQ?oc=5",
-      "prediction": "Ukraine's presidential office will issue a formal counter-proposal rejecting binding territorial cessions within 30 days while keeping security talks open.",
+      "prediction": "A formal framework for ceasefire negotiations based on current frontlines will be announced within the next 90 days.",
       "grounded": true
     },
     {
       "section": "indonesia",
-      "headline": "Indonesia's vice president quits as ruling political coalition breaks down",
+      "headline": "Mass Wiretapping Scandal Triggers Political Warfare in Jakarta",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNElQOHBNMEVIYzNSOGlDYm1ZZGs1b01JT3BEczRjdWR0d2M2WHJFRE1vOS1SZ1ZLOVFZa0lEdWNLTl85bENFNXY5MkhCMk5BTWZaQVRGbEpaczdDMUlVV1I0RDcwTzUyMXBSM2FEVFhfVWdHUVh6WllOUDZJdUd1RUZkd2U?oc=5",
+      "prediction": "The Indonesian House of Representatives will launch a formal parliamentary inquiry within 30 days, stalling all pending financial regulatory bills.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Vice President Gibran Resigns as Governing Alliance Collapses",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16cjZYejY1MUdIcF9KMTY5TndPRndrWFhvT29oVTk0dTgwQUE1bVRCNFlwWUNSQ0prS09FdUp2SXRBQWxFQU5yWXJtU0s2Q0Y5bHFZOG5udV9lNms?oc=5",
-      "prediction": "The Indonesian Rupiah will depreciate past 16,300 per USD within the next 30 days amid foreign equity capital outflows.",
+      "prediction": "Spreads on Indonesian 10-year sovereign bonds will widen by 25-40 basis points over the next month as political realignment negotiations unfold.",
       "grounded": true
     },
     {
       "section": "indonesia",
-      "headline": "Shock wiretapping scandal targets Indonesian president and top leadership",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPak5Cb0pJdXdQbkNiZjk0NUtfS05WZTM2bXFrYlpraVc4RVc4clVJMDVQOXFiQjJ6LWZDQ1Q2YmVxNElYQ2ZKUkd4dnB3a3lXc2djQW9hdFM4Y1BvOUV0Y1BKZGNTckVOanFHc1lueHpQX2N0TlR5elMzNkhtVXNLZ2VmTUEzSmk2TlRPQ2FacnhwTU01UU1V0gGXAUFVX3lxTE9KUFdqcFFFM003cmp1VzJxUzhzZDcwYXFGdUw3Rml1YzFlN1hNMURqM29UUHBYeDRTeWtjNy12NHR2TFlXZUpQYkdZTmc4bEphbUtNdkhKMlNSdDZDUTVITDFoY3JSMXVEbDNPQzVkNDNfclVmQUNRTFdOSWx2Mk9abGhjSDVBSGpQV3o5WElRdXBFclpKOGs?oc=5",
-      "prediction": "President Prabowo will announce a complete restructuring and top-level leadership purge of the State Intelligence Agency (BIN) within 14 days.",
-      "grounded": false
+      "headline": "Indonesia\u2019s Fiscal Credibility Tested as Deficit Concerns Grow",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCelRhVGpZeWNYa2FYVEdRajYtbWdmNXI5ZnhWMllON0p1a2pSNk5nUVNQTlZoM0k4WTNvcUVJU09XVnNZOGV4V0xoWldCTTZCOUh4TVBRUVozTTltZUVFbGpaQkM0QVFSUzZCVWxLVTVzUQ?oc=5",
+      "prediction": "Fitch or Moody\u2019s will downgrade Indonesia\u2019s sovereign credit rating outlook to Negative within the next quarter.",
+      "grounded": true
     },
     {
       "section": "indonesia",
-      "headline": "Indonesian officials push investors to ignore ongoing political upheaval",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORVZOMkVSUDBNQ3J6bWNyWkhDTUZyVVhTNFdMcldCNTUxQWFjZnBPNnVIcG1HVy1LQUloYTJFbTlTODRkZTN3NlBfVTNMbkRwQXRwUWpReFAxdl9TYkRnMFZJOWkxcGZjSE9xWHNEeFBYS2tUOFdQMlR0YkZMd21ZMlFkZ1YxUWh6ZWcySHlvZWk0ZUVXdTRaVmd4XzJhREJQOTdiS2xfQ25KYnQwUmEtM3BFdnh6OG10Nk9BdjlfZjMzYkx2RVhNSEhZU3Q0TERE?oc=5",
-      "prediction": "Foreign net inflows into Indonesian equities will turn negative for the current month in upcoming central bank reporting.",
-      "grounded": false
-    },
-    {
-      "section": "indonesia",
-      "headline": "Rising inflation fuels public anger as Indonesian politicians fight",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY3E0UERnemhqUmNvMW5BS241RFJyaDExMkJDZjBqN2NrVWdhNlBDOHFtMVp0bWt3Wi0zN0tUbW9wV3VEenpIejBBaUVuWkw1Vy1UUUNsOGJLZTBGU2NVYnVVdmwxekdRZWZXZGlkdHR4UmFNQjVDRlIyNkNqV3N4UlVyLUJ5YW1LOTk5RGUwcmR1VlNaa3BiYlVQNjl3ZTl3dTRPMVFTYnlpUnFyMDdzcVM3dkxydW42SGhLVFdR?oc=5",
-      "prediction": "Bank Indonesia will hold its benchmark interest rate elevated or hike by 25 basis points at its next monetary policy meeting to curb inflation expectations.",
+      "headline": "Political Chaos in Jakarta Sparks Investor Flight Warnings",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSmEwT2otbTlKWkhWcUh3c3lZUmVGZmhhY2hYOUdxeTVtMFpsanFXekZaOGhfWWFXZXRRUzlYNFljMm5PUnBISkp6c2NWenBDeUhBX3BZYlh5V0dwSHVUdkNHQVNtNWdoUWVxWWJEOWZ4RWJGbUNLOFpZSXRBdnVxODY3Z0lzSGFlVFNuSnc3VGVjYUpKdDB4UXVwMU5YdERraVJkdXd1bld0Mk5ZSG9OQXhXal9QSXBQWGFrNTV3aw?oc=5",
+      "prediction": "USD/IDR will depreciate toward 16,500 over the next 60 days unless central bank intervention escalates significantly.",
       "grounded": false
     },
     {
       "section": "crypto_fx",
-      "headline": "Bitcoin drops under seventy thousand as surging dollar triggers selloff",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbmN2SHc5R3NaLW95Rkw4bzdvbzA5NldfS0ZDTFlES0hYZjAwVlBXS2t1bk5ocDJfZjlkS0NmTWFqUjdVWFVmYThReUxyWmFueEU5RXQ4NXZoRGxXS3N1UVc4enJueVdwdlZYc2xSQmtsVnNaZTJWWExFU0s5c1N1YjhJMkpIOGtxSmlQbEpveU44OWxSWUtJVC11R09KQlB4TktFd296RE5RODdicENOemhtZU5YLWxmdWhxc0RZZmt3Y24tN1ZES05vSFM5elVsVGYyNjRkUC00cTg?oc=5",
-      "prediction": "Bitcoin will test support around $64,000 before establishing a stable consolidation channel over the next two weeks.",
+      "headline": "Bitcoin Falls Below $70,000 Triggering $1.2 Billion in Liquidations",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUFvUmV4NkRTR3k0bnVVUjBYQTh5Z1BNX3NsTE1YWE9YUEpRMTJ4TEF5NFJfVmxPaUZQWl9CZEJpNGQtOTRMNmtYRHV0N3NUM2FtOUp1dWNaSV9OSlVYMFRwNld4ZWI4bUV4a251VjdzeUVnTW1EbFBuUndERzNjTWg1cDZ4Y1d1aXFPbzZYUXFoT2NJcnVBcXFXdFo?oc=5",
+      "prediction": "Bitcoin will consolidate between $65,000 and $68,000 for at least two weeks before establishing a localized price bottom.",
       "grounded": true
     },
     {
       "section": "crypto_fx",
-      "headline": "Bolivian businesses embrace crypto to survive severe dollar shortages",
+      "headline": "Resurgent U.S. Dollar Squeezes Bitcoin and Altcoin Prices",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOWW5oTkdjLVVSVVZheWhBUUdvWnR6VGtwdy12SWJ0WGdMWmp0eFhCMnNJbGtPRVl4UHFmWXM1bWIta3NfRTdZSU5zQ1ZHM2Fxa05nMzJyczlZYXlDb3BNMWJ6MkgzOGFTMUFpcUlnby1QeXEtcHZLS3VFRE1fQk4yUkRiZWdDN3l3UzRWV3BLRVlWejVaMjZaUlUzMXJkb1RRTjhJOU5Lck8xTWgtbktWWUQwNGRzSjZGOW4xNjdXSVF2RjNWcEp4T2o5eV9KdDdSQmtqcUJHYThvVWZJbk1NNlZyTm5sV0ZaVzRJZktsUWNHY01DNjM4eVVDa3lNb2pTN2l2TXlfZWlScTZnT0xvTzhYQlR0ODYyR05LZHdyZmw?oc=5",
+      "prediction": "Total crypto market capitalization excluding BTC and ETH will drop by another 10-15% before DXY momentum cools.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Foreign Currency Shortages Drive Bolivian Businesses Toward Crypto",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcHNKT1ZtUHVhSDhkc2NuZDYwU2RjQXRfZ3FWeDFTRHRGdmI5OWdOZl9LTy01b0YtOGhDWU03WTFvb2lsQ2t0azhneGRqOURJU291ZUJ5UHZCNVJ2Vzdfc1hweUh4RE5HeU5lUm1ybER5elA3MWhUd2ZYVE9Ba3p5WEhIQ09DQ3NmMkFGS21BbTNsanBldDFJU1lrTTdTc0h6MTlHa2M2NVhrYmw4RzFYandMTnZjZjhZenVSVXVKTmJIQQ?oc=5",
-      "prediction": "Stablecoin transaction volume in Andean peer-to-peer markets will grow by over 30% over the next quarter.",
-      "grounded": false
+      "prediction": "The Bolivian government or central bank will officially authorize or integrate USDT stablecoin usage for commercial trade settlements within six months.",
+      "grounded": true
     },
     {
       "section": "crypto_fx",
-      "headline": "Think tank debunks idea of using Bitcoin to back dollar",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa2NiQktLS29NZzlBWk8wbEpzaFRDbHVjU0ZJOE1vQmhJbmlyeEtnaXcyNmtYcjhkZ09xakFZVFZpMjU1eklDRWctM1lFMXIyVDdodktDdDlhUHVobGExZUJPc0gwQ0FYWGlCWFJNSlM4Q2RsNVdlaUdUbkpHa3luV0plYjhlQVVlS0Fn?oc=5",
-      "prediction": "Proposed federal legislation for a sovereign Bitcoin reserve will fail to advance out of committee during the current congressional session.",
-      "grounded": false
-    },
-    {
-      "section": "crypto_fx",
-      "headline": "Federal Reserve warns of systemic risks from cash to crypto ATMs",
+      "headline": "Federal Reserve Highlights Crackdown on Cash-to-Crypto ATMs",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd3RMdlM4RmljcFppeFV3RkFsblpmcXJFRThJdFhUWnNkX1pCRW5JdGxnLUdxTmo5THAzOWhxMi0tQjlKbEEzc0VCcFI2d0F1RUdKNW9YRDBVdXdDSm5kc2pGbHRMTzJnOGNobTZQZl9sdzkwaTU5NzZhMDZSTm85NW9CUURvcHozcExoR3JabDY2S21BQ2trTVBXeGxPem9ZSnJlTjVnYTNBQ2RFWm5QLWdZTTlTZ0tGdFBxMFpNYUxZc0hmNVpyNVQ2aU0?oc=5",
-      "prediction": "FinCEN and state banking regulators will issue joint compliance guidelines imposing strict KYC rules on crypto ATM transactions within 90 days.",
+      "prediction": "FinCEN and federal banking regulators will issue formal enforcement guidance imposing bank-level identity verification requirements on all U.S. crypto ATMs within 90 days.",
       "grounded": false
     }
   ],
   "stories": [
     {
       "section": "tech",
-      "headline": "Anthropic files for IPO to test market appetite for AI startups",
-      "summary": "AI startup Anthropic has officially launched its initial public offering process. The move tests whether stock market investors are still eager to fund high-cost artificial intelligence companies.",
-      "view": "Anthropic's confidential IPO filing forces Wall Street to price pure-play frontier AI risk, establishing the valuation benchmark for the entire LLM sector ahead of OpenAI. While public market investors will recoil at massive cloud infrastructure cash burn, primary cloud backers AWS and GCP win as IPO proceeds get recycled directly into compute capacity contracts.",
+      "headline": "Anthropic Hits Wall Street in a Critical Test for AI Valuation",
+      "summary": "AI startup Anthropic is launching its initial public offering amid growing investor skepticism about massive artificial intelligence spending. The public listing comes as tech stocks face renewed volatility following recent market pullbacks.",
+      "view": "Anthropic's public debut is the ultimate litmus test for whether public markets will tolerate eye-watering capital expenditure and burning cash for enterprise AI market share. While top-line sales growth is surging via Claude enterprise integrations, public investors will demand a clear path to gross margin expansion rather than just top-line growth. Late-stage private VC backers win an exit, but software multiples across mid-tier SaaS will compress if Anthropic's IPO pops and drops.",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOFFaaTFOMmRsSmNwRlBQZTNqWUJhZXlDbzRYQk5TRWpoLVQ5R0trbFZySzNhQU9pa1JZRXE5Q2VhVTNBUVhxOFB2b0JiUVNLZHpWQkxsYW5EeHY5YW9jU09hNzFhbnMxMnctaVFaUTdyYnhGS1g2Z2pNU0pWdmlYUUtuR0pWR2ZnMVhMWHhjd3VweXMyd0h2X2ZRc9IBoAFBVV95cUxObFlSaHJnalF6bnZ6eDUwbTlYZGlPNjlFN2xxZ3Q1blZNREx3YTlQaWx4NEtXeHlEbmZqc0doTExsM1RXSXMzM05TaVEzTjIxd1N6OGVWYkFhZUZLaXZKZWkyLW5EaW85eHQtMk5FMUcxMmVkNmJwSHZOWWZpVUZVd1FROVJKYjBlWUxERUpxZTNYdUZ0aldWX3RIa0ZrUXR3?oc=5"
     },
     {
       "section": "tech",
-      "headline": "Nvidia admitted behind closed doors it can trace smuggled microchips",
-      "summary": "Internal documents reveal Nvidia privately confirmed it has technology to track its advanced AI chips globally. The admission contradicts public claims by chipmakers that stopping illicit smuggling into restricted countries was technically impossible.",
-      "view": "Nvidia's internal tracing capabilities strip away its corporate plausible deniability, exposing the semiconductor giant to aggressive Department of Commerce enforcement actions and potential sanctions. The real losers are gray-market chip brokers in East Asia, while US compliance software vendors win as global fabless chipmakers rush to audit supply chains before federal subpoenas arrive.",
+      "headline": "Nvidia Privately Admits It Can Track Smuggled Microchips",
+      "summary": "Internal communications reveal Nvidia told insiders it possesses technical capabilities to trace smuggled AI processors, contradicting public industry claims that supply chain tracking was impossible. The revelation comes amid intense U.S. government oversight regarding chip exports to restricted nations.",
+      "view": "The disclosure that Nvidia can pinpoint hardware locations completely dismantles its plausible deniability defense regarding sanction-busting chip leaks to China. This capability shifts political pressure from passive supply-chain monitoring to active enforcement, forcing Nvidia to remotely disable illicitly routed H100 and B200 clusters. U.S. regulators win tighter export control enforcement, while gray-market distributors and Chinese data center operators face immediate equipment bricking risks.",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZRHNvWGxhc3RWbEt3ZTZ2emhUel9EUzFrU01YVE1hUno1bS1uU3d1SldtbVNvWG5RMTk2VGpNX09sNmtPQXR6RzZnMi1VOGxjT184RV9pLXpLLTc5OFlnV2twcGZUaVJMajBsZXplLVV1UHNYS05uNGRjcFltQdIBgwFBVV95cUxOUDNQX2tCZFM2MTYydndJcXVfdWNLUUNQQkZYSVQ2ZHRxWXZkc2ZGSEZRZ0g4SDltVVVISXdBZUktMC05ZUFBaWlyclZhcmVtRUE3UktNRlFzMGY3aDZQVTFVSTBsZ1NIWFRPRGh0a2V6eDlhbHJDd1VUdWJhYkpmOFp1RQ?oc=5"
     },
     {
       "section": "tech",
-      "headline": "Big tech overrules local voters to push through data center projects",
-      "summary": "Technology developers are overriding local municipal rejections to build massive AI data centers across the US. State-level preemption laws and direct power utility deals are letting companies bypass suburban voter opposition.",
-      "view": "Hyperscalers are weaponizing state-level preemption laws to strip municipal zoning power, proving that securing gigawatt-scale grid interconnects overrides local democratic sentiment. Real estate developers and utility holding companies gain long-term rate-base growth, while local taxpayers lose municipal autonomy and suffer higher local power grid costs.",
+      "headline": "Tech Giants Overrule Local Voters to Build Massive Data Centers",
+      "summary": "Big tech companies are pushing ahead with data center developments in suburban communities despite local ballot measures rejecting the projects. Developers are leveraging state-level preemption laws and utility agreements to bypass municipal votes.",
+      "view": "Hyperscalers are overriding municipal NIMBYism by co-opting state-level legislatures to designate data centers as critical infrastructure, guaranteeing land and power access. This preemptive legal strategy protects Amazon, Microsoft, and Google from municipal delays, keeping multi-billion-dollar AI buildouts on schedule. However, it accelerates a severe political backlash from local communities, empowering regulatory-minded state politicians to impose targeted data center energy tariffs.",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSlVDTV9nNjhWT0FKRmxJaXJVMUpoZlQ4WWRISEZWUHA3MEN0NDlKVnZqSC1tZTJnZ0pLdVZRcENFS0ZKQnR4YkR4blJfRFNuelVseVhwUnFsbDNabEpSWlRURWZid3FYVVpQNTFYQUhKMXppdWItTGszTVNHSllfa1FkZDgtTHBWTmJr?oc=5"
     },
     {
       "section": "tech",
-      "headline": "Cisco projects nine billion dollars in enterprise AI gear sales",
-      "summary": "Cisco Systems expects annual revenue tied to artificial intelligence hardware to reach $9 billion by 2027. The forecast highlights strong ongoing demand for traditional networking equipment beneath the software boom.",
-      "view": "Cisco's $9 billion AI revenue target by 2027 validates that enterprise network modernization\u2014upgrading switches, optics, and security backbones\u2014is the necessary prerequisite for deploying on-premise AI workloads. Cisco and ethernet switch makers win enterprise wallet share at the expense of pure-play software vendors whose applications cannot run on legacy campus infrastructure.",
+      "headline": "Cisco Targets $9 Billion in AI Hardware Sales by 2027",
+      "summary": "Networking giant Cisco Systems announced plans to generate $9 billion in revenue from AI data center equipment within three years. The aggressive target signals legacy hardware makers are pivoting rapidly to capture booming enterprise demand for high-speed connectivity.",
+      "view": "Cisco\u2019s aggressive $9B AI revenue target is a necessary pivot to offset structural deceleration in legacy enterprise switching and routing. While hyperscale Ethernet deployments will boost Cisco\u2019s silicon and optics order book, aggressive pricing to win ultra-large deployments will continuously squeeze gross margins. Arista Networks and white-box ODM manufacturers remain better positioned, leaving Cisco to fight over lower-margin enterprise hardware migrations.",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObW1OaFUtUUZ0VWlZRjZyc3NFS29OTHZPcURpWWp6bHB2OWNoTzh5cnJhS296c2tIRzFJMW42eVpxa1JPd2VRR2JRSFhaNTlkNnNuYkFDbDdKMjF3M0k1cEttN25OOG9VenNqRGh6OEVQUmZxTUxkcEZvVmRMdHpUdkxPbVdWUmV6QVhCY0gzNWZLZWExTXhZZWEwTmlrdHc3SDZIUHBwTDR6SFlwcktCU2Rn?oc=5"
     },
     {
       "section": "markets",
-      "headline": "Nvidia stock drops as investors panic over chief executive exit",
-      "summary": "Nvidia shares stumbled after Wall Street analysts downgraded the microchip giant following news of leadership turmoil and top executive exits. Investors expressed concern that the company's era of hyper-growth faces operational friction.",
-      "view": "Jensen Huang's unexpected departure strips Nvidia of its visionary leadership premium, exposing the stock to severe multiple compression as Wall Street reassesses execution risk during an aggressive product cycle transition. Competitors like AMD and customized ASIC makers stand to capture market share, while institutional investors cycle capital into safer megacap software plays.",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUhad2VoUnU5VjNDX3N6UW5WX1FFaFA1eUU2V1kxX3BTQlpVX2twdVVaUHEtTWozYWZBRzRwbHZ6NE1OdHpQWXV2cml5b2R5bGY0bVk1Y19qM0pFcjk1V1NWUFNuX2lHOUlVLXVpeVRJam9mSjdiMTI2OG1KS3FvcmVQVGV0Uzh0TldXa2NLUmhNeTQtZS1oS3dydFJHTWNDcHdDLUtpakNCcV85eDdKTG15M3hqNnZOUko5RVB3aHhvbEJuVVE?oc=5"
+      "headline": "Nasdaq Dips as Tech Stocks Fall After Strong Weekly Rally",
+      "summary": "The Nasdaq composite slipped on Friday driven down by a sharp drop in Nvidia shares, though the index still posted its best weekly performance since August. Trillion-dollar tech stocks faced profit-taking after several sessions of rapid gains.",
+      "view": "This pullback is a routine tactical pause driven by systematic rebalancing and profit-taking in mega-cap tech after extended runs. Institutional capital is not fleeing equities altogether, but rather rotating from stretched semi names into defensive sectors and lagging software assets with cleaner valuation setups. Broad market structure remains constructive, meaning single-digit dips in mega-cap tech will continue to attract dip-buying flows.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DUGhtX3RkQk1tTVc3WFZQOGhSalVKd2RzNks0R1dHRlFMSUd1bUhOeVVmNTQxS09JQjhaaTBQVWVnY3RBblNRRlc3a21TVEJJUnZmVm9pYmJMSVNWazl5bU9lZkdyOVpSSXhoSUlfeEx1ZUdvakVR0gF8QVVfeXFMUEZVRDFwUjNBQ01QTjdQX0h5WXU5R3BqdDZwVFJiNU9obl9qYk1lWC1XTWUxbDhFaGR4V2x0cERQdDAyNFlJQk1fNXBqdFItb3FaTDdyV2R6WklkbExBZHNnQ3k1WFR4X0FaeGpRM09SZHprem0zajZXbEx6Vg?oc=5"
     },
     {
       "section": "markets",
-      "headline": "Fintech lender SoFi promises strong profits without taking on debt",
-      "summary": "Digital bank SoFi told investors it expects 50% earnings growth by 2027 while generating enough internal cash to avoid raising outside capital. The projection reassures markets worried about high borrowing costs hitting online lenders.",
-      "view": "SoFi's self-funding narrative is a strategic bid to decouple its equity valuation from high-yield debt markets and regional bank capital constraints. By funding loan originations entirely through high-yield retail deposit accumulation, SoFi wins net interest margin expansion while legacy regional banks lose tech-forward deposit balance customers.",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcktqSVFvTDFHTnhvQklZbE1UMVBYbHA5TU05NmhUSXYxWERwTi1fSTFhcmJtUG9zOU51X0h0Q2plT3NkOUY2cUd0UnNMNEJfSkJWa3VRaTZwTDNOaGNMVkszWnEwN0lPYWY3bHFBeGtRazVlT2RrRWtEQTdRVllFWVBsMWNFUmRQZHZGbkhZakdjbmFXVkJYbGlGRHM?oc=5"
+      "headline": "Boeing Offloads Three Subsidiaries to Archer in Massive Defense Restructure",
+      "summary": "Boeing agreed to transfer three business units to electric aircraft maker Archer Aviation alongside finalizing a $131 billion military F-15 contract. The transaction allows Boeing to streamline operations while giving Archer key manufacturing assets.",
+      "view": "Boeing\u2019s divestment of three business units to Archer Aviation alongside a $131B F-15 contract win is a desperate balance-sheet defense mechanism disguised as strategic realignment. By offloading non-core assets to Archer, Boeing sheds operational overhead and debt to preserve cash for its troubled commercial manufacturing line. Archer gains manufacturing scale and defense credibility, but takes on integration overhead that will drain its cash runway.",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUlA0Ti1sUnR4ckZOZDFLS1R2OHpPRVdNVUxjcWlEbEtvUEdxSlR1MWM4Slp2VnRTMW5QVFhybWUtSVdDTzVFeVJUZ0JiajBBaUZuWXpYMVZjQVV0VDdNWkR0TFpCaGppVGFnQmRlNjlsdE1FQmVSX0IxSVNNSzBiS1BSa19wZU1oZUQwOTNRdERBZlhOaGdiU2wwazc0SDByTU80N1drd29RUEd1WXlSbDhUZUk1ejhoQ05Wc21kZHJ2RDJuTTR3N1lXakhiaEhfbDIzM3dpRTlkWVg3VVRBWFRiWGhVLXM1QUNObVg2WjBLY3JxbVlYckpXTWU?oc=5"
     },
     {
       "section": "markets",
-      "headline": "Top wealth managers declare an end to European stock rally",
-      "summary": "Major asset managers State Street and Pictet warned clients that Europe's stock market rally has run out of steam. They cited sluggish economic growth and persistent industrial weakness as key drag factors.",
-      "view": "State Street and Pictet's bearish call reflects structural European economic sclerosis, driven by elevated energy costs, sluggish industrial production, and Chinese export competition. Exporters and heavy manufacturers across Germany and France lose pricing power, driving global asset allocators to reallocate capital into US tech and high-yielding US fixed income.",
+      "headline": "Top Asset Managers Declare End to Europe\u2019s Stock Rally",
+      "summary": "Major investment firms State Street and Pictet warned that European equities have hit their peak following months of strong outperformance. Analysts cite weakening industrial output and sluggish consumer spending across key eurozone economies.",
+      "view": "Major asset managers are correct to call the top on European equities as fundamental macroeconomic headwinds fully dismantle the early-year valuation re-rating. Squeezed by structurally high energy costs, stagnant German industrial production, and Chinese market share erosion in automotive and machinery, European blue chips lack earnings catalysts. Capital will rotate back into U.S. equities where productivity gains and AI capex offer superior top-line growth.",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMV9OTzctbzluVS1TekxzVnM1UlRVYmFzV0l6aWt5NW1xcDRoQzRvNW4xTGxzTWZLeF9rVDkzbWJITUJNU2Q2SHJ4ZHZHdG1UNEw0X25GN0c0VEhQVllvVDk3bXZvSENDVnYyeUhXSWZlSlE2YXJ3d0dKeG5CajY3RHRDcE02bnM5RVBRTXJ4dXZfWnNjR1N0azdsT2ZtV1RnV3Q2UWZMTVBDVEVyVy1ZZA?oc=5"
     },
     {
       "section": "markets",
-      "headline": "Preferred stock yields hit eight percent presenting rare income opportunities",
-      "summary": "A recent selloff in income-focused investments pushed preferred stock yields up to 8%. Market analysts noted that the asset class now offers attractive payouts for investors seeking predictable dividend income.",
-      "view": "Preferred equity yields reaching 8% signal institutional liquidity dislocations rather than fundamental credit deterioration, creating an asymmetric entry point for yield-seeking retail and institutional accounts. Commercial bank issuers win by maintaining regulatory Tier 1 capital ratios, while cash-heavy investors miss out on locking in decade-high fixed income yields.",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb2d5WjlTOGJpSWNEd2twZ2p0bFVTTExBQ01IVzFCV0pPOFpWWk9lX0ZBVDc4QnRHV25jLVZJVXdkSm1CNjNsX0kxdE93X0tnZGNvRGFZOVA0M0RVNE5GdGxCV2w5RlZtdEMzaFRsZWllVUhpYXRDVzU3UDhiVk8xRjZB?oc=5"
+      "headline": "Wall Street Sours on Nvidia Stock Following Leadership Shakeup",
+      "summary": "Institutional investors pulled back from Nvidia as reports emerged surrounding executive changes and internal disruption. The stock suffered notable declines as analysts questioned the semiconductor giant's strategic continuity.",
+      "view": "The exit of Jensen Huang strips Nvidia of its primary strategic architect and visionary key-man asset, creating an irreplaceable execution void at the top. Wall Street\u2019s immediate derating reflects genuine panic over long-term roadmap discipline, customer relationship continuity with hyperscalers, and talent retention. While Nvidia\u2019s short-term hardware lead is locked in, its premium valuation multiple will shrink permanently as execution risks rise.",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUhad2VoUnU5VjNDX3N6UW5WX1FFaFA1eUU2V1kxX3BTQlpVX2twdVVaUHEtTWozYWZBRzRwbHZ6NE1OdHpQWXV2cml5b2R5bGY0bVk1Y19qM0pFcjk1V1NWUFNuX2lHOUlVLXVpeVRJam9mSjdiMTI2OG1KS3FvcmVQVGV0Uzh0TldXa2NLUmhNeTQtZS1oS3dydFJHTWNDcHdDLUtpakNCcV85eDdKTG15M3hqNnZOUko5RVB3aHhvbEJuVVE?oc=5"
     },
     {
       "section": "us_news",
-      "headline": "Commerce nominee Lutnick lobbied against chip rules favoring family firm",
-      "summary": "Cabinet nominee Howard Lutnick reportedly pushed officials to soften national semiconductor export controls that overlapped with his family's investment portfolio. The revelation raises potential ethics conflicts ahead of his Senate confirmation hearings.",
-      "view": "Lutnick's lobbying against export controls affecting family-linked holdings creates immediate Senate confirmation headwinds and undermines US policy leverage over foreign semiconductor trade enforcement. Policy hardliners lose credibility, while rival defense and hardware contractors gain political leverage to demand stricter ethics carve-outs.",
+      "headline": "Trump Demands Emergency Aviation Funds Following Nationwide Flight Grounding",
+      "summary": "Former President Trump spoke out against a massive nationwide air traffic control system failure, calling on Congress to appropriate emergency funds for aviation infrastructure. The disruption stranded hundreds of thousands of travelers across major domestic airports.",
+      "view": "The nationwide ATC outage provides a potent political opening to force a long-overdue overhaul and privatization push for federal aviation infrastructure. Legacy FAA systems are a single-point-of-failure liability for US commerce, costing airlines hundreds of millions in operational disruptions. Defense and aerospace tech vendors will capture massive federal procurement contracts as bipartisan pressure guarantees an emergency supplemental funding package.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQlN2bms3WThwX1hyY1pvcjVBa0FJeUNjaWE5Mll0MzNRVTZKUHltaDZwZlVLb3RtSHc3VjZEQzVkd29NbXpGZjdRTEQ5MjRTU3VMRWRiNHVjOUk3cU9jaUNzeGF3VWVyUDF0LW45bEZ4anNYcVRYQTNHVVd2OXZiY0s5ZWtMbnZlVlAxb1NkUjFyaFZtMTEwOXNiclMyM0VUOHVvWThCQnpzM2kxM1I3Q0k2QTltY0hMakJja3J30gHDAUFVX3lxTFBVMmdTSjk0cS12a29lalFrWVVtSXVHWFFycV9SS00yMTJvUGNYbVNkS01BV2o3ajFuR01xTmQ0MVhTYUhITGdQb0NGQzh0YVpacGVpWWZkRDhEYk5ValFhSjgwbUtNM3hTbkNTVjM5ZEswT2hHakZkRmZwRF9LTjBtUUJnX0g5QkJ5Y1ZPVGdldnJObEVBeHFmVTUxbllBLTJQQlc0ZF8tVG1wNXdhTURtTnBnTDN2MDBlNWdVTU1VWnFHdw?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Cabinet Nominee Lutnick Pushed to Soften Microchip Trade Rules",
+      "summary": "Commerce Secretary nominee Howard Lutnick faced scrutiny after reports indicated he lobbied to weaken federal chip export restrictions that overlapped with his family's investment holdings. The revelation creates friction ahead of his Senate confirmation process.",
+      "view": "Howard Lutnick\u2019s push to dilute chip export controls creates an immediate ethical conflict that weakens the Administration's hawkish trade posture on China. Opponents in the Senate confirmation battle will weaponize these personal financial overlaps to extract binding policy commitments or delay his appointment. While financial markets prefer relaxed export bans for US chipmakers short-term, national security hardliners will prevail, resulting in maintained or tightened restriction lists.",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSG5Ua0Eya2ctVDEweEN2X3Z4VmxHU0EtZU5ERk5HRUNLZ3lLdWx3VFkzYjBjMzZKS0FPRE9CaHp2MUJNTWJaenk0UV9OQldvdGVrdndRakI2UmxwSllMQVVUZUM3Wi1aaEd3WllvNVRpNWdhaE9aRWJ2Z204WE5nRmtiNFgwMFJfMGlpMmIwdUdIN3gtVk52dXZscHFYRUFF?oc=5"
     },
     {
       "section": "us_news",
-      "headline": "Transportation chief refuses to apologize for nationwide air travel shutdown",
-      "summary": "US officials defended a sudden nationwide ground stop that paralyzed air travel, citing emergency safety protocols. The Transportation Department insisted the precautionary halt avoided potential safety risks despite widespread passenger chaos.",
-      "view": "The Transportation Department's unapologetic stance on the nationwide ground stop prioritizes systemic liability defense over airline operational disruption, leaving carriers to absorb hundreds of millions in passenger compensation and re-fleeting costs. Major US airlines lose operating margin, while defense technology suppliers for FAA air traffic automation stand to win lucrative modernization contracts.",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa3RIWXBhc1Z1ZzBMWXZHTG5qYkx3dVh2VGFHbmdiMUNvbjFLM2hsaHNWNlZfdDlMZ0VmNERIVWRoekF0Y0gwLXA5ZmtjYkpvTkVwOFNvdERGSlRGZkZXNUpHS2NVWGlMM0dnSTZUSHJsSVJMSERUUlV4Wjg2eW1GX2kzQnVZTGJSSm1RWEJxODVkNGxpNG9RNUtOY1A3YWVKU3VoYS1MOTVkYnpoaFNDX3A0MmNZQ3lfSVlFV2ZBRGRHUDJzWlRHSEtUYw?oc=5"
+      "headline": "Two Passenger Jets Collide at Miami Airport Amid System Chaos",
+      "summary": "Two commercial aircraft clipped wings on a taxiway at Miami International Airport just one day after a nationwide air traffic control outage forced a national ground stop. No severe injuries were reported, but the incident exacerbated widespread flight delays.",
+      "view": "The Miami taxiway collision exposes extreme operational fatigue and systemic staffing shortfalls across air traffic control towers and ground operations. As FAA forced flight reductions take effect, airline utilization rates fall, driving up unit costs for carriers like American and Delta while cascading delays destroy quarterly operating margins. Regulatory scrutiny will trigger strict ground-safety mandates, reducing airport throughput capacity at major hubs.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbnlqY0IwelVhVGQxdGoxSjVjOVNVRDY2NjJDZFVad1Z5Q05ORWlXX1QzVUZseWhnVVBNOGRBX0dqbWVtOFJTTFVGdko5ZnlETEhMVU41R1VWTm1Fek8tLV85bDVOdXh4Nng1TzJucEZ4ZEVlR2Q0Vk15dnZSUU5UYW9R?oc=5"
     },
     {
       "section": "us_news",
-      "headline": "Midterm losses spark intense debate over Republican electoral strategy",
-      "summary": "Recent midterm election setbacks have ignited internal fighting within the GOP over its messaging and candidate selection. Party strategists are split between doubling down on populist themes or pivoting back to traditional conservative platforms.",
-      "view": "The internal GOP post-mortem exposes a fundamental rift between populist culture-war messaging and suburban economic pragmatism, threatening the party's fundraising engine and donor retention. Moderates and suburban district incumbents lose donor confidence unless the party pivot restores emphasis on fiscal discipline and deregulation.",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZk1lMUUtcVRZTVhCVmpJTThwUmFidVU0cU9ycHVJTkZ0ZVN3VEIxc0lVWHRIdzhxdUt2aC1MQzFfa0hyd3BSTWs1dWVLWmpHOEhVcVBwR25QS2lPeklucDZHMF9XOXJ5UkJ6WEFfcm9BZ19QdGw2aFhXRms3aWhGMll1T1RvT05t?oc=5"
-    },
-    {
-      "section": "us_news",
-      "headline": "US offers Ukraine NATO seat in exchange for territorial concessions",
-      "summary": "A new diplomatic proposal from Washington suggests Ukraine cede control of the Donbas region in exchange for immediate security guarantees and NATO membership. The plan aims to force a negotiated end to the long-running war.",
-      "view": "Washington's land-for-security offer shifts the diplomatic framework from absolute territorial victory to strategic deterrence via NATO integration, effectively solidifying current contact lines as de facto borders. European defense contractors win long-term re-armament contracts to secure the newly defined NATO frontier, while Ukrainian political unity faces severe internal strain.",
+      "headline": "U.S. Drafts Ukraine Plan Trading Territory for NATO Membership",
+      "summary": "Reports indicate Washington is floating a diplomatic proposal that would require Ukraine to cede control of eastern regions in exchange for formal NATO security guarantees. The potential deal represents a significant shift in U.S. foreign policy strategy toward Eastern Europe.",
+      "view": "A land-for-NATO deal marks a fundamental strategic pivot, establishing a frozen border while shifting European defense burdens directly onto NATO allies. Energy markets and European defense equities will reprice immediately\u2014European gas prices will fall on potential Russian supply normalization, while European defense primes will rally on mandatory NATO spending hikes. Ukraine secures a hard security umbrella, but eastern European frontline states face elevated long-term sovereign risk.",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOFZxYzB6N3djaUJMOWI1QW1oaTFhLVc1bDZXNVlEMERPNlR5Z2FSMl9rdnJJSkNnVVhQclUteWJYWE1rM1F4amRadVRJQk1YZHNHU2UxcmtFYTRqNWk4eXhLTjhNWlBPbE1uNU1zMzFWMWJaZGpDUFgzSml5V29ZeVgwQUFuNzZMaXpWQVV2YUxaQ0wwckNfLWR4a3pYV3ROSjVHcVhCTnlEQlItWFBuctIBtgFBVV95cUxOV2YtTEY4U180dER0UjRwQUFDdUhDWVRLTnpMVzhJVkdJUTlhbXc0UEVvaHN1cnV3bWJud2FDZldDZ2h2WEtlVG9uWWlfZEI2OF82M05oMlRzUUxRaUg5cGgxM19acGEyeVpkMnNrcDZxaS1NTFQzdXNoZUJyVk9iUnFfTHQyeHZ6Nmc5cWtPcGM0LWpqVDcwUG9RNEExV0h5cEJwNXNVMzVZQ0hkM245SUdjM0F2QQ?oc=5"
     },
     {
       "section": "indonesia",
-      "headline": "Indonesia's vice president quits as ruling political coalition breaks down",
-      "summary": "Vice President Gibran Rakabuming Raka announced his resignation, exposing severe cracks in President Prabowo Subianto\u2019s governing alliance. The departure comes after months of backroom maneuvering and policy disagreements.",
-      "view": "Gibran Rakabuming's resignation breaks the political pact between President Prabowo and former President Jokowi, destabilizing the ruling coalition and eroding foreign investor confidence in Indonesia's policy continuity. Foreign direct investors lose political visibility, while opposition parties win leverage to stall Prabowo's ambitious national infrastructure and resource downstreaming programs.",
+      "headline": "Mass Wiretapping Scandal Triggers Political Warfare in Jakarta",
+      "summary": "Allegations of widespread illegal surveillance targeting top government figures have sparked open political conflict among Indonesia's political establishment. The scandal threatens to disrupt key legislative agendas in Parliament.",
+      "view": "The surveillance scandal paralyzes parliamentary legislative activity, freezing major tax reform and infrastructure deregulation initiatives in Jakarta. With cabinet ministers focused on domestic political survival rather than governance, institutional policy predictability deteriorates sharply. Domestic oligarchs and foreign strategic investors will delay capital deployment until the balance of power within the administration stabilizes.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNElQOHBNMEVIYzNSOGlDYm1ZZGs1b01JT3BEczRjdWR0d2M2WHJFRE1vOS1SZ1ZLOVFZa0lEdWNLTl85bENFNXY5MkhCMk5BTWZaQVRGbEpaczdDMUlVV1I0RDcwTzUyMXBSM2FEVFhfVWdHUVh6WllOUDZJdUd1RUZkd2U?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Vice President Gibran Resigns as Governing Alliance Collapses",
+      "summary": "Vice President Gibran Rakabuming Raka announced his resignation, marking a clear fracture in Indonesia's ruling political coalition. The abrupt exit follows weeks of escalating tension and scrutiny over leadership credentials.",
+      "view": "Gibran\u2019s resignation signals the total collapse of the ruling Prabowo-Jokowi coalition, stripping the administration of legislative majority backing and political continuity. This rupture leaves President Prabowo exposed to opposition pressure, forcing him into costly coalition horse-trading to maintain control. Sovereign risk premiums will rise as markets price in government instability and policy paralysis.",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16cjZYejY1MUdIcF9KMTY5TndPRndrWFhvT29oVTk0dTgwQUE1bVRCNFlwWUNSQ0prS09FdUp2SXRBQWxFQU5yWXJtU0s2Q0Y5bHFZOG5udV9lNms?oc=5"
     },
     {
       "section": "indonesia",
-      "headline": "Shock wiretapping scandal targets Indonesian president and top leadership",
-      "summary": "Leaked intelligence revealed systematic wiretapping aimed at President Prabowo Subianto and his closest advisors. The surveillance scandal has triggered a severe internal crisis inside Indonesia's security agencies.",
-      "view": "The breach of top-tier intelligence channels exposes deep institutional vulnerabilities within Indonesia's national security apparatus, sparking an aggressive purge of internal intelligence leadership. National security contractors win emergency defense spending allocations, while civilian ministers lose operational confidentiality during crucial budget negotiations.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPak5Cb0pJdXdQbkNiZjk0NUtfS05WZTM2bXFrYlpraVc4RVc4clVJMDVQOXFiQjJ6LWZDQ1Q2YmVxNElYQ2ZKUkd4dnB3a3lXc2djQW9hdFM4Y1BvOUV0Y1BKZGNTckVOanFHc1lueHpQX2N0TlR5elMzNkhtVXNLZ2VmTUEzSmk2TlRPQ2FacnhwTU01UU1V0gGXAUFVX3lxTE9KUFdqcFFFM003cmp1VzJxUzhzZDcwYXFGdUw3Rml1YzFlN1hNMURqM29UUHBYeDRTeWtjNy12NHR2TFlXZUpQYkdZTmc4bEphbUtNdkhKMlNSdDZDUTVITDFoY3JSMXVEbDNPQzVkNDNfclVmQUNRTFdOSWx2Mk9abGhjSDVBSGpQV3o5WElRdXBFclpKOGs?oc=5"
+      "headline": "Indonesia\u2019s Fiscal Credibility Tested as Deficit Concerns Grow",
+      "summary": "Economic reports highlight rising risks to Indonesia\u2019s budget discipline as government spending commitments outpace revenue growth. Analysts warn that straying from statutory fiscal limits could spark currency volatility.",
+      "view": "The threat of breaching the statutory 3% fiscal deficit cap directly undermines Indonesia\u2019s macro stability pillar, threatening sovereign credit downgrades. As populist welfare spending commitments collide with weak revenue collection and rising oil import costs, Bank Indonesia will be forced to defend the currency via intervention and rate hikes. Foreign portfolio investors in Indonesian government bonds will accelerate liquidations.",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCelRhVGpZeWNYa2FYVEdRajYtbWdmNXI5ZnhWMllON0p1a2pSNk5nUVNQTlZoM0k4WTNvcUVJU09XVnNZOGV4V0xoWldCTTZCOUh4TVBRUVozTTltZUVFbGpaQkM0QVFSUzZCVWxLVTVzUQ?oc=5"
     },
     {
       "section": "indonesia",
-      "headline": "Indonesian officials push investors to ignore ongoing political upheaval",
-      "summary": "Indonesian economic ministers held emergency briefings to assure international investors that political drama won't derail business policy. Officials insisted that infrastructure spending and investment protections remain completely secure.",
-      "view": "Government efforts to downplay political instability highlight economic cabinet panic as capital flight risks threaten national infrastructure financing. Foreign institutional investors will freeze new commitments until coalition stability is restored, while domestic state-owned enterprises lose access to cheap offshore dollar funding.",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORVZOMkVSUDBNQ3J6bWNyWkhDTUZyVVhTNFdMcldCNTUxQWFjZnBPNnVIcG1HVy1LQUloYTJFbTlTODRkZTN3NlBfVTNMbkRwQXRwUWpReFAxdl9TYkRnMFZJOWkxcGZjSE9xWHNEeFBYS2tUOFdQMlR0YkZMd21ZMlFkZ1YxUWh6ZWcySHlvZWk0ZUVXdTRaVmd4XzJhREJQOTdiS2xfQ25KYnQwUmEtM3BFdnh6OG10Nk9BdjlfZjMzYkx2RVhNSEhZU3Q0TERE?oc=5"
-    },
-    {
-      "section": "indonesia",
-      "headline": "Rising inflation fuels public anger as Indonesian politicians fight",
-      "summary": "Ordinary Indonesians face surging food and fuel costs while political leaders remain focused on political scandals and resignations. Public frustration is mounting over government inaction on basic living standards.",
-      "view": "Escalating food and energy prices combined with political paralysis raise the risk of widespread civil unrest, forcing the central bank to prioritize currency defense over economic growth. Lower-income consumers and domestic retail businesses lose purchasing power, while agricultural import monopolies face intense regulatory scrutiny and public backlash.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY3E0UERnemhqUmNvMW5BS241RFJyaDExMkJDZjBqN2NrVWdhNlBDOHFtMVp0bWt3Wi0zN0tUbW9wV3VEenpIejBBaUVuWkw1Vy1UUUNsOGJLZTBGU2NVYnVVdmwxekdRZWZXZGlkdHR4UmFNQjVDRlIyNkNqV3N4UlVyLUJ5YW1LOTk5RGUwcmR1VlNaa3BiYlVQNjl3ZTl3dTRPMVFTYnlpUnFyMDdzcVM3dkxydW42SGhLVFdR?oc=5"
+      "headline": "Political Chaos in Jakarta Sparks Investor Flight Warnings",
+      "summary": "Financial analysts warn that Indonesia's deepening political crisis risks driving away foreign capital and encouraging populist economic policies. Market observers cite rising currency weakness as political infighting worsens.",
+      "view": "Heightened political volatility and capital flight warnings will hit the Indonesian Rupiah hard, forcing Bank Indonesia into foreign exchange market interventions that drain reserves. Foreign equity funds will cut exposure to domestic consumer and banking blue chips like Bank Central Asia and Bank Rakyat Indonesia. Local businesses will delay capital expenditures, dampening headline GDP growth over the coming year.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSmEwT2otbTlKWkhWcUh3c3lZUmVGZmhhY2hYOUdxeTVtMFpsanFXekZaOGhfWWFXZXRRUzlYNFljMm5PUnBISkp6c2NWenBDeUhBX3BZYlh5V0dwSHVUdkNHQVNtNWdoUWVxWWJEOWZ4RWJGbUNLOFpZSXRBdnVxODY3Z0lzSGFlVFNuSnc3VGVjYUpKdDB4UXVwMU5YdERraVJkdXd1bld0Mk5ZSG9OQXhXal9QSXBQWGFrNTV3aw?oc=5"
     },
     {
       "section": "crypto_fx",
-      "headline": "Bitcoin drops under seventy thousand as surging dollar triggers selloff",
-      "summary": "Bitcoin dropped below the key $70,000 threshold as a rallying US dollar triggered over $1.6 billion in automated crypto liquidations. The sharp selloff erased weeks of speculative gains across major digital currencies.",
-      "view": "The breach of the $70,000 level confirms that crypto assets remain hyper-sensitive to US dollar liquidity dynamics, triggering automated derivative unwinds that liquidate overleveraged long positions. High-beta altcoins and leverage-reliant crypto hedge funds lose significant capital, while market analysts warn that unhedged downside risk could open the door to far deeper structural drawdowns.",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbmN2SHc5R3NaLW95Rkw4bzdvbzA5NldfS0ZDTFlES0hYZjAwVlBXS2t1bk5ocDJfZjlkS0NmTWFqUjdVWFVmYThReUxyWmFueEU5RXQ4NXZoRGxXS3N1UVc4enJueVdwdlZYc2xSQmtsVnNaZTJWWExFU0s5c1N1YjhJMkpIOGtxSmlQbEpveU44OWxSWUtJVC11R09KQlB4TktFd296RE5RODdicENOemhtZU5YLWxmdWhxc0RZZmt3Y24tN1ZES05vSFM5elVsVGYyNjRkUC00cTg?oc=5"
+      "headline": "Bitcoin Falls Below $70,000 Triggering $1.2 Billion in Liquidations",
+      "summary": "Bitcoin dropped below the key $70,000 price floor, forcing automated liquidations of over $1.2 billion in leveraged trading positions across major crypto exchanges. The decline reflects a broader retreat from risk assets.",
+      "view": "The cascade below $70,000 demonstrates how thin liquidity and excessive leverage in offshore derivatives markets amplify spot downside during risk-off shifts. The flush out of over $1.2B in long positions clears out speculative weak hands, resetting funding rates to neutral or negative across major exchanges. While spot ETF inflows will slow temporarily, market maker inventories will rebuild at these lower structural support levels.",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUFvUmV4NkRTR3k0bnVVUjBYQTh5Z1BNX3NsTE1YWE9YUEpRMTJ4TEF5NFJfVmxPaUZQWl9CZEJpNGQtOTRMNmtYRHV0N3NUM2FtOUp1dWNaSV9OSlVYMFRwNld4ZWI4bUV4a251VjdzeUVnTW1EbFBuUndERzNjTWg1cDZ4Y1d1aXFPbzZYUXFoT2NJcnVBcXFXdFo?oc=5"
     },
     {
       "section": "crypto_fx",
-      "headline": "Bolivian businesses embrace crypto to survive severe dollar shortages",
-      "summary": "Small businesses and merchants in Bolivia are adopting cryptocurrencies to pay for foreign imports as local banks run low on US dollars. The shift continues despite central bank warnings against unregulated digital tokens.",
-      "view": "Real-world adoption of stablecoins in Bolivia demonstrates how crypto functions as a vital economic release valve in dollar-starved emerging markets. Local import/export merchants win supply chain continuity by bypassing illiquid domestic banks, while the Bolivian Central Bank loses monetary control and foreign exchange reserve oversight.",
+      "headline": "Resurgent U.S. Dollar Squeezes Bitcoin and Altcoin Prices",
+      "summary": "A sharp rally in the U.S. dollar index has placed intense downward pressure on digital assets, dragging down major cryptocurrencies alongside alternative tokens. Strong U.S. economic data fueled expectations of higher-for-longer interest rates.",
+      "view": "The DXY rally is an absolute wrecking ball for crypto asset valuations, driving a macro repricing across high-beta digital assets. As U.S. yields move higher on resilient economic data and deferred Fed rate cuts, risk-free yields make non-yielding crypto assets structurally unappealing to macro funds. Altcoins with fragile tokenomics and unlock schedules will suffer disproportional drawdowns compared to Bitcoin.",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOWW5oTkdjLVVSVVZheWhBUUdvWnR6VGtwdy12SWJ0WGdMWmp0eFhCMnNJbGtPRVl4UHFmWXM1bWIta3NfRTdZSU5zQ1ZHM2Fxa05nMzJyczlZYXlDb3BNMWJ6MkgzOGFTMUFpcUlnby1QeXEtcHZLS3VFRE1fQk4yUkRiZWdDN3l3UzRWV3BLRVlWejVaMjZaUlUzMXJkb1RRTjhJOU5Lck8xTWgtbktWWUQwNGRzSjZGOW4xNjdXSVF2RjNWcEp4T2o5eV9KdDdSQmtqcUJHYThvVWZJbk1NNlZyTm5sV0ZaVzRJZktsUWNHY01DNjM4eVVDa3lNb2pTN2l2TXlfZWlScTZnT0xvTzhYQlR0ODYyR05LZHdyZmw?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Foreign Currency Shortages Drive Bolivian Businesses Toward Crypto",
+      "summary": "Small businesses in Bolivia are increasingly adopting cryptocurrencies to bypass severe domestic shortages of U.S. dollars and maintain cross-border trade. The trend marks a practical shift toward digital currencies in constrained emerging markets.",
+      "view": "Bolivia's dollar crunch is creating a real-world stress test for stablecoin adoption as a primary medium of international trade settlement. Merchant adoption of USDT bypasses capital controls and failing domestic banking rails, proving stablecoins' utility in distressed currency regimes. USDT issuing entity Tether and stablecoin payment rails win transaction volume, while the Bolivian central bank loses control over domestic monetary policy.",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcHNKT1ZtUHVhSDhkc2NuZDYwU2RjQXRfZ3FWeDFTRHRGdmI5OWdOZl9LTy01b0YtOGhDWU03WTFvb2lsQ2t0azhneGRqOURJU291ZUJ5UHZCNVJ2Vzdfc1hweUh4RE5HeU5lUm1ybER5elA3MWhUd2ZYVE9Ba3p5WEhIQ09DQ3NmMkFGS21BbTNsanBldDFJU1lrTTdTc0h6MTlHa2M2NVhrYmw4RzFYandMTnZjZjhZenVSVXVKTmJIQQ?oc=5"
     },
     {
       "section": "crypto_fx",
-      "headline": "Think tank debunks idea of using Bitcoin to back dollar",
-      "summary": "A report from the Cato Institute criticized proposals to use Bitcoin as a reserve asset to back the US dollar. The study concluded that crypto's extreme price swings make it completely unsuitable for stabilizing national money.",
-      "view": "The Cato Institute's critique exposes the fundamental incompatibility of backing a national fiat currency with an unpegged, highly volatile digital asset. Strategic Bitcoin reserve advocates lose policy traction in Washington, while traditional sovereign reserve assets like gold and US Treasuries maintain their institutional dominance.",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa2NiQktLS29NZzlBWk8wbEpzaFRDbHVjU0ZJOE1vQmhJbmlyeEtnaXcyNmtYcjhkZ09xakFZVFZpMjU1eklDRWctM1lFMXIyVDdodktDdDlhUHVobGExZUJPc0gwQ0FYWGlCWFJNSlM4Q2RsNVdlaUdUbkpHa3luV0plYjhlQVVlS0Fn?oc=5"
-    },
-    {
-      "section": "crypto_fx",
-      "headline": "Federal Reserve warns of systemic risks from cash to crypto ATMs",
-      "summary": "A Kansas City Fed report highlighted growing regulatory concerns over independent cash-to-crypto kiosks operating nationwide. Federal researchers warned that unmonitored ATMs pose significant illicit finance and fraud risks.",
-      "view": "The Kansas City Fed's warning signals an imminent regulatory enforcement crackdown on unhosted cash-to-crypto kiosk operators, aiming to plug anti-money laundering (AML) loopholes. Independent ATM operators lose market access under rising compliance costs, while fully compliant centralized exchanges win user volume as informal cash conduits get shut down.",
+      "headline": "Federal Reserve Highlights Crackdown on Cash-to-Crypto ATMs",
+      "summary": "A new Federal Reserve study detailed growing regulatory pressure on physical Bitcoin ATMs due to illicit finance and anti-money laundering compliance gaps. Authorities are pushing for stricter operational oversight of physical crypto kiosk operators.",
+      "view": "The Federal Reserve\u2019s targeted study on crypto ATMs signals an imminent regulatory enforcement push against physical cash-to-crypto operators under AML and FinCEN mandates. Unlicensed kiosk networks will face severe compliance penalties, forcing major operators to either consolidate or shut down unviable locations. Traditional banking institutions will further restrict banking services to crypto kiosk firms, severely raising operating overhead.",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd3RMdlM4RmljcFppeFV3RkFsblpmcXJFRThJdFhUWnNkX1pCRW5JdGxnLUdxTmo5THAzOWhxMi0tQjlKbEEzc0VCcFI2d0F1RUdKNW9YRDBVdXdDSm5kc2pGbHRMTzJnOGNobTZQZl9sdzkwaTU5NzZhMDZSTm85NW9CUURvcHozcExoR3JabDY2S21BQ2trTVBXeGxPem9ZSnJlTjVnYTNBQ2RFWm5QLWdZTTlTZ0tGdFBxMFpNYUxZc0hmNVpyNVQ2aU0?oc=5"
     }
   ]
