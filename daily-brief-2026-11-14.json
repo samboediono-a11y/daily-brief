@@ -6,42 +6,54 @@
       "headline": "Nvidia CEO faces scandal over undisclosed executive relationship",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV0NCNjVPR0M2THpMdkhiTW5jZUlmVXJzNHk4YjZYeWtGZHc3Vk81V3czUXBBVjktcXlSLWs3MFdyWkRtcmRpV1BmY1hKckhyU3RYWEdsTWlGcnhFVFVNakRLLWZvREpURHJnRVVSdmZEcHJWU2p5YWJZX1pEWGRWRDB1aw?oc=5",
       "prediction": "Expect Nvidia's board to announce an interim CEO and executive succession roadmap within the next 14 days.",
-      "grounded": true
+      "grounded": true,
+      "status": "held_up",
+      "note": "Fresh headlines confirm Jensen Huang resigned as Nvidia CEO and CFO Colette Kress was named interim CEO."
     },
     {
       "section": "tech",
       "headline": "Nvidia secretly admitted it can track smuggled microchips globally",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZRHNvWGxhc3RWbEt3ZTZ2emhUel9EUzFrU01YVE1hUno1bS1uU3d1SldtbVNvWG5RMTk2VGpNX09sNmtPQXR6RzZnMi1VOGxjT184RV9pLXpLLTc5OFlnV2twcGZUaVJMajBsZXplLVV1UHNYS05uNGRjcFltQdIBgwFBVV95cUxOUDNQX2tCZFM2MTYydndJcXVfdWNLUUNQQkZYSVQ2ZHRxWXZkc2ZGSEZRZ0g4SDltVVVISXdBZUktMC05ZUFBaWlyclZhcmVtRUE3UktNRlFzMGY3aDZQVTFVSTBsZ1NIWFRPRGh0a2V6eDlhbHJDd1VUdWJhYkpmOFp1RQ?oc=5",
       "prediction": "Watch for the US Department of Commerce to issue a subpoena or open a formal audit into Nvidia's telemetry and tracking capabilities before Q3 end.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No new headlines were found regarding a US Department of Commerce audit or subpoena into Nvidia's tracking capabilities."
     },
     {
       "section": "tech",
       "headline": "Cisco targets nine billion in AI networking revenue by 2027",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObW1OaFUtUUZ0VWlZRjZyc3NFS29OTHZPcURpWWp6bHB2OWNoTzh5cnJhS296c2tIRzFJMW42eVpxa1JPd2VRR2JRSFhaNTlkNnNuYkFDbDdKMjF3M0k1cEttN25OOG9VenNqRGh6OEVQUmZxTUxkcEZvVmRMdHpUdkxPbVdWUmV6QVhCY0gzNWZLZWExTXhZZWEwTmlrdHc3SDZIUHBwTDR6SFlwcktCU2Rn?oc=5",
       "prediction": "Expect Cisco's enterprise networking segment to report at least 15% year-over-year revenue growth in its upcoming quarterly earnings release.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "While headlines report strong quarterly earnings driven by AI networking demand, they do not specify whether the enterprise networking segment hit the predicted 15% growth rate."
     },
     {
       "section": "tech",
       "headline": "Anthropic CEO angers AI rivals over strategy and safety criticism",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWxHUTR3T2hmZ0hnbEpjd1VtQUpIS3V4MjY5LUhvQzhTS1BaMEVwVEg5bVFnTlp1dGc3SEZrdG55VDByX1lXbVhxdTFLUlp4NklDXzFWZ1FOa2U0OFZlc1JsUi0zWXFXYXkxMVJHdU50X1psazB4SzZzZmVDNVJsdjRlSGdVdDJjRmQ0?oc=5",
       "prediction": "Look for Anthropic to secure a major federal defense or intelligence agency infrastructure contract within the next six months.",
-      "grounded": false
+      "grounded": false,
+      "status": "missed",
+      "note": "Rather than securing a defense contract, Anthropic was designated as a supply chain risk by the Pentagon, which awarded a deal to OpenAI instead."
     },
     {
       "section": "markets",
       "headline": "Tech stocks tumble as Nvidia reels from executive leadership shakeup",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOG9vVjRkb0hxUE1ybFptSEtacTBMTjBOOFBETTU3TkJ1YlVvbkoxN1BnR3hmRDZHZzdZZURNY0pwZTFCb1pzRXFaQzJMZnB0ZGxXRF9SODZxOXZ0SktNUDBNX1BFOUcxaDlPcGlIeGM1M2Z6VkN3V1g3YnN3QmFHQlJYaFRtLTA?oc=5",
       "prediction": "The Nasdaq 100 will test its 200-day moving average within the next ten trading sessions as index rebalancing settles.",
-      "grounded": false
+      "grounded": false,
+      "status": "held_up",
+      "note": "Fresh headlines explicitly report that the Nasdaq Index broke below its 200-day moving average amid Nvidia selling."
     },
     {
       "section": "markets",
       "headline": "Elon Musk proposes Tesla and SpaceX merger to speed index entry",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQWxWWXV2SzNsbkhDOUtQWVVfWVp3RjdkRVB0djV0TUpnU0ExUVFnWk1Ba1BiS0F4RkpSVVBibDFhWXowWTVnYklLX1BnMTUzbndYeVJfSU1zNnJtbC1XMnFoYXRQZC01NXViRnRrLWpGUmQycG1MSHktQ1Vublo5QVhUS2ZFZk5MZEpfNXcyc0t1Rk9hakppUExNcEZZMGc3RlpBR2o0RHVQdE9pM3ViaHFLNkg?oc=5",
       "prediction": "Tesla board members will initiate an independent valuation committee to assess the merger terms before the end of the current quarter.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The fresh headline covers analyst price targets for a potential Tesla-SpaceX merger but does not confirm if Tesla's board formed a valuation committee."
     },
     {
       "section": "markets",
