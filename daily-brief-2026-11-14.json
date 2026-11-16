@@ -8,7 +8,7 @@
       "prediction": "Expect Nvidia's board to announce an interim CEO and executive succession roadmap within the next 14 days.",
       "grounded": true,
       "status": "held_up",
-      "note": "Nvidia announced Jensen Huang's resignation and named CFO Colette Kress as interim CEO."
+      "note": "Nvidia announced Jensen Huang's resignation and named CFO Colette Kress as interim CEO, confirming the succession prediction."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "Watch for the US Department of Commerce to issue a subpoena or open a formal audit into Nvidia's telemetry and tracking capabilities before Q3 end.",
       "grounded": false,
       "status": "too_early",
-      "note": "No fresh headlines were found to indicate whether the Department of Commerce opened an audit or issued a subpoena."
+      "note": "No new headlines were found to confirm or deny whether the Department of Commerce issued a subpoena or opened an audit into Nvidia."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "Expect Cisco's enterprise networking segment to report at least 15% year-over-year revenue growth in its upcoming quarterly earnings release.",
       "grounded": true,
       "status": "held_up",
-      "note": "Cisco reported its strongest revenue growth in 15 years driven by an AI-fueled networking rebound."
+      "note": "Fresh headlines report Cisco posted its strongest revenue growth in 15 years driven by AI networking demand and raised its sales outlook."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Look for Anthropic to secure a major federal defense or intelligence agency infrastructure contract within the next six months.",
       "grounded": false,
       "status": "missed",
-      "note": "Instead of securing a defense contract, Anthropic faced a Department of Defense conflict and supply chain risk designation while DoD partnered with OpenAI."
+      "note": "Rather than securing a defense contract, headlines indicate the Department of Defense designated Anthropic as a supply chain risk and struck a deal with OpenAI."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The Nasdaq 100 will test its 200-day moving average within the next ten trading sessions as index rebalancing settles.",
       "grounded": false,
       "status": "held_up",
-      "note": "The Nasdaq index tested and broke below its 200-day moving average as Nvidia selling resumed."
+      "note": "Headlines confirm that the Nasdaq index broke below its 200-day moving average amid Nvidia selling."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "Tesla board members will initiate an independent valuation committee to assess the merger terms before the end of the current quarter.",
       "grounded": true,
       "status": "too_early",
-      "note": "Headlines discuss analyst estimates for a Tesla-SpaceX merger but offer no update on whether Tesla's board formed an independent valuation committee."
+      "note": "The available headline discusses analyst price targets for a Tesla-SpaceX merger but does not confirm if Tesla's board initiated an independent valuation committee."
     },
     {
       "section": "markets",
