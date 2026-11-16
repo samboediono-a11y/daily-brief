@@ -8,7 +8,7 @@
       "prediction": "Nvidia stock will underperform the PHLX Semiconductor Index by at least 8% over the next 30 days as institutional funds rebalance risk weightings.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "No new headlines were found to evaluate Nvidia's relative stock performance following the executive resignation."
     },
     {
       "section": "tech",
@@ -16,8 +16,8 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOFFaaTFOMmRsSmNwRlBQZTNqWUJhZXlDbzRYQk5TRWpoLVQ5R0trbFZySzNhQU9pa1JZRXE5Q2VhVTNBUVhxOFB2b0JiUVNLZHpWQkxsYW5EeHY5YW9jU09hNzFhbnMxMnctaVFaUTdyYnhGS1g2Z2pNU0pWdmlYUUtuR0pWR2ZnMVhMWHhjd3VweXMyd0h2X2ZRc9IBoAFBVV95cUxObFlSaHJnalF6bnZ6eDUwbTlYZGlPNjlFN2xxZ3Q1blZNREx3YTlQaWx4NEtXeHlEbmZqc0doTExsM1RXSXMzM05TaVEzTjIxd1N6OGVWYkFhZUZLaXZKZWkyLW5EaW85eHQtMk5FMUcxMmVkNmJwSHZOWWZpVUZVd1FROVJKYjBlWUxERUpxZTNYdUZ0aldWX3RIa0ZrUXR3?oc=5",
       "prediction": "Anthropic will release its public S-1 filing within the next 90 days, revealing trailing operating margins below -40%.",
       "grounded": true,
-      "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "status": "held_up",
+      "note": "Fresh headlines confirm that Anthropic has released its S-1 filing / IPO prospectus."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "The US Department of Commerce will issue a formal inquiry into Nvidia's chip tracking capabilities before the end of Q2.",
       "grounded": false,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "The provided headlines do not contain information regarding a Department of Commerce inquiry into Nvidia's chip tracking capabilities."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "At least two major US state legislatures will enact formal moratoriums or extra grid-impact tariffs on new data centers by year-end.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "Headlines indicate ongoing political debate and candidate support for moratoriums, but do not confirm that state legislatures have formally enacted them."
     },
     {
       "section": "markets",
@@ -43,8 +43,8 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ1U5SnRYV0N6dE01QU1sOFNRWHR0WndCRG05bDl3UEhURE1jR01ZZ2p4dmFpb1llajB6QzdpRmp3WUZYSkhRRmhHT0tKY2hfWjN1b0U3UzJuUkZ3N3ZpWlU1Sk1pOWJvZ3cxcVVRVmhycW9ON2R1Um5nR3ZSQUtzTHE5aHlMb28wM2xyMzQtdnZHNUFfMWR4ZVZwN2pfc2RmcTRMTEtfY0NHbEh0dUo4N0g5UHNGTGJ3c1E?oc=5",
       "prediction": "Brent crude oil futures will trade consistently above $88 per barrel over the next 14 days if container traffic through Hormuz remains disrupted.",
       "grounded": true,
-      "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "status": "held_up",
+      "note": "Fresh headlines confirm Brent crude hit $88 and steadied near $96 amid ongoing conflict and shipping attacks in the Strait of Hormuz."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "Intel will announce additional capital expenditure cuts or dividend adjustments in its next quarterly report to preserve balance sheet cash.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "No new headlines were found to confirm whether Intel announced capex cuts or dividend adjustments in its quarterly report."
     },
     {
       "section": "markets",
