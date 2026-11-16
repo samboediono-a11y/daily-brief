@@ -48,6 +48,10 @@ from zoneinfo import ZoneInfo
 
 import feedparser
 import requests
+try:
+    from googlenewsdecoder import gnewsdecoder
+except Exception:  # library missing or broken: image step just falls back
+    gnewsdecoder = None
 from google import genai
 from google.genai import types as genai_types
 
@@ -708,6 +712,7 @@ def apply_grounded_meanings(data: dict, result: dict | None) -> dict:
 
 
 OG_IMAGE_RE_LIST = [
+    re.compile(r'<meta[^>]+(?:property|name)=["\']twitter:image(?::src)?["\'][^>]+content=["\']([^"\']+)["\']', re.IGNORECASE),
     re.compile(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']', re.IGNORECASE),
     re.compile(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']', re.IGNORECASE),
 ]
@@ -738,10 +743,24 @@ def fetch_og_image(url: str, timeout: int = 6) -> str:
     for pattern in OG_IMAGE_RE_LIST:
         m = pattern.search(html)
         if m:
-            img_url = m.group(1).strip()
+            img_url = urllib.parse.urljoin(resp.url, m.group(1).strip().replace("&amp;", "&"))
             if img_url.startswith("http"):
                 return img_url
     return ""
+
+
+def resolve_google_news_url(url: str) -> str:
+    """Google News RSS links hide the publisher's address. Ask the decoder
+    library for the real one. Any failure returns the original link."""
+    if not url or "news.google.com" not in url or gnewsdecoder is None:
+        return url
+    try:
+        result = gnewsdecoder(url, interval=1, timeout=10)
+        if isinstance(result, dict) and result.get("success") and result.get("decoded_url"):
+            return result["decoded_url"]
+    except Exception as e:  # noqa: BLE001
+        print(f"[image] Could not decode Google News link: {e}")
+    return url
 
 
 def _placeholder_image_url(seed_text: str, color: str = "#6EE7B7", width: int = 480, height: int = 640) -> str:
@@ -771,19 +790,43 @@ def _placeholder_image_url(seed_text: str, color: str = "#6EE7B7", width: int = 
         f'<defs><linearGradient id="g" gradientTransform="rotate({angle} .5 .5)">'
         f'<stop offset="0" stop-color="#{c}" stop-opacity=".32"/>'
         f'<stop offset="1" stop-color="#0d1117"/></linearGradient></defs>'
+        f'<rect width="100%" height="100%" fill="#0d1117"/>'
         f'<rect width="100%" height="100%" fill="url(#g)"/>{shapes}</svg>'
     )
     return "data:image/svg+xml;utf8," + urllib.parse.quote(svg)
 
 
+def _photo_placeholder_url(seed_text: str, width: int = 480, height: int = 640) -> str:
+    """Stock photo stand-in (Lorem Picsum), seeded so a story keeps its photo."""
+    seed = re.sub(r"[^a-zA-Z0-9]+", "-", seed_text).strip("-").lower()[:60] or "news"
+    return f"https://picsum.photos/seed/{urllib.parse.quote(seed)}/{width}/{height}"
+
+
 def attach_images(data: dict) -> dict:
+    deadline = time.time() + 6 * 60  # never let the image step stall the whole run
+    decoded = photos = total = 0
     for key, _label, color, _url in SECTIONS:
         for story in data["sections"].get(key, []):
-            real_image = fetch_og_image(story.get("link", ""))
+            total += 1
+            seed = f"{key}-{story.get('headline', '')}"
+            real_image = ""
+            if time.time() < deadline:
+                try:
+                    link = story.get("link", "")
+                    real_link = resolve_google_news_url(link)
+                    if real_link != link:
+                        decoded += 1
+                        story["link"] = real_link  # headline now goes straight to the publisher
+                    real_image = fetch_og_image(real_link) if "news.google.com" not in real_link else ""
+                except Exception as e:  # noqa: BLE001
+                    print(f"[image] Skipping real image for a story: {e}")
             if real_image and "google" not in real_image.lower():
                 story["image"] = real_image
+                photos += 1
             else:
-                story["image"] = _placeholder_image_url(f"{key}-{story.get('headline', '')}", color)
+                story["image"] = _photo_placeholder_url(seed)
+            story["image_fallback"] = _placeholder_image_url(seed, color)
+    print(f"[image] {decoded}/{total} links decoded, {photos}/{total} real article photos found")
     return data
 
 
@@ -840,9 +883,13 @@ def render_html(
                 headline_html = f'<h3 class="headline">{s["headline"]}</h3>'
 
             image_url = s.get("image", "")
+            fallback_url = s.get("image_fallback", "")
+            if fallback_url:
+                on_err = f"this.onerror=null;this.src='{fallback_url}'"
+            else:
+                on_err = "this.style.display='none'"
             img_tag = (
-                f'<img src="{image_url}" alt="" loading="lazy" '
-                f'onerror="this.style.display=\'none\'">'
+                f'<img src="{image_url}" alt="" loading="lazy" onerror="{on_err}">'
                 if image_url else ""
             )
             thumb_html = f"""<div class="thumb" style="--accent:{color}">
