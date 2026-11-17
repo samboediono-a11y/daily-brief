@@ -6,42 +6,54 @@
       "headline": "California Sues OpenAI Over Growing Cybersecurity and Hacking Risks",
       "link": "",
       "prediction": "Expect OpenAI to announce a dedicated $500M enterprise cyber-indemnity fund for API customers within the next 90 days to stem institutional churn.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "Russian Hackers Launch First Fully Automated AI Cyberattack, Google Warns",
       "link": "",
       "prediction": "Google Cloud Security or CrowdStrike will report the first confirmed case of autonomous AI-versus-AI network defense mitigation in a public threat report before Q3 ends.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "United Nations Opens Formal Talks to Regulate AI Autonomous Weapons",
       "link": "",
       "prediction": "The UN drafting committee will publish a non-binding framework draft by year-end without signatures from the US, China, or Russia.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
       "headline": "Leaks Reveal Samsung\u2019s Upcoming Touch-Controlled Galaxy Studio Headphones",
       "link": "",
       "prediction": "Samsung will launch the Galaxy Studio headphones alongside its next flagship foldable device within six months at a retail price point between $399 and $449.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
       "headline": "Tech Stocks Drop as Nvidia Prepares for First Post-Jensen Earnings",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbDVpN2RLWTVRb25zM19CZURtUUlIT056MDhZWVJ4NFlwN0pyeWhIb2FsQmJnOGVDQ1d3UWowSjJZdzg5dVJpa1d2cS1wLVBhOFktaGtXN3JkeDVvemUtZ1RPMHY1OFY2Yjc0QTdmVDQyVVROeDhvem9rZmpjOUNCYXFGcFZ3MXZKclUwR01FTXA4MUFQc1RBdG5R?oc=5",
       "prediction": "Nvidia stock will experience a single-day post-earnings price swing of at least 7% following the upcoming call.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
       "headline": "Impending Anthropic IPO Threatens to Further Concentrate Stock Indexes",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZHRsTmd2T2oycVB5ZVQzWlV6Uk1GTGFFX2xHLWRfVTN6MGpTakk1UTlUdXoxcGFJMmxWanh4UEZUNE84NzhWOFJQQ1ZqRkNSNUVMYzkxNGN4M0EzaHZnVmh5N09Wd1ZrM2VsWlg5R19nR05NUnlRQ3psY1Z4M3JZY1oySmpFcGpWOFN5WGJ3czBWT1AzMmRUcHFHcnJkdEVpR09PUEdsM0NjTGl2NEJqNVVqV0pGMUQtVUVwRUlsWDh0RFdV?oc=5",
       "prediction": "Anthropic\u2019s IPO S-1 filing will reveal a revenue concentration where over 60% of annual recurring revenue stems from enterprise API contracts within 60 days of filing.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
