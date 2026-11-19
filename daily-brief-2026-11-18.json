@@ -8,7 +8,7 @@
       "prediction": "Expect Anthropic to price its IPO shares at least 15% below its final private funding round valuation prior to ringing the opening bell.",
       "grounded": false,
       "status": "too_early",
-      "note": "Although headlines confirm Anthropic completed its IPO, they do not disclose its final private round valuation to verify if it priced at a 15% discount."
+      "note": "While fresh headlines confirm Anthropic's IPO pricing and initial valuation, they do not provide data on its prior private funding round valuation to verify a 15% discount."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "Watch for Meta and Google to record non-cash asset impairment charges on their mainland infrastructure investments within the next two quarterly earnings releases.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new headlines were found to determine whether Meta or Google took non-cash impairment charges on their mainland infrastructure."
+      "note": "No new headlines were found to report on Meta or Google recording non-cash asset impairment charges on mainland infrastructure."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "Expect Seattle-area office vacancy rates in primary tech corridors to expand by another 150 to 200 basis points over the next six months.",
       "grounded": false,
       "status": "too_early",
-      "note": "No fresh information was found regarding changes in Seattle-area office vacancy rates."
+      "note": "No new headlines were found regarding Seattle-area tech corridor office vacancy rates."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Nvidia's high-margin enterprise software and networking segment will rise to account for over 18% of total quarterly revenue within four quarters.",
       "grounded": true,
       "status": "too_early",
-      "note": "Recent earnings reports are noted, but the headlines do not provide the specific revenue share for Nvidia's enterprise software and networking segment."
+      "note": "Fresh earnings headlines for Nvidia do not contain the specific revenue percentage breakdown for its enterprise software and networking segment."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The Nasdaq 100 will underperform value-focused equity indices by at least 3% over the next 30 trading days as capital rotates into cash-flowing defensive sectors.",
       "grounded": true,
       "status": "too_early",
-      "note": "While headlines indicate value stocks are drawing interest, they lack the specific index data required to confirm a 3% underperformance by the Nasdaq 100."
+      "note": "While headlines highlight value stocks taking the lead, they do not provide specific relative performance figures between the Nasdaq 100 and value indices over 30 trading days."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "The S&P 500 will test its 200-day moving average within the next three weeks before establishing a sustainable trading floor.",
       "grounded": true,
       "status": "held_up",
-      "note": "Fresh headlines confirm the S&P 500 tested its 200-day moving average, ending a 155-day streak above the metric."
+      "note": "Fresh headlines explicitly confirm that the S&P 500 tested a key technical floor and ended its 155-day run above its 200-day moving average."
     },
     {
       "section": "markets",
