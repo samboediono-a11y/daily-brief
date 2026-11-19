@@ -1,0 +1,1443 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Daily Brief — November 19, 2026</title>
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#0B0E11">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Daily Brief">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0B0E11;
+    --bg-raised:#12161B;
+    --card:#161B21;
+    --card-hi:#1B2129;
+    --line:#252C35;
+    --text:#EDF0F2;
+    --text-dim:#8F98A3;
+    --text-faint:#5B6470;
+    --teal:#2DD4BF;
+    --amber:#F5A623;
+    --blue:#5FA8FF;
+    --coral:#F87171;
+    --violet:#A78BFA;
+    --green:#22C55E;
+    --red:#EF4444;
+  }
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    margin:0;
+    background:
+      radial-gradient(ellipse 900px 400px at 50% -80px, rgba(45,212,191,0.10), transparent 70%),
+      var(--bg);
+    color:var(--text);
+    font-family:'Inter',system-ui,sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{color:inherit; text-decoration:none;}
+
+  /* ---- Ticker ---- */
+  .ticker-wrap{
+    background:#000;
+    border-bottom:1px solid var(--line);
+    overflow:hidden;
+    white-space:nowrap;
+  }
+  .ticker{
+    display:inline-block;
+    padding:7px 0;
+    font-family:'JetBrains Mono',monospace;
+    font-size:11.5px;
+    letter-spacing:0.06em;
+    color:var(--text-faint);
+    animation:scroll 24s linear infinite;
+  }
+  .ticker span{ padding:0 26px; }
+  .ticker span:not(:last-child)::after{ content:"•"; margin-left:26px; color:var(--line); }
+  @keyframes scroll{
+    0%{transform:translateX(0);}
+    100%{transform:translateX(-50%);}
+  }
+
+  /* ---- Day tabs: styled like real browser tabs, connected to the header below ---- */
+  .tabs-wrap{
+    background:var(--bg-raised);
+    border-bottom:1px solid var(--line);
+    overflow-x:auto;
+    -webkit-overflow-scrolling:touch;
+  }
+  .tabs-wrap::-webkit-scrollbar{ height:0; }
+  .tabs{
+    display:flex;
+    max-width:1140px;
+    margin:0 auto;
+    padding:8px 20px 0;
+    gap:4px;
+  }
+  .tab{
+    font-family:'JetBrains Mono',monospace;
+    font-size:11px;
+    font-weight:500;
+    letter-spacing:0.05em;
+    color:var(--text-faint);
+    padding:9px 16px;
+    border-radius:8px 8px 0 0;
+    white-space:nowrap;
+    flex-shrink:0;
+    border:1px solid transparent;
+    border-bottom:none;
+    transition:color .15s ease;
+  }
+  .tab:hover{ color:var(--text-dim); background:rgba(255,255,255,0.02); }
+  .tab.active{
+    color:var(--teal);
+    background:var(--bg);
+    border-color:var(--line);
+  }
+
+  /* ---- Header ---- */
+  header{
+    max-width:1140px;
+    margin:0 auto;
+    padding:38px 20px 26px;
+  }
+  .eyebrow{
+    font-family:'JetBrains Mono',monospace;
+    font-size:10.5px;
+    letter-spacing:0.16em;
+    text-transform:uppercase;
+    color:var(--text-faint);
+    display:flex;
+    justify-content:space-between;
+    margin-bottom:18px;
+  }
+  .eyebrow .live{
+    color:var(--teal);
+    display:inline-flex;
+    align-items:center;
+    gap:5px;
+  }
+  .eyebrow .live::before{
+    content:"";
+    width:6px; height:6px; border-radius:50%;
+    background:var(--teal);
+    box-shadow:0 0 0 3px rgba(45,212,191,0.18);
+  }
+  h1.masthead{
+    font-family:'Space Grotesk',sans-serif;
+    font-weight:700;
+    font-size:40px;
+    line-height:1.05;
+    margin:0 0 12px;
+    letter-spacing:-0.01em;
+    background:linear-gradient(180deg, #FFFFFF 0%, #C9D0D6 100%);
+    -webkit-background-clip:text;
+    background-clip:text;
+    color:transparent;
+  }
+  .dateline{
+    font-size:13.5px;
+    color:var(--text-dim);
+    margin-bottom:18px;
+  }
+
+  /* ---- Quick jump nav ---- */
+  .jumpnav{
+    max-width:1140px;
+    margin:0 auto;
+    padding:0 20px 8px;
+    display:flex;
+    gap:8px;
+    flex-wrap:wrap;
+  }
+  .jumpnav a{
+    font-family:'JetBrains Mono',monospace;
+    font-size:10.5px;
+    letter-spacing:0.08em;
+    padding:6px 12px;
+    border:1px solid var(--line);
+    border-radius:20px;
+    color:var(--text-dim);
+    transition:all .15s ease;
+  }
+  .jumpnav a:hover{ border-color:var(--teal); color:var(--teal); transform:translateY(-1px); }
+
+  main{max-width:1140px; margin:0 auto; padding:10px 20px 60px;}
+
+  .layout{
+    display:grid;
+    grid-template-columns: minmax(0, 1fr) 300px;
+    grid-template-areas: "news earnings";
+    gap:28px;
+    align-items:start;
+  }
+  .news-col{ grid-area:news; min-width:0; }
+  .earnings-col{
+    grid-area:earnings;
+    position:sticky;
+    top:16px;
+    min-width:0;
+  }
+  @media (max-width:900px){
+    .layout{
+      grid-template-columns:1fr;
+      grid-template-areas: "earnings" "news";
+    }
+    .earnings-col{ position:static; }
+  }
+
+  .section-label{
+    display:flex;
+    align-items:center;
+    gap:11px;
+    margin:50px 0 18px;
+    scroll-margin-top:64px;
+  }
+  .section-label .chip{
+    font-family:'JetBrains Mono',monospace;
+    font-size:10.5px;
+    font-weight:700;
+    letter-spacing:0.04em;
+    padding:3px 7px;
+    border-radius:5px;
+    border:1px solid;
+  }
+  .section-label h2{
+    font-family:'Space Grotesk',sans-serif;
+    font-size:13.5px;
+    font-weight:600;
+    letter-spacing:0.13em;
+    text-transform:uppercase;
+    margin:0;
+    color:var(--text);
+  }
+  .section-label .line{ flex:1; height:1px; background:var(--line); }
+
+  /* ---- Story cards ---- */
+  article.story{
+    position:relative;
+    display:flex;
+    align-items:stretch;
+    background:linear-gradient(180deg, var(--card-hi), var(--card));
+    border:1px solid var(--line);
+    border-radius:10px;
+    overflow:hidden;
+    margin-bottom:16px;
+    box-shadow:0 10px 28px -18px rgba(0,0,0,0.6);
+  }
+
+  .thumb{
+    position:relative;
+    flex:0 0 148px;
+    width:148px;
+    background:
+      linear-gradient(135deg, color-mix(in srgb, var(--accent) 30%, transparent), color-mix(in srgb, var(--accent) 8%, transparent));
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  }
+  .thumb img{
+    position:absolute;
+    inset:0;
+    width:100%;
+    height:100%;
+    object-fit:cover;
+  }
+  .thumb-fallback{
+    font-family:'Space Grotesk',sans-serif;
+    font-weight:700;
+    font-size:20px;
+    letter-spacing:0.02em;
+    color:var(--accent);
+  }
+
+  .story-body{
+    flex:1;
+    min-width:0;
+    padding:18px 20px;
+    border-left:3px solid var(--accent, var(--teal));
+  }
+
+  .domain-badge{
+    display:inline-block;
+    font-family:'JetBrains Mono',monospace;
+    font-size:10px;
+    letter-spacing:0.04em;
+    color:var(--text-faint);
+    background:rgba(255,255,255,0.03);
+    border:1px solid var(--line);
+    border-radius:4px;
+    padding:2px 7px;
+    margin-bottom:10px;
+  }
+
+  .headline-link{
+    display:inline-flex;
+    align-items:flex-start;
+    gap:6px;
+  }
+  .headline{
+    font-family:'Space Grotesk',sans-serif;
+    font-weight:600;
+    font-size:19px;
+    line-height:1.32;
+    margin:0 0 10px;
+    color:var(--text);
+    transition:color .15s ease;
+  }
+  .headline-link:hover .headline{ color:var(--teal); }
+  .ext-icon{
+    font-size:13px;
+    color:var(--text-faint);
+    margin-top:3px;
+  }
+
+  .summary{
+    font-size:14.5px;
+    line-height:1.65;
+    color:#C7CDD3;
+    margin:0 0 14px;
+  }
+
+  .analyst{
+    background:rgba(0,0,0,0.22);
+    border:1px solid var(--line);
+    border-radius:6px;
+    padding:13px 15px;
+  }
+  .analyst .label{
+    font-family:'JetBrains Mono',monospace;
+    font-size:10px;
+    font-weight:600;
+    letter-spacing:0.1em;
+    text-transform:uppercase;
+    color:var(--accent, var(--teal));
+    display:flex;
+    align-items:center;
+    flex-wrap:wrap;
+    gap:6px 10px;
+    margin-bottom:8px;
+  }
+  .angle-src{
+    font-weight:400;
+    text-transform:none;
+    letter-spacing:0.01em;
+    font-size:9.5px;
+    color:var(--text-faint);
+  }
+  .analyst p{
+    margin:0;
+    font-size:13.5px;
+    line-height:1.62;
+    color:#B8C0C8;
+  }
+  .angle-view{ margin-bottom:10px !important; }
+  .angle-bear{
+    padding-top:10px;
+    margin-bottom:10px !important;
+    border-top:1px dashed var(--line);
+    color:#C7B8AE !important;
+  }
+  .bear-label{
+    font-family:'JetBrains Mono',monospace;
+    font-weight:600;
+    font-size:11px;
+    letter-spacing:0.03em;
+    color:var(--coral);
+  }
+  .angle-prediction{
+    padding-top:10px;
+    border-top:1px dashed var(--line);
+    color:#D3D9DE !important;
+  }
+  .pred-label{
+    font-family:'JetBrains Mono',monospace;
+    font-weight:600;
+    font-size:11px;
+    letter-spacing:0.03em;
+    color:var(--accent, var(--teal));
+  }
+
+  /* ---- AI stock movers (narrow sidebar layout) ---- */
+  .movers-card{
+    background:linear-gradient(180deg, var(--card-hi), var(--card));
+    border:1px solid var(--line);
+    border-left:3px solid #F472B6;
+    border-radius:8px;
+    padding:4px 16px 10px;
+    margin-bottom:16px;
+    box-shadow:0 10px 28px -18px rgba(0,0,0,0.6);
+  }
+  .movers-subhead{
+    font-family:'JetBrains Mono',monospace;
+    font-size:10px;
+    font-weight:600;
+    letter-spacing:0.08em;
+    text-transform:uppercase;
+    padding:12px 0 8px;
+  }
+  .movers-card .movers-subhead:first-child{ padding-top:14px; }
+  .mover-row{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    padding:6px 0;
+  }
+  .mover-row .tk{
+    font-family:'JetBrains Mono',monospace;
+    font-weight:600;
+    font-size:12.5px;
+    color:var(--text);
+    min-width:44px;
+  }
+  .mname{
+    font-size:11.5px;
+    color:var(--text-dim);
+    flex:1;
+    min-width:0;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    white-space:nowrap;
+  }
+  .mchange{
+    font-family:'JetBrains Mono',monospace;
+    font-size:11.5px;
+    font-weight:600;
+    white-space:nowrap;
+  }
+  .mv-up{ color:var(--green); }
+  .mv-down{ color:var(--red); }
+  .movers-empty{
+    font-size:11.5px;
+    color:var(--text-faint);
+    padding:4px 0 8px;
+    margin:0;
+  }
+
+  /* ---- Trending (real Reddit upvote signal, wide layout) ---- */
+  .trending-card{
+    background:linear-gradient(180deg, var(--card-hi), var(--card));
+    border:1px solid var(--line);
+    border-left:3px solid #FDE047;
+    border-radius:8px;
+    padding:4px 20px;
+    margin-bottom:16px;
+    box-shadow:0 10px 28px -18px rgba(0,0,0,0.6);
+  }
+  .trend-row{
+    display:flex;
+    align-items:center;
+    gap:14px;
+    padding:13px 0;
+    border-bottom:1px solid var(--line);
+  }
+  .trend-row:last-child{ border-bottom:none; }
+  .tr-rank{
+    font-family:'JetBrains Mono',monospace;
+    font-weight:700;
+    font-size:13px;
+    color:var(--text-faint);
+    min-width:16px;
+  }
+  .tr-headline{
+    flex:1;
+    font-size:14.5px;
+    color:var(--text);
+    min-width:0;
+    transition:color .15s ease;
+  }
+  .tr-headline:hover{ color:#FDE047; }
+  .tr-meta{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    flex-shrink:0;
+  }
+  .tr-source{
+    font-family:'JetBrains Mono',monospace;
+    font-size:10px;
+    color:var(--text-faint);
+    background:rgba(255,255,255,0.03);
+    border:1px solid var(--line);
+    border-radius:4px;
+    padding:2px 6px;
+  }
+  .tr-score{
+    font-family:'JetBrains Mono',monospace;
+    font-size:11px;
+    font-weight:600;
+    color:#FDE047;
+    white-space:nowrap;
+  }
+  @media (max-width:600px){
+    .trend-row{ flex-wrap:wrap; }
+    .tr-headline{ flex-basis:100%; order:1; }
+    .tr-meta{ order:2; }
+  }
+
+  /* ---- Calls checked (narrow sidebar layout) ---- */
+  .calls-card{
+    background:linear-gradient(180deg, var(--card-hi), var(--card));
+    border:1px solid var(--line);
+    border-left:3px solid #34D399;
+    border-radius:8px;
+    padding:4px 16px;
+    box-shadow:0 10px 28px -18px rgba(0,0,0,0.6);
+  }
+  .call-row{
+    padding:12px 0;
+    border-bottom:1px solid var(--line);
+  }
+  .call-row:last-child{ border-bottom:none; }
+  .call-status{
+    font-family:'JetBrains Mono',monospace;
+    font-size:10.5px;
+    font-weight:600;
+    letter-spacing:0.04em;
+    display:block;
+    margin-bottom:6px;
+  }
+  .call-pred{
+    font-size:12.5px;
+    font-style:italic;
+    color:var(--text-dim);
+    margin:0 0 5px;
+    line-height:1.5;
+  }
+  .call-note{
+    font-size:11.5px;
+    color:var(--text-faint);
+    margin:0;
+    line-height:1.5;
+  }
+  .calls-empty{
+    font-size:11.5px;
+    color:var(--text-faint);
+    padding:16px 0;
+    margin:0;
+  }
+  .track-badge{
+    font-family:'JetBrains Mono',monospace;
+    font-size:11px;
+    color:var(--text-dim);
+    background:var(--bg-raised);
+    border:1px solid var(--line);
+    border-radius:6px;
+    padding:8px 12px;
+    margin-bottom:10px;
+  }
+  .track-badge.track-building{ color:var(--text-faint); font-style:italic; }
+
+  /* ---- Crypto prices (narrow sidebar layout) ---- */
+  .crypto-card{
+    background:linear-gradient(180deg, var(--card-hi), var(--card));
+    border:1px solid var(--line);
+    border-left:3px solid #818CF8;
+    border-radius:8px;
+    padding:4px 16px;
+    box-shadow:0 10px 28px -18px rgba(0,0,0,0.6);
+  }
+  .crypto-row{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    padding:11px 0;
+    border-bottom:1px solid var(--line);
+  }
+  .crypto-row:last-child{ border-bottom:none; }
+  .cp-symbol{
+    font-family:'JetBrains Mono',monospace;
+    font-weight:600;
+    font-size:12.5px;
+    color:#818CF8;
+    min-width:36px;
+  }
+  .cp-price{
+    font-family:'JetBrains Mono',monospace;
+    font-size:12.5px;
+    color:var(--text);
+    flex:1;
+  }
+  .cp-change{
+    font-family:'JetBrains Mono',monospace;
+    font-size:11px;
+    font-weight:600;
+    white-space:nowrap;
+  }
+  .crypto-empty{
+    font-size:11.5px;
+    color:var(--text-faint);
+    padding:16px 0;
+    margin:0;
+  }
+
+  /* ---- Earnings calendar (narrow sidebar layout) ---- */
+  .earnings-card{
+    background:linear-gradient(180deg, var(--card-hi), var(--card));
+    border:1px solid var(--line);
+    border-left:3px solid var(--violet);
+    border-radius:8px;
+    padding:4px 16px;
+    box-shadow:0 10px 28px -18px rgba(0,0,0,0.6);
+  }
+  .earnings-row{
+    padding:12px 0;
+    border-bottom:1px solid var(--line);
+  }
+  .earnings-row:last-child{ border-bottom:none; }
+  .erow-top{
+    display:flex;
+    justify-content:space-between;
+    align-items:baseline;
+    gap:8px;
+    margin-bottom:4px;
+  }
+  .tk{
+    font-family:'JetBrains Mono',monospace;
+    font-weight:600;
+    font-size:13.5px;
+    color:var(--violet);
+  }
+  .ename{
+    font-size:12.5px;
+    color:var(--text-dim);
+    margin-bottom:7px;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    white-space:nowrap;
+  }
+  .erow-meta{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    flex-wrap:wrap;
+  }
+  .edate{
+    font-family:'JetBrains Mono',monospace;
+    font-size:10.5px;
+    color:var(--text-dim);
+  }
+  .esession{
+    font-family:'JetBrains Mono',monospace;
+    font-size:9.5px;
+    letter-spacing:0.04em;
+    padding:2px 7px;
+    border-radius:10px;
+    border:1px solid;
+  }
+  .sess-bmo{ color:var(--green); border-color:rgba(34,197,94,0.4); background:rgba(34,197,94,0.08); }
+  .sess-amc{ color:var(--blue); border-color:rgba(95,168,255,0.4); background:rgba(95,168,255,0.08); }
+  .sess-tbd{ color:var(--text-faint); border-color:var(--line); background:rgba(255,255,255,0.02); }
+  .eeps{
+    font-family:'JetBrains Mono',monospace;
+    font-size:11px;
+    color:var(--text-dim);
+  }
+
+  footer{
+    max-width:1140px;
+    margin:0 auto;
+    padding:34px 20px 60px;
+    border-top:1px solid var(--line);
+  }
+  footer p{
+    font-size:12.5px;
+    line-height:1.6;
+    color:var(--text-faint);
+    margin:0;
+  }
+
+  @media (max-width:600px){
+    h1.masthead{font-size:30px;}
+    .headline{font-size:17px;}
+    article.story{ flex-direction:column; }
+    .thumb{ width:100%; height:170px; flex:none; }
+    .story-body{ border-left:none; border-top:3px solid var(--accent, var(--teal)); }
+  }
+</style>
+</head>
+<body>
+
+<div class="ticker-wrap">
+  <div class="ticker">
+    <span>GENERATED AUTOMATICALLY</span>
+    <span>TECH · MARKETS · US NEWS · INDONESIA · EARNINGS</span>
+    <span>REAL SOURCES, LINKED HEADLINES</span>
+    <span>GENERATED AUTOMATICALLY</span>
+    <span>TECH · MARKETS · US NEWS · INDONESIA · EARNINGS</span>
+    <span>REAL SOURCES, LINKED HEADLINES</span>
+  </div>
+</div>
+
+<div class="tabs-wrap">
+  <!-- DAY_TABS_START -->
+  <div class="tabs">
+    <a class="tab active" href="daily-brief-2026-11-19.html">NOV 19</a>
+    <a class="tab" href="daily-brief-2026-11-18.html">NOV 18</a>
+    <a class="tab" href="daily-brief-2026-11-17.html">NOV 17</a>
+    <a class="tab" href="daily-brief-2026-11-16.html">NOV 16</a>
+    <a class="tab" href="daily-brief-2026-11-15.html">NOV 15</a>
+    <a class="tab" href="daily-brief-2026-11-14.html">NOV 14</a>
+    <a class="tab" href="daily-brief-2026-11-13.html">NOV 13</a>
+    <a class="tab" href="daily-brief-2026-11-12.html">NOV 12</a>
+    <a class="tab" href="daily-brief-2026-11-05.html">NOV 05</a>
+    <a class="tab" href="daily-brief-2026-11-04.html">NOV 04</a>
+    <a class="tab" href="daily-brief-2026-11-03.html">NOV 03</a>
+    <a class="tab" href="daily-brief-2026-11-02.html">NOV 02</a>
+    <a class="tab" href="daily-brief-2026-11-01.html">NOV 01</a>
+    <a class="tab" href="daily-brief-2026-10-31.html">OCT 31</a>
+    <a class="tab" href="daily-brief-2026-10-30.html">OCT 30</a>
+    <a class="tab" href="daily-brief-2026-10-29.html">OCT 29</a>
+    <a class="tab" href="daily-brief-2026-10-28.html">OCT 28</a>
+    <a class="tab" href="daily-brief-2026-10-27.html">OCT 27</a>
+    <a class="tab" href="daily-brief-2026-10-26.html">OCT 26</a>
+    <a class="tab" href="daily-brief-2026-10-25.html">OCT 25</a>
+    <a class="tab" href="daily-brief-2026-10-24.html">OCT 24</a>
+    <a class="tab" href="daily-brief-2026-10-23.html">OCT 23</a>
+    <a class="tab" href="daily-brief-2026-10-21.html">OCT 21</a>
+    <a class="tab" href="daily-brief-2026-10-20.html">OCT 20</a>
+    <a class="tab" href="daily-brief-2026-10-19.html">OCT 19</a>
+    <a class="tab" href="daily-brief-2026-10-18.html">OCT 18</a>
+    <a class="tab" href="daily-brief-2026-10-17.html">OCT 17</a>
+    <a class="tab" href="daily-brief-2026-10-15.html">OCT 15</a>
+    <a class="tab" href="daily-brief-2026-10-14.html">OCT 14</a>
+    <a class="tab" href="daily-brief-2026-10-13.html">OCT 13</a>
+    <a class="tab" href="daily-brief-2026-10-12.html">OCT 12</a>
+    <a class="tab" href="daily-brief-2026-10-11.html">OCT 11</a>
+    <a class="tab" href="daily-brief-2026-10-10.html">OCT 10</a>
+    <a class="tab" href="daily-brief-2026-10-09.html">OCT 09</a>
+    <a class="tab" href="daily-brief-2026-10-08.html">OCT 08</a>
+    <a class="tab" href="daily-brief-2026-10-07.html">OCT 07</a>
+    <a class="tab" href="daily-brief-2026-10-06.html">OCT 06</a>
+    <a class="tab" href="daily-brief-2026-10-05.html">OCT 05</a>
+    <a class="tab" href="daily-brief-2026-10-04.html">OCT 04</a>
+    <a class="tab" href="daily-brief-2026-10-03.html">OCT 03</a>
+    <a class="tab" href="daily-brief-2026-10-02.html">OCT 02</a>
+    <a class="tab" href="daily-brief-2026-10-01.html">OCT 01</a>
+    <a class="tab" href="daily-brief-2026-09-30.html">SEP 30</a>
+    <a class="tab" href="daily-brief-2026-09-29.html">SEP 29</a>
+    <a class="tab" href="daily-brief-2026-09-27.html">SEP 27</a>
+    <a class="tab" href="daily-brief-2026-09-26.html">SEP 26</a>
+    <a class="tab" href="daily-brief-2026-09-21.html">SEP 21</a>
+    <a class="tab" href="daily-brief-2026-09-20.html">SEP 20</a>
+    <a class="tab" href="daily-brief-2026-09-19.html">SEP 19</a>
+    <a class="tab" href="daily-brief-2026-09-18.html">SEP 18</a>
+    <a class="tab" href="daily-brief-2026-09-17.html">SEP 17</a>
+    <a class="tab" href="daily-brief-2026-09-16.html">SEP 16</a>
+    <a class="tab" href="daily-brief-2026-09-15.html">SEP 15</a>
+    <a class="tab" href="daily-brief-2026-09-14.html">SEP 14</a>
+    <a class="tab" href="daily-brief-2026-09-13.html">SEP 13</a>
+    <a class="tab" href="daily-brief-2026-09-12.html">SEP 12</a>
+    <a class="tab" href="daily-brief-2026-09-11.html">SEP 11</a>
+    <a class="tab" href="daily-brief-2026-09-10.html">SEP 10</a>
+    <a class="tab" href="daily-brief-2026-09-09.html">SEP 09</a>
+    <a class="tab" href="daily-brief-2026-09-08.html">SEP 08</a>
+    <a class="tab" href="daily-brief-2026-09-07.html">SEP 07</a>
+    <a class="tab" href="daily-brief-2026-09-06.html">SEP 06</a>
+    <a class="tab" href="daily-brief-2026-09-05.html">SEP 05</a>
+    <a class="tab" href="daily-brief-2026-09-04.html">SEP 04</a>
+    <a class="tab" href="daily-brief-2026-09-03.html">SEP 03</a>
+    <a class="tab" href="daily-brief-2026-09-02.html">SEP 02</a>
+    <a class="tab" href="daily-brief-2026-09-01.html">SEP 01</a>
+    <a class="tab" href="daily-brief-2026-08-31.html">AUG 31</a>
+    <a class="tab" href="daily-brief-2026-08-30.html">AUG 30</a>
+    <a class="tab" href="daily-brief-2026-08-29.html">AUG 29</a>
+    <a class="tab" href="daily-brief-2026-08-28.html">AUG 28</a>
+    <a class="tab" href="daily-brief-2026-08-27.html">AUG 27</a>
+    <a class="tab" href="daily-brief-2026-08-26.html">AUG 26</a>
+    <a class="tab" href="daily-brief-2026-08-25.html">AUG 25</a>
+    <a class="tab" href="daily-brief-2026-08-24.html">AUG 24</a>
+    <a class="tab" href="daily-brief-2026-08-23.html">AUG 23</a>
+    <a class="tab" href="daily-brief-2026-08-22.html">AUG 22</a>
+    <a class="tab" href="daily-brief-2026-08-21.html">AUG 21</a>
+    <a class="tab" href="daily-brief-2026-08-20.html">AUG 20</a>
+    <a class="tab" href="daily-brief-2026-08-19.html">AUG 19</a>
+    <a class="tab" href="daily-brief-2026-08-18.html">AUG 18</a>
+    <a class="tab" href="daily-brief-2026-08-17.html">AUG 17</a>
+    <a class="tab" href="daily-brief-2026-08-16.html">AUG 16</a>
+    <a class="tab" href="daily-brief-2026-08-15.html">AUG 15</a>
+    <a class="tab" href="daily-brief-2026-08-14.html">AUG 14</a>
+    <a class="tab" href="daily-brief-2026-08-13.html">AUG 13</a>
+    <a class="tab" href="daily-brief-2026-08-12.html">AUG 12</a>
+    <a class="tab" href="daily-brief-2026-08-11.html">AUG 11</a>
+    <a class="tab" href="daily-brief-2026-08-10.html">AUG 10</a>
+    <a class="tab" href="daily-brief-2026-08-09.html">AUG 09</a>
+    <a class="tab" href="daily-brief-2026-08-08.html">AUG 08</a>
+    <a class="tab" href="daily-brief-2026-08-07.html">AUG 07</a>
+    <a class="tab" href="daily-brief-2026-08-06.html">AUG 06</a>
+    <a class="tab" href="daily-brief-2026-08-05.html">AUG 05</a>
+    <a class="tab" href="daily-brief-2026-08-04.html">AUG 04</a>
+    <a class="tab" href="daily-brief-2026-08-03.html">AUG 03</a>
+    <a class="tab" href="daily-brief-2026-08-02.html">AUG 02</a>
+    <a class="tab" href="daily-brief-2026-08-01.html">AUG 01</a>
+    <a class="tab" href="daily-brief-2026-07-31.html">JUL 31</a>
+    <a class="tab" href="daily-brief-2026-07-30.html">JUL 30</a>
+  </div>
+  <!-- DAY_TABS_END -->
+</div>
+
+<header>
+  <div class="eyebrow"><span class="live">Daily Edition</span><span>Auto-generated</span></div>
+  <h1 class="masthead">The Daily Brief</h1>
+  <div class="dateline">November 19, 2026  ·  Tech · Markets · US · Indonesia · Earnings</div>
+</header>
+
+<div class="jumpnav">
+  <a href="#trending">TRENDING</a>
+  <a href="#calls-checked">CALLS CHECKED</a>
+  <a href="#tech-movers">TECH STOCKS</a>
+  <a href="#crypto-prices">CRYPTO PRICES</a>
+  <a href="#earnings">EARNINGS</a>
+  <a href="#tech">TECH</a>
+  <a href="#markets">MARKETS</a>
+  <a href="#us_news">US NEWS</a>
+  <a href="#indonesia">INDONESIA</a>
+  <a href="#crypto_fx">CRYPTO &amp; FX</a>
+</div>
+
+<main>
+  <div class="layout">
+    <div class="news-col">
+
+  <div class="section-label" id="trending">
+    <span class="chip" style="background:#FDE04722;color:#FDE047;border-color:#FDE04755">TR</span>
+    <h2>TRENDING NOW</h2><span class="line"></span>
+  </div>
+  <div class="trending-card">
+    <div class="trend-row">
+      <span class="tr-rank">1</span>
+      <a class="tr-headline" href="https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/" target="_blank" rel="noopener">Anthropic hits $2T in Nasdaq debut</a>
+      <span class="tr-meta">
+        <span class="tr-source">Hacker News</span>
+        <span class="tr-score">&#9650; 733</span>
+      </span>
+    </div>
+    <div class="trend-row">
+      <span class="tr-rank">2</span>
+      <a class="tr-headline" href="https://blog.harrison.page/garage-door-spam/" target="_blank" rel="noopener">Garage Door Spam</a>
+      <span class="tr-meta">
+        <span class="tr-source">Hacker News</span>
+        <span class="tr-score">&#9650; 692</span>
+      </span>
+    </div>
+    <div class="trend-row">
+      <span class="tr-rank">3</span>
+      <a class="tr-headline" href="https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/" target="_blank" rel="noopener">UK government forced to admit it issued Apple a secret encryption order</a>
+      <span class="tr-meta">
+        <span class="tr-source">Hacker News</span>
+        <span class="tr-score">&#9650; 415</span>
+      </span>
+    </div>
+    <div class="trend-row">
+      <span class="tr-rank">4</span>
+      <a class="tr-headline" href="https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/" target="_blank" rel="noopener">Pancreatic cancer halted by virus injection in three patients</a>
+      <span class="tr-meta">
+        <span class="tr-source">Hacker News</span>
+        <span class="tr-score">&#9650; 354</span>
+      </span>
+    </div>
+    <div class="trend-row">
+      <span class="tr-rank">5</span>
+      <a class="tr-headline" href="https://github.com/openjdk/jdk/pull/32781" target="_blank" rel="noopener">Someone reported java4shell bug in September 2026</a>
+      <span class="tr-meta">
+        <span class="tr-source">Hacker News</span>
+        <span class="tr-score">&#9650; 320</span>
+      </span>
+    </div>
+  </div>
+
+
+  <div class="section-label" id="tech"><span class="chip" style="background:#2DD4BF22;color:#2DD4BF;border-color:#2DD4BF55">TE</span><h2>TECH</h2><span class="line"></span></div>
+
+  <article class="story" style="--accent:#2DD4BF">
+    <div class="thumb" style="--accent:#2DD4BF">
+      <img src="https://picsum.photos/seed/tech-anthropic-goes-public-at-a-massive-trillion-dollar-valu/480/640" alt="" loading="lazy" onerror="this.onerror=null;this.src='data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22640%22%20viewBox%3D%220%200%20480%20640%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20gradientTransform%3D%22rotate%280%20.5%20.5%29%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232DD4BF%22%20stop-opacity%3D%22.32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d1117%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%230d1117%22/%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22url%28%23g%29%22/%3E%3Ccircle%20cx%3D%22309%22%20cy%3D%22133%22%20r%3D%22175%22%20fill%3D%22%232DD4BF%22%20fill-opacity%3D%220.25%22/%3E%3Ccircle%20cx%3D%22471%22%20cy%3D%22130%22%20r%3D%22100%22%20fill%3D%22%232DD4BF%22%20fill-opacity%3D%220.21%22/%3E%3Ccircle%20cx%3D%22454%22%20cy%3D%22196%22%20r%3D%22177%22%20fill%3D%22%232DD4BF%22%20fill-opacity%3D%220.28%22/%3E%3Ccircle%20cx%3D%225%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%232DD4BF%22%20fill-opacity%3D%220.10%22/%3E%3Ccircle%20cx%3D%220%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%232DD4BF%22%20fill-opacity%3D%220.10%22/%3E%3C/svg%3E'">
+      <span class="thumb-fallback">TE</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMifkFVX3lxTE9FMG1KU0o0NERzUTNyMkszYVJhbGNJd2hnd3BGQ21uSFUtWC1KOUNCSkhxczlKQlVCVmoxZDhqRUMtOThWZGlXWnVCVjRYYlJQaENHN1hsUUp5RXdMQzF2Z0wwYW9wdVl4b1VrdG4tSXpHUVQxTnJZNVk2N0I2dw?oc=5" target="_blank" rel="noopener"><h3 class="headline">Anthropic Goes Public at a Massive Trillion Dollar Valuation</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">Anthropic completed its historic initial public offering, achieving a record-shattering valuation above $1 trillion. The move tests public equity markets' appetite for high-burn artificial intelligence infrastructure.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#128269; Grounded in analyst coverage</span></span>
+      <p class="angle-view">Aswath Damodaran and market commentary rightly highlight that Anthropic's $81 billion IPO war chest creates unmatched capital scale, but its steep operational cash burn poses severe execution risks. The immediate winners are cloud hyperscalers like AWS who will capture this capital back as direct infrastructure spend, while traditional SaaS vendors lose equity market share as capital concentrates into AI pure-plays. At a trillion-dollar valuation, Anthropic must rapidly expand enterprise software margins or face violent equity re-ratings when lockup periods expire.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> Rapid enterprise adoption of Claude-powered software could compress inferencing unit costs much faster than expected, driving operating leverage and validating the $1 trillion valuation.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> Expect Anthropic's initial public quarterly earnings report within three months to show research and compute expenditures exceeding 70% of total revenue.</p>
+    </div>
+    </div>
+  </article>
+
+  <article class="story" style="--accent:#2DD4BF">
+    <div class="thumb" style="--accent:#2DD4BF">
+      <img src="https://picsum.photos/seed/tech-trump-pledges-to-block-federal-regulations-on-artificia/480/640" alt="" loading="lazy" onerror="this.onerror=null;this.src='data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22640%22%20viewBox%3D%220%200%20480%20640%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20gradientTransform%3D%22rotate%280%20.5%20.5%29%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232DD4BF%22%20stop-opacity%3D%22.32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d1117%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%230d1117%22/%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22url%28%23g%29%22/%3E%3Ccircle%20cx%3D%22235%22%20cy%3D%22374%22%20r%3D%22198%22%20fill%3D%22%232DD4BF%22%20fill-opacity%3D%220.21%22/%3E%3Ccircle%20cx%3D%2281%22%20cy%3D%22257%22%20r%3D%22123%22%20fill%3D%22%232DD4BF%22%20fill-opacity%3D%220.14%22/%3E%3Ccircle%20cx%3D%2280%22%20cy%3D%22172%22%20r%3D%22154%22%20fill%3D%22%232DD4BF%22%20fill-opacity%3D%220.22%22/%3E%3Ccircle%20cx%3D%2288%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%232DD4BF%22%20fill-opacity%3D%220.10%22/%3E%3Ccircle%20cx%3D%220%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%232DD4BF%22%20fill-opacity%3D%220.10%22/%3E%3C/svg%3E'">
+      <span class="thumb-fallback">TE</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQTWJ1dXFRb1Q2R1NTeUc3NC1reXFsanRLdDMzWUZXNllESENlQ3JRWVIwbk1CZ2xBSGM0X1FpNHBVaUtSV1gwajdXR0RIQlIybkY4dnBhSnMzQkNPNmdCdmlHTnNqM2RsRzhmam1NUXVkTjliOHFGS014UWtVQWtuSHFMc1RhRFNFRWF4Njg1Y0wxNTlDT1UzNEtXRkRaWnJoUThyZmtMZGxsNkl6eDFsZnZn?oc=5" target="_blank" rel="noopener"><h3 class="headline">Trump Pledges to Block Federal Regulations on Artificial Intelligence</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">Donald Trump signaled plans to gut artificial intelligence guardrails, warning that executive oversights and federal rules threaten American dominance. He advocated for a deregulated environment to spur domestic development.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#128269; Grounded in analyst coverage</span></span>
+      <p class="angle-view">As Council on Foreign Relations analysis indicates, Trump's plans to strip federal AI guardrails and repurpose public land for data centers prioritize raw compute capacity over safety governance. Domestic AI infrastructure builders and utility providers win a streamlined path to construct megawatt-scale centers without federal environmental delays, while regulatory technology vendors lose compliance-driven revenues. Stripping federal oversight shifts legal risks back onto corporate balance sheets, leaving tech giants exposed to fragmented state-level litigation.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> Individual state legislatures like California could pass aggressive local safety laws that counter federal deregulation and create an even more complex regulatory patchwork.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> Watch for at least two major AI infrastructure developers to announce multi-gigawatt data center lease agreements on repurposed federal land within six months.</p>
+    </div>
+    </div>
+  </article>
+
+  <article class="story" style="--accent:#2DD4BF">
+    <div class="thumb" style="--accent:#2DD4BF">
+      <img src="https://picsum.photos/seed/tech-seattle-tech-job-postings-plunge-44-percent-amid-indust/480/640" alt="" loading="lazy" onerror="this.onerror=null;this.src='data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22640%22%20viewBox%3D%220%200%20480%20640%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20gradientTransform%3D%22rotate%280%20.5%20.5%29%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232DD4BF%22%20stop-opacity%3D%22.32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d1117%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%230d1117%22/%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22url%28%23g%29%22/%3E%3Ccircle%20cx%3D%22237%22%20cy%3D%22431%22%20r%3D%22178%22%20fill%3D%22%232DD4BF%22%20fill-opacity%3D%220.14%22/%3E%3Ccircle%20cx%3D%22424%22%20cy%3D%22286%22%20r%3D%22227%22%20fill%3D%22%232DD4BF%22%20fill-opacity%3D%220.13%22/%3E%3Ccircle%20cx%3D%22142%22%20cy%3D%22129%22%20r%3D%22143%22%20fill%3D%22%232DD4BF%22%20fill-opacity%3D%220.30%22/%3E%3Ccircle%20cx%3D%22109%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%232DD4BF%22%20fill-opacity%3D%220.10%22/%3E%3Ccircle%20cx%3D%220%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%232DD4BF%22%20fill-opacity%3D%220.10%22/%3E%3C/svg%3E'">
+      <span class="thumb-fallback">TE</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMimgFBVV95cUxNZUJ6dlRPZFViY2ZMUXlDZkUtWkFGc1pBZm5FckZpQWk5VU5YeTlWaHZtSmE1REZEUjZEOUhVZFZjN1Q4ZDlRU3dVOTcwMFp3bGJTaXpQTlQzTzNsNzBkV2M1QW9rckJqZ1gtQjZkbUY4LWRpUTV4Vi00WGhxMVZOOE9SMGxCd3J6eVh4TjRrZXR6STh3RDMxQXpR?oc=5" target="_blank" rel="noopener"><h3 class="headline">Seattle Tech Job Postings Plunge 44 Percent Amid Industry Shifts</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">Tech job listings in the Seattle region fell sharply as companies cut software engineering roles and consolidate headcounts. Hiring budgets are increasingly diverted toward automated tools and specialized AI personnel.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#129504; Independent analysis</span></span>
+      <p class="angle-view">The 44% collapse in Seattle tech job listings marks a permanent structural pivot where tech giants replace entry-level software engineering headcount with automated AI coding pipelines. Big tech operators win operating margin expansion by shifting payroll expenses into scalable cloud compute, while traditional software developers lose wage bargaining power and face prolonged hiring freezes. IT staffing and recruiting agencies lose recurring billable hours as companies automate routine software maintenance internally.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> Accumulated technical debt and security vulnerabilities from unvetted, AI-generated code could force tech firms into emergency engineering re-hiring sprees by year-end.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> Seattle tech job postings will remain at least 35% below their pre-decline baseline through the end of the current fiscal year.</p>
+    </div>
+    </div>
+  </article>
+
+  <article class="story" style="--accent:#2DD4BF">
+    <div class="thumb" style="--accent:#2DD4BF">
+      <img src="https://picsum.photos/seed/tech-nvidia-expands-computing-chips-deep-into-high-performan/480/640" alt="" loading="lazy" onerror="this.onerror=null;this.src='data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22640%22%20viewBox%3D%220%200%20480%20640%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20gradientTransform%3D%22rotate%280%20.5%20.5%29%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232DD4BF%22%20stop-opacity%3D%22.32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d1117%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%230d1117%22/%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22url%28%23g%29%22/%3E%3Ccircle%20cx%3D%22354%22%20cy%3D%22338%22%20r%3D%22159%22%20fill%3D%22%232DD4BF%22%20fill-opacity%3D%220.28%22/%3E%3Ccircle%20cx%3D%22115%22%20cy%3D%22225%22%20r%3D%22160%22%20fill%3D%22%232DD4BF%22%20fill-opacity%3D%220.25%22/%3E%3Ccircle%20cx%3D%2283%22%20cy%3D%22122%22%20r%3D%22124%22%20fill%3D%22%232DD4BF%22%20fill-opacity%3D%220.30%22/%3E%3Ccircle%20cx%3D%2280%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%232DD4BF%22%20fill-opacity%3D%220.10%22/%3E%3Ccircle%20cx%3D%220%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%232DD4BF%22%20fill-opacity%3D%220.10%22/%3E%3C/svg%3E'">
+      <span class="thumb-fallback">TE</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSVN2RmlrMFNrN2Jzc0JCSzFfTFd4ZURJcVZWT3RpQjJ6ZDBWXzI3S0NRY2dIcF9pSF9HTkw1a295SDZaa25Wa0JYZHk5ZXBERVQ3cE1QMHFaNUJWLV9YYmpCb3FYVE1nb0w1eEhxZ3BIRW9pZ3lQbi1VQUU2Q19rQjNCNFVFeUlfREw0ejlxZHJCUHc5dkpFMExnSmYtYnVQQzZJNkwtb0hYOHg5YnJ0R2NvUURYZG9mY3JF?oc=5" target="_blank" rel="noopener"><h3 class="headline">Nvidia Expands Computing Chips Deep Into High Performance Science Labs</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">Nvidia announced a push into high-performance scientific computing, expanding its ecosystem beyond traditional enterprise data centers. The strategy embeds its chips into advanced research labs and industrial modeling.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#128269; Grounded in analyst coverage</span></span>
+      <p class="angle-view">Nvidia's expansion into high-performance scientific labs locks academic and industrial research labs directly into its CUDA software ecosystem, neutralizing custom silicon rivals before they scale. As SemiAnalysis points out regarding custom chip competition, Nvidia's full-stack integration creates insurmountable switching costs for scientific workloads. Legacy enterprise hardware vendors lose market share while Nvidia secures high-margin, non-cyclical institutional revenue.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> Low-cost ASIC alternatives and open-source software compilers could enable scientific researchers to port complex models onto cheaper custom cloud accelerators like Amazon's Trainium.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> Nvidia will announce over $4 billion in dedicated scientific and industrial computing contracts during its next GTC keynote.</p>
+    </div>
+    </div>
+  </article>
+
+  <div class="section-label" id="markets"><span class="chip" style="background:#F5A62322;color:#F5A623;border-color:#F5A62355">MA</span><h2>MARKETS</h2><span class="line"></span></div>
+
+  <article class="story" style="--accent:#F5A623">
+    <div class="thumb" style="--accent:#F5A623">
+      <img src="https://picsum.photos/seed/markets-anthropic-surges-seventeen-percent-in-record-breakin/480/640" alt="" loading="lazy" onerror="this.onerror=null;this.src='data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22640%22%20viewBox%3D%220%200%20480%20640%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20gradientTransform%3D%22rotate%280%20.5%20.5%29%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23F5A623%22%20stop-opacity%3D%22.32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d1117%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%230d1117%22/%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22url%28%23g%29%22/%3E%3Ccircle%20cx%3D%22346%22%20cy%3D%22103%22%20r%3D%22178%22%20fill%3D%22%23F5A623%22%20fill-opacity%3D%220.18%22/%3E%3Ccircle%20cx%3D%22223%22%20cy%3D%22517%22%20r%3D%22154%22%20fill%3D%22%23F5A623%22%20fill-opacity%3D%220.24%22/%3E%3Ccircle%20cx%3D%2252%22%20cy%3D%22115%22%20r%3D%22156%22%20fill%3D%22%23F5A623%22%20fill-opacity%3D%220.19%22/%3E%3Ccircle%20cx%3D%2259%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%23F5A623%22%20fill-opacity%3D%220.10%22/%3E%3Ccircle%20cx%3D%220%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%23F5A623%22%20fill-opacity%3D%220.10%22/%3E%3C/svg%3E'">
+      <span class="thumb-fallback">MA</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV3BLQkZqa19uTmlTOGE1UXJoQzFvaVhHOXUzRzRLTUVWN1VWMzFyZTBzX05CUk8xUzlzNThUbkdxZXZlYk9hUFlSS0QxdENEOWxSaE5LSTNiVVU0OVdGOGY5Tmw0Rk5rTnIxeVA5anBwYjJwYXoyV01tTFplNjFtZFRmZTE3REZrWndQTzJES2t4Q3lUYm05SUNmRGdpU0xHeWU0WnZYa3ZDMzhjNGFnelFyR2pTS3d3a3pmM0lhTEZqTnBpaWs4d1lmeHFYSjJWR3A4U2ZVVjhpSE9iZHc?oc=5" target="_blank" rel="noopener"><h3 class="headline">Anthropic Surges Seventeen Percent in Record-Breaking Public Debut</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">Anthropic shares surged 17 percent above their initial offering price on their first day of trading, pushing the company's valuation past $1.27 trillion. The stock sale raised $81 billion, marking the largest market debut in history.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#129504; Independent analysis</span></span>
+      <p class="angle-view">Anthropic's 17% first-day surge to a $1.27 trillion valuation proves that institutional demand for pure-play frontier AI remains totally price-insensitive in the primary market. Early private equity backers win massive paper markups, but broad index funds absorbing this top-heavy supply incur extreme single-asset risk. This massive float absorption drains liquidity directly away from mid-cap software equities, accelerating valuation compression across broader tech.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> Macro liquidity tightening or delayed Fed interest rate cuts could prompt swift institutional profit-taking, dragging the equity valuation back below $1 trillion.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> Anthropic's daily trading volume will drop by more than 50% within 30 trading days as initial secondary market demand settles.</p>
+    </div>
+    </div>
+  </article>
+
+  <article class="story" style="--accent:#F5A623">
+    <div class="thumb" style="--accent:#F5A623">
+      <img src="https://picsum.photos/seed/markets-stock-market-plunges-as-dow-drops-over-one-thousand-/480/640" alt="" loading="lazy" onerror="this.onerror=null;this.src='data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22640%22%20viewBox%3D%220%200%20480%20640%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20gradientTransform%3D%22rotate%280%20.5%20.5%29%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23F5A623%22%20stop-opacity%3D%22.32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d1117%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%230d1117%22/%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22url%28%23g%29%22/%3E%3Ccircle%20cx%3D%22387%22%20cy%3D%22150%22%20r%3D%22220%22%20fill%3D%22%23F5A623%22%20fill-opacity%3D%220.13%22/%3E%3Ccircle%20cx%3D%22255%22%20cy%3D%22378%22%20r%3D%22135%22%20fill%3D%22%23F5A623%22%20fill-opacity%3D%220.16%22/%3E%3Ccircle%20cx%3D%22468%22%20cy%3D%22467%22%20r%3D%22186%22%20fill%3D%22%23F5A623%22%20fill-opacity%3D%220.28%22/%3E%3Ccircle%20cx%3D%2214%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%23F5A623%22%20fill-opacity%3D%220.10%22/%3E%3Ccircle%20cx%3D%220%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%23F5A623%22%20fill-opacity%3D%220.10%22/%3E%3C/svg%3E'">
+      <span class="thumb-fallback">MA</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxQN3NlZmlxcjdiNGxiaDl6VC1NMTBsWlg3d3FfcDVJU19kZ0VFbW1CZFNLYmllcXYxOTFGbGpfTXY4emdkNUEwUDNpbmgtam9YbnJkQ21idS10eUtyYzYxVDkwNXFFTUlnb1VrdnFtTEZfVzZyQWJ5ZElINGFJSnZaYmo5MHhsVDBUclBIYVJUS1ZHR19iWjk4YVVCMmZ4dGZfajYwLVhWWC1xM3pnanBWelJxdkVDVGQ5ekhiZ24ybW9jN3N0WldLWFdTR3VodHdpdFhTRDJLTQ?oc=5" target="_blank" rel="noopener"><h3 class="headline">Stock Market Plunges as Dow Drops Over One Thousand Points</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">Broader equity markets tumbled sharply despite Anthropic's successful debut, with the Dow Jones dropping over 1,000 points. The sell-off reflected deep investor anxiety over high tech valuations and broader macroeconomic headwinds.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#128269; Grounded in analyst coverage</span></span>
+      <p class="angle-view">The 1,100-point Dow plunge alongside Anthropic's IPO illustrates financial market anxiety over sky-high tech valuations sucking liquidity out of traditional value sectors. Major financial news commentary accurately notes that persistent inflationary fears and high discount rates make non-tech earnings yields look increasingly unattractive. Cyclical industrial and consumer stocks lose bid support as fund managers liquid holdings to participate in headline AI public offerings.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> A cooler-than-expected CPI report in the next monthly print could trigger a broad equity rally and rapidly reverse systematic de-risking.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> The S&P 500 will test its 200-day moving average within the next two weeks as market breadth continues to narrow.</p>
+    </div>
+    </div>
+  </article>
+
+  <article class="story" style="--accent:#F5A623">
+    <div class="thumb" style="--accent:#F5A623">
+      <img src="https://picsum.photos/seed/markets-stock-rotation-accelerates-as-legacy-tech-loses-mark/480/640" alt="" loading="lazy" onerror="this.onerror=null;this.src='data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22640%22%20viewBox%3D%220%200%20480%20640%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20gradientTransform%3D%22rotate%280%20.5%20.5%29%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23F5A623%22%20stop-opacity%3D%22.32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d1117%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%230d1117%22/%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22url%28%23g%29%22/%3E%3Ccircle%20cx%3D%22381%22%20cy%3D%22430%22%20r%3D%22181%22%20fill%3D%22%23F5A623%22%20fill-opacity%3D%220.32%22/%3E%3Ccircle%20cx%3D%22424%22%20cy%3D%22344%22%20r%3D%22105%22%20fill%3D%22%23F5A623%22%20fill-opacity%3D%220.32%22/%3E%3Ccircle%20cx%3D%22214%22%20cy%3D%22630%22%20r%3D%22116%22%20fill%3D%22%23F5A623%22%20fill-opacity%3D%220.11%22/%3E%3Ccircle%20cx%3D%224%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%23F5A623%22%20fill-opacity%3D%220.10%22/%3E%3Ccircle%20cx%3D%220%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%23F5A623%22%20fill-opacity%3D%220.10%22/%3E%3C/svg%3E'">
+      <span class="thumb-fallback">MA</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ0F6RGVGUVBNSG54a2JlamtJWXpLeDY1Q2szNFhEMnppRHM2ekF6eTdKYkJxbkZiSlJFOTF5Qmtfamhoa0ZFWE1PNlQweUU5d0RrYlRCeGQxbGJMZFRMU3lHVXFfeUFRVlB6ZW4wYVBJN3NYTE5Vd1l4TWNvbURfX19nZGpXNGRSZU40STV0a1BJQUJBWVoyR20tMzRZVldQR21RX3NibTlpUFk1Q1F3d2Y3Y25hQlFZQXM4dWNPVTJmYTFBU1RDbGJ0U21RYWJyOXc?oc=5" target="_blank" rel="noopener"><h3 class="headline">Stock Rotation Accelerates as Legacy Tech Loses Market Share</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">Equities experienced a major structural shift as capital pulled back from established big tech leaders. Capital rotated into unloved cyclical sectors and small-cap stocks seeking lower valuations.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#128269; Grounded in analyst coverage</span></span>
+      <p class="angle-view">Goldman Sachs' analysis on mega-cap tech headwinds aligns with ongoing price action: massive capital expenditure budgets without immediate margin monetization are forcing institutional capital into underpriced cyclical sectors. Enterprise cloud giants like SAP suffer valuation drawdowns when guidance disappoints, while traditional industrial and small-cap value stocks gain relative inflows. Legacy tech loses its structural valuation premium as allocators rebalance indices toward higher dividend yields.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> Accelerating enterprise AI adoption could drive an unexpected acceleration in mega-cap cloud revenues, forcing institutional capital right back into mega-cap software leaders.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> The Russell 2000 value index will outperform the Nasdaq 100 by at least 3 percentage points over the next full calendar quarter.</p>
+    </div>
+    </div>
+  </article>
+
+  <article class="story" style="--accent:#F5A623">
+    <div class="thumb" style="--accent:#F5A623">
+      <img src="https://picsum.photos/seed/markets-grocery-shoppers-panic-buy-following-widespread-reta/480/640" alt="" loading="lazy" onerror="this.onerror=null;this.src='data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22640%22%20viewBox%3D%220%200%20480%20640%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20gradientTransform%3D%22rotate%280%20.5%20.5%29%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23F5A623%22%20stop-opacity%3D%22.32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d1117%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%230d1117%22/%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22url%28%23g%29%22/%3E%3Ccircle%20cx%3D%22456%22%20cy%3D%22374%22%20r%3D%22123%22%20fill%3D%22%23F5A623%22%20fill-opacity%3D%220.18%22/%3E%3Ccircle%20cx%3D%2225%22%20cy%3D%22157%22%20r%3D%22211%22%20fill%3D%22%23F5A623%22%20fill-opacity%3D%220.18%22/%3E%3Ccircle%20cx%3D%22196%22%20cy%3D%22483%22%20r%3D%22149%22%20fill%3D%22%23F5A623%22%20fill-opacity%3D%220.11%22/%3E%3Ccircle%20cx%3D%2280%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%23F5A623%22%20fill-opacity%3D%220.10%22/%3E%3Ccircle%20cx%3D%220%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%23F5A623%22%20fill-opacity%3D%220.10%22/%3E%3C/svg%3E'">
+      <span class="thumb-fallback">MA</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMisgFBVV95cUxOTHh0Qnd1ZUs1di12Tjd5LXVVR1lTc3pWWVlnVTlDbWZ3Q25id2YxMFhndk9nQzdNNDVvQkdobXlBY0xZd1Y1QmUyTVlmWGo0VHY2VTNaMHBnek5vdU5JZWdaTlZpckpUWnNydUVnMnlCMENKbXIyMkxqaGhpcDNRT0ZXQnBZTUNjNDJXVUlGSEFxT20xQU1KSVpzQlB4b1QzOTJRbmFub2NrZjRxTWdRU2pn?oc=5" target="_blank" rel="noopener"><h3 class="headline">Grocery Shoppers Panic Buy Following Widespread Retail Tech Outages</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">Shoppers rushed to stores like Walmart and Costco following widespread technology system outages that briefly disrupted supply chains and checkout systems. Outages sparked fears of product shortages and payment processing delays.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#128269; Grounded in analyst coverage</span></span>
+      <p class="angle-view">Mizuho analysts rightly highlight that panic buying triggered by retail IT outages creates an immediate sales windfall for big-box grocers like Costco and Walmart. Enterprise retail software vendors lose pricing power and face contract liability claims, while physical retail giants benefit from rapid inventory turnover and higher basket sizes. These supply disruptions temporarily boost top-line revenue for major grocers at the expense of regional merchants with fragile POS architecture.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> Inventory bullwhip effects caused by sudden surge buying could lead to localized logistics bottlenecks, raising short-term operational costs and eroding grocery margins next quarter.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> Costco will report a same-store sales growth print exceeding 7% in its next monthly performance metrics report.</p>
+    </div>
+    </div>
+  </article>
+
+  <div class="section-label" id="us_news"><span class="chip" style="background:#5FA8FF22;color:#5FA8FF;border-color:#5FA8FF55">US</span><h2>US NEWS</h2><span class="line"></span></div>
+
+  <article class="story" style="--accent:#5FA8FF">
+    <div class="thumb" style="--accent:#5FA8FF">
+      <img src="https://picsum.photos/seed/us-news-xi-and-putin-hold-summit-as-u-s-influence-faces-pres/480/640" alt="" loading="lazy" onerror="this.onerror=null;this.src='data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22640%22%20viewBox%3D%220%200%20480%20640%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20gradientTransform%3D%22rotate%280%20.5%20.5%29%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%235FA8FF%22%20stop-opacity%3D%22.32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d1117%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%230d1117%22/%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22url%28%23g%29%22/%3E%3Ccircle%20cx%3D%2296%22%20cy%3D%22367%22%20r%3D%2283%22%20fill%3D%22%235FA8FF%22%20fill-opacity%3D%220.20%22/%3E%3Ccircle%20cx%3D%22417%22%20cy%3D%22404%22%20r%3D%22163%22%20fill%3D%22%235FA8FF%22%20fill-opacity%3D%220.19%22/%3E%3Ccircle%20cx%3D%22255%22%20cy%3D%22378%22%20r%3D%22166%22%20fill%3D%22%235FA8FF%22%20fill-opacity%3D%220.17%22/%3E%3Ccircle%20cx%3D%22130%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%235FA8FF%22%20fill-opacity%3D%220.10%22/%3E%3Ccircle%20cx%3D%220%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%235FA8FF%22%20fill-opacity%3D%220.10%22/%3E%3C/svg%3E'">
+      <span class="thumb-fallback">US</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMirwFBVV95cUxOcGlFR2l2ZW5QcUwzRVhNMzg2dEw5dXVSekJVY2JQZVVLbWpYNEVTZDNycUM3QUFaOWxacU1OeElpWGQweExZWUFkTldDckdmaGJTb1FQb1RpODZYWUVONkMydjJjdllLZ0x1aXdZRXMxNFV5elBRV1FHZWt5SWw0RUxKWUNhaW1oRkhBSjFWTFp0MEI3aGRXcEItZGxmWjZ6VUt0V09Jdm5Vb05iR01F?oc=5" target="_blank" rel="noopener"><h3 class="headline">Xi and Putin Hold Summit as U.S. Influence Faces Pressure</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">Chinese President Xi Jinping and Russian President Vladimir Putin met for a high-profile summit to display economic and geopolitical alignment. The meeting underscored efforts to build trade networks independent of American influence.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#128269; Grounded in analyst coverage</span></span>
+      <p class="angle-view">As think tank research from CSIS underscores, the Xi-Putin summit formalizes a parallel trade and financial architecture specifically structured to bypass USD-denominated clearing systems. Russian energy exporters and Chinese industrial manufacturers win guaranteed bilateral trade corridors, while U.S. sanctions enforcement mechanisms lose systemic leverage. This institutionalized alignment permanently reduces foreign exchange transaction fees for Eurasian trade while diminishing Western bank oversight.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> Secondary U.S. sanctions targeted directly at Chinese regional banks clearing Russian transactions could force Beijing to constrain trade settlement volumes to protect Western market access.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> Yuan-denominated bilateral trade between China and Russia will expand by over 15% year-over-year by the end of Q4.</p>
+    </div>
+    </div>
+  </article>
+
+  <article class="story" style="--accent:#5FA8FF">
+    <div class="thumb" style="--accent:#5FA8FF">
+      <img src="https://picsum.photos/seed/us-news-white-house-weighs-military-action-amid-heightened-m/480/640" alt="" loading="lazy" onerror="this.onerror=null;this.src='data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22640%22%20viewBox%3D%220%200%20480%20640%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20gradientTransform%3D%22rotate%280%20.5%20.5%29%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%235FA8FF%22%20stop-opacity%3D%22.32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d1117%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%230d1117%22/%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22url%28%23g%29%22/%3E%3Ccircle%20cx%3D%22374%22%20cy%3D%22191%22%20r%3D%22131%22%20fill%3D%22%235FA8FF%22%20fill-opacity%3D%220.26%22/%3E%3Ccircle%20cx%3D%221%22%20cy%3D%2260%22%20r%3D%22209%22%20fill%3D%22%235FA8FF%22%20fill-opacity%3D%220.27%22/%3E%3Ccircle%20cx%3D%22361%22%20cy%3D%22324%22%20r%3D%2297%22%20fill%3D%22%235FA8FF%22%20fill-opacity%3D%220.30%22/%3E%3Ccircle%20cx%3D%22103%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%235FA8FF%22%20fill-opacity%3D%220.10%22/%3E%3Ccircle%20cx%3D%220%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%235FA8FF%22%20fill-opacity%3D%220.10%22/%3E%3C/svg%3E'">
+      <span class="thumb-fallback">US</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMigAFBVV95cUxPVVhsMGFnUEhueFlmbkpjTEdvbU1LVkxiUk8wVzhQMUZ2QlNfYUo2Nmh4N3dVSzI5ZXByTHpmdU9FNE9HaTloeTBGQU51cHNEbkZ0VEZJZFgxVWdoMFJKdDJkQk00a0Q0VXJlRmQ0RlJKX2RBalV4cy1ZaVVkeFE3bQ?oc=5" target="_blank" rel="noopener"><h3 class="headline">White House Weighs Military Action Amid Heightened Middle East Tension</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">The Trump administration is evaluating targeted military options against Iranian assets following warnings from Israeli intelligence. Officials cite heightened threats regarding non-conventional weaponry in the region.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#128269; Grounded in analyst coverage</span></span>
+      <p class="angle-view">As geopolitical analysts weigh U.S. military options short of full conflict, the White House evaluating targeted options against Iran injects a immediate supply-side risk premium into crude futures. Upstream oil producers and defense contractors win as regional threat levels escalate, while fuel-dependent airlines and consumer sectors face margin compression from higher energy costs. Escalating administration rhetoric forces global commodity markets to price in lingering risks around the Strait of Hormuz.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> Successful diplomatic backchannel discussions mediated by Gulf partners could broker a temporary de-escalation, unwinding the geopolitical risk premium in Brent crude.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> Brent crude futures will breach $88 per barrel within 30 days if military posture developments persist.</p>
+    </div>
+    </div>
+  </article>
+
+  <article class="story" style="--accent:#5FA8FF">
+    <div class="thumb" style="--accent:#5FA8FF">
+      <img src="https://picsum.photos/seed/us-news-u-s-home-mortgage-rates-rise-after-five-weeks-of-dec/480/640" alt="" loading="lazy" onerror="this.onerror=null;this.src='data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22640%22%20viewBox%3D%220%200%20480%20640%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20gradientTransform%3D%22rotate%280%20.5%20.5%29%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%235FA8FF%22%20stop-opacity%3D%22.32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d1117%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%230d1117%22/%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22url%28%23g%29%22/%3E%3Ccircle%20cx%3D%22400%22%20cy%3D%2254%22%20r%3D%22187%22%20fill%3D%22%235FA8FF%22%20fill-opacity%3D%220.17%22/%3E%3Ccircle%20cx%3D%22172%22%20cy%3D%22566%22%20r%3D%22197%22%20fill%3D%22%235FA8FF%22%20fill-opacity%3D%220.16%22/%3E%3Ccircle%20cx%3D%22120%22%20cy%3D%22282%22%20r%3D%22180%22%20fill%3D%22%235FA8FF%22%20fill-opacity%3D%220.31%22/%3E%3Ccircle%20cx%3D%22123%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%235FA8FF%22%20fill-opacity%3D%220.10%22/%3E%3Ccircle%20cx%3D%220%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%235FA8FF%22%20fill-opacity%3D%220.10%22/%3E%3C/svg%3E'">
+      <span class="thumb-fallback">US</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMibkFVX3lxTE91NEFmZlVFa3B6ZWd2Snd0ZzJ5WDZxd2VVZzMtMWpxWjNwdWltMEg5cFliRG5sQ2xROGRheDlrMWNGWVBsS2I2SWJqa05ybkFSV0Q2TWNpcXlmQ04tV1c3RXpTNVpKUDhfZFIta3h3?oc=5" target="_blank" rel="noopener"><h3 class="headline">U.S. Home Mortgage Rates Rise After Five Weeks of Declines</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">Mortgage rates bounced back up, ending a five-week downward trend that had briefly offered relief to prospective homebuyers. Borrowing costs rose alongside climbing treasury yields.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#128269; Grounded in analyst coverage</span></span>
+      <p class="angle-view">The rebound in mortgage rates following higher Treasury yields halts a nascent housing recovery and locks prospective homebuyers out of the market. Mortgage originators and real estate brokerages lose transaction volume, while existing homeowners remain locked into sub-4% rates, severely constricting housing supply. Elevated borrowing costs will sustain affordability pressure across major housing markets, stifling home price expansion.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> A sudden weakening in labor market prints could suppress Treasury yields, sending 30-year mortgage rates back down below 6.5% before next quarter.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> U.S. existing home sales will register a sequential drop of at least 3% in the next monthly NAR release.</p>
+    </div>
+    </div>
+  </article>
+
+  <article class="story" style="--accent:#5FA8FF">
+    <div class="thumb" style="--accent:#5FA8FF">
+      <img src="https://picsum.photos/seed/us-news-walmart-raises-profit-outlook-as-wealthy-shoppers-se/480/640" alt="" loading="lazy" onerror="this.onerror=null;this.src='data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22640%22%20viewBox%3D%220%200%20480%20640%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20gradientTransform%3D%22rotate%280%20.5%20.5%29%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%235FA8FF%22%20stop-opacity%3D%22.32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d1117%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%230d1117%22/%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22url%28%23g%29%22/%3E%3Ccircle%20cx%3D%22353%22%20cy%3D%22143%22%20r%3D%2289%22%20fill%3D%22%235FA8FF%22%20fill-opacity%3D%220.22%22/%3E%3Ccircle%20cx%3D%2238%22%20cy%3D%22404%22%20r%3D%2275%22%20fill%3D%22%235FA8FF%22%20fill-opacity%3D%220.26%22/%3E%3Ccircle%20cx%3D%22360%22%20cy%3D%22223%22%20r%3D%22119%22%20fill%3D%22%235FA8FF%22%20fill-opacity%3D%220.26%22/%3E%3Ccircle%20cx%3D%22132%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%235FA8FF%22%20fill-opacity%3D%220.10%22/%3E%3Ccircle%20cx%3D%220%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%235FA8FF%22%20fill-opacity%3D%220.10%22/%3E%3C/svg%3E'">
+      <span class="thumb-fallback">US</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNdnBfU1R3UV90NDBVcDRuN1RmRTVZVEw3eWRQaGMtX2VMR3htWGlLV21NdTFrYm9KeWQ2MjBrc3lDOENqSzJzZzRWUUJOTU4tRFNVQzg2VFJ3RUR5dVBXTWkzYW84aWxPRmIxdjdVOUgyWVlsUXo5dWxnN1BiLVplRGpEaDBYM25YNmlkVVBfeVFlTDZwQnVlQTNVUXEwSHpORDYzblpKWdIBrAFBVV95cUxQODlRcnZGd3I5dGVXY25OOG1tVVhDUm0yS3RsRy1WSlo4YkUzNzNiVW94QkNXOG8yMTFHR0xoTEZGYlVpNi05N1ZSdTNTaEREeDdOWk5OTVVJNjMzTDdxR1BESldRcTBVUXRJNXFMbzVnM0ZBUmU3UERCU3ItUE83bTZYeGZBSnJQOVloTmRVa2E4R05LMG5WTzJoaGJNMjNCOV9oeVlhc2pvdWtZ?oc=5" target="_blank" rel="noopener"><h3 class="headline">Walmart Raises Profit Outlook as Wealthy Shoppers Seek Savings</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">Walmart raised its full-year revenue forecast after posting strong quarterly sales driven by high-income shoppers looking for cheaper groceries. Upper-income households increasingly shifted spending toward discount stores.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#129504; Independent analysis</span></span>
+      <p class="angle-view">Walmart's raised profit guidance demonstrates that ongoing inflationary pressures are driving households earning over $100,000 to abandon premium grocers in favor of value retailers. Discount retail chains win market share and foot traffic, while mid-tier grocers and specialty food retailers suffer margin erosion. Walmart's massive purchasing scale enables it to absorb supplier price hikes while undercutting competitors, cementing its dominance in grocery retail.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> Deflation in core grocery staples could lower average basket sizes, forcing Walmart to rely on general merchandise sales that remain under consumer spending constraints.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> Target and traditional regional grocers will report market share losses to Walmart in their upcoming quarterly earnings results.</p>
+    </div>
+    </div>
+  </article>
+
+  <div class="section-label" id="indonesia"><span class="chip" style="background:#F8717122;color:#F87171;border-color:#F8717155">IN</span><h2>INDONESIA</h2><span class="line"></span></div>
+
+  <article class="story" style="--accent:#F87171">
+    <div class="thumb" style="--accent:#F87171">
+      <img src="https://picsum.photos/seed/indonesia-vice-president-resigns-expanding-president-prabowo/480/640" alt="" loading="lazy" onerror="this.onerror=null;this.src='data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22640%22%20viewBox%3D%220%200%20480%20640%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20gradientTransform%3D%22rotate%280%20.5%20.5%29%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23F87171%22%20stop-opacity%3D%22.32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d1117%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%230d1117%22/%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22url%28%23g%29%22/%3E%3Ccircle%20cx%3D%2287%22%20cy%3D%22150%22%20r%3D%22159%22%20fill%3D%22%23F87171%22%20fill-opacity%3D%220.13%22/%3E%3Ccircle%20cx%3D%22260%22%20cy%3D%22141%22%20r%3D%2282%22%20fill%3D%22%23F87171%22%20fill-opacity%3D%220.30%22/%3E%3Ccircle%20cx%3D%2288%22%20cy%3D%22315%22%20r%3D%22121%22%20fill%3D%22%23F87171%22%20fill-opacity%3D%220.11%22/%3E%3Ccircle%20cx%3D%22132%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%23F87171%22%20fill-opacity%3D%220.10%22/%3E%3Ccircle%20cx%3D%220%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%23F87171%22%20fill-opacity%3D%220.10%22/%3E%3C/svg%3E'">
+      <span class="thumb-fallback">IN</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQYTg4UTdfM283dFdWYUdTQnk5N3VSbThBcGVPVV9rRjNsMGpoQkphNGVvYS04dUxuRHdnUFJVYUNzYTRCdEtaSjYwV3dVY1ZtanlFcFpwVC0xVE41V3M3NEpVdDFOS3dwZTloWGZSNHhHSDhlOXI4SUVvLVJXYVhmcDhRS2xOc0FwS1JIQ1U0UnZMS2VEV3lJNU5BcG1hbVhHNWFkcWdaZkNRZGYyV1R2TTJB?oc=5" target="_blank" rel="noopener"><h3 class="headline">Vice President Resigns, Expanding President Prabowo's Control Over Power</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">Vice President Gibran Rakabuming Raka stepped down from office, triggering a major political realignment in Indonesia. The move consolidates executive power under President Prabowo Subianto.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#128269; Grounded in analyst coverage</span></span>
+      <p class="angle-view">Bloomberg analysis correctly identifies Gibran's resignation as President Prabowo accelerating the dismantlement of Jokowi's political legacy to centralize power within the executive branch. Foreign direct investors face near-term political unpredictability, while Prabowo-aligned business conglomerates gain streamlined regulatory approvals and state contract awards. Consolidating political control removes cabinet friction but increases sovereign governance risk for international investors.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> Public backlash against executive power concentration could trigger widespread civil protests, forcing Prabowo to grant cabinet concessions to opposition parties.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> President Prabowo will issue executive decrees reorganizing control over key state-owned enterprises within 60 days.</p>
+    </div>
+    </div>
+  </article>
+
+  <article class="story" style="--accent:#F87171">
+    <div class="thumb" style="--accent:#F87171">
+      <img src="https://picsum.photos/seed/indonesia-bank-indonesia-surprises-markets-with-rate-hike-to/480/640" alt="" loading="lazy" onerror="this.onerror=null;this.src='data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22640%22%20viewBox%3D%220%200%20480%20640%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20gradientTransform%3D%22rotate%280%20.5%20.5%29%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23F87171%22%20stop-opacity%3D%22.32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d1117%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%230d1117%22/%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22url%28%23g%29%22/%3E%3Ccircle%20cx%3D%2287%22%20cy%3D%22506%22%20r%3D%22149%22%20fill%3D%22%23F87171%22%20fill-opacity%3D%220.28%22/%3E%3Ccircle%20cx%3D%2215%22%20cy%3D%22117%22%20r%3D%22202%22%20fill%3D%22%23F87171%22%20fill-opacity%3D%220.31%22/%3E%3Ccircle%20cx%3D%22312%22%20cy%3D%22332%22%20r%3D%22164%22%20fill%3D%22%23F87171%22%20fill-opacity%3D%220.30%22/%3E%3Ccircle%20cx%3D%22112%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%23F87171%22%20fill-opacity%3D%220.10%22/%3E%3Ccircle%20cx%3D%220%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%23F87171%22%20fill-opacity%3D%220.10%22/%3E%3C/svg%3E'">
+      <span class="thumb-fallback">IN</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMivgFBVV95cUxORjhkaTRUNVpOSlk5VzZuQ1dQOXF6SVRSMTd4YWE3UFowZnJ1Z0JIOWRjQldnd2V5bmI0WWNzS1Z1dlFOOFRzcGxSRUZ6dVdCVnRCZXM2ZEV6azdaMG1qQklBS3pTNWkzTjl4Znl1ZEZ3Q2hGY1dvR25jUXdpVlZRM096ZHE4dFFKRmxaMGFLWVFZVGpEbHhocm1Eb195V012NW9CY0Y0TFE5aVRLcVJVNnZOcXBrck5JUWFFYkN3?oc=5" target="_blank" rel="noopener"><h3 class="headline">Bank Indonesia Surprises Markets With Rate Hike to Support Currency</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">Bank Indonesia unexpectedly raised its benchmark interest rate to halt a steep drop in the rupiah. The rate hike caught most foreign exchange analysts off guard.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#128269; Grounded in analyst coverage</span></span>
+      <p class="angle-view">As Commerzbank analysis highlights, Bank Indonesia's unexpected rate hike to 6% signals a hawkish stance focused entirely on defending the rupiah against capital flight. Foreign exchange traders holding long USD/IDR positions lose as the central bank aggressively supports the local currency, while domestic corporate borrowers face tighter domestic credit conditions. The rate hike protects sovereign foreign reserves at the expense of local private sector credit growth.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> Persistently hawkish signals from the U.S. Fed could fuel further U.S. dollar strength, rendering the 25-basis-point hike ineffective and forcing further rate increases.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> The Indonesian rupiah will stabilize below 16,000 per USD over the next 30 days following Bank Indonesia's rate action.</p>
+    </div>
+    </div>
+  </article>
+
+  <article class="story" style="--accent:#F87171">
+    <div class="thumb" style="--accent:#F87171">
+      <img src="https://picsum.photos/seed/indonesia-google-removes-thousands-of-pro-government-channel/480/640" alt="" loading="lazy" onerror="this.onerror=null;this.src='data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22640%22%20viewBox%3D%220%200%20480%20640%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20gradientTransform%3D%22rotate%280%20.5%20.5%29%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23F87171%22%20stop-opacity%3D%22.32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d1117%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%230d1117%22/%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22url%28%23g%29%22/%3E%3Ccircle%20cx%3D%2298%22%20cy%3D%22151%22%20r%3D%22215%22%20fill%3D%22%23F87171%22%20fill-opacity%3D%220.13%22/%3E%3Ccircle%20cx%3D%22236%22%20cy%3D%22502%22%20r%3D%22177%22%20fill%3D%22%23F87171%22%20fill-opacity%3D%220.17%22/%3E%3Ccircle%20cx%3D%22394%22%20cy%3D%22271%22%20r%3D%22155%22%20fill%3D%22%23F87171%22%20fill-opacity%3D%220.14%22/%3E%3Ccircle%20cx%3D%2288%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%23F87171%22%20fill-opacity%3D%220.10%22/%3E%3Ccircle%20cx%3D%220%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%23F87171%22%20fill-opacity%3D%220.10%22/%3E%3C/svg%3E'">
+      <span class="thumb-fallback">IN</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMitAFBVV95cUxPMGk1WWs2M1NHNW1mUzBXcXBfYjNTNVQ0SXBfdTBRSHQ2a3ZlTFM1QUlxbUpPeWs0RTdKcm1tR2VsMlZTbHE2eWpOQ29XVlp0cHNJMTZ1UHBZNDdaUFlJWjdPY0tuN1B3UEN1V0ZKUmVCTEFPaHVGSzR5ZnVQSjZIaFNsd3VSaGhSdHNBb1VpVE4yb0xxbUhTanJOYVNxdnVMbmU1cjNRdUZxcFRpX2l0NXBNc1U?oc=5" target="_blank" rel="noopener"><h3 class="headline">Google Removes Thousands of Pro-Government Channels in Big Scrub</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">Google shut down nineteen thousand YouTube channels in Indonesia identified as state-backed coordinated influence networks. The mass removal targeted accounts manipulating public discourse ahead of key policy changes.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#129504; Independent analysis</span></span>
+      <p class="angle-view">Google's removal of 19,000 state-backed influence channels dismantles coordinated digital propaganda operations right ahead of major policy adjustments. Independent media platforms gain organic visibility as state amplification networks vanish, while government public relations operators lose significant reach overnight. The purge will force political actors to redirect messaging budgets toward private messaging networks like Telegram and WhatsApp.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> Coordinated influence networks could rapidly re-establish operations using decentralized micro-accounts and alternative video hosting sites within weeks.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> Political digital ad spend on Meta and Telegram in Indonesia will rise by over 20% next month to offset lost YouTube channel distribution.</p>
+    </div>
+    </div>
+  </article>
+
+  <article class="story" style="--accent:#F87171">
+    <div class="thumb" style="--accent:#F87171">
+      <img src="https://picsum.photos/seed/indonesia-indonesia-s-nickel-dominance-faces-shifting-terms-/480/640" alt="" loading="lazy" onerror="this.onerror=null;this.src='data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22640%22%20viewBox%3D%220%200%20480%20640%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20gradientTransform%3D%22rotate%280%20.5%20.5%29%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23F87171%22%20stop-opacity%3D%22.32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d1117%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%230d1117%22/%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22url%28%23g%29%22/%3E%3Ccircle%20cx%3D%22136%22%20cy%3D%22440%22%20r%3D%22203%22%20fill%3D%22%23F87171%22%20fill-opacity%3D%220.15%22/%3E%3Ccircle%20cx%3D%22362%22%20cy%3D%22180%22%20r%3D%2270%22%20fill%3D%22%23F87171%22%20fill-opacity%3D%220.31%22/%3E%3Ccircle%20cx%3D%22282%22%20cy%3D%22282%22%20r%3D%22198%22%20fill%3D%22%23F87171%22%20fill-opacity%3D%220.28%22/%3E%3Ccircle%20cx%3D%2246%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%23F87171%22%20fill-opacity%3D%220.10%22/%3E%3Ccircle%20cx%3D%220%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%23F87171%22%20fill-opacity%3D%220.10%22/%3E%3C/svg%3E'">
+      <span class="thumb-fallback">IN</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcENvUDg1YUxtTjB3d054NWVDRGpjM1FWcHZoaDNCeVNIY0YwMjVHUlhFbGZCdV9KSHp2Rnc5dUFFYXVPeThlenBUaG5wOUVFWHpISnlmTC1HMkd1OFh3cTBHVjY2RVVQUlQ0N0M3Mk5uOGNUOEVIWnJHbVR2UXkzS2tIclM1eGpnUjExTXBHSkVFWXRJaDM3SlV5NHN3dldhWFJKeTlWd3F6N2UtSVo1YTN4WE9zTlZ3bE5WbTlzZDg5aVc2WHpfSGdWQlZPUDFNQ252NFZuOTVwZGxVSWlaRTIwYTI4QQ?oc=5" target="_blank" rel="noopener"><h3 class="headline">Indonesia’s Nickel Dominance Faces Shifting Terms on Chinese Capital</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">Policy researchers highlighted structural shifts in Chinese investments flowing into Indonesia’s massive nickel sector. Adjustments are emerging as international trade restrictions and environmental scrutiny increase.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#128269; Grounded in analyst coverage</span></span>
+      <p class="angle-view">As research from Asia Times and the China-Global South Project shows, Indonesia's nickel strategy is faltering under Western ESG trade restrictions and changing Chinese capital dynamics. Chinese smelter operators face tightening regulatory conditions as Jakarta adjusts policies to meet Western EV supply chain rules, while local miners face capital constraints. Indonesia must navigate between Chinese processing dominance and Western market access, capping downstream margin potential.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> China's complete dominance in processing technology could compel Indonesia to soften ESG standards to maintain direct foreign investment inflows.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> Indonesia will publish revised environmental standards for nickel processing plants before the end of Q2.</p>
+    </div>
+    </div>
+  </article>
+
+  <div class="section-label" id="crypto_fx"><span class="chip" style="background:#22D3EE22;color:#22D3EE;border-color:#22D3EE55">CR</span><h2>CRYPTO & FX</h2><span class="line"></span></div>
+
+  <article class="story" style="--accent:#22D3EE">
+    <div class="thumb" style="--accent:#22D3EE">
+      <img src="https://picsum.photos/seed/crypto-fx-bitcoin-slides-below-sixty-seven-thousand-dollars-/480/640" alt="" loading="lazy" onerror="this.onerror=null;this.src='data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22640%22%20viewBox%3D%220%200%20480%20640%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20gradientTransform%3D%22rotate%280%20.5%20.5%29%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2322D3EE%22%20stop-opacity%3D%22.32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d1117%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%230d1117%22/%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22url%28%23g%29%22/%3E%3Ccircle%20cx%3D%2255%22%20cy%3D%22183%22%20r%3D%22124%22%20fill%3D%22%2322D3EE%22%20fill-opacity%3D%220.12%22/%3E%3Ccircle%20cx%3D%22468%22%20cy%3D%225%22%20r%3D%22226%22%20fill%3D%22%2322D3EE%22%20fill-opacity%3D%220.13%22/%3E%3Ccircle%20cx%3D%2267%22%20cy%3D%22432%22%20r%3D%22102%22%20fill%3D%22%2322D3EE%22%20fill-opacity%3D%220.30%22/%3E%3Ccircle%20cx%3D%22126%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%2322D3EE%22%20fill-opacity%3D%220.10%22/%3E%3Ccircle%20cx%3D%220%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%2322D3EE%22%20fill-opacity%3D%220.10%22/%3E%3C/svg%3E'">
+      <span class="thumb-fallback">CR</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNNEtqckFZRzZHclBKMzh2MEc2WnNIN1RsRVY1c1poeVY5d1lMcmVsQUk0aTMzdGYtOUpnbWs4X2JiZ1otZFd5a2h6bjhzUEI0Y1RWLVd0NEtPcEZYWV8wTW1pTVhPN1FRaTdiMDM1T2pyTFVYSl8zZThfZENpQ3I5LWpMdVNkNzQxdHd2QWpINmtQRnAtVDFpcV9FYnJnOWZSbnBVcDNEYl81aFZKZWhjVjU5c093SEnSAbwBQVVfeXFMTlZLOHN2NEJGdWIwcm5WeXRhaTZMbVJ1N2Y0VjhGMkhkb2JCNmpYZ2VJSmhyVjdqMDVuYUZUbGdtU1ZWY3FMWWxhdU1FRmNXcEhZNTBrNDFBWFIzR20wZUZHdDJqWGxrZG1TYXFHV0paSDl6Qk0wX2ZjUE5xQjN5Qk8yTDdQOUpiZWR1dVNhOUlscVF3c3FZTXFQR2ZyaC1ubnNDeDBCQ25PNDlaYmhSQlJmQks4LUYyZFdxQmY?oc=5" target="_blank" rel="noopener"><h3 class="headline">Bitcoin Slides Below Sixty-Seven Thousand Dollars in Broad Crypto Pullback</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">Bitcoin dropped below $67,000, erasing its recent gains following changes in U.S. presidential administration sentiment. The token came under selling pressure along with broader high-risk tech assets.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#129504; Independent analysis</span></span>
+      <p class="angle-view">Bitcoin's slip below $67,000 reflects a rapid unwinding of levered derivative positions as broader market risk appetite cools. High-leverage crypto traders suffer forced liquidations, while short-term USD cash holdings win as traders seek shelter from risk-asset pullbacks. The move confirms that crypto asset prices remain tightly anchored to tech equity liquidity rather than acting as an inflation hedge.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> Institutional spot buying from ETF inflows could rapidly absorb forced derivative liquidations, prompting a sharp V-shaped price recovery back above $70,000.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> Total crypto liquidation volume will cross $500 million before Bitcoin finds a stable local price floor.</p>
+    </div>
+    </div>
+  </article>
+
+  <article class="story" style="--accent:#22D3EE">
+    <div class="thumb" style="--accent:#22D3EE">
+      <img src="https://picsum.photos/seed/crypto-fx-investors-pull-out-near-two-billion-dollars-from-b/480/640" alt="" loading="lazy" onerror="this.onerror=null;this.src='data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22640%22%20viewBox%3D%220%200%20480%20640%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20gradientTransform%3D%22rotate%280%20.5%20.5%29%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2322D3EE%22%20stop-opacity%3D%22.32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d1117%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%230d1117%22/%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22url%28%23g%29%22/%3E%3Ccircle%20cx%3D%22430%22%20cy%3D%22160%22%20r%3D%22110%22%20fill%3D%22%2322D3EE%22%20fill-opacity%3D%220.16%22/%3E%3Ccircle%20cx%3D%22231%22%20cy%3D%2253%22%20r%3D%22145%22%20fill%3D%22%2322D3EE%22%20fill-opacity%3D%220.27%22/%3E%3Ccircle%20cx%3D%22432%22%20cy%3D%2217%22%20r%3D%22133%22%20fill%3D%22%2322D3EE%22%20fill-opacity%3D%220.22%22/%3E%3Ccircle%20cx%3D%2214%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%2322D3EE%22%20fill-opacity%3D%220.10%22/%3E%3Ccircle%20cx%3D%220%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%2322D3EE%22%20fill-opacity%3D%220.10%22/%3E%3C/svg%3E'">
+      <span class="thumb-fallback">CR</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM3AxUWlVRUxWWjdZcG9MdnJELTY2Qk85M2JnY2hjZGpSWE9PQVhBNF9KX2RFMi1BenNTek5TVWg4a2NPaEZsVHI1OVhEbW1SMzk4TEotZTJLSnFJUFRJN2ZsS0NEZndQS2s1TnR1OEVPLXl4ZzZ4WEJoRk9hcUJzYjN5WHRJdWREMDYyVXFlY21obmRxTGJRVk0wNEhydm1UVDZLdGxTNWV0WTBLMGZqY1pSOUhoSWhQeG1XODlIaVNaQQ?oc=5" target="_blank" rel="noopener"><h3 class="headline">Investors Pull Out Near Two Billion Dollars From Bitcoin Funds</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">Spot Bitcoin funds saw over $1.9 billion in capital exits over recent sessions as investors pulled back risk ahead of Federal Reserve interest rate moves. The redemptions marked one of the largest withdrawal periods of the year.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#129504; Independent analysis</span></span>
+      <p class="angle-view">The $1.9 billion exit from spot Bitcoin funds highlights systemic de-risking by institutional managers anticipating sustained high interest rates from the Fed. ETF issuers lose asset-based management fees, while traditional money market funds gain inflows seeking safe yields. Sustained institutional redemptions create persistent market supply overhead, suppressing spot price appreciation.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> Dovish inflation commentary from upcoming Federal Reserve speeches could trigger a quick turnaround in fund sentiment, prompting institutional inflows within days.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> Spot Bitcoin ETFs will record net negative weekly flows for a second consecutive week.</p>
+    </div>
+    </div>
+  </article>
+
+  <article class="story" style="--accent:#22D3EE">
+    <div class="thumb" style="--accent:#22D3EE">
+      <img src="https://picsum.photos/seed/crypto-fx-bolivian-businesses-turn-to-cryptocurrencies-amid-/480/640" alt="" loading="lazy" onerror="this.onerror=null;this.src='data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22640%22%20viewBox%3D%220%200%20480%20640%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20gradientTransform%3D%22rotate%280%20.5%20.5%29%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2322D3EE%22%20stop-opacity%3D%22.32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d1117%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%230d1117%22/%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22url%28%23g%29%22/%3E%3Ccircle%20cx%3D%2282%22%20cy%3D%2288%22%20r%3D%22218%22%20fill%3D%22%2322D3EE%22%20fill-opacity%3D%220.16%22/%3E%3Ccircle%20cx%3D%2212%22%20cy%3D%22204%22%20r%3D%22134%22%20fill%3D%22%2322D3EE%22%20fill-opacity%3D%220.17%22/%3E%3Ccircle%20cx%3D%22179%22%20cy%3D%22330%22%20r%3D%22143%22%20fill%3D%22%2322D3EE%22%20fill-opacity%3D%220.25%22/%3E%3Ccircle%20cx%3D%2227%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%2322D3EE%22%20fill-opacity%3D%220.10%22/%3E%3Ccircle%20cx%3D%220%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%2322D3EE%22%20fill-opacity%3D%220.10%22/%3E%3C/svg%3E'">
+      <span class="thumb-fallback">CR</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcHNKT1ZtUHVhSDhkc2NuZDYwU2RjQXRfZ3FWeDFTRHRGdmI5OWdOZl9LTy01b0YtOGhDWU03WTFvb2lsQ2t0azhneGRqOURJU291ZUJ5UHZCNVJ2Vzdfc1hweUh4RE5HeU5lUm1ybER5elA3MWhUd2ZYVE9Ba3p5WEhIQ09DQ3NmMkFGS21BbTNsanBldDFJU1lrTTdTc0h6MTlHa2M2NVhrYmw4RzFYandMTnZjZjhZenVSVXVKTmJIQQ?oc=5" target="_blank" rel="noopener"><h3 class="headline">Bolivian Businesses Turn to Cryptocurrencies Amid Foreign Exchange Shortages</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">Small businesses and merchants across Bolivia are adopting cryptocurrencies to conduct import payments amid severe official foreign currency shortages. The trend reflects growing public workarounds to central bank capital controls.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#129504; Independent analysis</span></span>
+      <p class="angle-view">Bolivian businesses turning to stablecoins to finance imports demonstrates classic currency substitution in response to central bank foreign exchange starvation. Local merchants and importers win by bypassing broken banking rails, while the central bank loses control over capital flight and trade settlement tracking. This bottom-up crypto adoption creates permanent structural adoption of P2P stablecoin networks across Latin American trade corridors.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> The Bolivian government could implement severe banking sanctions or restrict local internet access to crypto exchanges, temporarily disrupting P2P settlement nodes.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> Bolivian P2P stablecoin transaction volume will grow by at least 25% over the next quarter as official dollar shortages endure.</p>
+    </div>
+    </div>
+  </article>
+
+  <article class="story" style="--accent:#22D3EE">
+    <div class="thumb" style="--accent:#22D3EE">
+      <img src="https://picsum.photos/seed/crypto-fx-bitcoin-strengthens-against-gold-ratio-despite-fal/480/640" alt="" loading="lazy" onerror="this.onerror=null;this.src='data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22480%22%20height%3D%22640%22%20viewBox%3D%220%200%20480%20640%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20gradientTransform%3D%22rotate%280%20.5%20.5%29%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2322D3EE%22%20stop-opacity%3D%22.32%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230d1117%22/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%230d1117%22/%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22url%28%23g%29%22/%3E%3Ccircle%20cx%3D%22349%22%20cy%3D%2279%22%20r%3D%22100%22%20fill%3D%22%2322D3EE%22%20fill-opacity%3D%220.15%22/%3E%3Ccircle%20cx%3D%22317%22%20cy%3D%2293%22%20r%3D%22205%22%20fill%3D%22%2322D3EE%22%20fill-opacity%3D%220.29%22/%3E%3Ccircle%20cx%3D%2226%22%20cy%3D%2232%22%20r%3D%22204%22%20fill%3D%22%2322D3EE%22%20fill-opacity%3D%220.17%22/%3E%3Ccircle%20cx%3D%2295%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%2322D3EE%22%20fill-opacity%3D%220.10%22/%3E%3Ccircle%20cx%3D%220%22%20cy%3D%220%22%20r%3D%2270%22%20fill%3D%22%2322D3EE%22%20fill-opacity%3D%220.10%22/%3E%3C/svg%3E'">
+      <span class="thumb-fallback">CR</span>
+    </div>
+    <div class="story-body">
+    <span class="domain-badge">news.google.com</span>
+    <a class="headline-link" href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR1JRUnBpbkVvbnQ2WTcxbHI3dloxazRwd0FYT25wWkF1Z0ZFNmNpbU9nTlJ4NjlaTGcySE1SeVk4ZTBoTmc4VmltTU9hQ0ZjLU4zVThMaW1jdW96bHdYWGh4ZVZSZkFEWUVqVlV4WVYwYXJDOERaMmc0dFMtS3pXOUU5VVkyVVB2V2VnMEw4OEVLbkxIWHAwdG9YdHYwTTB3cDhxMGVyeUkweVM0a09NaTBJeVh0ZGZTODdvYy1MY0c5QQ?oc=5" target="_blank" rel="noopener"><h3 class="headline">Bitcoin Strengthens Against Gold Ratio Despite Falling Dollar Value</h3><span class="ext-icon">&#8599;</span></a>
+    <p class="summary">The Bitcoin-to-gold ratio flashed positive metrics as the cryptocurrency outperformed precious metals over extended multi-month performance periods. Analysts highlighted persistent structural demand relative to physical gold bullion.</p>
+    <div class="analyst">
+      <span class="label">&#128202; The Angle <span class="angle-src">&#128269; Grounded in analyst coverage</span></span>
+      <p class="angle-view">As Reuters FX polls and Morningstar analysis indicate, gold's price retreat driven by a strong dollar and Fed hawkishness allows Bitcoin's relative performance against bullion to strengthen. Digital asset funds win the narrative battle over physical bullion during rate-driven metal selloffs, while physical gold investors face opportunity costs relative to yielding cash. The rising BTC/Gold ratio underscores growing institutional preference for digital collateral during global financial reallocations.</p>
+      <p class="angle-bear"><span class="bear-label">&#9888; Risk to this view —</span> Escalating geopolitical conflict could trigger an intense safe-haven bid for physical gold, outperforming crypto and driving the BTC/Gold ratio lower.</p>
+      <p class="angle-prediction"><span class="pred-label">Prediction —</span> The Bitcoin-to-gold price ratio will hold above its key technical support level through the next 30 trading days.</p>
+    </div>
+    </div>
+  </article>
+
+    </div>
+    <div class="earnings-col">
+
+  <div class="section-label" id="calls-checked">
+    <span class="chip" style="background:#34D39922;color:#34D399;border-color:#34D39955">CC</span>
+    <h2>CALLS CHECKED &middot; 2026-11-18</h2><span class="line"></span>
+  </div>
+  <div class="track-badge">79% held up &middot; last 30d &middot; 14 resolved calls</div>
+  <div class="calls-card">
+    <div class="call-row">
+      <span class="call-status" style="color:var(--text-dim)">&#8987; Too early</span>
+      <p class="call-pred">&ldquo;Expect Anthropic to price its IPO shares at least 15% below its final private funding round valuation prior to ringing the opening bell.&rdquo;</p>
+      <p class="call-note">Although headlines confirm Anthropic completed its IPO, they do not disclose its final private round valuation to verify if it priced at a 15% discount.</p>
+    </div>
+    <div class="call-row">
+      <span class="call-status" style="color:var(--text-dim)">&#8987; Too early</span>
+      <p class="call-pred">&ldquo;Watch for Meta and Google to record non-cash asset impairment charges on their mainland infrastructure investments within the next two quarterly earnings releases.&rdquo;</p>
+      <p class="call-note">No new headlines were found to determine whether Meta or Google took non-cash impairment charges on their mainland infrastructure.</p>
+    </div>
+    <div class="call-row">
+      <span class="call-status" style="color:var(--text-dim)">&#8987; Too early</span>
+      <p class="call-pred">&ldquo;Expect Seattle-area office vacancy rates in primary tech corridors to expand by another 150 to 200 basis points over the next six months.&rdquo;</p>
+      <p class="call-note">No fresh information was found regarding changes in Seattle-area office vacancy rates.</p>
+    </div>
+    <div class="call-row">
+      <span class="call-status" style="color:var(--text-dim)">&#8987; Too early</span>
+      <p class="call-pred">&ldquo;Nvidia's high-margin enterprise software and networking segment will rise to account for over 18% of total quarterly revenue within four quarters.&rdquo;</p>
+      <p class="call-note">Recent earnings reports are noted, but the headlines do not provide the specific revenue share for Nvidia's enterprise software and networking segment.</p>
+    </div>
+    <div class="call-row">
+      <span class="call-status" style="color:var(--text-dim)">&#8987; Too early</span>
+      <p class="call-pred">&ldquo;The Nasdaq 100 will underperform value-focused equity indices by at least 3% over the next 30 trading days as capital rotates into cash-flowing defensive sectors.&rdquo;</p>
+      <p class="call-note">While headlines indicate value stocks are drawing interest, they lack the specific index data required to confirm a 3% underperformance by the Nasdaq 100.</p>
+    </div>
+    <div class="call-row">
+      <span class="call-status" style="color:var(--green)">&#9989; Held up</span>
+      <p class="call-pred">&ldquo;The S&P 500 will test its 200-day moving average within the next three weeks before establishing a sustainable trading floor.&rdquo;</p>
+      <p class="call-note">Fresh headlines confirm the S&P 500 tested its 200-day moving average, ending a 155-day streak above the metric.</p>
+    </div>
+  </div>
+
+
+  <div class="section-label" id="tech-movers">
+    <span class="chip" style="background:#F472B622;color:#F472B6;border-color:#F472B655">TC</span>
+    <h2>TECH STOCKS TODAY</h2><span class="line"></span>
+  </div>
+  <div class="movers-card">
+    <div class="movers-subhead mv-up">&#9650; Top Gainers</div>
+    
+    <div class="mover-row">
+      <span class="tk">INTC</span>
+      <span class="mname">INTC</span>
+      <span class="mchange mv-up">&#9650; 1.92%</span>
+    </div>
+    <div class="mover-row">
+      <span class="tk">QCOM</span>
+      <span class="mname">QCOM</span>
+      <span class="mchange mv-up">&#9650; 1.38%</span>
+    </div>
+    <div class="movers-subhead mv-down">&#9660; Top Losers</div>
+    
+    <div class="mover-row">
+      <span class="tk">AMD</span>
+      <span class="mname">AMD</span>
+      <span class="mchange mv-down">&#9660; 7.72%</span>
+    </div>
+    <div class="mover-row">
+      <span class="tk">MRVL</span>
+      <span class="mname">MRVL</span>
+      <span class="mchange mv-down">&#9660; 4.86%</span>
+    </div>
+    <div class="mover-row">
+      <span class="tk">UBER</span>
+      <span class="mname">UBER</span>
+      <span class="mchange mv-down">&#9660; 4.60%</span>
+    </div>
+    <div class="mover-row">
+      <span class="tk">SNOW</span>
+      <span class="mname">SNOW</span>
+      <span class="mchange mv-down">&#9660; 3.94%</span>
+    </div>
+    <div class="mover-row">
+      <span class="tk">AMZN</span>
+      <span class="mname">AMZN</span>
+      <span class="mchange mv-down">&#9660; 3.87%</span>
+    </div>
+  </div>
+
+
+  <div class="section-label" id="crypto-prices">
+    <span class="chip" style="background:#818CF822;color:#818CF8;border-color:#818CF855">CR</span>
+    <h2>CRYPTO PRICES</h2><span class="line"></span>
+  </div>
+  <div class="crypto-card">
+    <div class="crypto-row">
+      <span class="cp-symbol">BTC</span>
+      <span class="cp-price">$62,106</span>
+      <span class="cp-change" style="color:var(--red)">&#9660; 0.6%</span>
+    </div>
+    <div class="crypto-row">
+      <span class="cp-symbol">ETH</span>
+      <span class="cp-price">$1,758</span>
+      <span class="cp-change" style="color:var(--red)">&#9660; 0.3%</span>
+    </div>
+    <div class="crypto-row">
+      <span class="cp-symbol">SOL</span>
+      <span class="cp-price">$73.00</span>
+      <span class="cp-change" style="color:var(--green)">&#9650; 0.1%</span>
+    </div>
+  </div>
+
+
+  <div class="section-label" id="earnings">
+    <span class="chip" style="background:#A78BFA22;color:#A78BFA;border-color:#A78BFA55">ER</span>
+    <h2>EARNINGS THIS WEEK</h2><span class="line"></span>
+  </div>
+  <div class="earnings-card">
+    <div class="earnings-row">
+      <div class="erow-top">
+        <span class="tk">WMT</span>
+        <span class="eeps">Est. EPS $0.64</span>
+      </div>
+      <div class="ename">Walmart Inc.</div>
+      <div class="erow-meta">
+        <span class="edate">THU NOV 19</span>
+        <span class="esession sess-tbd">Time TBD</span>
+      </div>
+    </div>
+    <div class="earnings-row">
+      <div class="erow-top">
+        <span class="tk">BABA</span>
+        <span class="eeps">Est. EPS $1.56</span>
+      </div>
+      <div class="ename">Alibaba Group Holding Limited</div>
+      <div class="erow-meta">
+        <span class="edate">THU NOV 19</span>
+        <span class="esession sess-tbd">Time TBD</span>
+      </div>
+    </div>
+    <div class="earnings-row">
+      <div class="erow-top">
+        <span class="tk">DELL</span>
+        <span class="eeps">Est. EPS $6.48</span>
+      </div>
+      <div class="ename">Dell Technologies Inc.</div>
+      <div class="erow-meta">
+        <span class="edate">TUE NOV 24</span>
+        <span class="esession sess-amc">After Close</span>
+      </div>
+    </div>
+    <div class="earnings-row">
+      <div class="erow-top">
+        <span class="tk">ADI</span>
+        <span class="eeps">Est. EPS $3.89</span>
+      </div>
+      <div class="ename">Analog Devices, Inc.</div>
+      <div class="erow-meta">
+        <span class="edate">TUE NOV 24</span>
+        <span class="esession sess-tbd">Time TBD</span>
+      </div>
+    </div>
+    <div class="earnings-row">
+      <div class="erow-top">
+        <span class="tk">DE</span>
+        <span class="eeps">Est. EPS $4.07</span>
+      </div>
+      <div class="ename">Deere & Company</div>
+      <div class="erow-meta">
+        <span class="edate">WED NOV 25</span>
+        <span class="esession sess-tbd">Time TBD</span>
+      </div>
+    </div>
+    <div class="earnings-row">
+      <div class="erow-top">
+        <span class="tk">MDT</span>
+        <span class="eeps">Est. EPS $1.34</span>
+      </div>
+      <div class="ename">Medtronic plc</div>
+      <div class="erow-meta">
+        <span class="edate">TUE NOV 24</span>
+        <span class="esession sess-tbd">Time TBD</span>
+      </div>
+    </div>
+    <div class="earnings-row">
+      <div class="erow-top">
+        <span class="tk">PDD</span>
+        <span class="eeps">Est. EPS $2.61</span>
+      </div>
+      <div class="ename">PDD Holdings Inc.</div>
+      <div class="erow-meta">
+        <span class="edate">THU NOV 19</span>
+        <span class="esession sess-tbd">Time TBD</span>
+      </div>
+    </div>
+    <div class="earnings-row">
+      <div class="erow-top">
+        <span class="tk">INTU</span>
+        <span class="eeps">Est. EPS $2.47</span>
+      </div>
+      <div class="ename">Intuit Inc.</div>
+      <div class="erow-meta">
+        <span class="edate">THU NOV 19</span>
+        <span class="esession sess-amc">After Close</span>
+      </div>
+    </div>
+  </div>
+
+    </div>
+  </div>
+</main>
+
+<footer>
+  <p><a href="weekly-latest.html" style="color:var(--teal);">&#8594; This Week's Rewind</a> — the biggest themes of the past 7 days, synthesized.</p>
+  <p style="margin-top:10px;">Generated automatically using free Google News RSS feeds, Nasdaq's public earnings calendar, and Google's Gemini free API. Headlines link to the original source — this page just summarizes and analyzes.</p>
+</footer>
+
+</body>
+</html>

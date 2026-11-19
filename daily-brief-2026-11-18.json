@@ -6,42 +6,54 @@
       "headline": "Anthropic tests AI investor nerves with a high-stakes public market debut",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOFFaaTFOMmRsSmNwRlBQZTNqWUJhZXlDbzRYQk5TRWpoLVQ5R0trbFZySzNhQU9pa1JZRXE5Q2VhVTNBUVhxOFB2b0JiUVNLZHpWQkxsYW5EeHY5YW9jU09hNzFhbnMxMnctaVFaUTdyYnhGS1g2Z2pNU0pWdmlYUUtuR0pWR2ZnMVhMWHhjd3VweXMyd0h2X2ZRc9IBoAFBVV95cUxObFlSaHJnalF6bnZ6eDUwbTlYZGlPNjlFN2xxZ3Q1blZNREx3YTlQaWx4NEtXeHlEbmZqc0doTExsM1RXSXMzM05TaVEzTjIxd1N6OGVWYkFhZUZLaXZKZWkyLW5EaW85eHQtMk5FMUcxMmVkNmJwSHZOWWZpVUZVd1FROVJKYjBlWUxERUpxZTNYdUZ0aldWX3RIa0ZrUXR3?oc=5",
       "prediction": "Expect Anthropic to price its IPO shares at least 15% below its final private funding round valuation prior to ringing the opening bell.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Although headlines confirm Anthropic completed its IPO, they do not disclose its final private round valuation to verify if it priced at a 15% discount."
     },
     {
       "section": "tech",
       "headline": "White House pushes forward on restricting tech giants in Chinese data centers",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPamZVTFBIMlk1aHp5ZUZ3ME56bnZlV3NPODhQY3JKcnI2dUtIT0FqSHFveTRSem1Rby14eXY4dnhCci1WWmNJdEZnTnNnOUJldUROSXFWc1I5SmExVXZ2dWlhMWhQSkpqTFJIN1R2aTJsX2tJQ1l6cnhRY2JWdTNpVjNKZFhuelREd1A1S29BYUhDRHlTNWxncUJ3aHFobUU1NFZNTVlkbkxLUWExUFVjWHpOSHo3aE0?oc=5",
       "prediction": "Watch for Meta and Google to record non-cash asset impairment charges on their mainland infrastructure investments within the next two quarterly earnings releases.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new headlines were found to determine whether Meta or Google took non-cash impairment charges on their mainland infrastructure."
     },
     {
       "section": "tech",
       "headline": "Seattle tech job postings drop sharply as industry spending shifts to hardware",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZUJ6dlRPZFViY2ZMUXlDZkUtWkFGc1pBZm5FckZpQWk5VU5YeTlWaHZtSmE1REZEUjZEOUhVZFZjN1Q4ZDlRU3dVOTcwMFp3bGJTaXpQTlQzTzNsNzBkV2M1QW9rckJqZ1gtQjZkbUY4LWRpUTV4Vi00WGhxMVZOOE9SMGxCd3J6eVh4TjRrZXR6STh3RDMxQXpR?oc=5",
       "prediction": "Expect Seattle-area office vacancy rates in primary tech corridors to expand by another 150 to 200 basis points over the next six months.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No fresh information was found regarding changes in Seattle-area office vacancy rates."
     },
     {
       "section": "tech",
       "headline": "Nvidia pushes past graphics chips with a major supercomputing infrastructure expansion",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSVN2RmlrMFNrN2Jzc0JCSzFfTFd4ZURJcVZWT3RpQjJ6ZDBWXzI3S0NRY2dIcF9pSF9HTkw1a295SDZaa25Wa0JYZHk5ZXBERVQ3cE1QMHFaNUJWLV9YYmpCb3FYVE1nb0w1eEhxZ3BIRW9pZ3lQbi1VQUU2Q19rQjNCNFVFeUlfREw0ejlxZHJCUHc5dkpFMExnSmYtYnVQQzZJNkwtb0hYOHg5YnJ0R2NvUURYZG9mY3JF?oc=5",
       "prediction": "Nvidia's high-margin enterprise software and networking segment will rise to account for over 18% of total quarterly revenue within four quarters.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Recent earnings reports are noted, but the headlines do not provide the specific revenue share for Nvidia's enterprise software and networking segment."
     },
     {
       "section": "markets",
       "headline": "Wall Street stumbles as Nvidia earnings fail to calm tech valuation fears",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWF9SSWdwQ1BBTkhfMnRGdVRodTBUeEpibW9RRlgzWURreHZVY2RKYXM5el9YQU1XeVpnTnl3QWJnbzRpdEVBT1JDbWNodTRKWHBsdnFKOGFYM1lGaUtNbmRlYUJhaTZrandnaFpUVHFDaEV6UUVaSW9jU05fakc1UVRTRkhibWM?oc=5",
       "prediction": "The Nasdaq 100 will underperform value-focused equity indices by at least 3% over the next 30 trading days as capital rotates into cash-flowing defensive sectors.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "While headlines indicate value stocks are drawing interest, they lack the specific index data required to confirm a 3% underperformance by the Nasdaq 100."
     },
     {
       "section": "markets",
       "headline": "Stocks break key support as Federal Reserve minutes point to high rates",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0NhQ0JLODM0S1FxM2RYX3RiY3JrelIwRDE5NEhnLVJPVWxUUUp5TWI5aF8wdGo0bjJqS3lUdTZNYVRKNTJJbFJQSVJsNzVqVzhHd2paTlFCOXlHeXc5Ui1aU1FiaWR4YWt2Q2RpWElveGFqTGVBMDA3bEJzeXlJb1U2ajdtWFNTYWdpWkFzZktfNzY5?oc=5",
       "prediction": "The S&P 500 will test its 200-day moving average within the next three weeks before establishing a sustainable trading floor.",
-      "grounded": true
+      "grounded": true,
+      "status": "held_up",
+      "note": "Fresh headlines confirm the S&P 500 tested its 200-day moving average, ending a 155-day streak above the metric."
     },
     {
       "section": "markets",
