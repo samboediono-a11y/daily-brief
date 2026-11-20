@@ -8,7 +8,7 @@
       "prediction": "Anthropic will announce a multi-billion dollar capital commitment for dedicated compute infrastructure within the next 60 days.",
       "grounded": true,
       "status": "held_up",
-      "note": "Anthropic's reported $19 billion data center lease confirms a major multi-billion dollar compute infrastructure commitment."
+      "note": "Fresh headlines report Anthropic signing a $19B data center lease as well as Google investing up to $40B in cash and compute, confirming major capital commitments for compute infrastructure."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "At least two prominent European AI research teams will announce plans to relocate primary operations to the US within six months.",
       "grounded": true,
       "status": "too_early",
-      "note": "None of the fresh headlines mention European AI research teams announcing relocations to the United States."
+      "note": "None of today's fresh headlines mention European AI research teams relocating operations to the United States."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "Software engineering job postings in major West Coast tech hubs will remain depressed at least 35% year-over-year through Q3.",
       "grounded": false,
       "status": "too_early",
-      "note": "No new headlines were found to assess West Coast tech job postings or hiring trends."
+      "note": "No new headlines were found to evaluate the status of tech job postings in West Coast hubs."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Major B2B AI vendors will revise marketing materials over the next quarter to emphasize immediate workforce efficiency over human-replacement capability.",
       "grounded": false,
       "status": "too_early",
-      "note": "A general Google Cloud use-case article does not provide sufficient evidence of an industry-wide marketing shift among B2B vendors."
+      "note": "The available headline on Google Cloud AI use cases does not provide enough detail to confirm or contradict revisions in marketing messaging."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The S&P 500 will remain constrained below its 50-day moving average over the next two weeks as market volatility settles.",
       "grounded": true,
       "status": "too_early",
-      "note": "Today's headlines focus on commodities and macroeconomic outlooks, providing no data on S&P 500 technical levels."
+      "note": "Today's headlines do not contain information regarding S&P 500 trading levels or moving average metrics."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "Nvidia stock will trade within a tight, range-bound channel without reaching new record highs until a detailed succession plan is disclosed.",
       "grounded": true,
       "status": "too_early",
-      "note": "No fresh headlines were found regarding Nvidia's stock price action or succession announcements."
+      "note": "No new headlines were found regarding Nvidia stock performance or succession planning."
     },
     {
       "section": "markets",
