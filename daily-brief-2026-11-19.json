@@ -6,42 +6,54 @@
       "headline": "Anthropic Reaches Trillion-Dollar Valuation in Historic Stock Market Debut",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FMG1KU0o0NERzUTNyMkszYVJhbGNJd2hnd3BGQ21uSFUtWC1KOUNCSkhxczlKQlVCVmoxZDhqRUMtOThWZGlXWnVCVjRYYlJQaENHN1hsUUp5RXdMQzF2Z0wwYW9wdVl4b1VrdG4tSXpHUVQxTnJZNVk2N0I2dw?oc=5",
       "prediction": "Anthropic will announce a multi-billion dollar capital commitment for dedicated compute infrastructure within the next 60 days.",
-      "grounded": true
+      "grounded": true,
+      "status": "held_up",
+      "note": "Anthropic's reported $19 billion data center lease confirms a major multi-billion dollar compute infrastructure commitment."
     },
     {
       "section": "tech",
       "headline": "Trump Vows to Block Rules That Could Stifle AI Innovation",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTWJ1dXFRb1Q2R1NTeUc3NC1reXFsanRLdDMzWUZXNllESENlQ3JRWVIwbk1CZ2xBSGM0X1FpNHBVaUtSV1gwajdXR0RIQlIybkY4dnBhSnMzQkNPNmdCdmlHTnNqM2RsRzhmam1NUXVkTjliOHFGS014UWtVQWtuSHFMc1RhRFNFRWF4Njg1Y0wxNTlDT1UzNEtXRkRaWnJoUThyZmtMZGxsNkl6eDFsZnZn?oc=5",
       "prediction": "At least two prominent European AI research teams will announce plans to relocate primary operations to the US within six months.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "None of the fresh headlines mention European AI research teams announcing relocations to the United States."
     },
     {
       "section": "tech",
       "headline": "Seattle Tech Job Openings Plunge 44% Amid Industry Hiring Freeze",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZUJ6dlRPZFViY2ZMUXlDZkUtWkFGc1pBZm5FckZpQWk5VU5YeTlWaHZtSmE1REZEUjZEOUhVZFZjN1Q4ZDlRU3dVOTcwMFp3bGJTaXpQTlQzTzNsNzBkV2M1QW9rckJqZ1gtQjZkbUY4LWRpUTV4Vi00WGhxMVZOOE9SMGxCd3J6eVh4TjRrZXR6STh3RDMxQXpR?oc=5",
       "prediction": "Software engineering job postings in major West Coast tech hubs will remain depressed at least 35% year-over-year through Q3.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No new headlines were found to assess West Coast tech job postings or hiring trends."
     },
     {
       "section": "tech",
       "headline": "Former Google CEO Blames Tech Firms for Rising Public AI Fear",
       "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPbUJGODlCQXNQNDJfUEtmeTN2Nm15azFfdmpLaHpjMEozUnhSd0dqa1BQV1FjdUJOZmF4R3p5R0VyNUtrTkZQRXB1LU5kdzNNbXlfaG12TEZjQ1FPZ0MtU3hZR1M2Ynd1RkRZUWpWLTI5TUlpa2V0MmVCSFloR0k0SlRpUWJXcDJEcjkyTTRmU1Q1cHo0bHFnOGFjOXRkaHFxX1drRXJoMk1PazV4ZXF1SE9CcVJPUTJGSGU5aTFZWEg5bnFncmU3SnNpenRWejR5OUlGdXBsUjhqY1dfNG44ZTNtV2wxMUdvVEtsbFF2MjZvaFdneDZRM3pzcGpaaE8yN0JESlJjbjB5VEhwUHVIQnRMTGJnTy1qcUxwMENXWGxoTjR5MjBKUFNyQ3AwaU5adVBzdWk5aHdzNlQtNTdNLWVnaGZBVUNkdEJGUGoyNnpMaU9ZaWZZcGNLd3FqNm1DbTdQaS0yRjFaNFlHblhZVFJlONIB-AJBVV95cUxOWHVKcnQ5Z3hJTml4eVJYSkpDTEJPX0NSY3I1enpBeFkyYXJhRW44ajBWbDdXX1ozLU5Udks0dFZJQmxMOG1KR2hlNEFKZmYydllUMFppYWYyM0FIbEIwbzBZZXhhY1dxVmdaaVB3S1ZwTHR2WGdSM3FZTVluLTBoNWZLRlA3MUw1ZE9WOUQwdzFmV0YxX19lQ0tCeEFsZVJ2ak5MVzZ3YXdxWlhUU0RvbllsNnFiUGFtNUpwYWlfMW42ckM1WWpIUlMyR002SHJwX2VYSEhtSk16LWdOTThfSlJrTnhpWTRHZ1pDU2UzaTNPM193amtjM3Y0VG4zdnJiTG5sX2haYkgyYnh3R3JDM1ZYY0FaemI5MmJBSnBpaTJ5MUlLX1RGVzktM2s1WEJhRlBvWkRVU0RvVjBrTFlGem8xVHNLUXE4eXluRDBoSjl1RDZucTZ6bjdnS1Zyd1hFdjF6NVRpekVBWGVQTTBaWVlUSHh6NHlZ?oc=5",
       "prediction": "Major B2B AI vendors will revise marketing materials over the next quarter to emphasize immediate workforce efficiency over human-replacement capability.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "A general Google Cloud use-case article does not provide sufficient evidence of an industry-wide marketing shift among B2B vendors."
     },
     {
       "section": "markets",
       "headline": "Dow Drops 1,100 Points in Deep Market-Wide Sell-Off",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWlJiR3JvUjc5UV9tQnotSEJXMHQybHJCMUlmVjFMVlR4TlZIbE12dThTdjNEMUhYTU9NYUtqZkVsQUhjMU5ZQlN0VDRwTFQ4RG5yQmpPSHhmdnpXaTBwUkZiMW1YUkpoZ2pjRVpwMC00TkQ0dVVOTGJBRDN2cTlhMTJFbF84Si1DX3FMb2FiM3RfTXpWRHpNNEQ4cDFFOExBbldkdEZuX2JqcDhpVzdudWxaT19majJ5bjM1ZlppWlI4Q0YxRUUzajRuMA?oc=5",
       "prediction": "The S&P 500 will remain constrained below its 50-day moving average over the next two weeks as market volatility settles.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Today's headlines focus on commodities and macroeconomic outlooks, providing no data on S&P 500 technical levels."
     },
     {
       "section": "markets",
       "headline": "Nvidia Shares Fall as Leadership Transition Concerns Shadow Strong Earnings",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMHRFQXJvd0VTZFAtVzVJUF94ZE13ZjR0WGFHZzYySjJLM2VDSjRoTHM1OWFOMk03NHdyVDhDWV9yeEd4dHlKQ3VSd1pCNGxYU2w3TGF4VGNjcHVZQlE5RGI1RWd6djgtcUh4X3plb1JiaHJjVzhZakJyQTl1c0VaRGFNTjZpLWZhVTJwbzV0Yi1fbk8wSG1wQ3RMUnFaU2xGZERhRmcweXM3d292N1pKWWdmZFMwQzFsUHFMMkhoODhfd21OZWJNdVlvX2pBOVBlMm1kN3JZM3F4cDVETEt6cEhtcWI2WUx3dEZsWHZpVGFVOHp5YlI4QmI3YnE?oc=5",
       "prediction": "Nvidia stock will trade within a tight, range-bound channel without reaching new record highs until a detailed succession plan is disclosed.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No fresh headlines were found regarding Nvidia's stock price action or succession announcements."
     },
     {
       "section": "markets",
