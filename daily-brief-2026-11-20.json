@@ -6,42 +6,54 @@
       "headline": "Trump threatens tariffs on tech companies expanding AI data centers overseas",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY2RUaU1Ec3pkRTdvdjgtbS14eXdpaTdTa1Y5TlI1Tmg2OG9fODh5aHhnOWFlU0pwbWVoQUZaNkUwSnFxS0JVOXRIVXFBd3FfY1RROHVfdHN0UHY2dEFsWk5mOENDRUs4V3RyME9qUkRrZVNxV2tMaUhYUEYxMTAyc3F2YzZ1SHV6ZzJoMm8weWVsZjFReWZneHFkS1Q5VnQ2akJ6aWE4Snh1dXcycnh1bGdJSmZOR3lvY19ydk1n?oc=5",
       "prediction": "Expect major hyperscalers to announce at least $15 billion in repurposed or domestic-only capex realignments during upcoming quarterly earnings calls.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No new headlines were found to determine whether hyperscalers announced capex realignments."
     },
     {
       "section": "tech",
       "headline": "Europe pushes protectionist policies to keep quantum tech funding at home",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbWcwdjZqeGVvUDgwRkRJSVJqWXJhcUN1QnpGemQ5dm9zcGpWQ0dGOVpVTHllUzUtRE84bS1uc0xXUy1fanlKcE4wT2FLWDhNaHBlMG9Vd1R1VzNRTlJ3SGlXQ18zUnVYNFpTVUwtUUpxME9DUHBsU0RnUGJDY19JSk9uUlk?oc=5",
       "prediction": "Look for the European Commission to formally approve a European Quantum Sovereignty Act restricting cross-border IP licensing within the next two quarters.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The provided headline on EU economic statecraft does not indicate whether a European Quantum Sovereignty Act has been formally approved."
     },
     {
       "section": "tech",
       "headline": "Microsoft offers voluntary buyouts to tens of thousands of employees",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc0dmOEZYT0g1NWdHT202STRMVnNRTVhTck1WQjVYQ3I1aXlRLUhfSGRYb0VVU0VPZkpOeDRtNWttVVdiX3NyLUtqb2ozcmU1RWsyakJSUVozSUtlQUtyMTdLY1oyaUdiajE2Y0FXejJaWEhzRndRcFNqYUpfZ3pXR3hjRHRNdW4xbTJMTXkwOHZYdHd3NmRfVTIyeUdTQkd4U2xxaHhFSkk5eTdvRE1yY3IxOA?oc=5",
       "prediction": "Microsoft's operating margins will expand by at least 150 basis points over the next two fiscal quarters following execution of the exit program.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "None of the fresh headlines provide Microsoft financial results to assess if operating margins expanded as predicted."
     },
     {
       "section": "tech",
       "headline": "Microchip maker Micron leads semiconductor slump as hardware demand cools",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWkNQeW8tQUVZaEtYeTctWVR0c08xN0N5ZmJNTEtYM3Y1YjRBZWREZDFVaFpYVGNpenQ1M2p1eHBtcURiblVTMEdQa2l2VldJQlBGUFRSbHpkcUQzd1o2azR5eWxlUG1laUtVTzN5R05HUmVNcUVMUUNwandWUldEVFRLZW1XUV9oQ0NiZHpsdFZqOXpXTkJaRUQ1SW1GMl9Gd244QnVYd2JicjJiMHk1NWp4aTd1b056eldJcnBWY0k?oc=5",
       "prediction": "Watch for Micron to announce a 10% to 15% reduction in its full-year capital spending budget during its next earnings report.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "The fresh headlines offer general commentary and price targets for Micron but do not report on capital spending revisions from an earnings report."
     },
     {
       "section": "markets",
       "headline": "Anthropic stock slips on debut despite record startup hype",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdXV5MDNTQUNlQ2E0Y3ozc0RxalRiM2Vhelc3M2gyZnpmRWg3UWZYcHJqSVVpa1lsVjRYeldYNjVuZGxjMDZRcllvOHFmc24xcG1VY3RZdnFVT2Q4TGZ2Sk1zQTJBcm5BaTFqQjlDSGNLVUFfOERuLXo4M1VrTnFZcDFmSDdzejFmTy1PLXl6MHhsUkM0TjdrXzZScFl2TzJzdTJRc2FBNU9QdldNLXFMMkxrSUktVVFmRXFlbzhsaFd0Zw?oc=5",
       "prediction": "Anthropic stock will trade down an additional 10% to 15% before stabilizing around its first quarterly earnings release as initial lock-up periods expire.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "While fresh headlines confirm Anthropic's lockup details, they do not provide post-debut stock price performance to verify the predicted 10% to 15% drop."
     },
     {
       "section": "markets",
       "headline": "Nvidia wipes out half a trillion dollars following accounting probe reports",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZXVvWWpMRlREaWkzWTdnWGVvMzZsX2JVekNROC1CNXkwMDJyN3J2R2djNmdnTHZVN0xzVXFjdFdEM0laV1kzWFo2MlQ2ajVfYU9TZ0xTZHFpYXhHdllpX3ZNWUh1bk55N1BwSjRsa1FKUmloTU5RelRHM1VVOGRLZUF0RFVKejdPakJmQVh0RGhjcTk4TGs3czY4RkVPLWZKOUZ1bnk0REFQOXZja3RrSnYybWd0b2ZTTEVkdjBCZDZhRkwtTkFWdFNKc0FDVGcydHBlTVFTU0xRbXdLLUE?oc=5",
       "prediction": "Expect Nvidia to issue an official board review summary and regulatory accounting update within 30 days to stem institutional liquidation.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No fresh headlines were found to verify whether Nvidia issued an official board review summary or accounting update."
     },
     {
       "section": "markets",
