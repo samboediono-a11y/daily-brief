@@ -8,7 +8,7 @@
       "prediction": "Expect major hyperscalers to announce at least $15 billion in repurposed or domestic-only capex realignments during upcoming quarterly earnings calls.",
       "grounded": false,
       "status": "too_early",
-      "note": "No new headlines were found to determine whether hyperscalers announced capex realignments."
+      "note": "No fresh headlines were found regarding hyperscalers' capital expenditure realignments or earnings calls."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "Look for the European Commission to formally approve a European Quantum Sovereignty Act restricting cross-border IP licensing within the next two quarters.",
       "grounded": true,
       "status": "too_early",
-      "note": "The provided headline on EU economic statecraft does not indicate whether a European Quantum Sovereignty Act has been formally approved."
+      "note": "The provided headline on EU economic statecraft does not mention any formal approval of a European Quantum Sovereignty Act."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "Microsoft's operating margins will expand by at least 150 basis points over the next two fiscal quarters following execution of the exit program.",
       "grounded": true,
       "status": "too_early",
-      "note": "None of the fresh headlines provide Microsoft financial results to assess if operating margins expanded as predicted."
+      "note": "None of the fresh headlines report Microsoft's subsequent quarterly earnings or operating margin performance."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Watch for Micron to announce a 10% to 15% reduction in its full-year capital spending budget during its next earnings report.",
       "grounded": false,
       "status": "too_early",
-      "note": "The fresh headlines offer general commentary and price targets for Micron but do not report on capital spending revisions from an earnings report."
+      "note": "The fresh headlines discuss general market sentiment on Micron rather than official earnings reports detailing capital spending cuts."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "Anthropic stock will trade down an additional 10% to 15% before stabilizing around its first quarterly earnings release as initial lock-up periods expire.",
       "grounded": false,
       "status": "too_early",
-      "note": "While fresh headlines confirm Anthropic's lockup details, they do not provide post-debut stock price performance to verify the predicted 10% to 15% drop."
+      "note": "Although a headline notes Anthropic's staggered lockup structure, there is no data on stock price movement or quarterly earnings results to verify the predicted drop."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "Expect Nvidia to issue an official board review summary and regulatory accounting update within 30 days to stem institutional liquidation.",
       "grounded": false,
       "status": "too_early",
-      "note": "No fresh headlines were found to verify whether Nvidia issued an official board review summary or accounting update."
+      "note": "No fresh headlines were found indicating whether Nvidia issued an official board review summary or regulatory accounting update."
     },
     {
       "section": "markets",
