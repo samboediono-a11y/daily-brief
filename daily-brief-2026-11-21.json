@@ -6,42 +6,54 @@
       "headline": "Trump Threatens Fines on Tech Firms Building Foreign AI Data Centers",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY2RUaU1Ec3pkRTdvdjgtbS14eXdpaTdTa1Y5TlI1Tmg2OG9fODh5aHhnOWFlU0pwbWVoQUZaNkUwSnFxS0JVOXRIVXFBd3FfY1RROHVfdHN0UHY2dEFsWk5mOENDRUs4V3RyME9qUkRrZVNxV2tMaUhYUEYxMTAyc3F2YzZ1SHV6ZzJoMm8weWVsZjFReWZneHFkS1Q5VnQ2akJ6aWE4Snh1dXcycnh1bGdJSmZOR3lvY19ydk1n?oc=5",
       "prediction": "Expect at least one major US hyperscaler to formally announce a multi-billion dollar capital reallocation from European to domestic US data center projects before Q3 2026.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The fresh headline discusses AI policy and international compute strategy, but provides no evidence of a US hyperscaler reallocating capital from Europe to domestic projects."
     },
     {
       "section": "tech",
       "headline": "Anthropic Makes Staggering Public Debut Amid AI Valuation Crosscurrents",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FMG1KU0o0NERzUTNyMkszYVJhbGNJd2hnd3BGQ21uSFUtWC1KOUNCSkhxczlKQlVCVmoxZDhqRUMtOThWZGlXWnVCVjRYYlJQaENHN1hsUUp5RXdMQzF2Z0wwYW9wdVl4b1VrdG4tSXpHUVQxTnJZNVk2N0I2dw?oc=5",
       "prediction": "Anthropic stock will trade down at least 20% from its initial public offering price within 90 days of listing as lockup expiration dates approach.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Headlines indicate Anthropic stock has slid post-debut but managed to stay above its IPO price, with lockup expirations still pending."
     },
     {
       "section": "tech",
       "headline": "European Regulators Move to Ringfence Domestic Quantum Computing Startups",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbWcwdjZqeGVvUDgwRkRJSVJqWXJhcUN1QnpGemQ5dm9zcGpWQ0dGOVpVTHllUzUtRE84bS1uc0xXUy1fanlKcE4wT2FLWDhNaHBlMG9Vd1R1VzNRTlJ3SGlXQ18zUnVYNFpTVUwtUUpxME9DUHBsU0RnUGJDY19JSk9uUlk?oc=5",
       "prediction": "The EU Commission will formally adopt the preferential quantum procurement rule within six months, prompting immediate trade compliance challenges from the US Commerce Department.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "The year-end trade update headline does not contain information regarding EU quantum procurement rules or subsequent US Commerce Department challenges."
     },
     {
       "section": "tech",
       "headline": "Nvidia Espionage Allegations Expose Deepening Semiconductor Spy War",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVjhXZ2xYTDVHWE9xVzhIZVdLOVF3XzB2WEcxNnRlUFNCZzNvSDFtZG81UFZRTnJyLWJzTXdKbER1MExJcVhlUy11ckx1X1hnQjM0Z3NLNm1RMHlBSmdacjdOMHlfSDBSSUVHeVQ2bDQ1SWFVTUlHb2g5aVZWTGluWGt4TUtkMU5nSXc?oc=5",
       "prediction": "The US Department of Commerce will issue expanded supply-chain physical and cyber compliance rules for all tier-one US chip designers within 60 days.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "While headlines discuss general AI export controls and US-China tech decoupling, none confirm specific physical and cyber compliance rules issued for US chip designers."
     },
     {
       "section": "markets",
       "headline": "Wall Street Sinks into Correction as Nasdaq Erases Yearly Gains",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tY1RiS3BadWcwVVMwU2oteTAzRVdyVEpSeUwtUGJOU3RZV3BmOEJQRmtrT25udndSRVUxRDVpSkRCLUdCS2lDc3dTRm9Ja19qNzh3MlNXVDVDM0UwQXItVWgyMUJnaV9xY2RlWEJmbnBCWWE1ZEdz0gF8QVVfeXFMUDFCSzhsWkpPUEpfV1BiOTNJUkJCbGNwaFVlUmtCcm42WTNmaXF6RVdpbnNwcWJOV1V6QWRtSjVMdFBuLU5kSmFwM0Q5S0ZQOVdPdVVlMGh3dVQyQnAtY0lXcU9xbjN0NE5pYUU1MEM5cU1WN25lc3pYUmpJaQ?oc=5",
       "prediction": "The Nasdaq 100 will retest its 200-day moving average within the next three weeks before establishing a durable trading floor.",
-      "grounded": true
+      "grounded": true,
+      "status": "held_up",
+      "note": "Fresh financial reporting confirms that the 200-day moving average was retested and broken as anticipated."
     },
     {
       "section": "markets",
       "headline": "Rough Anthropic IPO Trading Triggers Four Trillion Dollar AI Rout",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNlRWTmU1NlRGMjRnb2JGWUVrSTk4V3dTRWgyb2hlSXF6Y0FtVi1tREhvSUFPby1IVkphYVlXdGtpR2pvYmltRnpaUkI3RFBMeG05aExMWUs4Yi1rb05oTlBvNWpRUFhSNWc2NlRER205T1QzZU5PbVcwaTJEU1hpM1M2ZDFtd2RNamMtS2trTGtjWThBTXZ3MFJ6bEYxTTdxMmExQ1cwRXVTYk9OOENzTA?oc=5",
       "prediction": "The PHLX Semiconductor Index will fall an additional 8% over the next two earnings cycles as wall street analysts revise forward guidance downward.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new headlines were available to evaluate the performance of the PHLX Semiconductor Index over upcoming earnings cycles."
     },
     {
       "section": "markets",
