@@ -8,7 +8,7 @@
       "prediction": "Expect at least one major US hyperscaler to formally announce a multi-billion dollar capital reallocation from European to domestic US data center projects before Q3 2026.",
       "grounded": true,
       "status": "too_early",
-      "note": "The fresh headline discusses AI policy and international compute strategy, but provides no evidence of a US hyperscaler reallocating capital from Europe to domestic projects."
+      "note": "The solitary headline from Carnegie Endowment does not mention any US hyperscalers reallocating capital from European to domestic data center projects."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "Anthropic stock will trade down at least 20% from its initial public offering price within 90 days of listing as lockup expiration dates approach.",
       "grounded": false,
       "status": "too_early",
-      "note": "Headlines indicate Anthropic stock has slid post-debut but managed to stay above its IPO price, with lockup expirations still pending."
+      "note": "While headlines confirm a post-debut stumble and discussions around the lockup period, MarketWatch explicitly notes the stock 'manages to stay above its IPO price,' meaning it has not yet traded down 20% within the 90-day window."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "The EU Commission will formally adopt the preferential quantum procurement rule within six months, prompting immediate trade compliance challenges from the US Commerce Department.",
       "grounded": false,
       "status": "too_early",
-      "note": "The year-end trade update headline does not contain information regarding EU quantum procurement rules or subsequent US Commerce Department challenges."
+      "note": "The provided 2025 trade update headline offers no evidence regarding EU Commission quantum procurement rules or subsequent US Commerce Department challenges."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "The US Department of Commerce will issue expanded supply-chain physical and cyber compliance rules for all tier-one US chip designers within 60 days.",
       "grounded": false,
       "status": "too_early",
-      "note": "While headlines discuss general AI export controls and US-China tech decoupling, none confirm specific physical and cyber compliance rules issued for US chip designers."
+      "note": "The fresh headlines discuss general export controls and US-China decoupling but provide no evidence of new supply-chain compliance rules specifically issued for tier-one chip designers."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The Nasdaq 100 will retest its 200-day moving average within the next three weeks before establishing a durable trading floor.",
       "grounded": true,
       "status": "held_up",
-      "note": "Fresh financial reporting confirms that the 200-day moving average was retested and broken as anticipated."
+      "note": "The fresh headline 'The 200-Day Average Broke. The Next 4 Weeks Are Critical' confirms the index retested and crossed its 200-day moving average within the predicted timeframe."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "The PHLX Semiconductor Index will fall an additional 8% over the next two earnings cycles as wall street analysts revise forward guidance downward.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new headlines were available to evaluate the performance of the PHLX Semiconductor Index over upcoming earnings cycles."
+      "note": "No new headlines were found to evaluate the performance or guidance revisions regarding the PHLX Semiconductor Index."
     },
     {
       "section": "markets",
