@@ -6,42 +6,54 @@
       "headline": "Jensen Huang Retakes the Reins at Nvidia After Shock Ouster",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRXdDbE4wOVUzN1hIR0p5WGc1Vi0wUGwwZVBtbVpEZmRRRVI0WUhidF81SE5zMGZncWNjNEx3dVlCY2FURkhlNk1sRWt4YWlGZzRSS0paOGk2cW9tOGUtZXQ2dGd6LTk2U0JtbFhFYkVuUUV6U1d5NVVPd1Q0MVBESHRmYm9iWE5uR3AwTDVYemQ?oc=5",
       "prediction": "Nvidia will establish a formal board governance committee and outline a concrete CEO succession framework ahead of its next quarterly earnings call.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new headlines were found to confirm or contradict whether Nvidia established a formal governance committee or succession framework."
     },
     {
       "section": "tech",
       "headline": "OpenAI's Chief Scientist Calls for Mandatory Industry Guardrails",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMjVTYVIwT3huVU8teHdXRHdnWGxOUTI5d1J6elZhWktVMVpSZDhhRmk5eV82c0JuRDBSUWNHdl84Z253WDJDbmd6SXhiNlFsdkxhM2gxWTVoTnY2ZkdrZ0dVam1OVXNSZWIwUnBQaTU4bEhJNTZValFSQ1Naam1xb1FkTklSZXI2Ums4d19sUjVheGtLNGhUWjFPcEVyd0ZIRmJlX0FqNXF5cHpCR2pjczF5WQ?oc=5",
       "prediction": "The US Commerce Department will issue draft mandatory safety audit guidelines for frontier models exceeding 10^26 FLOPs within four months.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Fresh headlines discuss think-tank proposals on compute thresholds and AI governance, but do not indicate that the US Commerce Department has issued draft safety audit guidelines."
     },
     {
       "section": "tech",
       "headline": "Tech Giants Slash Thousands More Roles in 2026 Restructuring Wave",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOc1VXdUV4VHNsYl9ueVBBN0xDWUo4RG1KYXFGNXlWNTlFOVZ5VUdfNnBUVlkxXzFWNV9tZDhrTzdWTW9FVTl3Y2ppWTJXbFhWSzVHeG5JSm9pRjQxZ3ZnMXpCY3FTYVBKcHhOV0hCZjBiZEU4dl9wRHNBQlFMbHVNWkFsbkQzOHBkQ2FadzF2UnZyUWZJeEtseFhLQ1ZQcVBSUmR2dEpwd0J1Zjd1QThyYzJxN2gxUi0xbFhVamVuYUdFaldBQXRUMFRHRTJDa1JiY0VvUmJEZW5WT2ZHdWVsSzdFOXBld1dOTFNNTWtoZ1lQOVp2T2xmUkNPZy1ibXdy?oc=5",
       "prediction": "Amazon and Microsoft will report operating margins exceeding consensus estimates by at least 150 basis points in their upcoming quarterly reports.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Headlines cover earnings previews and stock performance for Amazon and Microsoft, but do not provide operating margin data relative to consensus estimates."
     },
     {
       "section": "tech",
       "headline": "Military Planners Push Commercial AI Firms for Battlefield Integration",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWldfRHBxaWF2UEVBOFY1VDRGRi14cFFwUmZGR1Bxa0pqZFktcGMzZTRnak1QVUJmMVFRSXotSm9yXzlqS3F5aFJrOVIwY00tMHBRbTNBS3pSLXI1eXpjZVl6U0FZOXpEOEw4V2xiQ2pLbVhtVl9GT1BOS2dzNUpQbzVfUzIzQk5fYV9WWTcwZUdQdTQ?oc=5",
       "prediction": "The US Department of Defense will formalize a multi-billion dollar enterprise integration contract for frontier commercial LLMs within 180 days.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No fresh headlines were found to determine whether the Department of Defense has formalized an enterprise integration contract for commercial LLMs."
     },
     {
       "section": "markets",
       "headline": "Nvidia Adds Nearly One Trillion Dollars in Historic Single-Day Surge",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWE52dEljX0cyZVo2a1A1dWJaNXFBemdNUE9jcU94RjNXc1JwMEJyZkpjd3h5cHF0VFUxZWpCOTRpTlRRSzJBTlJGa0tubHEwa3VROU9xRFd4a1czS1Z3d05tMklnTFdESzMyTVRpdVFUQXBoMmkwdE0zd0V4TkcxRnhocTdBSm9fS3pvcksteFlqRGtIMUpjdldDbElVQlgzX3hMNWotbEJXelczemJac2h0TWhKeW9PTmJrZlIwNVBpY2VQVFVaRHFadlNOV0d2bWN2aDl4WlVQeU9IVkFRRUNDSU9tSV9xcjNJcFdJVGhkQWw0cmpJbld3WWE5OHhKcnc?oc=5",
       "prediction": "Nvidia stock will undergo a minimum 10% mean-reversion pullback within the next 30 trading days as initial short-covering pressure fades.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The available headline discusses speculative bullish price targets for Nvidia rather than providing trading data to confirm whether a 10% pullback occurred."
     },
     {
       "section": "markets",
       "headline": "CrowdStrike Mounts a 44-Billion-Dollar Takeover of Rival Zscaler",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSHJrUmpIM0R1em0tVnc0bWI4d25tdnNMZTdvTEM0cUFLUFh0TGZEZVBRNV9RZTVtbDBIQXN3UTU5bnQzZEYzYVA5ZEdwMk92dVJjQk5lLUJSWElmZmpCU2h5WjJmNHVhTXFDR1hSSm92NXVJVlRFVU9BYkhObDN1eW00bTMzSVN3aXk4Sm5WQkhicWRvV1laelNvNVdQSmNqV3RDY2VaVmxwZ2U4MzJ1QmxVWnc3bkpJZEhjMlZfZkpUYThFdTQ3U0owSUdDbTNoTkc2YW5VN2xzX3pPOFE?oc=5",
       "prediction": "The US Department of Justice will issue a Second Request for regulatory information on the merger within 60 days.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Headlines mention regulatory timelines for the CrowdStrike-Zscaler deal, but do not confirm whether the Department of Justice has issued a formal Second Request."
     },
     {
       "section": "markets",
