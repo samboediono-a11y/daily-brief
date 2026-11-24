@@ -1,0 +1,287 @@
+{
+  "date": "2026-11-23",
+  "predictions": [
+    {
+      "section": "tech",
+      "headline": "Jensen Huang returns to Nvidia after brief leadership shakeup",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRXdDbE4wOVUzN1hIR0p5WGc1Vi0wUGwwZVBtbVpEZmRRRVI0WUhidF81SE5zMGZncWNjNEx3dVlCY2FURkhlNk1sRWt4YWlGZzRSS0paOGk2cW9tOGUtZXQ2dGd6LTk2U0JtbFhFYkVuUUV6U1d5NVVPd1Q0MVBESHRmYm9iWE5uR3AwTDVYemQ?oc=5",
+      "prediction": "Expect Nvidia stock to retest record highs within the next 30 days as institutional inflows resume.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "OpenAI chief scientist calls for strict industry safety limits",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMjVTYVIwT3huVU8teHdXRHdnWGxOUTI5d1J6elZhWktVMVpSZDhhRmk5eV82c0JuRDBSUWNHdl84Z253WDJDbmd6SXhiNlFsdkxhM2gxWTVoTnY2ZkdrZ0dVam1OVXNSZWIwUnBQaTU4bEhJNTZValFSQ1Naam1xb1FkTklSZXI2Ums4d19sUjVheGtLNGhUWjFPcEVyd0ZIRmJlX0FqNXF5cHpCR2pjczF5WQ?oc=5",
+      "prediction": "Expect a bipartisan US Senate bill proposing mandatory safety audits for models exceeding specific compute thresholds to be introduced before Q2.",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "Big tech giants continue heavy corporate job cuts",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOc1VXdUV4VHNsYl9ueVBBN0xDWUo4RG1KYXFGNXlWNTlFOVZ5VUdfNnBUVlkxXzFWNV9tZDhrTzdWTW9FVTl3Y2ppWTJXbFhWSzVHeG5JSm9pRjQxZ3ZnMXpCY3FTYVBKcHhOV0hCZjBiZEU4dl9wRHNBQlFMbHVNWkFsbkQzOHBkQ2FadzF2UnZyUWZJeEtseFhLQ1ZQcVBSUmR2dEpwd0J1Zjd1QThyYzJxN2gxUi0xbFhVamVuYUdFaldBQXRUMFRHRTJDa1JiY0VvUmJEZW5WT2ZHdWVsSzdFOXBld1dOTFNNTWtoZ1lQOVp2T2xmUkNPZy1ibXdy?oc=5",
+      "prediction": "Major tech operating margins will expand by at least 150 basis points over the next two quarter reporting cycles despite flat headcount.",
+      "grounded": true
+    },
+    {
+      "section": "tech",
+      "headline": "China doubles down on tech investments despite US restrictions",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRGlTb0hsMmhiNElfb29tYWNQbS14S1R3TEVEMU02MkRsc3VIT00ydVF5ZlN2N3Z2VEZ6MmRwcm90ZVpMRDV1UDBWb0QwVFhHeFJGaV9WMDRWWWZCWWU5LThDLWhmdDZ6NzZ1dDlwWTktZXk2eElJczBlOUpBMVRCQ1BwbEVPTFN4N0N2VDZIOUdNYm9TMFdSY1JZM1U?oc=5",
+      "prediction": "China will announce a new $40 billion sovereign semiconductor guidance fund targeted exclusively at advanced packaging and EUV alternatives before year-end.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Nvidia adds nearly one trillion dollars in record rally",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWE52dEljX0cyZVo2a1A1dWJaNXFBemdNUE9jcU94RjNXc1JwMEJyZkpjd3h5cHF0VFUxZWpCOTRpTlRRSzJBTlJGa0tubHEwa3VROU9xRFd4a1czS1Z3d05tMklnTFdESzMyTVRpdVFUQXBoMmkwdE0zd0V4TkcxRnhocTdBSm9fS3pvcksteFlqRGtIMUpjdldDbElVQlgzX3hMNWotbEJXelczemJac2h0TWhKeW9PTmJrZlIwNVBpY2VQVFVaRHFadlNOV0d2bWN2aDl4WlVQeU9IVkFRRUNDSU9tSV9xcjNJcFdJVGhkQWw0cmpJbld3WWE5OHhKcnc?oc=5",
+      "prediction": "Nvidia options volatility will drop back toward 30-day historical averages within two weeks as equity prices consolidate above pre-crisis levels.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Investors face market sell-off with nowhere to hide",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53azFCeHE5OFVHQnQwZFdzSXlGZ19LM3E2QlhKYlRYbDJhanJ0ZjczU0sycUpvNGRMYnZKQ0J3TFNYS3V3bE5IcWZibDdxZlpxMkJtVFJiRmUtZlR3RkFzQWQwMG1jeDlKWEZhOFN1MGkzckxBXzV1NndB?oc=5",
+      "prediction": "Systematic risk-parity funds will reduce equity exposure by at least 15% over the upcoming monthly rebalancing window.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Asian markets drop on growing AI profit concerns",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaWg2VjJNckwyMnpNTjV6cnBRckpmX2hndGxyM29qMnU0aml6bUNicGJPNXJKdzludzVfYVNhSHpJR0xhZjJMeHFDM3d4MldqQUJPbE9ha3VFbjMyLXFEeS1VSkFxejNJN2czNFlnMF9uNGdnb2lPUUdoTmZZeUFrbHFfNjVsZzc5QUVSR3hST2VYaDB1S2dYd0ktRWNoSHNmQUHSAacBQVVfeXFMUHlLZVl5SzNCcWd0RjktYlZwT2pDLXNDZmg1dzNKQ2k4VFZaa08xWjhQcEFubzhxYnpsZWxQU3ZIaGZSZlFzOGlrY3RRNUlLczVZRk8xN05VdkduMFRaVy03ME5zMWFtT0JSSWRqTzZ0cjVtUVBwYzJ5LWZhM0FiOFlSSlJHS1ZhcmZqeGlFdi1CLTBLeVpVSFNJVElhSnQxQmU4WS1hSWM?oc=5",
+      "prediction": "Major Asian chip fabrication stocks will trade down another 5-8% until Q3 hyperscaler earnings provide positive clarity on CapEx budgets.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "CrowdStrike buys Zscaler for forty-four billion amid correction",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSHJrUmpIM0R1em0tVnc0bWI4d25tdnNMZTdvTEM0cUFLUFh0TGZEZVBRNV9RZTVtbDBIQXN3UTU5bnQzZEYzYVA5ZEdwMk92dVJjQk5lLUJSWElmZmpCU2h5WjJmNHVhTXFDR1hSSm92NXVJVlRFVU9BYkhObDN1eW00bTMzSVN3aXk4Sm5WQkhicWRvV1laelNvNVdQSmNqV3RDY2VaVmxwZ2U4MzJ1QmxVWnc3bkpJZEhjMlZfZkpUYThFdTQ3U0owSUdDbTNoTkc2YW5VN2xzX3pPOFE?oc=5",
+      "prediction": "CrowdStrike will face formal FTC second-request antitrust inquiries within 60 days of filing.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Trump pauses military disposal of hazardous explosives in Iowa",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV01BanduWXlNQWlDV2Y3R3lJSnB6Y2RfZnlDbEVHV291YVNlbzBWdXI3Y0JDbDZZVkFhMFRpeHFNSDRZYkJoQU5XUTF6cWtCcldOc3VSS3MxNVBBWlRpZkZnbk9MNXhEMVFNSUIwSFQwbFRMSmRHYVZTRWJlTHlZMGJjZkVybzd5cEh1QXByZDVEZEs5YjZJX1FDc19TeFc0UFlaOFNJY1RvYVFvTk16Um0wa3dRU0JVbUU2bjNvM1QzMy1tN2dsdUE3bTl6dzZv?oc=5",
+      "prediction": "The Department of Defense will commission an independent environmental impact review within 45 days to evaluate alternative disposal locations.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Representative Jimmy Gomez resigns following ethics report",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS05sYmhEczUzVzBjcHZmbkNVb3N5MWJxbDhJbjg4Si1LTHEtbkNOTVY3TmxGcXZtSDJIM2V5WHRzWjd4TENyUmJGNUUtdUx0MnpabjRGb0lZdlVxc1hQdUhlWGVwNXR1VFVQQ1Z3QVZ6SXYtOUFuTGFrTExXZTYtdXVMcTNjbnRfc2JOeWVyQQ?oc=5",
+      "prediction": "California state officials will schedule the special primary election for Gomez\u2019s seat within 90 days.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Appeals court revives legal push over Trump conviction",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zRkxrYlpPZ3M1bnlNRGctNWVYZjEzODZvaGFoUm5FWUN3eEFnREUwWEUzLTQwUHBMYklkV2hPdzM1YnBzdmRaaTlyV1luaTNEVmJ5aVhsNGZLbUREMUpVYXc2UFdCYndYYy1pMDBCd0k1WUJH0gF6QVVfeXFMTWtLWmZ0MUZ4NzlSR2lMNERsNWJkWlFjdWVfZ1R1cXRhVkJVWlFGWDdlaXJLM1VzNGdVUzVGWFE1VWtfTzRmTks4UjdqeDM1VjZaQ0hIQWJlSlppQkZ1RjNzNFZpQndrbm5LcVM2eE9ScHYtTTFYb1JvcGc?oc=5",
+      "prediction": "Trump's legal counsel will file a formal motion to vacate the conviction within 30 days of the appellate mandate issuance.",
+      "grounded": true
+    },
+    {
+      "section": "us_news",
+      "headline": "Severe storms threaten chaotic Thanksgiving holiday travel",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUThKclEzNmdSeWQ1MUIzc0hJWnBqSWdXdUtSVkIxMVdYTWIwQjU5UGVIclhJVUl1bVVyLVlCSVFLdWRHckdabDh6RDNsMVNDdUdKdjNFZEJLb3FCVE5Qa1RLVWp1NHVjeUxRWERFT3pJYWpOY3o1emQ3Z1JGbHNQeEhTdmZCeVUzUVpmY3dCeUdzSWZELUZlUjJTck5QaHJyLWVTeF9uV1BsQlBtSEE?oc=5",
+      "prediction": "US domestic airline flight cancellations will exceed 3,500 total flights during the 5-day holiday travel window.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia moves to prevent major global stock downgrade",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOekV2LTFaTUdYNFlwX3NsN3hmTkwzVWczRU9HR2F3c2Q4enNxQk5IbnJRcC1oY2IzUUhJdnpud0tDc0hNMWdXOW9qa282RHR5U2IxZE1XbzBHNmhNMnVNWXB5VENXQTN1c1p5djBfdlhXVno5OXh5YlVwTFhNUUh4YU9EMERQSVRwcHk4aHVTVDNGN1FzOVZuZGpzUGw5YVJnYU5CNlMwZDk0RGpMNzdlMURoNA?oc=5",
+      "prediction": "MSCI will keep Indonesia on its official downgrade watch list through the next quarterly index review.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "EU and Indonesia sign landmark free trade agreement",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWWFUYXctMVNzcGN2TGIxUXh1Q0w1VmZ5RUhROHpYYXZJTmFxSVJNWVFUeFJVbV9oUV9PTnFZeTh2MU5kV3h3MUZsYmRfVE9BdXNtTFkybWdneVNQcmVudFc0ejROSmpEd0lfN3NQSnp1RGk0bTNIMmxXOEVYYWhCWEd0czBQWGxyZkhCZ2FjbTBIci1LTHIxNUxwTFNYUWVj?oc=5",
+      "prediction": "Bilateral trade volume between the EU and Indonesia will grow by at least 12% within the first 12 months of full tariff elimination.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia passes strict civil asset forfeiture law",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM2NkNm1tRjQzOUpSdkktRFJLN1Vxd0hWajlOSkRPUjI5S3dUM0VuZlJEUTFpRkRHMEsyZHV5YnZBNVY4V193eW1BV0sweTBBWVBhVmhab1JtSzMwWmZZNmF5UzNpc252czhoTDJjT01jSHdfcXVjRjRmaGllcHdEUm9FZXBycTlrTTh2cTBDdnQxcms4Y0VxNGpWTGZkVFdHUThmWHdkRTZOMmNf?oc=5",
+      "prediction": "Constitutional court challenges questioning the law's due-process compliance will be formally lodged by business coalitions within 60 days.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesian rupiah sinks to historical low against dollar",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdnFtVFJIbVUwbVhGaGxrWkQ4VkhHalFlREVtSlBMazJkeDd0NmJpNU10UGhHaXdFeGdKcTdfRmpGWm5QZFdMRFo1eEFiZlRrQV8zaDFRbWM5S0pqcFQxVUNsU25fMXdTeW9jd25GX1F2b1BqMmx0UjhWNU9rbnFQc2NRWW5adzQ0VzlSSi0tRkRpcjBNaXVrMng2VzY2NzlsNmpJRzhVeG51R3dVelAzYkJ4UGtvc0lETUNWNTJWcXRWQjhf?oc=5",
+      "prediction": "Bank Indonesia will raise its benchmark interest rate by 25-50 basis points at its next scheduled monetary policy meeting to support the currency.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Kraken upholds trades after dramatic Bitcoin flash crash",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONFlvOWxMWFAzZVZJVGNYazEyUlVWdzJ3V21hd1lpdnkxSXB5YkN1NXViSlJSNWwyM1BhWUg2bjc0WGRPUHhJWUw2dHh0XzJER1U4amtTS0RyVGNkdmJ6am5NWlp0QlRWdldtSGUzdWVVVDIxMDRXdnlTSmZlaTd1VW9wOFBVaFRCVXNqa0hOSXd0S2pyVUlaZGtUR3FjQ2xRd094VFF1QjlCRjE1NDhwVllydGpUd0FtWmg3ZEpLcFdpNHNj?oc=5",
+      "prediction": "Regulatory authorities will issue a formal request for information regarding Kraken's order-matching engine resilience within 30 days.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin drops with stocks, challenging safe haven narrative",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02OVNPeVBBRWFNM0RxSndNZ2NPQnE3amxmMEpmenlKMm9COUdneHlXbUNTaXFwdjVsQnFQbGg1dTctVXZ0cDd4VTZTY1ZWYThiMFZrTGtuY0hSSWlNS1B2b1FlUFJENkZkQzkzTzZGdzFMUXlxTmhr0gF8QVVfeXFMTkVKRDJKTmVUSkU3SW1TejV5aUFtVzA1N0JKSkY0NWNDZmprbnBycGJJOXg0SzV1UjBoNWM4RWwxUDZ6OHV1X0tfY0VMbzlIMmZlVnZLcjdYeUNTWjg1UWxZOW0xTTNHZ25GejJ0SmRIQ1pGREtjbDVKUUJ3Ng?oc=5",
+      "prediction": "Bitcoin's 30-day rolling correlation coefficient with the Nasdaq 100 will remain above 0.65 over the next quarter.",
+      "grounded": true
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bolivian merchants turn to crypto amid dollar shortages",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcHNKT1ZtUHVhSDhkc2NuZDYwU2RjQXRfZ3FWeDFTRHRGdmI5OWdOZl9LTy01b0YtOGhDWU03WTFvb2lsQ2t0azhneGRqOURJU291ZUJ5UHZCNVJ2Vzdfc1hweUh4RE5HeU5lUm1ybER5elA3MWhUd2ZYVE9Ba3p5WEhIQ09DQ3NmMkFGS21BbTNsanBldDFJU1lrTTdTc0h6MTlHa2M2NVhrYmw4RzFYandMTnZjZjhZenVSVXVKTmJIQQ?oc=5",
+      "prediction": "Monthly stablecoin transaction volumes in South American cross-border merchant corridors will increase by over 25% by the end of Q1.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Economic study rejects Bitcoin as sovereign reserve asset",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa2NiQktLS29NZzlBWk8wbEpzaFRDbHVjU0ZJOE1vQmhJbmlyeEtnaXcyNmtYcjhkZ09xakFZVFZpMjU1eklDRWctM1lFMXIyVDdodktDdDlhUHVobGExZUJPc0gwQ0FYWGlCWFJNSlM4Q2RsNVdlaUdUbkpHa3luV0plYjhlQVVlS0Fn?oc=5",
+      "prediction": "No G20 nation will adopt Bitcoin as an official central bank reserve asset over the next 12 months.",
+      "grounded": false
+    }
+  ],
+  "stories": [
+    {
+      "section": "tech",
+      "headline": "Jensen Huang returns to Nvidia after brief leadership shakeup",
+      "summary": "Jensen Huang has officially resumed his post as Nvidia CEO following a brief executive disruption. Tech leaders across Silicon Valley publicly celebrated his immediate reinstatement.",
+      "view": "Jensen Huang's swift reinstatement removes leadership uncertainty that threatened Nvidia's strategic roadmap, delivering an immediate sentiment rebound to AI supply chain partners. The high-level political intervention highlights Nvidia's national strategic importance, effectively giving the company implicit sovereign backing. The primary losers are activist board members and competitor alternatives whose brief window of disruption closed immediately.",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRXdDbE4wOVUzN1hIR0p5WGc1Vi0wUGwwZVBtbVpEZmRRRVI0WUhidF81SE5zMGZncWNjNEx3dVlCY2FURkhlNk1sRWt4YWlGZzRSS0paOGk2cW9tOGUtZXQ2dGd6LTk2U0JtbFhFYkVuUUV6U1d5NVVPd1Q0MVBESHRmYm9iWE5uR3AwTDVYemQ?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "OpenAI chief scientist calls for strict industry safety limits",
+      "summary": "OpenAI's top scientist publicly urged tech companies to place binding limits on advance AI development. He warned that racing forward without strict safety guardrails creates massive long-term risks.",
+      "view": "OpenAI\u2019s top scientist calling for binding safety guardrails is a strategic effort to erect regulatory moats around well-funded incumbents while slowing down open-source competitors. Closed-source market leaders win by codifying compliance burdens that smaller labs cannot afford, effectively institutionalizing their market dominance under the guise of safety. Open-source developers and early-stage AI startups bear the financial and legal downside.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMjVTYVIwT3huVU8teHdXRHdnWGxOUTI5d1J6elZhWktVMVpSZDhhRmk5eV82c0JuRDBSUWNHdl84Z253WDJDbmd6SXhiNlFsdkxhM2gxWTVoTnY2ZkdrZ0dVam1OVXNSZWIwUnBQaTU4bEhJNTZValFSQ1Naam1xb1FkTklSZXI2Ums4d19sUjVheGtLNGhUWjFPcEVyd0ZIRmJlX0FqNXF5cHpCR2pjczF5WQ?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Big tech giants continue heavy corporate job cuts",
+      "summary": "Major tech companies including Amazon, Microsoft, and Intel are continuing white-collar layoffs across multiple divisions. Executive teams are shifting corporate payroll savings directly into expensive artificial intelligence hardware.",
+      "view": "Big tech giants are executing a structural re-allocation of corporate capital, purging high-cost headcount to fund non-discretionary AI infrastructure commitments. Corporate payroll savings flow directly into semiconductor foundries, data center hardware suppliers, and specialized power providers. Tech employees lose bargaining leverage while semiconductor and energy supply chains capture the diverted cash flow.",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOc1VXdUV4VHNsYl9ueVBBN0xDWUo4RG1KYXFGNXlWNTlFOVZ5VUdfNnBUVlkxXzFWNV9tZDhrTzdWTW9FVTl3Y2ppWTJXbFhWSzVHeG5JSm9pRjQxZ3ZnMXpCY3FTYVBKcHhOV0hCZjBiZEU4dl9wRHNBQlFMbHVNWkFsbkQzOHBkQ2FadzF2UnZyUWZJeEtseFhLQ1ZQcVBSUmR2dEpwd0J1Zjd1QThyYzJxN2gxUi0xbFhVamVuYUdFaldBQXRUMFRHRTJDa1JiY0VvUmJEZW5WT2ZHdWVsSzdFOXBld1dOTFNNTWtoZ1lQOVp2T2xmUkNPZy1ibXdy?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "China doubles down on tech investments despite US restrictions",
+      "summary": "China is pouring money into domestic semiconductor and software startups to counter US trade bans. Local tech giants are pooling resources to build homegrown alternatives to Western hardware.",
+      "view": "Beijing's aggressive capital injections into domestic chipmakers and software startups will accelerate China's path toward semiconductor self-reliance, insulating domestic tech giants from Western sanctions. While legacy chip manufacturers benefit immediately from state subsidies, local tech firms will face near-term operational friction due to lower yields on advanced silicon. US equipment makers lose long-term market share in mainland China.",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRGlTb0hsMmhiNElfb29tYWNQbS14S1R3TEVEMU02MkRsc3VIT00ydVF5ZlN2N3Z2VEZ6MmRwcm90ZVpMRDV1UDBWb0QwVFhHeFJGaV9WMDRWWWZCWWU5LThDLWhmdDZ6NzZ1dDlwWTktZXk2eElJczBlOUpBMVRCQ1BwbEVPTFN4N0N2VDZIOUdNYm9TMFdSY1JZM1U?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Nvidia adds nearly one trillion dollars in record rally",
+      "summary": "Nvidia stock recorded its biggest single-day leap in over two decades after Jensen Huang returned as CEO. The massive gain added roughly $1 trillion in market value back to the company.",
+      "view": "Nvidia's $1 trillion market cap surge reflects short-covering combined with massive institutional buying as Huang's return eliminates corporate governance discount risk. The rally reinforces Nvidia's pricing power in data center GPUs, squeezing short sellers and forcing passive index funds to aggressively reweight. Traditional tech competitors lose relative capital allocation share as money flows back to the market leader.",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWE52dEljX0cyZVo2a1A1dWJaNXFBemdNUE9jcU94RjNXc1JwMEJyZkpjd3h5cHF0VFUxZWpCOTRpTlRRSzJBTlJGa0tubHEwa3VROU9xRFd4a1czS1Z3d05tMklnTFdESzMyTVRpdVFUQXBoMmkwdE0zd0V4TkcxRnhocTdBSm9fS3pvcksteFlqRGtIMUpjdldDbElVQlgzX3hMNWotbEJXelczemJac2h0TWhKeW9PTmJrZlIwNVBpY2VQVFVaRHFadlNOV0d2bWN2aDl4WlVQeU9IVkFRRUNDSU9tSV9xcjNJcFdJVGhkQWw0cmpJbld3WWE5OHhKcnc?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Investors face market sell-off with nowhere to hide",
+      "summary": "Recent stock market drops left investors struggling as traditional safe assets like government bonds failed to rise during the pullback. Both stocks and bonds fell together during the downturn.",
+      "view": "The simultaneous breakdown of equities and long-duration Treasuries highlights the breakdown of traditional 60/40 portfolio diversification in a high-rate environment. Extreme index concentration in mega-cap tech triggers forced liquidations across multi-asset funds, punishing passive retail investors. Liquidity providers and cash-rich corporate balance sheets win by buying distressed assets at favorable valuations.",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53azFCeHE5OFVHQnQwZFdzSXlGZ19LM3E2QlhKYlRYbDJhanJ0ZjczU0sycUpvNGRMYnZKQ0J3TFNYS3V3bE5IcWZibDdxZlpxMkJtVFJiRmUtZlR3RkFzQWQwMG1jeDlKWEZhOFN1MGkzckxBXzV1NndB?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Asian markets drop on growing AI profit concerns",
+      "summary": "Stock exchanges across Asia tumbled as investors questioned whether massive corporate spending on AI will yield real profits. Chipmakers and hardware suppliers faced heavy selling pressure.",
+      "view": "Growing skepticism over return on invested capital for hyperscale AI spending is depressing valuations across Asian hardware suppliers. Foundries and memory makers lose valuation multiples as institutional investors demand concrete software monetization before validating further hardware CapEx. Software companies with clear AI pricing power win relative performance battles against capital-intensive chipmakers.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaWg2VjJNckwyMnpNTjV6cnBRckpmX2hndGxyM29qMnU0aml6bUNicGJPNXJKdzludzVfYVNhSHpJR0xhZjJMeHFDM3d4MldqQUJPbE9ha3VFbjMyLXFEeS1VSkFxejNJN2czNFlnMF9uNGdnb2lPUUdoTmZZeUFrbHFfNjVsZzc5QUVSR3hST2VYaDB1S2dYd0ktRWNoSHNmQUHSAacBQVVfeXFMUHlLZVl5SzNCcWd0RjktYlZwT2pDLXNDZmg1dzNKQ2k4VFZaa08xWjhQcEFubzhxYnpsZWxQU3ZIaGZSZlFzOGlrY3RRNUlLczVZRk8xN05VdkduMFRaVy03ME5zMWFtT0JSSWRqTzZ0cjVtUVBwYzJ5LWZhM0FiOFlSSlJHS1ZhcmZqeGlFdi1CLTBLeVpVSFNJVElhSnQxQmU4WS1hSWM?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "CrowdStrike buys Zscaler for forty-four billion amid correction",
+      "summary": "Cybersecurity heavyweight CrowdStrike announced a massive $44 billion buy of rival Zscaler during a broad market pullback. Wall Street indices briefly dipped into official correction territory before recovering.",
+      "view": "CrowdStrike's $44 billion acquisition of Zscaler represents an opportunistic move during a market pullback to consolidate market share in enterprise security. Point-solution cybersecurity vendors lose pricing power as chief information security officers aggressively consolidate vendor stacks into unified platforms. CrowdStrike gains long-term pricing leverage while taking on near-term balance sheet leverage.",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSHJrUmpIM0R1em0tVnc0bWI4d25tdnNMZTdvTEM0cUFLUFh0TGZEZVBRNV9RZTVtbDBIQXN3UTU5bnQzZEYzYVA5ZEdwMk92dVJjQk5lLUJSWElmZmpCU2h5WjJmNHVhTXFDR1hSSm92NXVJVlRFVU9BYkhObDN1eW00bTMzSVN3aXk4Sm5WQkhicWRvV1laelNvNVdQSmNqV3RDY2VaVmxwZ2U4MzJ1QmxVWnc3bkpJZEhjMlZfZkpUYThFdTQ3U0owSUdDbTNoTkc2YW5VN2xzX3pPOFE?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Trump pauses military disposal of hazardous explosives in Iowa",
+      "summary": "President Trump ordered the US Army to halt the planned detonation of 9,500 pounds of volatile chemical explosives in Iowa. Local residents had voiced sharp health and environmental safety concerns.",
+      "view": "Executive intervention halting the Army's Iowa chemical disposal prioritizes local political goodwill over defense logistics timetables. Local residents and environmental advocacy groups gain legal leverage, while the Department of Defense incurs mounting storage and containment costs for unstable ordnance. Defense contractors managing hazardous waste processing face revenue delays.",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV01BanduWXlNQWlDV2Y3R3lJSnB6Y2RfZnlDbEVHV291YVNlbzBWdXI3Y0JDbDZZVkFhMFRpeHFNSDRZYkJoQU5XUTF6cWtCcldOc3VSS3MxNVBBWlRpZkZnbk9MNXhEMVFNSUIwSFQwbFRMSmRHYVZTRWJlTHlZMGJjZkVybzd5cEh1QXByZDVEZEs5YjZJX1FDc19TeFc0UFlaOFNJY1RvYVFvTk16Um0wa3dRU0JVbUU2bjNvM1QzMy1tN2dsdUE3bTl6dzZv?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Representative Jimmy Gomez resigns following ethics report",
+      "summary": "California Congressman Jimmy Gomez announced his immediate resignation after a House Ethics Committee probe uncovered evidence of sexual misconduct. His sudden exit narrows the controlling party's thin voting margin.",
+      "view": "Representative Gomez\u2019s sudden resignation narrows the House majority's governing margin, vastly increasing the leverage of centrist and factional swing voters on upcoming legislative packages. Factional leaders win expanded bargaining power over high-stakes fiscal bills. National campaign committees lose cash flexibility as they divert immediate funds into an unscheduled special election.",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS05sYmhEczUzVzBjcHZmbkNVb3N5MWJxbDhJbjg4Si1LTHEtbkNOTVY3TmxGcXZtSDJIM2V5WHRzWjd4TENyUmJGNUUtdUx0MnpabjRGb0lZdlVxc1hQdUhlWGVwNXR1VFVQQ1Z3QVZ6SXYtOUFuTGFrTExXZTYtdXVMcTNjbnRfc2JOeWVyQQ?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Appeals court revives legal push over Trump conviction",
+      "summary": "A federal appeals court reopened legal challenges to President Trump's past New York criminal conviction. The ruling allows his legal team to bring new constitutional arguments to attempt to throw out the verdict.",
+      "view": "The federal appeals court ruling reinstates legal momentum for President Trump's defense team, raising the probability that key state-level charges will be challenged on constitutional grounds. This pivot bolsters political market sentiment for his administration's dereglatory agenda by neutralizing legal distractions. Opposing legal advocacy groups and prosecution teams lose procedural standing.",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zRkxrYlpPZ3M1bnlNRGctNWVYZjEzODZvaGFoUm5FWUN3eEFnREUwWEUzLTQwUHBMYklkV2hPdzM1YnBzdmRaaTlyV1luaTNEVmJ5aVhsNGZLbUREMUpVYXc2UFdCYndYYy1pMDBCd0k1WUJH0gF6QVVfeXFMTWtLWmZ0MUZ4NzlSR2lMNERsNWJkWlFjdWVfZ1R1cXRhVkJVWlFGWDdlaXJLM1VzNGdVUzVGWFE1VWtfTzRmTks4UjdqeDM1VjZaQ0hIQWJlSlppQkZ1RjNzNFZpQndrbm5LcVM2eE9ScHYtTTFYb1JvcGc?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Severe storms threaten chaotic Thanksgiving holiday travel",
+      "summary": "Millions of holiday travelers face severe weather disruptions across the US after a week of widespread airline system glitches. Major airports are warning of heavy flight delays and cancellations.",
+      "view": "Severe holiday weather compounding on fragile airline IT infrastructure will trigger cascading flight cancellations, penalizing domestic carriers with massive customer re-accommodation costs and lost operational margins. Regional transportation networks and passenger rail providers stand to capture displaced traveler demand. Commercial airlines lose short-term yield while ground transport operators gain pricing power.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUThKclEzNmdSeWQ1MUIzc0hJWnBqSWdXdUtSVkIxMVdYTWIwQjU5UGVIclhJVUl1bVVyLVlCSVFLdWRHckdabDh6RDNsMVNDdUdKdjNFZEJLb3FCVE5Qa1RLVWp1NHVjeUxRWERFT3pJYWpOY3o1emQ3Z1JGbHNQeEhTdmZCeVUzUVpmY3dCeUdzSWZELUZlUjJTck5QaHJyLWVTeF9uV1BsQlBtSEE?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia moves to prevent major global stock downgrade",
+      "summary": "President Prabowo Subianto met directly with global index manager MSCI and billionaire investor Ray Dalio to avoid a downgrade of Indonesian equities. A lower rating would trigger automatic selling by international investment funds.",
+      "view": "President Prabowo\u2019s direct intervention with MSCI and global investors highlights structural vulnerabilities in Indonesian equity markets that threaten capital flight. A status downgrade from Emerging to Frontier would force global passive index funds to liquidate billions in Indonesian equities, raising sovereign borrowing costs. Short-sellers win on currency weakness while domestic equities bear immediate selling pressure.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOekV2LTFaTUdYNFlwX3NsN3hmTkwzVWczRU9HR2F3c2Q4enNxQk5IbnJRcC1oY2IzUUhJdnpud0tDc0hNMWdXOW9qa282RHR5U2IxZE1XbzBHNmhNMnVNWXB5VENXQTN1c1p5djBfdlhXVno5OXh5YlVwTFhNUUh4YU9EMERQSVRwcHk4aHVTVDNGN1FzOVZuZGpzUGw5YVJnYU5CNlMwZDk0RGpMNzdlMURoNA?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "EU and Indonesia sign landmark free trade agreement",
+      "summary": "European Union negotiators and Indonesia completed a wide-ranging free trade deal to cut tariffs on imported cars and machinery. The pact opens Southeast Asia's largest economy to European industrial manufacturers.",
+      "view": "The EU-Indonesia free trade deal is a major structural win for European industrial exporters and Indonesian mineral processing hubs. Lowering automotive and machinery tariffs accelerates European manufacturing penetration in Southeast Asia while granting Indonesia guaranteed export access for downstream processed minerals. Domestic European machinery makers and Indonesian nickel refiners win at the expense of non-signatory regional trade competitors.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWWFUYXctMVNzcGN2TGIxUXh1Q0w1VmZ5RUhROHpYYXZJTmFxSVJNWVFUeFJVbV9oUV9PTnFZeTh2MU5kV3h3MUZsYmRfVE9BdXNtTFkybWdneVNQcmVudFc0ejROSmpEd0lfN3NQSnp1RGk0bTNIMmxXOEVYYWhCWEd0czBQWGxyZkhCZ2FjbTBIci1LTHIxNUxwTFNYUWVj?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesia passes strict civil asset forfeiture law",
+      "summary": "Indonesia passed a tough new law letting state prosecutors confiscate suspect assets without needing a prior criminal conviction. Government officials argue the power is required to quickly recover stolen public funds.",
+      "view": "The civil asset forfeiture law gives Indonesian prosecutors unprecedented power to seize suspect assets without a prior conviction, boosting state revenue recovery efforts. State anti-corruption agencies win sweeping operational authority, but foreign corporate investors lose jurisdictional certainty and face higher risk premiums. Domestic conglomerates with politically exposed assets face immediate compliance and valuation headwinds.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM2NkNm1tRjQzOUpSdkktRFJLN1Vxd0hWajlOSkRPUjI5S3dUM0VuZlJEUTFpRkRHMEsyZHV5YnZBNVY4V193eW1BV0sweTBBWVBhVmhab1JtSzMwWmZZNmF5UzNpc252czhoTDJjT01jSHdfcXVjRjRmaGllcHdEUm9FZXBycTlrTTh2cTBDdnQxcms4Y0VxNGpWTGZkVFdHUThmWHdkRTZOMmNf?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Indonesian rupiah sinks to historical low against dollar",
+      "summary": "The Indonesian rupiah dropped to record lows against the US dollar due to foreign capital outflows and rising public debt payments. Bank Indonesia has entered local markets to shore up the currency.",
+      "view": "The rupiah's drop to historical lows reflects capital outflows driven by widening fiscal deficit expectations and elevated global USD interest rates. Bank Indonesia burns foreign exchange reserves to cushion the slide, straining sovereign debt management. Foreign currency borrowers lose on debt service costs while export-oriented commodities exporters capture net foreign currency gains.",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdnFtVFJIbVUwbVhGaGxrWkQ4VkhHalFlREVtSlBMazJkeDd0NmJpNU10UGhHaXdFeGdKcTdfRmpGWm5QZFdMRFo1eEFiZlRrQV8zaDFRbWM5S0pqcFQxVUNsU25fMXdTeW9jd25GX1F2b1BqMmx0UjhWNU9rbnFQc2NRWW5adzQ0VzlSSi0tRkRpcjBNaXVrMng2VzY2NzlsNmpJRzhVeG51R3dVelAzYkJ4UGtvc0lETUNWNTJWcXRWQjhf?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Kraken upholds trades after dramatic Bitcoin flash crash",
+      "summary": "Bitcoin prices briefly crashed over 70% down to $17,000 on the Kraken exchange due to order book glitches. Kraken announced the trades are final and low-bid buyers can keep their heavily discounted coins.",
+      "view": "Kraken's decision to honor fill prices down to $17,000 protects venue credibility among institutional buyers but inflicts catastrophic slippage losses on retail traders with tight stop-loss orders. Automated market-making algorithms and low-bid buyers win massive discounted fills at the direct expense of liquidated retail accounts. Order book depth in non-USD crypto trading pairs faces permanent investor skepticism.",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONFlvOWxMWFAzZVZJVGNYazEyUlVWdzJ3V21hd1lpdnkxSXB5YkN1NXViSlJSNWwyM1BhWUg2bjc0WGRPUHhJWUw2dHh0XzJER1U4amtTS0RyVGNkdmJ6am5NWlp0QlRWdldtSGUzdWVVVDIxMDRXdnlTSmZlaTd1VW9wOFBVaFRCVXNqa0hOSXd0S2pyVUlaZGtUR3FjQ2xRd094VFF1QjlCRjE1NDhwVllydGpUd0FtWmg3ZEpLcFdpNHNj?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin drops with stocks, challenging safe haven narrative",
+      "summary": "Bitcoin fell sharply alongside stock market drops, slipping below major technical price floors. The drop directly challenges claims that cryptocurrencies serve as a digital safe haven during broader market pullbacks.",
+      "view": "Bitcoin\u2019s synchronized sell-off alongside tech equities dismantles the narrative that digital assets act as non-correlated safe havens during broad market pullbacks. As institutional participation dominates crypto price discovery, Bitcoin behaves strictly as a high-beta risk asset governed by broader financial conditions. Sovereign fiat currencies retain reserve supremacy while crypto miners and levered longs suffer severe margin pressure.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02OVNPeVBBRWFNM0RxSndNZ2NPQnE3amxmMEpmenlKMm9COUdneHlXbUNTaXFwdjVsQnFQbGg1dTctVXZ0cDd4VTZTY1ZWYThiMFZrTGtuY0hSSWlNS1B2b1FlUFJENkZkQzkzTzZGdzFMUXlxTmhr0gF8QVVfeXFMTkVKRDJKTmVUSkU3SW1TejV5aUFtVzA1N0JKSkY0NWNDZmprbnBycGJJOXg0SzV1UjBoNWM4RWwxUDZ6OHV1X0tfY0VMbzlIMmZlVnZLcjdYeUNTWjg1UWxZOW0xTTNHZ25GejJ0SmRIQ1pGREtjbDVKUUJ3Ng?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bolivian merchants turn to crypto amid dollar shortages",
+      "summary": "Small businesses across Bolivia are adopting cryptocurrencies to pay for foreign imports and commercial transactions. The pivot follows severe national shortages of US dollars and tight bank controls.",
+      "view": "Bolivian merchants adopting crypto stablecoins to bypass currency controls demonstrates real-world utility for digital assets during sovereign dollar liquidity crunches. Local import-export businesses win by preserving international trade velocity, while central bank monetary authority is further eroded. Traditional domestic banking intermediaries lose transaction fee volume to decentralized payment rails.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcHNKT1ZtUHVhSDhkc2NuZDYwU2RjQXRfZ3FWeDFTRHRGdmI5OWdOZl9LTy01b0YtOGhDWU03WTFvb2lsQ2t0azhneGRqOURJU291ZUJ5UHZCNVJ2Vzdfc1hweUh4RE5HeU5lUm1ybER5elA3MWhUd2ZYVE9Ba3p5WEhIQ09DQ3NmMkFGS21BbTNsanBldDFJU1lrTTdTc0h6MTlHa2M2NVhrYmw4RzFYandMTnZjZjhZenVSVXVKTmJIQQ?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Economic study rejects Bitcoin as sovereign reserve asset",
+      "summary": "A new paper from the Cato Institute argues Bitcoin cannot function as a reliable national treasury reserve asset or backing for the US dollar. Analysts pointed to high volatility and structural design limits as major obstacles.",
+      "view": "The Cato Institute paper dismantles political arguments for holding Bitcoin as a central bank reserve asset by highlighting its structural volatility and inelastic supply. Traditional reserve assets like gold and sovereign debt retain their institutional status among global central banks. Political advocates pushing for sovereign crypto reserves lose academic backing, capping institutional policy adoption.",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa2NiQktLS29NZzlBWk8wbEpzaFRDbHVjU0ZJOE1vQmhJbmlyeEtnaXcyNmtYcjhkZ09xakFZVFZpMjU1eklDRWctM1lFMXIyVDdodktDdDlhUHVobGExZUJPc0gwQ0FYWGlCWFJNSlM4Q2RsNVdlaUdUbkpHa3luV0plYjhlQVVlS0Fn?oc=5"
+    }
+  ]
+}

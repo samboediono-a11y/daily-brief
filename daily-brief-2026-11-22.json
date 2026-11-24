@@ -6,42 +6,54 @@
       "headline": "Trump moves to penalize tech firms building offshore AI data centers",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY2RUaU1Ec3pkRTdvdjgtbS14eXdpaTdTa1Y5TlI1Tmg2OG9fODh5aHhnOWFlU0pwbWVoQUZaNkUwSnFxS0JVOXRIVXFBd3FfY1RROHVfdHN0UHY2dEFsWk5mOENDRUs4V3RyME9qUkRrZVNxV2tMaUhYUEYxMTAyc3F2YzZ1SHV6ZzJoMm8weWVsZjFReWZneHFkS1Q5VnQ2akJ6aWE4Snh1dXcycnh1bGdJSmZOR3lvY19ydk1n?oc=5",
       "prediction": "Major tech lobby groups will formally file for domestic power allocation exemptions before the end of Q2.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new headlines were found regarding tech lobby groups filing for domestic power allocation exemptions."
     },
     {
       "section": "tech",
       "headline": "European Union moves to favor local firms in quantum computing race",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbWcwdjZqeGVvUDgwRkRJSVJqWXJhcUN1QnpGemQ5dm9zcGpWQ0dGOVpVTHllUzUtRE84bS1uc0xXUy1fanlKcE4wT2FLWDhNaHBlMG9Vd1R1VzNRTlJ3SGlXQ18zUnVYNFpTVUwtUUpxME9DUHBsU0RnUGJDY19JSk9uUlk?oc=5",
       "prediction": "At least two major US quantum developers will announce joint ventures with European defense or research firms within the next six months to navigate procurement barriers.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "While fresh headlines cover European defense procurement and digital sovereignty, none mention specific joint ventures between US quantum developers and European partners."
     },
     {
       "section": "tech",
       "headline": "Anthropic debuts on public markets amid growing AI sector skepticism",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FMG1KU0o0NERzUTNyMkszYVJhbGNJd2hnd3BGQ21uSFUtWC1KOUNCSkhxczlKQlVCVmoxZDhqRUMtOThWZGlXWnVCVjRYYlJQaENHN1hsUUp5RXdMQzF2Z0wwYW9wdVl4b1VrdG4tSXpHUVQxTnJZNVk2N0I2dw?oc=5",
       "prediction": "Anthropic equity will trade down at least 15% from its opening IPO price following its first quarterly earnings release.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "Headlines report that Anthropic recently went public and its stock is falling, but its first quarterly earnings release has not yet occurred to measure post-earnings performance."
     },
     {
       "section": "tech",
       "headline": "Nvidia expands deeper into supercomputing hardware to protect its lead",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSVN2RmlrMFNrN2Jzc0JCSzFfTFd4ZURJcVZWT3RpQjJ6ZDBWXzI3S0NRY2dIcF9pSF9HTkw1a295SDZaa25Wa0JYZHk5ZXBERVQ3cE1QMHFaNUJWLV9YYmpCb3FYVE1nb0w1eEhxZ3BIRW9pZ3lQbi1VQUU2Q19rQjNCNFVFeUlfREw0ejlxZHJCUHc5dkpFMExnSmYtYnVQQzZJNkwtb0hYOHg5YnJ0R2NvUURYZG9mY3JF?oc=5",
       "prediction": "Nvidia will secure direct enterprise supercomputing contracts with at least three Fortune 100 manufacturing firms before its next GTC event.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No fresh headlines were found regarding Nvidia securing supercomputing contracts with Fortune 100 manufacturing firms."
     },
     {
       "section": "markets",
       "headline": "US stocks fall into correction as Nasdaq wipes out 2026 gains",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tY1RiS3BadWcwVVMwU2oteTAzRVdyVEpSeUwtUGJOU3RZV3BmOEJQRmtrT25udndSRVUxRDVpSkRCLUdCS2lDc3dTRm9Ja19qNzh3MlNXVDVDM0UwQXItVWgyMUJnaV9xY2RlWEJmbnBCWWE1ZEdz0gF8QVVfeXFMUDFCSzhsWkpPUEpfV1BiOTNJUkJCbGNwaFVlUmtCcm42WTNmaXF6RVdpbnNwcWJOV1V6QWRtSjVMdFBuLU5kSmFwM0Q5S0ZQOVdPdVVlMGh3dVQyQnAtY0lXcU9xbjN0NE5pYUU1MEM5cU1WN25lc3pYUmpJaQ?oc=5",
       "prediction": "The Nasdaq Composite will retest its 200-day moving average within the next three weeks before establishing a firm support level.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Fresh headlines discuss crypto trends and general market weakness without providing updates on the Nasdaq Composite retesting its 200-day moving average."
     },
     {
       "section": "markets",
       "headline": "Big institutional investors quietly exit stocks while retail buyers hold on",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMa1BuVkphS1A0eDBGbXNmOElpQm1mTkpMN090TmhTV3VuT1M0bDJQU2ZMdk1yTURQb1Y0Z3ZuQWVtTW00R0V0Uk1QLTRCU21EUzVsYWlfX0NBa09oS19LMGVXbWhuSFJTUGxDR0JvOGExVGVHVjh2RjZfa1LSAYIBQVVfeXFMTjgzaFVGWWd2blNrM3VoaldEYXFORnpzSFJpODR0Unk2OS1JdnBES1Q0akpuYkk4TnMydExQTTdVelFDY1BRcWJlcDJONlFlaGY1R1Y2eXM0YlAwai1zYmVqS254NURtRV9zNkJzT3c1M2lkcDU1LWJBN0NncjY4MTUxZw?oc=5",
       "prediction": "Retail margin debt balances will register a sharp drop over the next two settlement cycles as margin calls force asset liquidations.",
-      "grounded": false
+      "grounded": false,
+      "status": "held_up",
+      "note": "Today's headlines report active forced liquidations and selling to cover margin calls, aligning with the predicted drop in margin debt via asset liquidations."
     },
     {
       "section": "markets",
