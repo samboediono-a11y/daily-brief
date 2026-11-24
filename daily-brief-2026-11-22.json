@@ -8,7 +8,7 @@
       "prediction": "Major tech lobby groups will formally file for domestic power allocation exemptions before the end of Q2.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new headlines were found regarding tech lobby groups filing for domestic power allocation exemptions."
+      "note": "No fresh headlines were found to indicate whether major tech lobby groups filed for domestic power allocation exemptions."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "At least two major US quantum developers will announce joint ventures with European defense or research firms within the next six months to navigate procurement barriers.",
       "grounded": true,
       "status": "too_early",
-      "note": "While fresh headlines cover European defense procurement and digital sovereignty, none mention specific joint ventures between US quantum developers and European partners."
+      "note": "No fresh headlines were found regarding joint venture announcements between US quantum developers and European defense or research firms."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "Anthropic equity will trade down at least 15% from its opening IPO price following its first quarterly earnings release.",
       "grounded": false,
       "status": "too_early",
-      "note": "Headlines report that Anthropic recently went public and its stock is falling, but its first quarterly earnings release has not yet occurred to measure post-earnings performance."
+      "note": "While headlines confirm Anthropic's stock is falling post-IPO, there is no specific evidence yet regarding its performance following its first quarterly earnings release."
     },
     {
       "section": "tech",
@@ -44,7 +44,7 @@
       "prediction": "The Nasdaq Composite will retest its 200-day moving average within the next three weeks before establishing a firm support level.",
       "grounded": true,
       "status": "too_early",
-      "note": "Fresh headlines discuss crypto trends and general market weakness without providing updates on the Nasdaq Composite retesting its 200-day moving average."
+      "note": "The fresh headlines cover cryptocurrency trends and general market setups rather than providing evidence on the Nasdaq Composite retesting its 200-day moving average."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "Retail margin debt balances will register a sharp drop over the next two settlement cycles as margin calls force asset liquidations.",
       "grounded": false,
       "status": "held_up",
-      "note": "Today's headlines report active forced liquidations and selling to cover margin calls, aligning with the predicted drop in margin debt via asset liquidations."
+      "note": "Fresh headlines reporting forced liquidations and margin calls support the prediction of liquidations driven by margin calls."
     },
     {
       "section": "markets",
