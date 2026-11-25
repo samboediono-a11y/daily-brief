@@ -6,42 +6,54 @@
       "headline": "OpenAI's top scientist calls for voluntary guardrails on AI growth",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMjVTYVIwT3huVU8teHdXRHdnWGxOUTI5d1J6elZhWktVMVpSZDhhRmk5eV82c0JuRDBSUWNHdl84Z253WDJDbmd6SXhiNlFsdkxhM2gxWTVoTnY2ZkdrZ0dVam1OVXNSZWIwUnBQaTU4bEhJNTZValFSQ1Naam1xb1FkTklSZXI2Ums4d19sUjVheGtLNGhUWjFPcEVyd0ZIRmJlX0FqNXF5cHpCR2pjczF5WQ?oc=5",
       "prediction": "Expect at least three major AI labs to sign a unified voluntary safety framework before Q3 2025.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new headlines were found to indicate whether major AI labs have signed a unified voluntary safety framework."
     },
     {
       "section": "tech",
       "headline": "Taiwan's chip ecosystem celebrates the return of Nvidia's chief executive",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUnUtTkRCT3J2QkNmQmZkTmVkOFMxVjNYdU1vTUQ2RU52cURxUnRsVTVyeVhDcGI5WXU5UDM1RkVNN3I4YWlkQlhRdV80NGVsVGZKUmw1cXBieXJaeHdzU09UZ2MwU2V2V05PcEstWkhDUWZDYnpRM2FEUDdadmVvTldTZzZPLXVHY2p1US1MTUtXdmo3Z0dDbHlDUm44ZTBmUkpOalRXOG0zblA3YW1zNUs1WDBuUdIBtgFBVV95cUxPTkstenVFbjJVMkFobGJ1MGVlWjFOazBvdTFwV1RGQ3F1RjFpaVZZa2g2WlhmbXA2bVNpOS1oTUVIWUdVSHc0bjdSVW1pVzR3QVZxNHRhYktWd1BPTGpTNngwUTVtNWhFeWR5QnF1bUczZkZFTGU4d1RkbDUxRUowLWduVVpkYkhIUmpVeHpCa1poeHV2Wnl2OTRwU01XcG1qWU42cjdtaDRIUlRPMjdBQzFtT3ZjZw?oc=5",
       "prediction": "Nvidia will formally name a designated successor or co-CEO structure during its next annual shareholder meeting.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The only fresh headline relates to Toyota, leaving no information regarding leadership succession at Nvidia."
     },
     {
       "section": "tech",
       "headline": "British tech industry warns proposed youth social media ban goes too far",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV2lnZW5RQjVqQzNvUnRXbGNiNG10c3ZpRU0tLU96Ty04NUZWenpBZ2xKSi1RRXdaS1kyNGlUSnVsMmFrVnozOGhsdVdwNkFqdXpIbEhDTDVtNHVNODdrVXJPNEQ1NU1GSG81V3VINWdzYmszNERwdEx0Q092Q1E4T3lIdWcwTVBWUTN6VlhEQXZsbXpoNldIdXcxWDBhOXAyUWFWN085ZGJVNk5UUktLMC1tSQ?oc=5",
       "prediction": "UK parliament will delay full enforcement of age-verification mandates until at least late 2026 pending privacy audits.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "With no fresh headlines available, there is insufficient information to evaluate UK age-verification mandate timelines."
     },
     {
       "section": "tech",
       "headline": "Tech giants keep cutting jobs despite record investments in artificial intelligence",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQQ2s5eC1xX1E2SzVoNVdURXVzSkRDXzVRZG9oWkdLS3JURXlxZllWQS1DNGFIckEtMTlRQXBEV2h6UC1oZTVEV2dlSUl0MkZSTWRrdTlrZ2JKeHA3eDl0NmIwZldNVXRsVm1uZUlnVTlScXdxM2NuVHhfY3pBczloMzhicTAyNi1HSUttVVRKV0JzVlM1b3Ziem05ejYtbGE2aWhQdEpWN085Tkp3QnBhQzgyTTZGeXl0RlljMkhUU1FudGFmM3JYZzcwek40ZC1fbkliVmlRbjBtVEo2Rzh3RUlGU2EwanVpZnV0T2NNYkY2MGlsMWhjVlZIOGo?oc=5",
       "prediction": "Major hyperscalers will announce another round of targeted operational headcount cuts exceeding 15,000 workers combined before year-end.",
-      "grounded": false
+      "grounded": false,
+      "status": "held_up",
+      "note": "Fresh reporting confirms 20,000 job cuts across Meta and Microsoft, surpassing the predicted threshold of 15,000 workers."
     },
     {
       "section": "markets",
       "headline": "Investors rotate out of tech stocks into traditional economy shares",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRElscjEtckxzUEhMMWRhYk92WEhnM0E5aFFzYl9PVzIxbGotWTh3bjhrNE9ncTMxdFFyTDFJOTdNLXBuMWgyMEg3TGpKVTZqaXBiQS1JeklvM2xiTXpPTXh5VkNOTkdqNzM3WHhHLWtEOVNQZHZHRWk1RWRWSk1sS1hnZDVkN0dVeEN6ektwTVdfY2xpQWQ1elREX0NiVW13N1VHRzRnaG4zUHNiOFZnMnMtamZhV09NQjMzaTRfUVNiWWNtQUlMOQ?oc=5",
       "prediction": "The Dow Jones Industrial Average will outperform the Nasdaq Composite by at least 300 basis points over the next calendar quarter.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "Headlines report short-term market movements, but lack final quarterly data to determine if the Dow outperformed the Nasdaq by 300 basis points."
     },
     {
       "section": "markets",
       "headline": "Treasury bond signals warn stock investors to prepare for volatility",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ1dXYzN6Szhsb29qdERBcEpsVXNXMzdFUHFlMDk2R1BqYmNlbVhyMXFSRUFpdlRCNmo0bVNhVUJMMEltakdPN1N0dUdCX01BOWdXRV9XeXhWaGpCdnFZWEhzZzFwMDhWWllMU0t0SGhMNkkyc0t3VmZHbjhKZVhtdVhPUEttaGJtTFVKSTFBdDF4clVIVEVTM01OOUV0MTR6b1NiZkR4cUlVeTJJWEFkV1pmTEFjeW5Bd1E?oc=5",
       "prediction": "The Cboe Volatility Index (VIX) will spike above 25 within the next 45 days as equity markets adjust to bond yield signals.",
-      "grounded": false
+      "grounded": false,
+      "status": "held_up",
+      "note": "Headlines confirm that the VIX spiked past 40, satisfying the prediction of a surge above 25."
     },
     {
       "section": "markets",
