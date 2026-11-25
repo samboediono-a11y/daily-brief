@@ -8,7 +8,7 @@
       "prediction": "Nvidia will establish a formal board governance committee and outline a concrete CEO succession framework ahead of its next quarterly earnings call.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new headlines were found to confirm or contradict whether Nvidia established a formal governance committee or succession framework."
+      "note": "No fresh headlines were found regarding Nvidia's board governance committee or CEO succession framework."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "The US Commerce Department will issue draft mandatory safety audit guidelines for frontier models exceeding 10^26 FLOPs within four months.",
       "grounded": true,
       "status": "too_early",
-      "note": "Fresh headlines discuss think-tank proposals on compute thresholds and AI governance, but do not indicate that the US Commerce Department has issued draft safety audit guidelines."
+      "note": "Fresh headlines reflect policy discussions on compute thresholds, but do not report any draft safety audit guidelines issued by the US Commerce Department."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "Amazon and Microsoft will report operating margins exceeding consensus estimates by at least 150 basis points in their upcoming quarterly reports.",
       "grounded": true,
       "status": "too_early",
-      "note": "Headlines cover earnings previews and stock performance for Amazon and Microsoft, but do not provide operating margin data relative to consensus estimates."
+      "note": "Fresh headlines discuss upcoming earnings previews for Amazon and Microsoft, but do not report actual operating margins relative to consensus estimates."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "The US Department of Defense will formalize a multi-billion dollar enterprise integration contract for frontier commercial LLMs within 180 days.",
       "grounded": true,
       "status": "too_early",
-      "note": "No fresh headlines were found to determine whether the Department of Defense has formalized an enterprise integration contract for commercial LLMs."
+      "note": "No fresh headlines were found regarding a US Department of Defense integration contract for commercial LLMs."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "Nvidia stock will undergo a minimum 10% mean-reversion pullback within the next 30 trading days as initial short-covering pressure fades.",
       "grounded": true,
       "status": "too_early",
-      "note": "The available headline discusses speculative bullish price targets for Nvidia rather than providing trading data to confirm whether a 10% pullback occurred."
+      "note": "The fresh headline presents a speculative price prediction setup rather than reporting actual stock movement confirming or refuting a 10% pullback."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "The US Department of Justice will issue a Second Request for regulatory information on the merger within 60 days.",
       "grounded": true,
       "status": "too_early",
-      "note": "Headlines mention regulatory timelines for the CrowdStrike-Zscaler deal, but do not confirm whether the Department of Justice has issued a formal Second Request."
+      "note": "Fresh headlines discuss general DOJ antitrust practices and other corporate deals, but offer no specific information about a Second Request for the CrowdStrike-Zscaler merger."
     },
     {
       "section": "markets",
