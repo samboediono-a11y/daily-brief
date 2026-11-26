@@ -1,287 +1,146 @@
 {
   "date": "2026-11-26",
-  "predictions": [
-    {
-      "section": "tech",
-      "headline": "Tech Insider Warns Industry Has Given Up On AI Safety",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWlVHTXZiY2xqeHEwTFk1WU1QbFZHamVuZnFSUThEYk9qZmJiNWYybmd6YWs1WElmbWZFbTFkSVVvcl9QUHFrSW5oQ0hMc2ZJOTFieGx4RzdLdUlzM183US1GdnFxS3dCd3AxX1JocUFDM0tKSUZLZlQ3bElPTXFBS1dWTWlzLUc5d2czZER1ZE1mRzBaMVJ4WDRLbDRYY0ZtUzhzZkkzSk9KdnV1?oc=5",
-      "prediction": "Expect at least one major frontier lab to face formal congressional subpoenas over internal safety whistleblower disclosures before Q3 2025.",
-      "grounded": true
-    },
-    {
-      "section": "tech",
-      "headline": "Europe Unveils Quantum Tech Strategy To Build Industrial Sovereignty",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR21veVI1LTdFamNwUGVTdmFZT3UtTndtdHVfN04wd1djaFp3cU1JbW13SVVTWXpVT3FjR1EyZU9tTEdOLUVmSjBtb3lqX0p5NU9vWm5IaVFOalhTNmI5LVdJQ0FfUU5QMjdyTFJfRXNYMzdVVHZjTHJlZTZpMk5IdDYyX01XN0p6NTRHdVo1cmxDN2xyN3p5bDVFRGNrOTBkZ3BVVWhCMTBQaEZ2WTJRVnRwNDdjQmh0?oc=5",
-      "prediction": "The EU sovereign equity vehicle will announce its initial co-investment tranche into at least three European quantum hardware firms within the next six months.",
-      "grounded": true
-    },
-    {
-      "section": "tech",
-      "headline": "Trump Intervenes In Nvidia Controversy Sparks Fresh Tech Power Clash",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORFNZeWdTWVBjTXM0c01KWWhxVXhOb1J6V21RTWEtaGU2cTdEdlVmRHkzYjlpZC1mRDZ0QWtRTkNxWGhQeTZxWUxEUkV1TjZFaXZ3a2Z1azhMVUxFUVFpOVhwTVJMeGNGUktrWU9tVTNZMEFoeHpFbWMtblI3Sm9VaUU4TXhQcEpvcFhGQzh6a3pyYXlvUnBRQVFxaXJWME5CXzZiTU9NY9IBrAFBVV95cUxOeFFyUi1KUGpaRUN0MWRHbkkxUTNCSGoxQ0RPQnF6Ymx1WERKNEs3czRqbS1OVnJSY3FZTDFGX094QUtrX0ZXc1lwZU54QnBNN25ObnJwdmhteEY0ZFZEZ3g4Q3NTMmVGQzVKN1lVRXRLNDMxQnlRM3JyRC1vRjNxZGRWdnl2YVJOaWxiZ3dXMlQzSVFMaTVqMXMxLU1KQUJvT2MyRDF6M0FGT0t5?oc=5",
-      "prediction": "Nvidia will nominate a former senior government official to its board of directors within two quarters to navigate growing Washington scrutiny.",
-      "grounded": true
-    },
-    {
-      "section": "tech",
-      "headline": "AI Disruption Concerns Risk Cooling Off Growth In Tech Ad Spending",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcXRXb216YjFGUGswbF9neGY1ZDdERnMwQ0lIbktBUEgyeDFxZl9OUGI2OFhaeTlnUHVxaUVBcGVhZVczTmZ1QXcweDVUUzhDbWpoQ2oyUnJOM0RZQTlwNExLdldkM0tXbEN3TUxDVnlSM0F3NUVnMnVlOHZpcTdic0V1VDNzUQ?oc=5",
-      "prediction": "Alphabet and Meta will report a sequential deceleration in digital ad revenue growth in their next quarterly earnings reports.",
-      "grounded": true
-    },
-    {
-      "section": "markets",
-      "headline": "US Stocks Stabilize As Market Absorbs Heavy Tech Selling Pressure",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUEhyLTdac1NBTVdPT1QyLUJKck4wUUJkNjlXQWFHTG1peDJyeDRqNklFSkVpek9JbmEyQ0gya1R6dGZicmpfbkFIS1BjR3lDeGhFMmpIYU90ajhxZ2lwYW5sLW93TmdZcXR3Q2p3akUxc1JBRVRmbEpVQW5LM3pDaXhNZWx6a0txT19rUTQ3R2xVejJWQkh0TzdSRmlOY0lDa05oNklJOE1fVV9CY1FuRXJMNHJrVG8zQzdTX0pjYmNwanNhd0VJcTVkRQ?oc=5",
-      "prediction": "The Kospi and Taiwan Weighted indices will experience another single-day drop exceeding 3% within the next 30 days as foreign outflows continue.",
-      "grounded": true
-    },
-    {
-      "section": "markets",
-      "headline": "Federal Reserve Signals Rate Hikes Despite Recent Stock Market Volatility",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREd0RUx1TTJiVHRreUdrdTRYNk5HdVNmMFp4SURfa3c2S1NmalFseWJ5VnZqWkxJZ1gzR1FtZkNjZnJWRzRrU05hNUJCYVhOdGk2RzJRU1NiTVRnYXd4bThxWlhZSmpsMzlGMXZGc0lPaFo3R0FydU5fYkc0Y1c1U0pzSUY?oc=5",
-      "prediction": "Fed funds futures will price in an over 85% probability of no rate cuts through the end of the current calendar year following the next CPI release.",
-      "grounded": true
-    },
-    {
-      "section": "markets",
-      "headline": "Elon Musk Holds SpaceX Shares While Anthropic Founders Cash Out",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcF95VDVfWEJCUU9RTm0tQzA4Rmt2TVpFYVVBQmd1QS1MNVh0Q3Z2aEtmV09tU0RpU0daRlBzQzFiczhHbWdMdkxxSkdNalYzcjlEb292bWlnUV9vNDliSzNZaFYydjJPU3NieVotLUs2ZHJ6RTg2UUZSeVVWdVBkOVVoWFRBMC1YYklhMGJsMA?oc=5",
-      "prediction": "Anthropic equity will trade below its implied pre-IPO secondary valuation within six months of completing its public debut.",
-      "grounded": true
-    },
-    {
-      "section": "markets",
-      "headline": "California Teachers Pension Fund Exposed To Sudden Nvidia Price Swings",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVWtrQjRIVThOZDczS0hNZVlKUWtBRzk5T002Q1Z0NW9HdmRBS0FWbE5LQWhiZEpHbUZNcTlKTnpKVXllSWZBN19mdXBqWkhwUkx5VFpwaVNEc2JZTmV1RWpaQUJhWlFOVnNYRWNhYlFhLW5ZWnpQUHItTzJZa2ppaERXNU1Xb1lHdnN6dXdrVjNEMUpwd3A2alY1WmNWcFc4NThYWGF1U2VON1J1d3FqbllXYw?oc=5",
-      "prediction": "CalSTRS will report a reduction in its relative portfolio allocation to technology megacaps in its next published quarterly holding update.",
-      "grounded": false
-    },
-    {
-      "section": "us_news",
-      "headline": "Northeast Storm Wreaks Havoc On Peak Thanksgiving Travel Plans",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeVlCeG8xcl9GX1YtUjF1YjVvcjhZWHJMNVRmOFdhQldDclFiNkF3bWI3UFB5N1dHejhRZGV5X2VLLUFic2ZCbHVzNTQtamZtcU5BX2E1NkJRc2xXdndMS05oaGdqM3NXMEpQVkM0alh2TmtVU1hWa1dPUFVHVVJFWGl1US1mcXRvT2hnbE1jT3E3b1pXaS10ZEpFNDVvelJMaERvZDJ4QzFHQzh0Qi02QnpLXzU1dnRQ?oc=5",
-      "prediction": "Affected US airlines will raise their Q4 unit cost (CASM-ex) guidance by at least 1.5 percentage points in upcoming operational filings.",
-      "grounded": false
-    },
-    {
-      "section": "us_news",
-      "headline": "Judge Rules Government Illegally Targeted ABC Network In Speech Clash",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWWJpVHlqeHV3UkNCM19NSXdjczdRNGcycDBObW1rdUljeVU2ajVFNzZ0ck5vUjdKaFJXaTdUUE5zVDB1VVBwSWVpSmt2TmhIR2ZadGtMdkpCVGNCblVvcVpVTVBadWdhNmhNeXdRRjhkdHIwQXJJbTVNQmJQVF82RnhDMG85WHhJN1JLLVB0Nl95VENTakR3UXVsXzZWUkN2QlhDbmNycHFZa1VMb1NhbG5ram9SelRLUVExZDNYUVVEMzNjSzROOE9vbG1sOHFWTUgyMWZZV0M?oc=5",
-      "prediction": "The federal government will file a formal notice of appeal against the district court ruling within the standard 60-day legal window.",
-      "grounded": true
-    },
-    {
-      "section": "us_news",
-      "headline": "Court Decision Upholds New York City Rent Stabilization Rules",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSk1tcnphSHJoRUhqSGdRdkR4bEl1c2MwTktmMkJ3dlFMWVpXRzh5d3BCdFkxd2RsbnpQaXpJLVVXWWJNV1N1VXdqWm9ZSEZKTzlnYjNoTjNlN05Nc0NpblV3RjE3blVnYlZFS010SUdrNXhQLTUySU1YMWluNUF3M0tVeWxCSGdKTXlHbWFGSndIM2RGTzlwZW5nU0VkVkFScUV1TjZTZk93c016WXc?oc=5",
-      "prediction": "New multi-family housing permit filings in New York City will decline by at least 15% year-over-year in the next official housing report.",
-      "grounded": true
-    },
-    {
-      "section": "us_news",
-      "headline": "Trump Attacks Revised Economic Data Demanding Official Audit",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR1Vua2tUbUlVUWhkOUNkaThiaG5UcnRiTHoyQWluZ1JOUkZLMG5Mdl8zdk5GMDBXSk9mb0YtZmJnOGRRTE1WbWpvQXdkTzBBeWtJOTI4dkZpUzRVVWtENTdsek5pX0Y5emNGOEZoa2JoamV4T0VXWHJYS1ZsRzJfUjlYZHc5aWVTQmZqN0pHT2YxdkdsN2o4ZzRYUTdyRVlsaGZfbG9jckRYTHFzNmNZ?oc=5",
-      "prediction": "The Bureau of Economic Analysis will issue an explicit public defense of its GDP revision methodology prior to the next quarterly economic report.",
-      "grounded": true
-    },
-    {
-      "section": "indonesia",
-      "headline": "President Prabowo Tightens Control As Indonesia Struggles With Economic Slump",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd3B2R1ZoY1BRS1RIUVNNUERhX3JLNFJlNmx3em16dTdQVlNPRjdPSmM2OXVpNTFLZmM2NWpESUhzNWRHOWhhMHVJRzI5VDR0bVNyM1N2elc0aVU2T040UFl1N3lYZzJpMmdfM1IweXZQNU9RdFlrVVZiWWdTWm50cUNpWERDSEFzNGI3bWJoTQ?oc=5",
-      "prediction": "Bank Indonesia will be forced to intervene directly in foreign exchange markets to defend the Rupiah within the next 30 days as capital flight continues.",
-      "grounded": true
-    },
-    {
-      "section": "indonesia",
-      "headline": "Prabowo Selects Close Cabinet Allies For Top Vice Presidential Roles",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdk1weUNxQl9SQllMSEVWSm1xVnlQeFo3RmNaRW50Rlh0ODNWbDZiSS1zUUM0ZVlqb0lFWl8xd3lyUm1pSHk3bnlkcVNEV21WeWZZM2VoOWR2OGlkcmZqQ2ZSZHJua3ZJRUZVbF9yQ3cyMnRLdEprWGNYeVd1UV9rMWVSbEZZOFZmZl9DeEVhQmYySDRlMFdXOHBreEFScTIwNEQyQ0t1WkI1N0k?oc=5",
-      "prediction": "Indonesia\u2019s sovereign governance rating will face a negative outlook revision from major international political risk agencies within two quarters.",
-      "grounded": false
-    },
-    {
-      "section": "indonesia",
-      "headline": "Indonesia Charges Senior Police Officers In Alleged Treason Plot",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbUxrXzFvSmZQNExQN3lRU29vU0hxcVhhbXhJamlxOURmcjFnbDUxQ1QydHlNV0dmbHN6TndfQ1NqRGFLd1NncmF1OFU3aWtqS1BXOEl4a2xyNjBTSGVQMUdQLWxxalJSV0JweHZKdjJoRTZ6YXk0dUZHRnBMdjl4cGRFakMzTTd3NmE1eC1tanVmaFlvUWQ4QjVOdlBjS054TkpxZHVDYTdPMkY0dk9mTUdBOWc?oc=5",
-      "prediction": "Indonesia\u2019s Ministry of Defense will secure a significantly higher percentage budget increase than the National Police in the upcoming national budget allocation.",
-      "grounded": true
-    },
-    {
-      "section": "indonesia",
-      "headline": "EU And Indonesia Finalize Landmark Free Trade Deal On Cars",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWWFUYXctMVNzcGN2TGIxUXh1Q0w1VmZ5RUhROHpYYXZJTmFxSVJNWVFUeFJVbV9oUV9PTnFZeTh2MU5kV3h3MUZsYmRfVE9BdXNtTFkybWdneVNQcmVudFc0ejROSmpEd0lfN3NQSnp1RGk0bTNIMmxXOEVYYWhCWEd0czBQWGxyZkhCZ2FjbTBIci1LTHIxNUxwTFNYUWVj?oc=5",
-      "prediction": "European passenger vehicle exports to Indonesia will show a 20%+ volume increase within 12 months of formal pact implementation.",
-      "grounded": false
-    },
-    {
-      "section": "crypto_fx",
-      "headline": "Kraken Glitch Triggers Deep Flash Crash In Major Crypto Assets",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONFlvOWxMWFAzZVZJVGNYazEyUlVWdzJ3V21hd1lpdnkxSXB5YkN1NXViSlJSNWwyM1BhWUg2bjc0WGRPUHhJWUw2dHh0XzJER1U4amtTS0RyVGNkdmJ6am5NWlp0QlRWdldtSGUzdWVVVDIxMDRXdnlTSmZlaTd1VW9wOFBVaFRCVXNqa0hOSXd0S2pyVUlaZGtUR3FjQ2xRd094VFF1QjlCRjE1NDhwVllydGpUd0FtWmg3ZEpLcFdpNHNj?oc=5",
-      "prediction": "Kraken will publish a comprehensive technical post-mortem and introduce enhanced volatility circuit breakers on its matching engine within 14 days.",
-      "grounded": false
-    },
-    {
-      "section": "crypto_fx",
-      "headline": "Binance Security Incident Triggers Sharp Sell-Off Across Bitcoin Markets",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRHEtek1QR0VDQnZJV2NES0hQdDlrZlF6ZlI2WDhUS3pRd3lRWXA5T1g0NmVxOG9rN3BFUXhhYjJxeXBHV1NRRGRUTS0wVG1xSUpZVTdFOVByT0RDaHp4U3JRYm9YTzV1X1Jtc0JVV1dESjJ6b0ZRaEhpaktqOWNzTA?oc=5",
-      "prediction": "Decentralized exchange (DEX) trading volumes relative to centralized exchange (CEX) volumes will increase by over 15% over the next 30 days.",
-      "grounded": true
-    },
-    {
-      "section": "crypto_fx",
-      "headline": "Bitcoin Drops Below Key Level Triggering Wave Of Liquidations",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbmN2SHc5R3NaLW95Rkw4bzdvbzA5NldfS0ZDTFlES0hYZjAwVlBXS2t1bk5ocDJfZjlkS0NmTWFqUjdVWFVmYThReUxyWmFueEU5RXQ4NXZoRGxXS3N1UVc4enJueVdwdlZYc2xSQmtsVnNaZTJWWExFU0s5c1N1YjhJMkpIOGtxSmlQbEpveU44OWxSWUtJVC11R09KQlB4TktFd296RE5RODdicENOemhtZU5YLWxmdWhxc0RZZmt3Y24tN1ZES05vSFM5elVsVGYyNjRkUC00cTg?oc=5",
-      "prediction": "Total open interest across major Bitcoin perpetual futures exchanges will decline by at least 20% over the next two settlement cycles.",
-      "grounded": true
-    },
-    {
-      "section": "crypto_fx",
-      "headline": "Japanese Yen Strength Gains Strong Negative Link To Bitcoin Prices",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5",
-      "prediction": "A 100-pip strengthening move in USD/JPY (toward Yen strength) will directly correlate with a minimum 3% intraday sell-off in spot Bitcoin.",
-      "grounded": false
-    }
-  ],
+  "predictions": [],
   "stories": [
     {
       "section": "tech",
-      "headline": "Tech Insider Warns Industry Has Given Up On AI Safety",
-      "summary": "An anonymous senior AI executive at a major tech firm warned that top companies are abandoning safety standards in their rush to win commercial market share.",
-      "view": "Inside disclosures and high-profile researcher departures, such as at Anthropic, confirm that corporate commercial pressure has severely eroded internal safety guardrails across frontier AI labs. Hyperscalers and venture backers win by accelerating deployment schedules, while independent safety teams lose leverage as compute scale takes absolute priority over alignment. This prioritization guarantees faster product cycles in the short term at the direct expense of systemic operational risk and regulatory vulnerability.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWlVHTXZiY2xqeHEwTFk1WU1QbFZHamVuZnFSUThEYk9qZmJiNWYybmd6YWs1WElmbWZFbTFkSVVvcl9QUHFrSW5oQ0hMc2ZJOTFieGx4RzdLdUlzM183US1GdnFxS3dCd3AxX1JocUFDM0tKSUZLZlQ3bElPTXFBS1dWTWlzLUc5d2czZER1ZE1mRzBaMVJ4WDRLbDRYY0ZtUzhzZkkzSk9KdnV1?oc=5"
-    },
-    {
-      "section": "tech",
-      "headline": "Europe Unveils Quantum Tech Strategy To Build Industrial Sovereignty",
-      "summary": "The European Union introduced a new Quantum Act alongside a backed equity fund aimed at supporting domestic hardware and cybersecurity technology.",
-      "view": "The EU's Quantum Act and proposed sovereign equity fund mark a necessary state intervention, but European fragmentation will prevent it from keeping pace with private US venture capital. Early-stage European hardware defense vendors win target government contracts, while broad commercial tech ecosystems lose out due to bureaucratic capital deployment delays. The strategy successfully protects critical defense infrastructure supply chains but fails to create competitive mass-market quantum champions.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR21veVI1LTdFamNwUGVTdmFZT3UtTndtdHVfN04wd1djaFp3cU1JbW13SVVTWXpVT3FjR1EyZU9tTEdOLUVmSjBtb3lqX0p5NU9vWm5IaVFOalhTNmI5LVdJQ0FfUU5QMjdyTFJfRXNYMzdVVHZjTHJlZTZpMk5IdDYyX01XN0p6NTRHdVo1cmxDN2xyN3p5bDVFRGNrOTBkZ3BVVWhCMTBQaEZ2WTJRVnRwNDdjQmh0?oc=5"
-    },
-    {
-      "section": "tech",
-      "headline": "Trump Intervenes In Nvidia Controversy Sparks Fresh Tech Power Clash",
-      "summary": "Donald Trump's political involvement surrounding Nvidia CEO Jensen Huang has reignited intense debate over Silicon Valley's outsized influence in Washington politics.",
-      "view": "Donald Trump's political intervention in Nvidia's corporate affairs injects unpredictable executive risk into semiconductor sector valuations. Bipartisan backlash in Washington leaves Nvidia vulnerable to heightened antitrust scrutiny and legislative pushback, while domestic hardware rivals gain an opportunity to market themselves as politically neutral alternatives. Executive autonomy across Silicon Valley loses out as microchip policy becomes explicitly entwined with presidential politics.",
+      "headline": "Trump's Rescue of Nvidia's Boss Sparks Fierce Backlash Over Tech Clout",
+      "summary": "Donald Trump's aggressive intervention to reinstate Nvidia chief Jensen Huang has ignited intense political blowback over Silicon Valley's sway in Washington. Critics argue the administration crossed the line by treating a private semiconductor titan as an untouchable national utility.",
+      "view": "Big Tech leaders gain unprecedented political protection, but they lose public goodwill and risk harsher regulatory blowback if control of Congress flips. The move cements semiconductor manufacturing and AI chips as core national security assets rather than standard commercial products. Watch whether lawmakers introduce fresh legislation to curb executive branch meddling in corporate boardrooms.",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORFNZeWdTWVBjTXM0c01KWWhxVXhOb1J6V21RTWEtaGU2cTdEdlVmRHkzYjlpZC1mRDZ0QWtRTkNxWGhQeTZxWUxEUkV1TjZFaXZ3a2Z1azhMVUxFUVFpOVhwTVJMeGNGUktrWU9tVTNZMEFoeHpFbWMtblI3Sm9VaUU4TXhQcEpvcFhGQzh6a3pyYXlvUnBRQVFxaXJWME5CXzZiTU9NY9IBrAFBVV95cUxOeFFyUi1KUGpaRUN0MWRHbkkxUTNCSGoxQ0RPQnF6Ymx1WERKNEs3czRqbS1OVnJSY3FZTDFGX094QUtrX0ZXc1lwZU54QnBNN25ObnJwdmhteEY0ZFZEZ3g4Q3NTMmVGQzVKN1lVRXRLNDMxQnlRM3JyRC1vRjNxZGRWdnl2YVJOaWxiZ3dXMlQzSVFMaTVqMXMxLU1KQUJvT2MyRDF6M0FGT0t5?oc=5"
     },
     {
       "section": "tech",
-      "headline": "AI Disruption Concerns Risk Cooling Off Growth In Tech Ad Spending",
-      "summary": "While technology ad spending remains positive, emerging doubts around artificial intelligence return on investment threaten to slow overall marketing budgets.",
-      "view": "Growing skepticism around artificial intelligence return on investment is forcing enterprise software companies and digital platforms to tighten non-essential marketing budgets. Hyperscalers spending heavily on data center CapEx lose out as markets demand immediate top-line monetization, while performance marketing platforms with clear measurable ROI win market share over brand-heavy campaigns. The valuation multiple contraction across ad-supported tech reflects a broader sector rotation away from speculative compute expansion.",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcXRXb216YjFGUGswbF9neGY1ZDdERnMwQ0lIbktBUEgyeDFxZl9OUGI2OFhaeTlnUHVxaUVBcGVhZVczTmZ1QXcweDVUUzhDbWpoQ2oyUnJOM0RZQTlwNExLdldkM0tXbEN3TUxDVnlSM0F3NUVnMnVlOHZpcTdic0V1VDNzUQ?oc=5"
+      "headline": "Tech Insider Warns Safety Guardrails Are Vanishing in AI Race",
+      "summary": "A senior artificial intelligence executive at a major tech firm anonymously warned that top companies have essentially abandoned meaningful safety protocols to rush products to market. Internal review boards are reportedly being sidelined whenever they threaten product release deadlines.",
+      "view": "Software giants win in the short term by shipping features faster, but enterprise buyers and regular consumers take on hidden operational and liability risks. By prioritizing speed over testing, tech firms are inviting catastrophic errors that could trigger sudden, heavy-handed government intervention. Keep an eye on whether enterprise customers start demanding independent third-party safety audits before signing major software contracts.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWlVHTXZiY2xqeHEwTFk1WU1QbFZHamVuZnFSUThEYk9qZmJiNWYybmd6YWs1WElmbWZFbTFkSVVvcl9QUHFrSW5oQ0hMc2ZJOTFieGx4RzdLdUlzM183US1GdnFxS3dCd3AxX1JocUFDM0tKSUZLZlQ3bElPTXFBS1dWTWlzLUc5d2czZER1ZE1mRzBaMVJ4WDRLbDRYY0ZtUzhzZkkzSk9KdnV1?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Europe Unveils Quantum Strategy and Dedicated Tech Equity Fund",
+      "summary": "The European Union launched a Quantum Act alongside a new equity fund aimed at financing cutting-edge hardware and safeguarding regional cybersecurity. The program seeks to reverse Europe's chronic dependence on American and Chinese advanced computing platforms.",
+      "view": "European deep-tech startups get much-needed patient capital, while foreign tech giants face stricter barriers to acquiring promising European competitors. The initiative is designed to build a protected local supply chain, though European taxpayers bear the risk if state-backed picks fail to commercialize. Watch how quickly the fund deploys capital to private firms over the next two fiscal quarters.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR21veVI1LTdFamNwUGVTdmFZT3UtTndtdHVfN04wd1djaFp3cU1JbW13SVVTWXpVT3FjR1EyZU9tTEdOLUVmSjBtb3lqX0p5NU9vWm5IaVFOalhTNmI5LVdJQ0FfUU5QMjdyTFJfRXNYMzdVVHZjTHJlZTZpMk5IdDYyX01XN0p6NTRHdVo1cmxDN2xyN3p5bDVFRGNrOTBkZ3BVVWhCMTBQaEZ2WTJRVnRwNDdjQmh0?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "British Financial Watchdog Flags Growing Systemic Risks from AI",
+      "summary": "The UK's financial regulator issued an urgent alert warning that algorithmic trading and generative AI tools could accelerate market instability and fraud. The warning arrived just as Meta introduced tailored AI tools for commercial use in the region.",
+      "view": "Traditional compliance teams lose leverage as automation speeds up, while specialized risk-audit firms and regulatory tech providers stand to capture major enterprise budgets. If algorithmic herd behavior triggers flash crashes, financial institutions could face mandatory capital buffers for AI-driven trading desks. Watch for the UK watchdog to propose binding liability rules on automated financial decision-making.",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa3dIeGlGcm82OGVfY2ZzWWFXY3FWZ3RVTWFyZV95dlN2a1NWTWhiV19OX1A2OVBTNFI5dGF2dzVMQVhmNjdxa2taQkpHeUpJZnVxTlNZYmZPVFJXYkdxYTNzLTVxTHVfSVVOU1pNbFBUU3BMYzNCZ290d3RIN0RzbE8xekZxNGRBTVdYZlY5UlVpMnJFMFdSNlE5WkpENThvSlVCZjE3eXdMY0ZqUkNSYkxQeGxLMlVJZ19XaGg4NkVDcVU?oc=5"
     },
     {
       "section": "markets",
-      "headline": "US Stocks Stabilize As Market Absorbs Heavy Tech Selling Pressure",
-      "summary": "Major stock indexes recovered lost ground to end positive, reversing early losses triggered by a sharp pullback in artificial intelligence stocks.",
-      "view": "The intraday bounce in US equities represents temporary tactical dip-buying rather than a durable market bottom given ongoing heavy tech sector liquidation across global markets. Institutional foreign capital is actively exiting Asian semiconductor supply chains over elevated AI spending concerns, pressuring high-beta tech benchmarks. US indexes will remain capped until Big Tech demonstrates that massive capital expenditures are generating incremental operating income.",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUEhyLTdac1NBTVdPT1QyLUJKck4wUUJkNjlXQWFHTG1peDJyeDRqNklFSkVpek9JbmEyQ0gya1R6dGZicmpfbkFIS1BjR3lDeGhFMmpIYU90ajhxZ2lwYW5sLW93TmdZcXR3Q2p3akUxc1JBRVRmbEpVQW5LM3pDaXhNZWx6a0txT19rUTQ3R2xVejJWQkh0TzdSRmlOY0lDa05oNklJOE1fVV9CY1FuRXJMNHJrVG8zQzdTX0pjYmNwanNhd0VJcTVkRQ?oc=5"
+      "headline": "Nvidia Rebound Ignites Massive Wall Street Rally",
+      "summary": "The Dow jumped 1,400 points and the Nasdaq surged 6% after Jensen Huang's return to Nvidia restored confidence across the tech sector. The move capped a dramatic whipsaw week that previously saw major indices drop sharply on governance fears.",
+      "view": "Momentum traders and chip investors win big from this relief rally, but broader market health is now uncomfortably tied to the fate of a single stock. The sheer scale of the rebound shows how concentrated passive index funds have become around AI megacaps. Watch whether trading volume holds up through Friday's shortened session or evaporates into profit-taking.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55Qzd6R1BVMkNsU2hwVWc4OElya24tNzEwcjFjd1NyVkczM2dDTHk2WnNzdkxlR2huZW1IcTgtMDBTUVU3WWxZNW1PeFQyaHgwdGl3LTlaVjV1cEtWa0JSQmNuQ3hnQmViVG5XYndIVEFaRFVEUzJ30gF8QVVfeXFMTWJnbFVGZ0NXUU1Xb04xRi1tMnlKazVMVWxSOUpYSWtBV2dHVHZycUpyUk1XX24zQ2o4bHFEVDEyaklmcktGaTFvMHlualhDckJrZ25tMDB5VnEzbTRYQmhEOThhNDZSWWtMSDYya2ZHckRQLUtEZGl0Tmp2TQ?oc=5"
     },
     {
       "section": "markets",
-      "headline": "Federal Reserve Signals Rate Hikes Despite Recent Stock Market Volatility",
-      "summary": "Federal Reserve officials remain focused on sticky inflation, signaling they are ready to raise interest rates even as Wall Street copes with market turmoil.",
-      "view": "The Federal Reserve's hawkish stance confirms that persistent inflation overrides market volatility, forcing financial conditions to tighten through interest rate expectations. Fixed income investors and highly leveraged equity sectors lose out as terminal rate expectations reset higher, while money market funds and cash-rich corporate treasuries capture sustained high yields. Stock valuations face ongoing compression until core inflation prints show consistent downward trajectory.",
+      "headline": "Traditional Industrial Pensions Stage an Unexpected Comeback",
+      "summary": "Defined-benefit pension plans, long thought extinct outside government jobs, are making a noticeable return across heavy manufacturing and industrial plants. Higher interest rates and tight blue-collar labor markets have made guaranteed pensions financially viable and attractive for employers again.",
+      "view": "Unionized industrial workers gain predictable retirement income, while corporate treasurers take back long-term balance sheet liabilities they spent decades trying to shed. Rising bond yields made funding these promises much cheaper for companies, creating a powerful recruiting tool against non-union rivals. Watch for auto and aerospace unions to push for pension restorations in upcoming contract negotiations.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQy1uVkhEa0s3U2pJdkp0T0t5M1g2Z2llLXBtTXBSQjdyeE9va1Nid3JJWW45VkhpTzNVeVNKZ1V0ZUpPZUpTRTlwNGg2WnBERVZJRExBT296SEEzSXRzQVV2RTBrQnVXUzF2YWVYS3FWaV82SDFsS1lwemctVXhFVkkxOWx5aTFzZWlVVGxXOUN4elVDQjRmM0JJUUFEdHU1MkFXNjVuQ2JyQXNNWFlEdEFYSUlLUkI4cU03eWVFWEMyQQ?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Fed Signals Appetite for Rate Hikes Despite Market Gyrations",
+      "summary": "Federal Reserve officials indicated they remain open to raising interest rates further, shrugging off recent stock market volatility in favor of fighting sticky inflation. Policymakers emphasized that financial market turbulence alone will not force them to loosen policy.",
+      "view": "Savers and the US dollar win from higher yields, while debt-heavy firms and commercial property owners face even tighter refinancing pressures. By refusing to play market rescuer, the Fed is draining speculative froth from risk assets and forcing investors to reprice corporate credit. Watch the upcoming monthly inflation print to see if price pressures justify the Fed's aggressive stance.",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREd0RUx1TTJiVHRreUdrdTRYNk5HdVNmMFp4SURfa3c2S1NmalFseWJ5VnZqWkxJZ1gzR1FtZkNjZnJWRzRrU05hNUJCYVhOdGk2RzJRU1NiTVRnYXd4bThxWlhZSmpsMzlGMXZGc0lPaFo3R0FydU5fYkc0Y1c1U0pzSUY?oc=5"
     },
     {
       "section": "markets",
-      "headline": "Elon Musk Holds SpaceX Shares While Anthropic Founders Cash Out",
-      "summary": "Filings show Elon Musk sold zero shares in SpaceX's massive valuation updates, while Anthropic's cofounders liquidated nearly two billion dollars during theirs.",
-      "view": "The stark divergence between Elon Musk retaining 100% of his SpaceX equity and Anthropic founders cashing out nearly $2 billion highlights a massive insider confidence gap. Musk\u2019s hold signals long-term confidence in asset defensibility and cash generation, while Anthropic insiders are de-risking ahead of unsustainable compute overhead and model commoditization. Public and secondary market investors buying into late-stage AI rounds bear the primary downside risk of overvalued private insider exits.",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcF95VDVfWEJCUU9RTm0tQzA4Rmt2TVpFYVVBQmd1QS1MNVh0Q3Z2aEtmV09tU0RpU0daRlBzQzFiczhHbWdMdkxxSkdNalYzcjlEb292bWlnUV9vNDliSzNZaFYydjJPU3NieVotLUs2ZHJ6RTg2UUZSeVVWdVBkOVVoWFRBMC1YYklhMGJsMA?oc=5"
-    },
-    {
-      "section": "markets",
-      "headline": "California Teachers Pension Fund Exposed To Sudden Nvidia Price Swings",
-      "summary": "The nation's top public pension funds face heightened portfolio risks due to heavy concentration in Nvidia and related artificial intelligence equities.",
-      "view": "Public pension funds like CalSTRS have accumulated unhedged concentration risk by overweights in high-flying semiconductor equities. Passive benchmark tracking forces this capital exposure, leaving public fund balance sheets directly vulnerable to any severe valuation multiple contraction in AI hardware names. The ultimate losers are public sector pension beneficiaries whose retirement solvency is increasingly tied to single-stock hardware performance.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVWtrQjRIVThOZDczS0hNZVlKUWtBRzk5T002Q1Z0NW9HdmRBS0FWbE5LQWhiZEpHbUZNcTlKTnpKVXllSWZBN19mdXBqWkhwUkx5VFpwaVNEc2JZTmV1RWpaQUJhWlFOVnNYRWNhYlFhLW5ZWnpQUHItTzJZa2ppaERXNU1Xb1lHdnN6dXdrVjNEMUpwd3A2alY1WmNWcFc4NThYWGF1U2VON1J1d3FqbllXYw?oc=5"
+      "headline": "Musk Proposes SpaceX Share Grants for Every American Child",
+      "summary": "Elon Musk proposed gifting two shares of privately held SpaceX to every child in the United States as part of a populist wealth-distribution concept. The unorthodox pitch immediately raised practical legal, tax, and governance questions among securities experts.",
+      "view": "If taken seriously, the proposal would create unprecedented public interest in SpaceX's private valuation, but existing private shareholders risk massive equity dilution. The idea functions primarily as a potent public relations maneuver to align public sentiment with Musk's commercial space agenda. Watch for whether SpaceX corporate filings make any formal reference to an actual share-grant program.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTTl5LVB0YlQ1UXA1eERZUEluR2NwRGtTejZyaEt3X3J2eUdYLVVJY2hsOVNxT0RpTnRKYmpsTkRhSVhTZGRjZXdNMWZJdzZUbzB0ZUFYTFpMOWZvcnRMemdad3kycXVSMXNLRmlkNGtPTlNpaURiZ1FyTTJhdjR1ZC12SXlHdTFtYm1DeDZGSWJqZnNzTHVMQg?oc=5"
     },
     {
       "section": "us_news",
-      "headline": "Northeast Storm Wreaks Havoc On Peak Thanksgiving Travel Plans",
-      "summary": "Severe winter storms forced hundreds of flight cancellations and highway delays across major travel corridors during the year's busiest holiday weekend.",
-      "view": "Severe holiday travel disruptions across the Northeast highlight chronic operational fragility and tight labor constraints in the US aviation sector. Legacy air carriers lose ground due to immediate passenger compensation costs and lost high-margin holiday seat capacity, while passenger rail operators win incremental market share along congested transit corridors. The operational bottleneck will directly drag on Q4 transport sector operating margins.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeVlCeG8xcl9GX1YtUjF1YjVvcjhZWHJMNVRmOFdhQldDclFiNkF3bWI3UFB5N1dHejhRZGV5X2VLLUFic2ZCbHVzNTQtamZtcU5BX2E1NkJRc2xXdndMS05oaGdqM3NXMEpQVkM0alh2TmtVU1hWa1dPUFVHVVJFWGl1US1mcXRvT2hnbE1jT3E3b1pXaS10ZEpFNDVvelJMaERvZDJ4QzFHQzh0Qi02QnpLXzU1dnRQ?oc=5"
+      "headline": "Severe East Coast Storms Paralyze Holiday Travel",
+      "summary": "A powerful winter storm system lashed the Eastern seaboard, grounding hundreds of flights, flooding roads, and leaving over a hundred thousand homes without power. The disruption created severe bottlenecks at major transit hubs during the busiest travel window of the year.",
+      "view": "Airlines and hospitality operators lose millions in operational costs and rebooking vouchers, while power utility repair crews face heavy overtime expenses. The storm exposes how vulnerable aged airport infrastructure and regional power grids remain to abrupt weather spikes. Watch whether flight cancellations cascade into broader retail foot-traffic slumps over the Black Friday weekend.",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVV91OWdaQ1cwTHRxZU5wdzBlZjViam1uYmV3Wmd1bTV1QjJlS2dXLW1STjA1WTFUWElVdlNpMDF1Tk5BZmY4MTN4WVU1UHoyN1NoNUxZdXVkdzFzRVFpZWNfVzl3TW9iRTJNU2xaS3J1SWQ1OGpxV3NwdFhHOU1iSUtYWG9tYlZVX2lVR21yWFZIS1NkQWxOODVlS2dNalRwR01JbUZ0NmhKNVpLMkJHYTZmb1IyVkZaSHZGUEdOZzNlcDQ?oc=5"
     },
     {
       "section": "us_news",
-      "headline": "Judge Rules Government Illegally Targeted ABC Network In Speech Clash",
-      "summary": "A federal judge ruled that Donald Trump and the FCC acted unlawfully by attempting to penalize ABC News in violation of free speech protections.",
-      "view": "The federal court ruling against executive branch coercion of ABC sets a critical legal boundary protecting broadcast media from regulatory weaponization. Commercial broadcast networks win explicit legal insulation against license revocation threats, while executive regulatory agencies lose informal leverage to censor critical editorial coverage. The decision reinforces judicial resistance against political interference in commercial media operations.",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWWJpVHlqeHV3UkNCM19NSXdjczdRNGcycDBObW1rdUljeVU2ajVFNzZ0ck5vUjdKaFJXaTdUUE5zVDB1VVBwSWVpSmt2TmhIR2ZadGtMdkpCVGNCblVvcVpVTVBadWdhNmhNeXdRRjhkdHIwQXJJbTVNQmJQVF82RnhDMG85WHhJN1JLLVB0Nl95VENTakR3UXVsXzZWUkN2QlhDbmNycHFZa1VMb1NhbG5ram9SelRLUVExZDNYUVVEMzNjSzROOE9vbG1sOHFWTUgyMWZZV0M?oc=5"
+      "headline": "White House Threatens Fresh Tariffs to Squeeze Beijing",
+      "summary": "President Trump rolled out plans for an expanded round of import tariffs aimed at cutting off remaining loopholes for Chinese manufactured goods. The administration argued the trade penalties are necessary to bring critical production lines back to American soil.",
+      "view": "Domestic manufacturers facing low-cost import competition win short-term pricing power, but retailers and consumer brands will be forced to either absorb narrower margins or raise shelf prices. Higher duties threaten to reignite inflation on everyday goods just as households feel squeezed by high interest rates. Watch for retaliatory trade measures from Beijing targeting American agricultural exports.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1odENQTk1RR0JMbTlRYWhYcnh6cGdvcktJUGVNZURvbUFtTHZ0end3RjhpclNNNEF0ZnZFTDVHTy1Vcy1jMF90U240MEZFUURvdkJDN3I2aE55R193X1VjVW9PaU5sVWZvU1Y4dmt5M3ZmeE1YcVE?oc=5"
     },
     {
       "section": "us_news",
-      "headline": "Court Decision Upholds New York City Rent Stabilization Rules",
-      "summary": "A New York judge upheld local rent freeze measures, defeating landlord group challenges against municipal housing affordability laws.",
-      "view": "The court decision upholding NYC rent stabilization rules provides immediate cost relief to low-income tenants but guarantees capital flight from local multi-family real estate development. Residential landlords and property management funds lose net operating income, which will accelerate deferred maintenance and reduce municipal property tax revenue over time. Institutional real estate capital will shift out of NYC rent-regulated assets toward non-controlled sunbelt markets.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSk1tcnphSHJoRUhqSGdRdkR4bEl1c2MwTktmMkJ3dlFMWVpXRzh5d3BCdFkxd2RsbnpQaXpJLVVXWWJNV1N1VXdqWm9ZSEZKTzlnYjNoTjNlN05Nc0NpblV3RjE3blVnYlZFS010SUdrNXhQLTUySU1YMWluNUF3M0tVeWxCSGdKTXlHbWFGSndIM2RGTzlwZW5nU0VkVkFScUV1TjZTZk93c016WXc?oc=5"
+      "headline": "US Moves to Block Chinese Cloud Customers from Advanced AI Chips",
+      "summary": "American chip buyers are being instructed to bar Chinese entities from renting access to advanced graphical processors in overseas data centers. The restriction aims to close a major workaround that allowed Chinese developers to train AI models on restricted US hardware remotely.",
+      "view": "Independent cloud providers lose lucrative overseas hosting contracts, while the US national security apparatus successfully tightens its blockade on Chinese advanced computing. The move raises compliance costs for data centers globally and pushes Chinese tech giants to double down on homegrown silicon alternatives. Watch how quickly domestic Chinese chipmakers like Huawei step in to fill the compute gap.",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ydHdQWUpYRU16SjgyRXBibzZ6UFN4RThEMUV3VkRJV0NCNmk1Nm1wTFlvTnpsLS1VVHdmczlIQjZRN0RKZnlBdm5oSmFUY0lCaWV5dTY2bDBiRHcyV0lfMjk3ZS1TQW1oM3F0TTJFRdIBdEFVX3lxTE1hb0dnX1V6U3RzcVduQUhNcHBONFFMMVVaaThOcEc5dy1EOVMwUXBVM1lSMWljNm12aTJXT0FvMWdkaUdyTEZyZGY0dHJ0R3kxQllKQ2RaMl9MYmxIY2pHcTh6TWVDRkhCSkVqUVUtbVFOam81?oc=5"
     },
     {
       "section": "us_news",
-      "headline": "Trump Attacks Revised Economic Data Demanding Official Audit",
-      "summary": "Donald Trump publicly challenged newly adjusted economic metrics, calling official gross domestic product numbers fake and demanding an audit.",
-      "view": "Donald Trump's public challenge to official GDP data erodes foreign and domestic confidence in US macroeconomic statistical integrity. Statistical agencies and institutional debt markets lose credibility when basic economic indicators become hyper-partisan flashpoints, raising the sovereign risk premium on US government debt. Institutional investors will increasingly turn to independent, high-frequency private data sources over official government releases.",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR1Vua2tUbUlVUWhkOUNkaThiaG5UcnRiTHoyQWluZ1JOUkZLMG5Mdl8zdk5GMDBXSk9mb0YtZmJnOGRRTE1WbWpvQXdkTzBBeWtJOTI4dkZpUzRVVWtENTdsek5pX0Y5emNGOEZoa2JoamV4T0VXWHJYS1ZsRzJfUjlYZHc5aWVTQmZqN0pHT2YxdkdsN2o4ZzRYUTdyRVlsaGZfbG9jckRYTHFzNmNZ?oc=5"
+      "headline": "Pentagon Explored Using Defense Production Act to Protect Nvidia Chief",
+      "summary": "Reports revealed senior defense officials discussed invoking wartime authorities, including the Defense Production Act, to intervene in Nvidia's recent leadership shakeup. Officials argued that stable management at the semiconductor giant is vital to military readiness and strategic defense projects.",
+      "view": "Nvidia's leadership gains an implicit state-backed shield, but the company's global commercial standing suffers as foreign clients realize it operates under the shadow of the Pentagon. This sets an aggressive precedent where Washington views commercial chip supply chains as literal military assets. Watch whether allied nations begin diversifying away from US hardware suppliers to avoid getting caught in American emergency declarations.",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcDJ0UmNqUTc2UWNoaVh0STB6ZHRZTnV6WGVPX2Q0VDhmRWU4Wk5hV2lZMTZOZUV4ZEwzOVBnVmVtbnB0eXlpekIyMVF5cG91WmVxLTNIeWx1MzhLN3czOHFLbFRuVTdYRUIwdk4zMTlfcEtLb2J3Y1lQM0l1OTREU2p5UzBxaXI5aExoOGlyUVctZlJZcllacVRzTU9zVXlNaVVMNThZRE85NWdlaEo2WUJKd3FtTVBRZ00xU0l0V2tMLTRiLUE?oc=5"
     },
     {
       "section": "indonesia",
-      "headline": "President Prabowo Tightens Control As Indonesia Struggles With Economic Slump",
-      "summary": "Indonesian President Prabowo Subianto is moving to centralize political power as domestic economic growth faces persistent structural headwinds.",
-      "view": "President Prabowo\u2019s political centralization and move toward aggressive state capitalism are triggering a sharp drawdown in foreign institutional investor confidence. Foreign asset managers are reducing allocations to Indonesian equities and bonds due to fears of fiscal policy slippage and opaque macroeconomic reporting. State-owned enterprises gain privileged project access at the direct expense of private market competition and foreign direct investment.",
+      "headline": "President Prabowo Consolidates Control Amid Mounting Economic Strains",
+      "summary": "Indonesian President Prabowo Subianto is centralizing political power as the country grapples with slowing growth and fiscal stress. Critics warn the administration's authoritarian tilt is aimed at suppressing public dissent over economic pain.",
+      "view": "Prabowo's inner circle gains tighter control over national resources, but foreign direct investors face rising political and regulatory uncertainty. By prioritizing political stability over structural market reforms, Jakarta risks deterring foreign capital when it needs external financing the most. Watch whether foreign portfolio inflows into Indonesian sovereign bonds continue to slow over the coming months.",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd3B2R1ZoY1BRS1RIUVNNUERhX3JLNFJlNmx3em16dTdQVlNPRjdPSmM2OXVpNTFLZmM2NWpESUhzNWRHOWhhMHVJRzI5VDR0bVNyM1N2elc0aVU2T040UFl1N3lYZzJpMmdfM1IweXZQNU9RdFlrVVZiWWdTWm50cUNpWERDSEFzNGI3bWJoTQ?oc=5"
     },
     {
       "section": "indonesia",
-      "headline": "Prabowo Selects Close Cabinet Allies For Top Vice Presidential Roles",
-      "summary": "President Prabowo Subianto officially nominated trusted cabinet insiders to step into critical leadership posts, consolidating his political coalition.",
-      "view": "Prabowo\u2019s appointment of loyal political allies to key vice-presidential leadership roles consolidates short-term coalition control at the cost of technocratic policy administration. Ruling coalition insiders gain unbridled control over strategic state investments, while independent regulatory watchdogs lose oversight capacity. This governance structure increases regulatory unpredictability and corruption risk for multinational corporations operating in Indonesia.",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdk1weUNxQl9SQllMSEVWSm1xVnlQeFo3RmNaRW50Rlh0ODNWbDZiSS1zUUM0ZVlqb0lFWl8xd3lyUm1pSHk3bnlkcVNEV21WeWZZM2VoOWR2OGlkcmZqQ2ZSZHJua3ZJRUZVbF9yQ3cyMnRLdEprWGNYeVd1UV9rMWVSbEZZOFZmZl9DeEVhQmYySDRlMFdXOHBreEFScTIwNEQyQ0t1WkI1N0k?oc=5"
-    },
-    {
-      "section": "indonesia",
-      "headline": "Indonesia Charges Senior Police Officers In Alleged Treason Plot",
-      "summary": "Indonesian prosecutors charged high-ranking former police officials with treason, accusing them of conspiring to destabilize the current administration.",
-      "view": "Treason charges against senior police officials, including former chief Listyo Sigit Prabowo, represent a deep purge of competing security factions under the new administration. President Prabowo consolidates absolute authority over internal security forces, while institutional stability and legal transparency perceptions suffer major damage. The military faction within government wins clear political supremacy over the civilian law enforcement apparatus.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbUxrXzFvSmZQNExQN3lRU29vU0hxcVhhbXhJamlxOURmcjFnbDUxQ1QydHlNV0dmbHN6TndfQ1NqRGFLd1NncmF1OFU3aWtqS1BXOEl4a2xyNjBTSGVQMUdQLWxxalJSV0JweHZKdjJoRTZ6YXk0dUZHRnBMdjl4cGRFakMzTTd3NmE1eC1tanVmaFlvUWQ4QjVOdlBjS054TkpxZHVDYTdPMkY0dk9mTUdBOWc?oc=5"
-    },
-    {
-      "section": "indonesia",
-      "headline": "EU And Indonesia Finalize Landmark Free Trade Deal On Cars",
-      "summary": "European and Indonesian negotiators reached a broad free trade agreement aimed at cutting tariffs on automobiles and heavy manufacturing goods.",
-      "view": "The EU-Indonesia free trade deal on automobiles gives European manufacturers a major entry point into Southeast Asia\u2019s largest auto market. European auto exporters win by cutting steep import tariffs, directly challenging established Japanese and emerging Chinese dominance in local vehicle sales. Indonesia sacrifices short-term customs duties in exchange for long-term commitments to domestic industrial investment.",
+      "headline": "EU and Indonesia Finalize Free Trade Agreement to Slash Car Duties",
+      "summary": "The European Union and Indonesia struck a broad trade pact that significantly reduces tariffs on automotive shipments and industrial goods. The deal opens up greater access for European carmakers while clearing a path for Indonesian battery inputs to enter Europe.",
+      "view": "European automakers win by gaining cheaper entry into Southeast Asia's biggest automotive market, while Indonesian raw-material processors secure guaranteed European demand for mineral exports. The agreement bypasses previously bitter disputes over environmental standards and palm oil regulations. Watch for the formal ratification timeline in the European Parliament to see if environmental lobbies attempt to block it.",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWWFUYXctMVNzcGN2TGIxUXh1Q0w1VmZ5RUhROHpYYXZJTmFxSVJNWVFUeFJVbV9oUV9PTnFZeTh2MU5kV3h3MUZsYmRfVE9BdXNtTFkybWdneVNQcmVudFc0ejROSmpEd0lfN3NQSnp1RGk0bTNIMmxXOEVYYWhCWEd0czBQWGxyZkhCZ2FjbTBIci1LTHIxNUxwTFNYUWVj?oc=5"
     },
     {
+      "section": "indonesia",
+      "headline": "Jakarta Charges High-Ranking Police Officials in Alleged Coup Conspiracy",
+      "summary": "Indonesian authorities formally charged six current and former senior police officials with treason over an alleged plot to undermine the Prabowo government. The arrests follow widespread street protests and highlight fierce internal power struggles within the nation's security apparatus.",
+      "view": "Prabowo successfully purges potential rivals inside the powerful national police force, consolidating his authority over internal intelligence and enforcement. However, airing internal security rifts publicly rattles business sentiment and raises the perceived risk profile of Southeast Asia's largest economy. Watch for potential retaliatory leaks or unrest from rival security factions in Jakarta.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSlBiU3JUWUMwaWZ4TDg4MFdKMlR0VXJWWUlRUHhvUUR3SC1wNmlpY1Q3NjhBWGhMbVRvWm0zYkUxMXZucUpqVHNNUGRUZTVCd3lrZWE3djVrc2JMMnJuclhaTWJmMjhzNTFfMUFJUlhWc2JBeDBJNjdnRGJTMVFVZ1VrcW1IQ1A5VEpjTDJvTkFpNVphaXlyWnJxX0FRcEExd3lmTXROa0FHQTgtYmVfYnRR0gG3AUFVX3lxTFAxbGpaSUhDU0ctT1hXYWIxNUtUczFvZDIyeE43ZnlIT2hzb0ZHdW5IU0dVVVZXQU9lZWljcFl1R3NOUEU3X3VDT1VBa3FWYzA4SGdqTC1VZUF4YmlrOTZCNXhGNXJlM3dRMHhpYzF0dkw3THBIWC1uOWtiQnFKa2s5MVRNYTRST3VhS3BSZC1Pd0lFS2tjUDA3NjA2c2xXTW43REFKR0drcDZVTm1JNTlFa0JVS1ppWQ?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Fatal Mine Collapse Exposes Perils of Unregulated Gold Rush",
+      "summary": "A landslide at an illegal gold mining operation killed at least 13 miners in Indonesia, reigniting public debate over illicit resource extraction. Dangerous informal operations have surged across remote provinces as rural workers seek alternative livelihoods.",
+      "view": "Local workers and regional environments bear the deadly costs of unsafe operations, while unlicensed mineral traders and corrupt local middlemen profit from unregulated sales. The disaster puts pressure on regional authorities to shut down illegal pits, which could temporarily curb local gold output and inflame rural unemployment. Watch whether the central government deploys military units to forcibly clear unlicensed mining operations.",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaQkl0UXBneHNlcGtoQlJLdjM4T3VYQUxxbFJXWERXeWJHZHgzNWc2VXkzQzFwb3JxQ1JvN0pjVlB0MUlJNEtTc2xMX2dzd2J5SVlrOHhPemlGXzA?oc=5"
+    },
+    {
       "section": "crypto_fx",
-      "headline": "Kraken Glitch Triggers Deep Flash Crash In Major Crypto Assets",
-      "summary": "Crypto prices on the Kraken exchange tumbled over 70 percent briefly before recovering, with the company confirming it will honor trades placed at the bottom.",
-      "view": "Kraken\u2019s commitment to honor bottom-tick trades following a severe execution glitch highlights operational liquidity risks inherent to centralized exchange order matching. High-frequency arbitrage desks with active bids win massive windfalls, while retail traders hit by cascading automated stop-loss liquidations face unrecoverable capital losses. Institutional market makers will increasingly demand multi-venue smart order routing to protect against single-exchange operational failures.",
+      "headline": "Bitcoin Price Drop Crushes Profit Margins for Crypto Miners",
+      "summary": "A sustained slide in Bitcoin's spot price has severely compressed profit margins across the mining industry, pushing smaller operators into the red. High operational electricity rates combined with depressed coin prices have left balance sheets badly strained.",
+      "view": "Well-capitalized mining giants with cheap, locked-in power contracts win by scooping up distressed hardware from failing competitors at steep discounts. Marginal operators are being forced to liquidate their Bitcoin reserves to stay solvent, creating additional downward price pressure across crypto markets. Watch the network's mining difficulty metrics to see how much hashing hardware is being taken offline.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNmk3azVqYnFjM2hqMV95SkptWkNCWGpIaTQ1dmpvM3lXNFlxV3BYZ2VNdHEtanVEVmhvemZjbXJadllhd0txR0RPdk9pQmdNbzBJcWhXekJ0dDRHTXZ4c1c5LUE1U00welAxNU5GbDJSQ1RLYUFoaTVEYllUSU5vc29kTzZ1dldlWHhIVzVzamEwRk5lMXpYbjNpdHBEWWpDdVF4NDZpRmk2RC1LOUZVNA?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Kraken Glitch Triggers 70% Flash Crash in Major Tokens",
+      "summary": "A technical glitch on crypto exchange Kraken caused sudden flash crashes of over 70% in Bitcoin and XRP trading pairs before order books stabilized. The platform announced it would honor trades executed during the plunge, allowing opportunistic buyers to keep discounted coins.",
+      "view": "Lucky retail and automated arbitrage accounts made instant fortunes, while Kraken takes a painful direct hit to its balance sheet and reputation. The incident highlights how thin liquidity and fragile exchange infrastructure remain during sudden spikes in trading volume. Watch for regulatory queries from financial watchdogs examining whether exchange matching engines have adequate risk controls.",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONFlvOWxMWFAzZVZJVGNYazEyUlVWdzJ3V21hd1lpdnkxSXB5YkN1NXViSlJSNWwyM1BhWUg2bjc0WGRPUHhJWUw2dHh0XzJER1U4amtTS0RyVGNkdmJ6am5NWlp0QlRWdldtSGUzdWVVVDIxMDRXdnlTSmZlaTd1VW9wOFBVaFRCVXNqa0hOSXd0S2pyVUlaZGtUR3FjQ2xRd094VFF1QjlCRjE1NDhwVllydGpUd0FtWmg3ZEpLcFdpNHNj?oc=5"
     },
     {
       "section": "crypto_fx",
-      "headline": "Binance Security Incident Triggers Sharp Sell-Off Across Bitcoin Markets",
-      "summary": "Reports of a security exploit targeting Binance caused immediate market volatility, sending Bitcoin and major digital tokens lower.",
-      "view": "The massive security exploit targeting Binance triggers a broad liquidity shock across centralized digital asset markets. Short sellers and decentralized non-custodial exchanges gain market share as market participants question centralized custody risk, while retail token holders absorb sharp downside repricing. Bitcoin's inability to hold major technical levels under exchange stress demonstrates its lingering dependence on centralized venue stability.",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRHEtek1QR0VDQnZJV2NES0hQdDlrZlF6ZlI2WDhUS3pRd3lRWXA5T1g0NmVxOG9rN3BFUXhhYjJxeXBHV1NRRGRUTS0wVG1xSUpZVTdFOVByT0RDaHp4U3JRYm9YTzV1X1Jtc0JVV1dESjJ6b0ZRaEhpaktqOWNzTA?oc=5"
+      "headline": "Resilient Dollar and Elevated Interest Rates Stifle Crypto Market",
+      "summary": "Bitcoin continues to struggle under pressure as persistently high US Treasury yields and a strong dollar discourage speculative investments. Institutional capital has grown cautious, choosing safe, yield-bearing cash instruments over digital assets.",
+      "view": "Traditional money market funds and cash holders win as risk-free yields remain attractive, while decentralized finance protocols and token issuers suffer from prolonged liquidity outflows. Without imminent central bank rate cuts to boost global liquidity, crypto lacks the macro fuel required for a sustained breakout. Watch institutional ETF net-inflow numbers to see if retail demand can offset cautious institutional selling.",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONG1nSkQwdFJjQ1JrbDFLazVJNTg4YXJ2SklHdUMwbVNqbkNjVWpqZk1VWVBkeGtkbTkwU2dyemdEUjhWTjVDN18yOGN2RlZGUFpaUEtyc29tdThNQmN3QkhOc1kydGhFWFVfOThiRUxGZ2FpVklGUC1HOG1NZEVqX2I5Znp0aDAxbUsxQVZBS2pzX3ozMGphMTh0blZYYVNPazZ2TTV2ZUJXVUNTeUdULVQ0MmstcEgyYkd4Q2JMaE95elYzdTFVZTBNUGtGVjNGOXZ1RQ?oc=5"
     },
     {
       "section": "crypto_fx",
-      "headline": "Bitcoin Drops Below Key Level Triggering Wave Of Liquidations",
-      "summary": "Bitcoin fell below the $70,000 threshold, triggering over one billion dollars in forced liquidations across major crypto derivative exchanges.",
-      "view": "Bitcoin\u2019s drop below $70,000 confirms that systemic leverage among derivative traders was dangerously overextended, forcing over $1 billion in automated liquidations. Leveraged long positions and crypto-focused hedge funds absorb major capital losses as forced selling accelerates downside momentum. The liquidation purge clears speculative excess, transferring pricing power back to institutional spot buyers waiting for discounted entries.",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbmN2SHc5R3NaLW95Rkw4bzdvbzA5NldfS0ZDTFlES0hYZjAwVlBXS2t1bk5ocDJfZjlkS0NmTWFqUjdVWFVmYThReUxyWmFueEU5RXQ4NXZoRGxXS3N1UVc4enJueVdwdlZYc2xSQmtsVnNaZTJWWExFU0s5c1N1YjhJMkpIOGtxSmlQbEpveU44OWxSWUtJVC11R09KQlB4TktFd296RE5RODdicENOemhtZU5YLWxmdWhxc0RZZmt3Y24tN1ZES05vSFM5elVsVGYyNjRkUC00cTg?oc=5"
-    },
-    {
-      "section": "crypto_fx",
-      "headline": "Japanese Yen Strength Gains Strong Negative Link To Bitcoin Prices",
-      "summary": "Trading data shows a strong inverse relationship between the Japanese yen and Bitcoin, meaning a rising yen routinely pushes crypto prices down.",
-      "view": "The emerging inverse correlation between the Japanese Yen and Bitcoin signals that the global Yen carry trade unwind is directly draining speculative liquidity from crypto markets. FX carry traders unwinding yield-seeking positions lose capital as a strengthening Yen forces cross-asset de-risking, hitting high-beta digital assets hardest. Sustained Bank of Japan policy tightening will put a persistent ceiling on crypto valuations regardless of sector catalysts.",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9zZXV4Q1M2cDNtQjd3ZjlIUVRXN2gtdEQ1S19IMFZoSFgtUUZPNUVvSEM2c2ZxSjNUQ3FTX2RYWUdvQTQ4SmVIcjVMUWYySlBIRkpKU2Z1NTI0cHh5RW5nakhMM19XTUV0NnhYU1pYaEJGOV9hbmhKNE9vUlA1SFhicTBwREdib0J1NEpjMFAtOVRESDd4STRJMGU5MEU4T2c3YnBveGlCREdQU0E5ZEw3dGZQQXVta3R6MmR1U09XREEwaXhF?oc=5"
+      "headline": "Bolivian Merchants Turn to Crypto to Bypass Severe Dollar Shortages",
+      "summary": "Small businesses across Bolivia are adopting stablecoins and Bitcoin to keep international commerce moving as domestic banks run out of US dollar reserves. The shift comes after the country's central bank lifted restrictions on digital asset transactions.",
+      "view": "Local import-export merchants and stablecoin issuers win by circumventing frozen domestic banking channels, while Bolivia's central bank loses control over local capital flows. Crypto is proving its practical utility as an alternative settlement currency in distressed emerging economies facing currency devaluations. Watch whether neighboring South American countries facing foreign exchange squeezes follow Bolivia's lead in relaxing crypto rules.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcHNKT1ZtUHVhSDhkc2NuZDYwU2RjQXRfZ3FWeDFTRHRGdmI5OWdOZl9LTy01b0YtOGhDWU03WTFvb2lsQ2t0azhneGRqOURJU291ZUJ5UHZCNVJ2Vzdfc1hweUh4RE5HeU5lUm1ybER5elA3MWhUd2ZYVE9Ba3p5WEhIQ09DQ3NmMkFGS21BbTNsanBldDFJU1lrTTdTc0h6MTlHa2M2NVhrYmw4RzFYandMTnZjZjhZenVSVXVKTmJIQQ?oc=5"
     }
   ]
 }
