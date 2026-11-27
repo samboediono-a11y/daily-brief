@@ -8,7 +8,7 @@
       "prediction": "Expect at least three major AI labs to sign a unified voluntary safety framework before Q3 2025.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "No new headlines were found to confirm or dispute whether major AI labs have agreed to a unified voluntary safety framework."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "Nvidia will formally name a designated successor or co-CEO structure during its next annual shareholder meeting.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "The available fresh headline concerns Toyota rather than Nvidia, providing no information regarding Nvidia's executive succession plans."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "UK parliament will delay full enforcement of age-verification mandates until at least late 2026 pending privacy audits.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "No new reporting was found regarding UK parliamentary action or delays concerning youth age-verification mandates."
     },
     {
       "section": "tech",
@@ -34,8 +34,8 @@
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQQ2s5eC1xX1E2SzVoNVdURXVzSkRDXzVRZG9oWkdLS3JURXlxZllWQS1DNGFIckEtMTlRQXBEV2h6UC1oZTVEV2dlSUl0MkZSTWRrdTlrZ2JKeHA3eDl0NmIwZldNVXRsVm1uZUlnVTlScXdxM2NuVHhfY3pBczloMzhicTAyNi1HSUttVVRKV0JzVlM1b3Ziem05ejYtbGE2aWhQdEpWN085Tkp3QnBhQzgyTTZGeXl0RlljMkhUU1FudGFmM3JYZzcwek40ZC1fbkliVmlRbjBtVEo2Rzh3RUlGU2EwanVpZnV0T2NNYkY2MGlsMWhjVlZIOGo?oc=5",
       "prediction": "Major hyperscalers will announce another round of targeted operational headcount cuts exceeding 15,000 workers combined before year-end.",
       "grounded": false,
-      "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "status": "held_up",
+      "note": "Fresh reporting of 20,000 job cuts across Meta and Microsoft supports the prediction of hyperscaler cuts exceeding 15,000 workers."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "The Dow Jones Industrial Average will outperform the Nasdaq Composite by at least 300 basis points over the next calendar quarter.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "The provided headlines show mixed market commentary and intraday swings, lacking conclusive data on whether the Dow outperformed the Nasdaq by 300 basis points over a full calendar quarter."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "The Cboe Volatility Index (VIX) will spike above 25 within the next 45 days as equity markets adjust to bond yield signals.",
       "grounded": false,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "The fresh headline lists only a generic VIX chart link without providing specific index levels to verify a spike above 25."
     },
     {
       "section": "markets",
