@@ -8,7 +8,7 @@
       "prediction": "Expect Nvidia's board to issue a formal governance independence statement prior to their next quarterly earnings call.",
       "grounded": true,
       "status": "too_early",
-      "note": "While Nvidia announced governance fixes and a CEO transition, there is no specific confirmation yet of a formal board governance independence statement."
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "Expect fewer than two European quantum startups to raise Series B rounds above $50M without direct EU fund participation over the next 12 months.",
       "grounded": false,
       "status": "too_early",
-      "note": "The fresh venture capital headlines do not cover European quantum Series B funding rounds across the 12-month horizon."
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "Expect digital ad yield per impression across secondary social platforms to decline by at least 4-6% in Q1 earnings reports.",
       "grounded": true,
       "status": "too_early",
-      "note": "The global digital overview headline does not provide Q1 earnings data on ad yield per impression across secondary social platforms."
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Expect the US Commerce Department to announce additional secondary sanctions targeting Huawei's third-party chip design proxies within 90 days.",
       "grounded": true,
       "status": "too_early",
-      "note": "No new headlines were found to verify whether the Commerce Department announced secondary sanctions targeting Huawei's proxies."
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "Watch for the S&P 500 to retest its intraday low within the next 10 trading sessions as systematic buying flows normalize.",
       "grounded": false,
       "status": "too_early",
-      "note": "No new headlines were found to confirm whether the S&P 500 retested its intraday low within the 10-session window."
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "At least two S&P 500 industrial firms will cite increased pension obligation expenses in their upcoming annual 10-K filings.",
       "grounded": false,
       "status": "too_early",
-      "note": "None of the fresh financial headlines reference upcoming annual 10-K filings or pension obligation expenses for industrial firms."
+      "note": "Not enough new information yet to say."
     },
     {
       "section": "markets",
