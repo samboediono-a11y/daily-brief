@@ -8,7 +8,7 @@
       "prediction": "Expect Nvidia's board to issue a formal governance independence statement prior to their next quarterly earnings call.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "While fresh headlines report Nvidia governance fixes, a probe, and a CEO transition, they do not specifically confirm or disprove a formal governance independence statement prior to earnings."
     },
     {
       "section": "tech",
@@ -17,7 +17,7 @@
       "prediction": "Expect fewer than two European quantum startups to raise Series B rounds above $50M without direct EU fund participation over the next 12 months.",
       "grounded": false,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "The fresh headlines contain general market updates and tech week guides, lacking information on European quantum startup funding rounds."
     },
     {
       "section": "tech",
@@ -26,7 +26,7 @@
       "prediction": "Expect digital ad yield per impression across secondary social platforms to decline by at least 4-6% in Q1 earnings reports.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "The fresh headline mentions a global digital overview report but does not provide specific Q1 earnings data on secondary social platform ad yields per impression."
     },
     {
       "section": "tech",
@@ -35,7 +35,7 @@
       "prediction": "Expect the US Commerce Department to announce additional secondary sanctions targeting Huawei's third-party chip design proxies within 90 days.",
       "grounded": true,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "No fresh headlines were found to determine whether the US Commerce Department announced sanctions on Huawei's chip design proxies."
     },
     {
       "section": "markets",
@@ -44,7 +44,7 @@
       "prediction": "Watch for the S&P 500 to retest its intraday low within the next 10 trading sessions as systematic buying flows normalize.",
       "grounded": false,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "No fresh headlines were found to verify if the S&P 500 retested its intraday low within the 10 trading sessions."
     },
     {
       "section": "markets",
@@ -53,7 +53,7 @@
       "prediction": "At least two S&P 500 industrial firms will cite increased pension obligation expenses in their upcoming annual 10-K filings.",
       "grounded": false,
       "status": "too_early",
-      "note": "Not enough new information yet to say."
+      "note": "The fresh headlines reference general annual reports and market outlooks but do not detail pension obligation expense disclosures in 10-K filings from S&P 500 industrial firms."
     },
     {
       "section": "markets",
