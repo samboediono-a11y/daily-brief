@@ -1,0 +1,287 @@
+{
+  "date": "2026-11-27",
+  "predictions": [
+    {
+      "section": "tech",
+      "headline": "SAP Prepares Massive Layoffs to Fund Its Artificial Intelligence Pivot",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRG9lSTVYbmlzVXAwc2ltVUtLUm5PM3dwYnA0OTJSUzRUQ0oxMEdxTmdYbm5jNm9BdmFKZmNUeXFIM0wtRW4wMTBlQnFFRmZiZ0IxVXhjc19TMFAtYkRVbTd6czhrcjlDcWo5TkVoZHoySTN1c1NkbGt0bGdjbDNVeA?oc=5",
+      "prediction": "SAP will expand its AI surcharge tier across all S/4HANA Cloud accounts by Q2 2025.",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "Tech Insider Warns Safety Guardrails Are Vanishing in AI Race",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWlVHTXZiY2xqeHEwTFk1WU1QbFZHamVuZnFSUThEYk9qZmJiNWYybmd6YWs1WElmbWZFbTFkSVVvcl9QUHFrSW5oQ0hMc2ZJOTFieGx4RzdLdUlzM183US1GdnFxS3dCd3AxX1JocUFDM0tKSUZLZlQ3bElPTXFBS1dWTWlzLUc5d2czZER1ZE1mRzBaMVJ4WDRLbDRYY0ZtUzhzZkkzSk9KdnV1?oc=5",
+      "prediction": "At least one major AI developer will face a formal FTC inquiry into safety misrepresentations before the end of Q1 2025.",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "Trump Tech Entanglements Spark Fresh Backlash Over Silicon Valley Influence",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORFNZeWdTWVBjTXM0c01KWWhxVXhOb1J6V21RTWEtaGU2cTdEdlVmRHkzYjlpZC1mRDZ0QWtRTkNxWGhQeTZxWUxEUkV1TjZFaXZ3a2Z1azhMVUxFUVFpOVhwTVJMeGNGUktrWU9tVTNZMEFoeHpFbWMtblI3Sm9VaUU4TXhQcEpvcFhGQzh6a3pyYXlvUnBRQVFxaXJWME5CXzZiTU9NY9IBrAFBVV95cUxOeFFyUi1KUGpaRUN0MWRHbkkxUTNCSGoxQ0RPQnF6Ymx1WERKNEs3czRqbS1OVnJSY3FZTDFGX094QUtrX0ZXc1lwZU54QnBNN25ObnJwdmhteEY0ZFZEZ3g4Q3NTMmVGQzVKN1lVRXRLNDMxQnlRM3JyRC1vRjNxZGRWdnl2YVJOaWxiZ3dXMlQzSVFMaTVqMXMxLU1KQUJvT2MyRDF6M0FGT0t5?oc=5",
+      "prediction": "Expect major US chipmakers to increase domestic lobbying expenditure by over 25% in their next quarterly filing.",
+      "grounded": false
+    },
+    {
+      "section": "tech",
+      "headline": "China Speeds Up Domestic Tech Ecosystem to Sidestep American Restrictions",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRGlTb0hsMmhiNElfb29tYWNQbS14S1R3TEVEMU02MkRsc3VIT00ydVF5ZlN2N3Z2VEZ6MmRwcm90ZVpMRDV1UDBWb0QwVFhHeFJGaV9WMDRWWWZCWWU5LThDLWhmdDZ6NzZ1dDlwWTktZXk2eElJczBlOUpBMVRCQ1BwbEVPTFN4N0N2VDZIOUdNYm9TMFdSY1JZM1U?oc=5",
+      "prediction": "Huawei and domestic foundry partners will demonstrate a fully indigenous 5nm-class server cluster by Q3 2025.",
+      "grounded": true
+    },
+    {
+      "section": "markets",
+      "headline": "Stocks Rebound to End Choppy Holiday Week as Tech Recovers",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUjdiRzk3dDlWMEFzNF9vYkRKWDZCZjhSU0FsRFZKZVNBT09SbnBBVFhxUGZCM180elZHMVFhbW80eVdqZi1WRG5XbzJXZTUySzVGOXNlVUJfZ2c3NmEydmFhZUJXZUM1NFMzWjIxbDF4OHhPLXVKMkRza0VMLVpoUWF1WDNkdFdwTmw4eU15M01laEJrQy1ra1FtU2piZ096dmpmSGlhdGs3WTRveTZ5aklMUkh1eW5PeHBZUlF0ODU1WE1xN3JnSVJB?oc=5",
+      "prediction": "The S&P 500 tech sector index will retest its recent swing lows before the mid-December Fed meeting.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "White House Jawboning on Nvidia Introduces Fresh Market Volatility",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUjltZWJOXzNQRVU0WXZNN3VaLUN5OW9YVk9odVhDSlU2eVM5Q0QzUzltSG1rMVpyTDJrdlZCQVgxaW9tSlU2YVZhdUhKbExLeVg3NFRpZ1ItNTZ3ODQySkktdlY0WmFEd29BbHJJR0MwWllqMlVhUDhFdTJIU1ZsRmZ0MTE?oc=5",
+      "prediction": "Nvidia's implied volatility skew will remain elevated above historical averages through its next earnings release.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Chinese Chip Stocks Surge After Beijing Pledges Direct Market Intervention",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaUs2ZGhWWGZ4dmxhN1NMMUlJMTJsVXJXQ1RlT1g0NXdQanJVczJ5djBtaGtBajh4ekxnN0JKQjBjTzBHWDNmZXR3cVVnaGpnZW5Fb0R0dGJMa05oYm5oU3hFYkFTNWlMTFlNOHJVdU1CdUJnTVgtTWlaYmtuTUc5TjVtY9IBiAFBVV95cUxPQW92NkJ5MlkwUXJzdzBoYVY5Mzh3TFQ2VjFHN2txazJUc1gxVjVrSzlNWUQ5VVVtdVNwQzhsWjE5WFVVdHBITXpNbFdBY0ctSElyekNOLWNraW5odmxtZ3hCODJuZ1VVSUYwSHNwMmJya3FvU3NoakthQ0IzdTZoNGkyTWV3QktO?oc=5",
+      "prediction": "Mainland semiconductor indices will give back more than half of these single-day gains within twenty trading sessions.",
+      "grounded": false
+    },
+    {
+      "section": "markets",
+      "headline": "Equities Face Crucial Test as Labor Data and Rates Loom",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQWRTQ0tlUW54X0tjS2R6bWdzblVkUnZ5VnBCa2NjWkd5Q2xIWUh0MUFWVW4weVlRTTBpbDhFWTFsbmYwc2NqOERDdGxTZmpHTzdHRVk2b2o5U0RZYm1WMXZhaEJMRXFrQmxKaUViQXNNdE1XZ3RTT05VbmxqX3BYOXNONGFkMVFTU1VLVVRjTzdfUTloYnhJaVpsWS1YMV9FVGlmeUdYRmk0clkzM3FhQjZuUnRfYXdZRnVHdTE2Smo1V2M?oc=5",
+      "prediction": "The 10-year Treasury yield will breach 4.45% following the upcoming labor report.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "Supreme Court Faces Showdown Over Executive Power on Border Asylum",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeTBwVFYtVzRWWUgxSmFYZzBNMFBORndRMmJpTzVOT2ZRbFJua0RkeWJRQl9rajJFc0NJeUhwdUs0elVrOG90b1diVnJhM3lydzlXbndPdkZkSFVxTndLZkxVajZubGN3Ny1Xai1NVm5Uc2ZFdEsxZmVOTkozX29yNUVhTHQ4eVg4SGtaTFNwNWQwcms?oc=5",
+      "prediction": "The Supreme Court will grant an emergency stay favoring executive border restrictions within four weeks.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "Trump Threatens Fresh Tariffs on Beijing Despite Recent Diplomatic Overtures",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMXRrMjFFcHlmR0hqa0dhQ3UzLTlXZi1BdEphd1VMYVQ2Um1rMlp1bzVtNmFGcWNqdEZlZ3o0bTRLMEJoa3E5MTZRRkdITmhxQlpOM19QbnNhZ2RUZ1F1ZGdNSWdBVDk3SDRJQTc0ZHV4Z2ljU1ZRTUFUdm4zRmZiYmZoamtuYWt0cFRCWElNLVY2T2V1clVlVWdMLXltWThmZGtQZWJ2OElxd3BvTS1sSzl2Xy1ma2Zm0gG-AUFVX3lxTE05bWo1cEplMVQtNjlEaERCcXJpRU1YN3NocHEzWF9nVXUyMG1CNXhZbVR6Y215N1BQaXZ1dzZVWkRsc0lEV3p3ajZTUVRCVDdtNGR0TFVlU3NCOGFQdmhrX1FwOFdNY3RHaHAtb3hoTlcyLUt1eHRyenNZcVJDY053MDV1REFOZ1k5dDM3X0FtNWpkZ0daR2Q3QWZ2V054b2xQVnBfYVFNSDJ5ZUlHREdMLXZsazBTZXJCZ0FNV2c?oc=5",
+      "prediction": "U.S. containerized import volumes from China will spike by double digits over the next 45 days as firms rush to front-run tariffs.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "Saudi Intervention Halts Quiet American Campaign to Weaken OPEC",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcWFLWDFQMXNWNm02Q1FkX0VXSlc2bW1aSXpUYldfeXVnQ1FtX2RVSFY4YTNmMEtubzhWX0ZwUWJtOVBuX3RBNmxMWENBSFg4UmxQVkcxZHpxZ2E0RWdUcUpoVVhZeUdoX0RJVnNWenJQMEY2SDFfdDd2OTI4WHZaLU4tTG45Nm9SNEFjLUNpVkZuTHVGSVhvajRERU9yLWJMQzNpb1FYeXVCUWFyaUpJ?oc=5",
+      "prediction": "Brent crude futures will establish a firm price floor above $72 per barrel through Q1 2025.",
+      "grounded": false
+    },
+    {
+      "section": "us_news",
+      "headline": "Frugal Consumers Squeeze Retail Margins During Critical Black Friday Rush",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdV85UEt2bGozNGRyWUNlWmJwd25xQnlyVkI3V2pjVUxGTlhaZmNUeldzVUtpZTgxakUxZl9mQmlPeEpQemhfSjNDMDlMZnIwczNiM1VlZEZRUXJmVlEzNnJXcXdMQ0N2WlJ1V013X09BcklCb1FwNmVFRnA5UURTTUVR0gGHAUFVX3lxTE8xR1JkNjdzeHdhN1hWbnYtUXNSdVBsY3A0a3U2NUh1djBhM1VCdkZKaUdBMk1lU2NzS3dibXRKN2RzbXYtek5PcEpoQ2kzcU9Qazc5M0oxSUhxdVR1YVh2YVZIUksxN0lnRElaM3ktakZnc1BfZkZtS0VDSWt2MC1nd1VqZVYwMA?oc=5",
+      "prediction": "Average gross margins for mid-tier broadline retailers will decline by at least 150 basis points in Q4 reporting.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Civil Servant Relocation U-Turn Deals Blow to New Capital Project",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTDJpMkR1NWVfM3pzYXRZSWtWS0ZGY2dHVUt4LUVUSkp4ZHZtNUpKTmVhc1h1QXNSTVhNSWdsVTJjek1GOXJfQjNvSVZwZ1NCWVkzVVFwZ3BFbHBRcGxiNHJJT21hZXNwZ3ZlbjNhWXIzbVNMbE9pdkZoREk1d1ZNMnJTem1WUjJqX0hab3FnTjExUE5MUmk3dmkxTU1FTnNUVEtpcE9XczZLLVRQYUh1RXUxdnJ6ZEtKNHplWmpkTnRqQkJ6c2fSAcYBQVVfeXFMUGtyYkVQd1p4RmpKTFlBQXpHSHNyUndaY1ZtRHlhN0lLSmtMMkJBNDNQajQ4NFhNMXVnYnZoXzE4V3ZuLU1mdkN6MTdSSnltNG1DOUw2TkdrdXRKakFUXzVxTWl0NlpQS1p1TENUUnpyUlY1a2t5VTdYT2dRV1lXZ2FsUG5fNGw3SXJ0d3FqQ185MW9SVi1KYzVyQ3NDc1l3X01HYjhhVUdTWkdYcWRGYTVfVnhhdXhJb1BSSGJRdUxWbUw3eGd3?oc=5",
+      "prediction": "State-owned construction firms linked to Nusantara will report a sequential decline in new order books over the next two quarters.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Bank Indonesia Pledges Hawkish Posture Through 2027 to Defend Rupiah",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOam9KN0VGNkJzMUprYm9UYTZJaVh2UlNzM3l3eXFZNFktLUVIM1N1LWlOamNHb1hzX2E3Mmc3VEZCX285VVhYTjdpb2didHlnLVJBU2lBWnRiZjNxMDdUNWkxb1ZXZDR3T1VQY25KUk1PX09Ed2JMY2d2eVJGVWZnTnI2Z3BCdjR2TVowMldWZUFmMVNKLTAtc3dyeXZ1dG90M0lTeXhoTHNVSHVGZUh5QURGTnFSRDVCSFc2YW5Yc3U4X0VVS0V5S3UtQzliZw?oc=5",
+      "prediction": "The USD/IDR exchange rate will stay firmly defended below 16,000 through the end of Q1 2025.",
+      "grounded": false
+    },
+    {
+      "section": "indonesia",
+      "headline": "Jakarta Weighs Subsidized Fuel Price Hikes to Contain Budget Deficit",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWm11cG5xbXhJUVRzUjJTOVNsbFlza3FWQ2xzU3NlRVNqaFkyVnNpN0RSOFU0T0lvZ0JVRlRZamtrN1ppMUhWdUhuUEVjWFBxdDhuVXh5VE5ZWnlpbmNHaHBlLUpRRWRlUEFsVG1yQjBBSGRHQUxRdV9RV2cyb3o2TnFoLUNNRnBhTzVSTQ?oc=5",
+      "prediction": "Indonesia's headline CPI inflation will accelerate above 3.5% within two months of any formal fuel subsidy reduction.",
+      "grounded": true
+    },
+    {
+      "section": "indonesia",
+      "headline": "Sweeping Asset Forfeiture Law Sparks Investor Nervousness Over Property Rights",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM2NkNm1tRjQzOUpSdkktRFJLN1Vxd0hWajlOSkRPUjI5S3dUM0VuZlJEUTFpRkRHMEsyZHV5YnZBNVY4V193eW1BV0sweTBBWVBhVmhab1JtSzMwWmZZNmF5UzNpc252czhoTDJjT01jSHdfcXVjRjRmaGllcHdEUm9FZXBycTlrTTh2cTBDdnQxcms4Y0VxNGpWTGZkVFdHUThmWHdkRTZOMmNf?oc=5",
+      "prediction": "Indonesia's foreign direct investment (FDI) inflows will record a noticeable year-over-year deceleration within two quarters of enactment.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin Miner Profits Collapse as Network Hashrate Collides with Soft Prices",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNmk3azVqYnFjM2hqMV95SkptWkNCWGpIaTQ1dmpvM3lXNFlxV3BYZ2VNdHEtanVEVmhvemZjbXJadllhd0txR0RPdk9pQmdNbzBJcWhXekJ0dDRHTXZ4c1c5LUE1U00welAxNU5GbDJSQ1RLYUFoaTVEYllUSU5vc29kTzZ1dldlWHhIVzVzamEwRk5lMXpYbjNpdHBEWWpDdVF4NDZpRmk2RC1LOUZVNA?oc=5",
+      "prediction": "At least two NASDAQ-listed Bitcoin mining operators will announce restructuring or asset liquidation plans by Q1 2025.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Resilient Dollar and Sticky Yields Choke Speculative Crypto Appetite",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONG1nSkQwdFJjQ1JrbDFLazVJNTg4YXJ2SklHdUMwbVNqbkNjVWpqZk1VWVBkeGtkbTkwU2dyemdEUjhWTjVDN18yOGN2RlZGUFpaUEtyc29tdThNQmN3QkhOc1kydGhFWFVfOThiRUxGZ2FpVklGUC1HOG1NZEVqX2I5Znp0aDAxbUsxQVZBS2pzX3ozMGphMTh0blZYYVNPazZ2TTV2ZUJXVUNTeUdULVQ0MmstcEgyYkd4Q2JMaE95elYzdTFVZTBNUGtGVjNGOXZ1RQ?oc=5",
+      "prediction": "Net weekly institutional spot Bitcoin ETF inflows will drop below a $100 million average through December.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Hawkish Bank of Japan Looms as Sleeper Threat to Crypto Liquidity",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVE5JdDhJcndNSHJZUGUtd25Kd1pkTkNJUFRxak5FOXNLZWYtZHdXTlpCb0plaEZYa1BrcWVIR3dJTVJTNlZsRmgwN0lWQ2FpTDhTSjh6T3lEVTBic3JOWW1DbHdKc2FqcFNraUVlWC1pQWttQ3MxUUJ0bW5LdEs0TjdEbm9nSW1vUkdFWmdZRGNLdWRTYXowV3czUGIxdU9iQy16SjR4YzU?oc=5",
+      "prediction": "Bitcoin will experience a single-day drop of over 8% within 48 hours of any BOJ rate increase announcement.",
+      "grounded": false
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bolivian Merchants Adopt Crypto to Dodge Severe U.S. Dollar Shortages",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcHNKT1ZtUHVhSDhkc2NuZDYwU2RjQXRfZ3FWeDFTRHRGdmI5OWdOZl9LTy01b0YtOGhDWU03WTFvb2lsQ2t0azhneGRqOURJU291ZUJ5UHZCNVJ2Vzdfc1hweUh4RE5HeU5lUm1ybER5elA3MWhUd2ZYVE9Ba3p5WEhIQ09DQ3NmMkFGS21BbTNsanBldDFJU1lrTTdTc0h6MTlHa2M2NVhrYmw4RzFYandMTnZjZjhZenVSVXVKTmJIQQ?oc=5",
+      "prediction": "Monthly P2P stablecoin transaction volume in Bolivia will grow by over 30% over the next six months.",
+      "grounded": false
+    }
+  ],
+  "stories": [
+    {
+      "section": "tech",
+      "headline": "SAP Prepares Massive Layoffs to Fund Its Artificial Intelligence Pivot",
+      "summary": "Enterprise software heavyweight SAP is considering cutting up to 10,000 jobs as part of a sweeping operational restructuring. The company is reallocating capital away from traditional legacy software roles toward generative AI product development.",
+      "view": "SAP is forcing a massive capital reallocation, trading legacy enterprise maintenance margins for high-risk generative AI tools to defend its core ERP dominance against Salesforce and Microsoft. Severance costs will drag near-term operating cash flows, but the net winner will be SAP's gross margin profile once AI co-pilots are bundled into premium enterprise tiers.",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRG9lSTVYbmlzVXAwc2ltVUtLUm5PM3dwYnA0OTJSUzRUQ0oxMEdxTmdYbm5jNm9BdmFKZmNUeXFIM0wtRW4wMTBlQnFFRmZiZ0IxVXhjc19TMFAtYkRVbTd6czhrcjlDcWo5TkVoZHoySTN1c1NkbGt0bGdjbDNVeA?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Tech Insider Warns Safety Guardrails Are Vanishing in AI Race",
+      "summary": "A senior artificial intelligence executive published an anonymous critique alleging major tech labs have abandoned serious safety research in favor of commercial deployment speed. The disclosure claims internal risk teams are routinely sidelined to beat rivals to market.",
+      "view": "Safety risk teams are being treated as cost centers as hyperscalers prioritize raw speed to market to capture early enterprise AI lock-in. This dynamic hurts proprietary model vendors exposed to headline regulatory liabilities while benefiting open-source aggregators who offload safety compliance to downstream developers.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWlVHTXZiY2xqeHEwTFk1WU1QbFZHamVuZnFSUThEYk9qZmJiNWYybmd6YWs1WElmbWZFbTFkSVVvcl9QUHFrSW5oQ0hMc2ZJOTFieGx4RzdLdUlzM183US1GdnFxS3dCd3AxX1JocUFDM0tKSUZLZlQ3bElPTXFBS1dWTWlzLUc5d2czZER1ZE1mRzBaMVJ4WDRLbDRYY0ZtUzhzZkkzSk9KdnV1?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "Trump Tech Entanglements Spark Fresh Backlash Over Silicon Valley Influence",
+      "summary": "Controversy surrounding Donald Trump's political interventions in high-profile semiconductor drama has triggered renewed voter skepticism over tech leaders' direct access to the White House. Critics argue regulatory decisions and trade waivers are becoming transactional.",
+      "view": "Direct executive intervention in semiconductor export policy transforms regulatory approvals into a transactional lobbying game, favoring established legacy giants over smaller fabless startups. Top domestic chip manufacturers win custom tariff waivers, while downstream hardware assemblers absorb unpredictable margin shocks.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORFNZeWdTWVBjTXM0c01KWWhxVXhOb1J6V21RTWEtaGU2cTdEdlVmRHkzYjlpZC1mRDZ0QWtRTkNxWGhQeTZxWUxEUkV1TjZFaXZ3a2Z1azhMVUxFUVFpOVhwTVJMeGNGUktrWU9tVTNZMEFoeHpFbWMtblI3Sm9VaUU4TXhQcEpvcFhGQzh6a3pyYXlvUnBRQVFxaXJWME5CXzZiTU9NY9IBrAFBVV95cUxOeFFyUi1KUGpaRUN0MWRHbkkxUTNCSGoxQ0RPQnF6Ymx1WERKNEs3czRqbS1OVnJSY3FZTDFGX094QUtrX0ZXc1lwZU54QnBNN25ObnJwdmhteEY0ZFZEZ3g4Q3NTMmVGQzVKN1lVRXRLNDMxQnlRM3JyRC1vRjNxZGRWdnl2YVJOaWxiZ3dXMlQzSVFMaTVqMXMxLU1KQUJvT2MyRDF6M0FGT0t5?oc=5"
+    },
+    {
+      "section": "tech",
+      "headline": "China Speeds Up Domestic Tech Ecosystem to Sidestep American Restrictions",
+      "summary": "Chinese technology giants and state labs are accelerating independent computing architectures to counter tightening U.S. export bans on advanced hardware. The push focuses on developing homegrown software stacks that can stitch together less advanced domestic chips.",
+      "view": "As highlighted by policy frameworks from the Carnegie Endowment on tech decoupling, Beijing is institutionalizing a parallel computing architecture to neutralize U.S. export controls. By optimizing software stacks like Huawei's MindSpore across clusters of lower-yielding domestic chips, Chinese tech conglomerates will permanently compress Western hardware vendors' addressable market share in mainland Asia.",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRGlTb0hsMmhiNElfb29tYWNQbS14S1R3TEVEMU02MkRsc3VIT00ydVF5ZlN2N3Z2VEZ6MmRwcm90ZVpMRDV1UDBWb0QwVFhHeFJGaV9WMDRWWWZCWWU5LThDLWhmdDZ6NzZ1dDlwWTktZXk2eElJczBlOUpBMVRCQ1BwbEVPTFN4N0N2VDZIOUdNYm9TMFdSY1JZM1U?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Stocks Rebound to End Choppy Holiday Week as Tech Recovers",
+      "summary": "Major U.S. equity benchmarks closed the shortened Thanksgiving trading week with solid gains as beat-up technology shares caught a relief bid. Investors stepped in to buy dips across mega-cap semiconductors after several sessions of heavy selling.",
+      "view": "The post-Thanksgiving relief rally in mega-cap tech is a mechanical short-covering move rather than institutional accumulation. Retail dip-buyers are stepping in, but until Nvidia and semiconductor peers break above key moving averages on institutional volume, equities remain vulnerable to macro liquidity drains.",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUjdiRzk3dDlWMEFzNF9vYkRKWDZCZjhSU0FsRFZKZVNBT09SbnBBVFhxUGZCM180elZHMVFhbW80eVdqZi1WRG5XbzJXZTUySzVGOXNlVUJfZ2c3NmEydmFhZUJXZUM1NFMzWjIxbDF4OHhPLXVKMkRza0VMLVpoUWF1WDNkdFdwTmw4eU15M01laEJrQy1ra1FtU2piZ096dmpmSGlhdGs3WTRveTZ5aklMUkh1eW5PeHBZUlF0ODU1WE1xN3JnSVJB?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "White House Jawboning on Nvidia Introduces Fresh Market Volatility",
+      "summary": "Public political commentary regarding Nvidia's market dominance and strategic supply chains has added an unfamiliar political risk premium to leading chipmakers. Analysts warn that erratic government rhetoric makes pricing semiconductor earnings far more unpredictable.",
+      "view": "Presidential rhetoric around Nvidia's supply chain introduces a non-quantifiable political discount that depresses the company's forward price-to-earnings multiple. Institutional money managers will rotate capital out of concentrated AI hardware names into secondary software beneficiaries where political intervention risk is non-existent.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUjltZWJOXzNQRVU0WXZNN3VaLUN5OW9YVk9odVhDSlU2eVM5Q0QzUzltSG1rMVpyTDJrdlZCQVgxaW9tSlU2YVZhdUhKbExLeVg3NFRpZ1ItNTZ3ODQySkktdlY0WmFEd29BbHJJR0MwWllqMlVhUDhFdTJIU1ZsRmZ0MTE?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Chinese Chip Stocks Surge After Beijing Pledges Direct Market Intervention",
+      "summary": "Shares in mainland Chinese semiconductor manufacturers recorded their biggest single-day surge on record after Beijing's cabinet signaled aggressive support for capital markets. Authorities called on state-backed funds to step in and absorb selling pressure.",
+      "view": "Beijing's direct equity market intervention provides a short-term floor for mainland chipmakers, but state-backed buying fails to resolve underlying supply chain bottlenecks. State capital rescues equity valuations today while diluting long-term ROIC through politically directed capital allocation.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaUs2ZGhWWGZ4dmxhN1NMMUlJMTJsVXJXQ1RlT1g0NXdQanJVczJ5djBtaGtBajh4ekxnN0JKQjBjTzBHWDNmZXR3cVVnaGpnZW5Fb0R0dGJMa05oYm5oU3hFYkFTNWlMTFlNOHJVdU1CdUJnTVgtTWlaYmtuTUc5TjVtY9IBiAFBVV95cUxPQW92NkJ5MlkwUXJzdzBoYVY5Mzh3TFQ2VjFHN2txazJUc1gxVjVrSzlNWUQ5VVVtdVNwQzhsWjE5WFVVdHBITXpNbFdBY0ctSElyekNOLWNraW5odmxtZ3hCODJuZ1VVSUYwSHNwMmJya3FvU3NoakthQ0IzdTZoNGkyTWV3QktO?oc=5"
+    },
+    {
+      "section": "markets",
+      "headline": "Equities Face Crucial Test as Labor Data and Rates Loom",
+      "summary": "Wall Street enters the final stretch of the year facing pivotal labor market updates that will determine the Federal Reserve's next policy moves. Traders are recalibrating expectations around whether the central bank will pause interest rate cuts.",
+      "view": "Bond markets are mispricing sticky services inflation, creating severe downside risk for equities if upcoming non-farm payrolls outpace consensus. A Fed interest rate pause in early 2025 will crush highly leveraged small-caps while driving capital back into balance-sheet-heavy mega-cap tech.",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQWRTQ0tlUW54X0tjS2R6bWdzblVkUnZ5VnBCa2NjWkd5Q2xIWUh0MUFWVW4weVlRTTBpbDhFWTFsbmYwc2NqOERDdGxTZmpHTzdHRVk2b2o5U0RZYm1WMXZhaEJMRXFrQmxKaUViQXNNdE1XZ3RTT05VbmxqX3BYOXNONGFkMVFTU1VLVVRjTzdfUTloYnhJaVpsWS1YMV9FVGlmeUdYRmk0clkzM3FhQjZuUnRfYXdZRnVHdTE2Smo1V2M?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Supreme Court Faces Showdown Over Executive Power on Border Asylum",
+      "summary": "Immigration advocacy groups are preparing emergency appeals to the Supreme Court after sweeping executive actions effectively halted asylum processing at the southern border. The legal challenges argue the administration overstepped statutory authorities set by Congress.",
+      "view": "An executive clampdown on border asylum shifting to the Supreme Court sets up a landmark test of presidential emergency powers over statutory immigration law. A ruling favoring executive discretion will lower border-state municipal spending costs while triggering labor tightness in agriculture and hospitality services.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeTBwVFYtVzRWWUgxSmFYZzBNMFBORndRMmJpTzVOT2ZRbFJua0RkeWJRQl9rajJFc0NJeUhwdUs0elVrOG90b1diVnJhM3lydzlXbndPdkZkSFVxTndLZkxVajZubGN3Ny1Xai1NVm5Uc2ZFdEsxZmVOTkozX29yNUVhTHQ4eVg4SGtaTFNwNWQwcms?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Trump Threatens Fresh Tariffs on Beijing Despite Recent Diplomatic Overtures",
+      "summary": "The administration announced plans for additional punitive import levies on Chinese goods just days after high-level bilateral diplomatic talks. The unexpected shift signals an aggressive bargaining posture aimed at extracting industrial concessions.",
+      "view": "Threatening fresh import levies immediately after diplomatic talks is classic transactional leverage designed to squeeze industrial subsidies out of Beijing. U.S. consumer-facing retailers will suffer margin contraction as inventory front-running bids up ocean freight rates ahead of effective tariff dates.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMXRrMjFFcHlmR0hqa0dhQ3UzLTlXZi1BdEphd1VMYVQ2Um1rMlp1bzVtNmFGcWNqdEZlZ3o0bTRLMEJoa3E5MTZRRkdITmhxQlpOM19QbnNhZ2RUZ1F1ZGdNSWdBVDk3SDRJQTc0ZHV4Z2ljU1ZRTUFUdm4zRmZiYmZoamtuYWt0cFRCWElNLVY2T2V1clVlVWdMLXltWThmZGtQZWJ2OElxd3BvTS1sSzl2Xy1ma2Zm0gG-AUFVX3lxTE05bWo1cEplMVQtNjlEaERCcXJpRU1YN3NocHEzWF9nVXUyMG1CNXhZbVR6Y215N1BQaXZ1dzZVWkRsc0lEV3p3ajZTUVRCVDdtNGR0TFVlU3NCOGFQdmhrX1FwOFdNY3RHaHAtb3hoTlcyLUt1eHRyenNZcVJDY053MDV1REFOZ1k5dDM3X0FtNWpkZ0daR2Q3QWZ2V054b2xQVnBfYVFNSDJ5ZUlHREdMLXZsazBTZXJCZ0FNV2c?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Saudi Intervention Halts Quiet American Campaign to Weaken OPEC",
+      "summary": "Saudi Crown Prince Mohammed bin Salman directly intervened to derail a discreet Washington diplomatic effort aimed at undermining OPEC's production coordination. Riyadh pushed back firmly, asserting its sovereign right to manage global petroleum supply.",
+      "view": "Crown Prince Mohammed bin Salman's shutdown of Washington's quiet anti-OPEC diplomacy reasserts Riyadh's control over global crude pricing power. The loss of U.S. diplomatic leverage forces Western energy policy back onto domestic production, directly benefiting domestic shale drillers via higher realized prices.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcWFLWDFQMXNWNm02Q1FkX0VXSlc2bW1aSXpUYldfeXVnQ1FtX2RVSFY4YTNmMEtubzhWX0ZwUWJtOVBuX3RBNmxMWENBSFg4UmxQVkcxZHpxZ2E0RWdUcUpoVVhZeUdoX0RJVnNWenJQMEY2SDFfdDd2OTI4WHZaLU4tTG45Nm9SNEFjLUNpVkZuTHVGSVhvajRERU9yLWJMQzNpb1FYeXVCUWFyaUpJ?oc=5"
+    },
+    {
+      "section": "us_news",
+      "headline": "Frugal Consumers Squeeze Retail Margins During Critical Black Friday Rush",
+      "summary": "Holiday shoppers turned out in large numbers for Black Friday sales, but retail data shows purchases were heavily concentrated in deeply discounted essentials and clearance inventory. High cumulative inflation continues to strain household discretionary budgets.",
+      "view": "Heavy holiday volume concentrated in discounted inventory demonstrates that top-line consumer resilience is a mirage masking severe margin compression across mid-tier retailers. Off-price channels and discount leaders win market share, while traditional department stores will take massive post-holiday inventory write-downs.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdV85UEt2bGozNGRyWUNlWmJwd25xQnlyVkI3V2pjVUxGTlhaZmNUeldzVUtpZTgxakUxZl9mQmlPeEpQemhfSjNDMDlMZnIwczNiM1VlZEZRUXJmVlEzNnJXcXdMQ0N2WlJ1V013X09BcklCb1FwNmVFRnA5UURTTUVR0gGHAUFVX3lxTE8xR1JkNjdzeHdhN1hWbnYtUXNSdVBsY3A0a3U2NUh1djBhM1VCdkZKaUdBMk1lU2NzS3dibXRKN2RzbXYtek5PcEpoQ2kzcU9Qazc5M0oxSUhxdVR1YVh2YVZIUksxN0lnRElaM3ktakZnc1BfZkZtS0VDSWt2MC1nd1VqZVYwMA?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Civil Servant Relocation U-Turn Deals Blow to New Capital Project",
+      "summary": "Indonesian authorities have walked back mandatory relocation plans for thousands of government workers to Nusantara, the planned new administrative capital in East Kalimantan. The decision follows infrastructure delays and resistance from civil service personnel.",
+      "view": "Reversing mandatory civil servant moves to Nusantara exposes fundamental funding shortfalls, dealing a fatal blow to international investor confidence in the mega-project. Sovereign real estate developers and construction SOEs will bear the cost of stranded assets and stalled infrastructure contracts.",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTDJpMkR1NWVfM3pzYXRZSWtWS0ZGY2dHVUt4LUVUSkp4ZHZtNUpKTmVhc1h1QXNSTVhNSWdsVTJjek1GOXJfQjNvSVZwZ1NCWVkzVVFwZ3BFbHBRcGxiNHJJT21hZXNwZ3ZlbjNhWXIzbVNMbE9pdkZoREk1d1ZNMnJTem1WUjJqX0hab3FnTjExUE5MUmk3dmkxTU1FTnNUVEtpcE9XczZLLVRQYUh1RXUxdnJ6ZEtKNHplWmpkTnRqQkJ6c2fSAcYBQVVfeXFMUGtyYkVQd1p4RmpKTFlBQXpHSHNyUndaY1ZtRHlhN0lLSmtMMkJBNDNQajQ4NFhNMXVnYnZoXzE4V3ZuLU1mdkN6MTdSSnltNG1DOUw2TkdrdXRKakFUXzVxTWl0NlpQS1p1TENUUnpyUlY1a2t5VTdYT2dRV1lXZ2FsUG5fNGw3SXJ0d3FqQ185MW9SVi1KYzVyQ3NDc1l3X01HYjhhVUdTWkdYcWRGYTVfVnhhdXhJb1BSSGJRdUxWbUw3eGd3?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Bank Indonesia Pledges Hawkish Posture Through 2027 to Defend Rupiah",
+      "summary": "Indonesia's central bank stated that its monetary policy framework will remain strictly focused on currency stability and containing imported inflation through 2027. Officials signaled they will not rush into aggressive interest rate cuts.",
+      "view": "Bank Indonesia's commitment to prioritize rupiah defense over growth keeps domestic borrowing costs restrictive, protecting foreign reserves at the expense of private consumption. Commercial banks will enjoy elevated net interest margins, while real estate and consumer finance sectors face severe headwinds.",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOam9KN0VGNkJzMUprYm9UYTZJaVh2UlNzM3l3eXFZNFktLUVIM1N1LWlOamNHb1hzX2E3Mmc3VEZCX285VVhYTjdpb2didHlnLVJBU2lBWnRiZjNxMDdUNWkxb1ZXZDR3T1VQY25KUk1PX09Ed2JMY2d2eVJGVWZnTnI2Z3BCdjR2TVowMldWZUFmMVNKLTAtc3dyeXZ1dG90M0lTeXhoTHNVSHVGZUh5QURGTnFSRDVCSFc2YW5Yc3U4X0VVS0V5S3UtQzliZw?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Jakarta Weighs Subsidized Fuel Price Hikes to Contain Budget Deficit",
+      "summary": "The Indonesian government is considering raising state-subsidized fuel prices for the first time in five years to curb a ballooning energy subsidy bill. Fiscal planners warn that current global oil prices and currency depreciation make the existing subsidy unsustainable.",
+      "view": "Rising fiscal strain, reflected in a sharp 36.9% spike in Indonesia's credit default swap (CDS) premium and geopolitical price pressures from Middle East conflict risks highlighted by market analysts, leaves Jakarta with no choice but to raise subsidized fuel prices. While reducing long-term fiscal risk concerns, the resulting inflation bump will hit consumer purchasing power and weigh heavily on discretionary retail sentiment.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWm11cG5xbXhJUVRzUjJTOVNsbFlza3FWQ2xzU3NlRVNqaFkyVnNpN0RSOFU0T0lvZ0JVRlRZamtrN1ppMUhWdUhuUEVjWFBxdDhuVXh5VE5ZWnlpbmNHaHBlLUpRRWRlUEFsVG1yQjBBSGRHQUxRdV9RV2cyb3o2TnFoLUNNRnBhTzVSTQ?oc=5"
+    },
+    {
+      "section": "indonesia",
+      "headline": "Sweeping Asset Forfeiture Law Sparks Investor Nervousness Over Property Rights",
+      "summary": "A new Indonesian asset recovery law granting prosecutors the power to confiscate assets linked to suspected illicit activity without a criminal conviction has ignited intense legal debate. Legal scholars and business groups are questioning its potential for overreach.",
+      "view": "Authorizing pre-conviction asset forfeiture severely weakens property rights protections and increases country risk premiums for foreign direct investment. Global private equity and real estate investors will demand higher hurdle rates or defer capital allocation to Indonesia in favor of more legally predictable ASEAN peers.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM2NkNm1tRjQzOUpSdkktRFJLN1Vxd0hWajlOSkRPUjI5S3dUM0VuZlJEUTFpRkRHMEsyZHV5YnZBNVY4V193eW1BV0sweTBBWVBhVmhab1JtSzMwWmZZNmF5UzNpc252czhoTDJjT01jSHdfcXVjRjRmaGllcHdEUm9FZXBycTlrTTh2cTBDdnQxcms4Y0VxNGpWTGZkVFdHUThmWHdkRTZOMmNf?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bitcoin Miner Profits Collapse as Network Hashrate Collides with Soft Prices",
+      "summary": "Industrial Bitcoin mining companies are facing brutal margin compression as electricity costs and record network difficulty outstrip spot cryptocurrency prices. Several publicly traded operators are pausing expansion plans and selling off coin reserves to service debt.",
+      "view": "Margins collapsing under record hash rate will trigger an aggressive shakeout of undercapitalized, debt-laden Bitcoin miners. Highly efficient mega-scale operators with low-cost power contracts will acquire distressed hash rate assets at steep discounts, consolidating network control among top-tier listed miners.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNmk3azVqYnFjM2hqMV95SkptWkNCWGpIaTQ1dmpvM3lXNFlxV3BYZ2VNdHEtanVEVmhvemZjbXJadllhd0txR0RPdk9pQmdNbzBJcWhXekJ0dDRHTXZ4c1c5LUE1U00welAxNU5GbDJSQ1RLYUFoaTVEYllUSU5vc29kTzZ1dldlWHhIVzVzamEwRk5lMXpYbjNpdHBEWWpDdVF4NDZpRmk2RC1LOUZVNA?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Resilient Dollar and Sticky Yields Choke Speculative Crypto Appetite",
+      "summary": "Bitcoin remains pinned below key technical resistance as strong macroeconomic data keeps the U.S. dollar buoyant and benchmark yields high. The macro backdrop has reduced institutional inflows into digital asset products.",
+      "view": "High risk-free Treasury yields present an unbeatable opportunity cost for institutional capital, effectively capping speculative Bitcoin rallies. Until U.S. short-term rates drop, spot Bitcoin ETF flows will stay flat as allocators keep cash in risk-free yield instruments.",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONG1nSkQwdFJjQ1JrbDFLazVJNTg4YXJ2SklHdUMwbVNqbkNjVWpqZk1VWVBkeGtkbTkwU2dyemdEUjhWTjVDN18yOGN2RlZGUFpaUEtyc29tdThNQmN3QkhOc1kydGhFWFVfOThiRUxGZ2FpVklGUC1HOG1NZEVqX2I5Znp0aDAxbUsxQVZBS2pzX3ozMGphMTh0blZYYVNPazZ2TTV2ZUJXVUNTeUdULVQ0MmstcEgyYkd4Q2JMaE95elYzdTFVZTBNUGtGVjNGOXZ1RQ?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Hawkish Bank of Japan Looms as Sleeper Threat to Crypto Liquidity",
+      "summary": "Traders are watching Japan's central bank as expectations for further interest rate hikes raise the specter of a fresh yen carry trade unwind. Past liquidity contractions triggered by Tokyo have prompted sharp sell-offs in volatile risk assets like Bitcoin.",
+      "view": "A hawkish Bank of Japan threatens to unwind global yen carry trades, draining global cross-border liquidity and hitting high-beta risk assets like crypto first. Liquidations of yen-funded leverage will trigger sharp, cascade sell-offs in Bitcoin and altcoins regardless of crypto-native developments.",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVE5JdDhJcndNSHJZUGUtd25Kd1pkTkNJUFRxak5FOXNLZWYtZHdXTlpCb0plaEZYa1BrcWVIR3dJTVJTNlZsRmgwN0lWQ2FpTDhTSjh6T3lEVTBic3JOWW1DbHdKc2FqcFNraUVlWC1pQWttQ3MxUUJ0bW5LdEs0TjdEbm9nSW1vUkdFWmdZRGNLdWRTYXowV3czUGIxdU9iQy16SjR4YzU?oc=5"
+    },
+    {
+      "section": "crypto_fx",
+      "headline": "Bolivian Merchants Adopt Crypto to Dodge Severe U.S. Dollar Shortages",
+      "summary": "Small business owners and importers across Bolivia are increasingly turning to stablecoins and Bitcoin to settle transactions as local banks run out of foreign exchange. The grassroots shift comes despite past regulatory prohibitions by the central bank.",
+      "view": "Grassroots dollarization via stablecoins in Bolivia demonstrates how crypto functions as a structural backstop for emerging market trade when fiat reserve controls fail. Local banks lose payment processing fees to decentralized networks, while stablecoin issuers capture growing global transactional velocity.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcHNKT1ZtUHVhSDhkc2NuZDYwU2RjQXRfZ3FWeDFTRHRGdmI5OWdOZl9LTy01b0YtOGhDWU03WTFvb2lsQ2t0azhneGRqOURJU291ZUJ5UHZCNVJ2Vzdfc1hweUh4RE5HeU5lUm1ybER5elA3MWhUd2ZYVE9Ba3p5WEhIQ09DQ3NmMkFGS21BbTNsanBldDFJU1lrTTdTc0h6MTlHa2M2NVhrYmw4RzFYandMTnZjZjhZenVSVXVKTmJIQQ?oc=5"
+    }
+  ]
+}

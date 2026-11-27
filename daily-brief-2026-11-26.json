@@ -6,42 +6,54 @@
       "headline": "Trump's involvement in Nvidia drama sparks debate over tech political power",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORFNZeWdTWVBjTXM0c01KWWhxVXhOb1J6V21RTWEtaGU2cTdEdlVmRHkzYjlpZC1mRDZ0QWtRTkNxWGhQeTZxWUxEUkV1TjZFaXZ3a2Z1azhMVUxFUVFpOVhwTVJMeGNGUktrWU9tVTNZMEFoeHpFbWMtblI3Sm9VaUU4TXhQcEpvcFhGQzh6a3pyYXlvUnBRQVFxaXJWME5CXzZiTU9NY9IBrAFBVV95cUxOeFFyUi1KUGpaRUN0MWRHbkkxUTNCSGoxQ0RPQnF6Ymx1WERKNEs3czRqbS1OVnJSY3FZTDFGX094QUtrX0ZXc1lwZU54QnBNN25ObnJwdmhteEY0ZFZEZ3g4Q3NTMmVGQzVKN1lVRXRLNDMxQnlRM3JyRC1vRjNxZGRWdnl2YVJOaWxiZ3dXMlQzSVFMaTVqMXMxLU1KQUJvT2MyRDF6M0FGT0t5?oc=5",
       "prediction": "Expect Nvidia's board to issue a formal governance independence statement prior to their next quarterly earnings call.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "While Nvidia announced governance fixes and a CEO transition, there is no specific confirmation yet of a formal board governance independence statement."
     },
     {
       "section": "tech",
       "headline": "Europe rolls out fresh funding to build homegrown quantum technology",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR21veVI1LTdFamNwUGVTdmFZT3UtTndtdHVfN04wd1djaFp3cU1JbW13SVVTWXpVT3FjR1EyZU9tTEdOLUVmSjBtb3lqX0p5NU9vWm5IaVFOalhTNmI5LVdJQ0FfUU5QMjdyTFJfRXNYMzdVVHZjTHJlZTZpMk5IdDYyX01XN0p6NTRHdVo1cmxDN2xyN3p5bDVFRGNrOTBkZ3BVVWhCMTBQaEZ2WTJRVnRwNDdjQmh0?oc=5",
       "prediction": "Expect fewer than two European quantum startups to raise Series B rounds above $50M without direct EU fund participation over the next 12 months.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "The fresh venture capital headlines do not cover European quantum Series B funding rounds across the 12-month horizon."
     },
     {
       "section": "tech",
       "headline": "Companies trim digital ad budgets as return on AI spending disappoints",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcXRXb216YjFGUGswbF9neGY1ZDdERnMwQ0lIbktBUEgyeDFxZl9OUGI2OFhaeTlnUHVxaUVBcGVhZVczTmZ1QXcweDVUUzhDbWpoQ2oyUnJOM0RZQTlwNExLdldkM0tXbEN3TUxDVnlSM0F3NUVnMnVlOHZpcTdic0V1VDNzUQ?oc=5",
       "prediction": "Expect digital ad yield per impression across secondary social platforms to decline by at least 4-6% in Q1 earnings reports.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "The global digital overview headline does not provide Q1 earnings data on ad yield per impression across secondary social platforms."
     },
     {
       "section": "tech",
       "headline": "US court convicts Huawei in criminal trial over illegal Iran business",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmhBaGpBTEdjQXR4UmRuMy1KVWY0anJiNkxHQ2NVTjBFbWc4RE5MRk5KU1lzZ1BKMVNKVUNRV3hlRmxtYWc0cmlpSlAxWkJDXzBhdjFqY0RfbE54clBNU1hDODJjbEk2ZENVMWtuM3F6VVZjWGpDZXNhZGowZW1UNUlLWGJSU0tYbXhlYU8xRkYweTJrd1JsM0pDdzd3UkM1ZkpTSXdHYTkxQjNzNlhfU2pTcXExSlFJ?oc=5",
       "prediction": "Expect the US Commerce Department to announce additional secondary sanctions targeting Huawei's third-party chip design proxies within 90 days.",
-      "grounded": true
+      "grounded": true,
+      "status": "too_early",
+      "note": "No new headlines were found to verify whether the Commerce Department announced secondary sanctions targeting Huawei's proxies."
     },
     {
       "section": "markets",
       "headline": "Stocks stage massive rebound after wiping out a 1,100 point drop",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Jd2QwOVppNGtIY3I5ZXgyVmZKQzJ3SzZvVnVydTJHQnliRXBCR2RiQTBMeXExQU16TnpPQzkwWVl2Q0FKV055NzJBNE4tMGQ0UmlFMFdnQ3o1OG9tR2JNd1Z6Ymk5cGtDVFBxZjJPT19jblIxZ2lwRdIBfkFVX3lxTE5qZGNISDFwMjNGQUoxc3ZlT1JFR1A5Zk1oTmJSX1kxWVFOWUZscTZGTWh2cHdfMW92SzVCbXdBR2o3YWJUVzN2TXhfOUdhSUZpdFNyNXBaUjdseWpuQklwaVgzaUlGdkJqNm54TWEyVTluWVFYVTZVMVptNV9xQQ?oc=5",
       "prediction": "Watch for the S&P 500 to retest its intraday low within the next 10 trading sessions as systematic buying flows normalize.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "No new headlines were found to confirm whether the S&P 500 retested its intraday low within the 10-session window."
     },
     {
       "section": "markets",
       "headline": "Old school pension plans make a surprise comeback for factory workers",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQy1uVkhEa0s3U2pJdkp0T0t5M1g2Z2llLXBtTXBSQjdyeE9va1Nid3JJWW45VkhpTzNVeVNKZ1V0ZUpPZUpTRTlwNGg2WnBERVZJRExBT296SEEzSXRzQVV2RTBrQnVXUzF2YWVYS3FWaV82SDFsS1lwemctVXhFVkkxOWx5aTFzZWlVVGxXOUN4elVDQjRmM0JJUUFEdHU1MkFXNjVuQ2JyQXNNWFlEdEFYSUlLUkI4cU03eWVFWEMyQQ?oc=5",
       "prediction": "At least two S&P 500 industrial firms will cite increased pension obligation expenses in their upcoming annual 10-K filings.",
-      "grounded": false
+      "grounded": false,
+      "status": "too_early",
+      "note": "None of the fresh financial headlines reference upcoming annual 10-K filings or pension obligation expenses for industrial firms."
     },
     {
       "section": "markets",
